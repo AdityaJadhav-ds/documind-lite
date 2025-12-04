@@ -1,0 +1,111 @@
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+Wilmer Jacobi
+470 Ethyl Village, Dallas, TX @ Phone: +1 (555) 579 6681
+
+SENIOR ARCHITECT, BUSINESS INTELLIGENCE
+
+San Francisco, CA
+02/2014 — present
+
+eee
+
+Expertise in all areas of data warehousing (architecture, data sourcing/acquisition, integration,
+transformation, presentation)
+
+Participate in developing and documenting technical standards and best practices for the BI organization
+Help solve complex production issues spanning multiple tiers in the BI/DW technology stack
+
+Participate in capacity planning for all layers in the BI technology stack
+
+Assist Project Managers and BI delivery team leaders in estimating effort and resources for new projects
+and enhancement requests
+
+Participate in Architecture Review Board meetings. Review solutions presented by other BI architects and
+provide constructive feedback
+
+Present proposed solution blueprints to the Architecture Review Board. Communicates solution
+blueprints to other project team members, business users and program sponsors
+
+SENIOR ARCHITECT, DATA
+
+Dallas, TX
+05/2011 — 12/2013
+
+.
+
+Work with development, infrastructure, test, and production support teams. Collaborate with Enterprise
+Architecture to define service delivery landscape
+
+Develop proofs-of-concept and prototypes to help illustrate approaches to technology and business
+problems
+
+¢ Architect, design, and build enterprise class relational and dimensional data models
+¢ Architect, design and build the data architecture layer (LDM/PDM/S2TM/Guidelines/Industry models) to
+
+°
+
+.
+
+drive solutions that will be implemented by the development team
+
+Stay abreast of information management trends and standards, master data management, data services,
+self-service business intelligence, metadata management, data quality, and data governance
+
+Will work with management, data scientists and software developers on projects related to technology and
+architecture of digital media systems including identifying and implementing products and services for
+Web based and Mobile delivery
+
+Interpret and deliver impactful plans that specify strategy and improve data integration, data quality and
+data delivery in support of business initiatives and roadmaps to achieve results
+
+SENIOR ARCHITECT
+
+Dallas, TX
+05/2007 — 01/2011
+
+-
+
+Provide technical leadership, guidance, and assistance to development teams in implementation of
+established architectures and designs
+
+Create, design and develop solutions, and coordinate efforts with engineering and product management
+teams, working within the area that you support
+
+Provide resource & effort estimations and work closely with developers, Business Analysts and Project
+Managers to deliver optimal solutions
+
+Performs management plane security testing for IP network router platforms prior to network
+deployment
+
+Provides guidance on enterprise data management strategies, Work with IT managers to design and
+implement these strategies
+
+¢ Assisting the Project Manager in providing performance evaluation commentary
+¢ Extensive knowledge of kernel and network resource management, data center networking, and cloud
+
+networking
+
+BOSTON UNIVERSITY
+Bachelor’s Degree in Computer Science
+
+Positive attitude, excellent customer communications skills and the ability to act on own initiative with a
+strong commitment to customer service
+
+Ability to present highly complex topics in an understandable manner
+
+Detailed knowledge of Atkins’ standards, policies, codes and procedures and ability to transmit the same
+to others
+
+Deep understanding of performance, reliability, scalability, security, and reusability tactics and strategies
+Become knowledgeable and proficient with Prosuite products such as ProEHR, Practice Management and
+Allscripts Interface Engine
+
+Extensive knowledge in architectural design, strong knowledge of architectural governance
+
+TS ee oe OR Ne nd jee al ee es ee ee
+

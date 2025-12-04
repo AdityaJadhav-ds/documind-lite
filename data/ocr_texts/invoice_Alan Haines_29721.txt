@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 29721
+Date: Nov 24 2012
+Bill To: Ship To: ;
+| | Ship Mode: Standard Class
+Alan Haines Antipolo, Calabarzon,
+Philippines Balance Due: $9,162.23
+Item Quantity Rate Amount
+Hamilton Beach Refrigerator, Black 5 $2,123.13 $10,615.65
+Appliances, Office Supplies, OFF-AP-4501
+Subtotal: $10,615.65
+Discount (15%): $1,592.35
+Shipping: $138.93
+Total: $9,162.23
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ID-2012-AH10195102-41237

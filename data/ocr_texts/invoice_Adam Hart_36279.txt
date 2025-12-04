@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 36279
+Date: Nov 15 2012
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Adam Hart 92646, Huntington pion’
+Beach, California B 0D
+, , alance Due: 11.95
+United States $
+Item Quantity Rate Amount
+Permanent Self-Adhesive File Folder Labels for Typewriters by 2 $5.22 $10.44
+Universal
+Labels, Office Supplies, OFF-LA-5591
+Subtotal: $10.44
+Shipping: $1.51
+Total: $11.95
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AH10075140-41228

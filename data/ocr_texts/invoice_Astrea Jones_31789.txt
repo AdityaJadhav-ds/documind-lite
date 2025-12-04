@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 31789
+Date: Sep 13 2012
+Bill To: Ship To:
+mre P Ship Mode: Standard Class
+Astrea Jones 14609, Rochester,
+New York, United Balance Due: $34.76
+States
+Item Quantity Rate Amount
+Colored Envelopes 3 $11.07 $33.21
+Envelopes, Office Supplies, OFF-EN-3834
+Subtotal: $33.21
+Shipping: $1.55
+Total: $34.76
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AJ10960140-41165

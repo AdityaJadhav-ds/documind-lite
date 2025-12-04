@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 14266
+Date: Dec 01 2012
+Bill To: Ship To: ; .
+. Ship Mode: First Class
+Alan Hwang Paris, Ile-de-France,
+France Balance Due: $9,546.21
+Item Quantity Rate Amount
+Avery Binding Machine, Clear 14 $676.20 $9,466.80
+Binders, Office Supplies, OFF-BI-3255
+Subtotal: $9,466.80
+Shipping: $79.41
+Total: $9,546.21
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-AH1021045-41244

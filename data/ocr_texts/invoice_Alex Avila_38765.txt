@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 38765
+Date: Sep 14 2012
+Bill To: Ship To: ;
+. . Ship Mode: Standard Class
+Alex Avila 10011, New York City,
+New York, United Balance Due: $46.81
+States
+Item Quantity Rate Amount
+Staples 3 $14.94 $44.82
+Fasteners, Office Supplies, OFF-FA-6129
+Subtotal: $44.82
+Shipping: $1.99
+Total: $46.81
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AA10315140-41166

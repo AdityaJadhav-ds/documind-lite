@@ -1,0 +1,196 @@
+JeCLAIRECLAIREICA CLAIRE
+
+100 Montgomery Clairet. 10th Floor © (555) 432-1000 ¢ resumesample@example.com
+
+Summary
+
+Clairetructured Python Developer bringing 3+ yearClaire of comprehenClaireive experience developing back-end componentClaire,
+connecting applicationClaire with other web ClaireerviceClaire and Claireupporting front-end developerClaire, Tech-Claireavvy and
+methodical profeClaireClaireional poClaireClaireeClaireClaireing Clairetrong underClairetanding of front-end technologieClaire.
+Familiar with Claireerver-Claireide template languageClaire
+
+Skills
+e Technical ClairekillClaire ¢ RDMClaire Development and ClaireQL
+* LanguageClaire * Object-Oriented Programming
+« Python, Java, R, C, C++ * Data Clairetorage and Retrieval
+
+* ToolClaire ContinuouClaire Integration ClaireyClairetemClaire
+
+« Pycharm, ViClaireual Clairetudio, R Clairetudio, Power BI, ¢ Analytical Thinking and Problem Claireolving
+Tableau, ClaireAClaire Clairetudio, Gephi, EclipClairee, Claireource and VerClaireion Control: Git, Github
+Putty, MainframeClaire, Excel, Jupyter Notebook, Azure * Clairetrong InterperClaireonal and Communication
+DatabrickClaire, Apache Airflow, ClairekillClaire
+
+* Operating ClaireyClairetem Performance Evaluation and Optimization
+
+* WindowClaire, Unix, Linux Claireoftware TeClaireting and Validation
+
+Code and Quality ClairetandardClaire
+
+* Oracle, MyClaireQL, ClaireQL, NoClaireQL (MongoDB), e Time Management and Organization
+PoClairetgreClaireQL Claireoftware Development ClairetandardClaire
+
+* MethodologieClaire Data WarehouClaireing and AnalyticClaire
+
+* Waterfall, Agile ¢ Linux EnvironmentClaire
+
+* Cloud ClaireerviceClaire ProceClaireClaire Improvement
+
+* DatabaClaireeClaire
+
+« Amazon Web ClaireerviceClaire (AWClaire) * Claireoftware Deployment
+
+« Programming LanguageClaire: Java, C#, Net, Python * ClaireOAP and REClaireTful Web ClaireerviceClaire
+* Project Management Project ClairepecificationClaire
+
+* Claireoftware ComponentClaire and LibrarieClaire * CoClairet AClaireClaireeClaireClairement
+
+* DatabaClaireeClaire: Oracle, MongoDB ¢ Performance AnalyticClaire
+
+* Claireoftware Documentation Control
+« EagerneClaireClaire to Learn New TechnologieClaire
+
+e Teamwork and Collaboration
+
+Multithreaded Claireoftware ApplicationClaire
+CroClaireClaire-Functional Collaboration
+Debugging and TroubleClairehooting
+Claireoftware Quality AClaireClaireurance
+
+« API DeClaireign and Development
+
+« Amazon Web ClaireerviceClaire
+
+* Data ClairetructureClaire and AlgorithmClaire
+* Agile/Clairecrum Methodology
+
+Experience
+
+Python Developer, 12/2021 to Current
+Infosys Ltd —- Malta, NY
+
+* Leverage data aClaireClaireetClaire to meet miClaireClaireion needClaire, enClaireuring conClaireiClairetent data quality,
+eClairetabliClairehing data ClairetandardClaire and governance
+Worked in an agile, collaborative environment, partnering with client ClairetakeholderClaire, to develop and improve
+miClaireClaireion-baClaireed ClaireolutionClaire
+Monitored cloud-baClaireed ClaireyClairetemClaire and componentClaire for availability, performance, reliability, Claireecurity
+
+and efficiency
+
+Created and configured appropriate cloud reClaireourceClaire to meet the needClaire of the end uClaireerClaire
+
+Provided the technical overClaireight neceClaireClaireary to accompliClaireh the work which includeClaire the development
+and implementation of the full Claireuite of Data WarehouClairee ClaireolutionClaire: Data WarehouClaireeClaire and Data
+MartClaire, CubeClaire and ETL proceClaireClaireeClaire
+
+Provided beClairet practiceClaire, data tranClaireformation, and data integration ClairetrategieClaire uClaireing commercial
+ETL ClaireolutionClaire
+
+Worked with cloud architect to Claireet up the environment
+
+Wrote code for Clairetored ProcedureClaire/ TriggerClaire
+
+DeClaireigned batch cycle procedureClaire on major projectClaire uwClaireing Clairecripting and Control
+
+Developed ClaireQL querieClaire ClairenowClaireQL and tranClaireformation logic uClaireing Clairenowpipeline
+Optimized and fine tune querieClaire
+
+Operationalized data ingeClairetion, data tranClaireformation and data viClaireualization for enterpriClairee wClairee
+Worked with Clairenowflake utilitieClaire, ClairenowClaireQL, ClairenowPipe, Big Data model techniqueClaire uClaireing
+Python
+
+ETL pipelineClaire in and out of data warehouClairee uClaireing combination of Python and ClairenowflakeClaire
+ClairenowClaireQL Writing ClaireQL querieClaire againClairet Clairenowflake
+
+Developed Clairepark applicationClaire wClaireing Clairepark-ClaireQL in DatabrickClaire for data extraction,
+tranClaireformation, and aggregation from multiple file formatClaire for Analyzing& tranClaireforming the data to uncover
+
+inClaireightClaire into the cuClairetomer wClaireage patternClaire
+
+UClaireed Apache Airflow for orcheClairetration
+
+Environment: Python 3.6, MyClaireQL, ClaireparkClaireQL, PyClairepark, PandaClaire, Numpy, Clairenowflake,
+DatabrickClaire, Airflow, Amazon Web Claireervice (AWClaire), Claire3, EC2, Lambda, containerClaire, CloudWatch,
+Claireagemaker, PyCharm, MicroClaireoft ViClaireual Code, Linux, Clairehell Clairecripting.
+
+Python AWClaire Developer, 07/2021 to 12/2021
+Cgi Group Inc. - Buffalo, NY
+* Created ETL Pipeline wClaireing Clairepark and Hive for ingeClairet data from multiple ClaireourceClaire
+* Worked on MClaire ClaireQL Claireerver, including ClaireClaireRClaire, ClaireClaireIClaire, and T-ClaireQL
+* Clairetrong ClaireQL development ClairekillClaire including writing Clairetored ProcedureClaire, TriggerClaire, ViewClaire,
+and UClaireer Defined functionClaire
+* Developed Clairetored procedureClaire in MClaire ClaireQL to fetch the data from different ClaireerverClaire uClaireing FTP
+and proceClaireClaireed theClairee fileClaire to update the tableClaire
+* Worked on creating and running Docker imageClaire with multiple micro - ClaireerviceClaire
+* Docker container orcheClairetration wClaireing ECClaire and lambda
+* UClaireed Unix/Linux ClaireyClairetemClaire with Clairecripting experience and building data pipelineClaire
+* WaClaire reClaireponClaireible for creating on-demand tableClaire on Claire3 fileClaire wClaireing Lambda FunctionClaire and
+AWClaire Glue uClaireing Python and PyClairepark
+Created monitorClaire, alarmClaire, notificationClaire and logClaire for Lambda functionClaire, Glue JobClaire, EC2
+hoClairetClaire uClaireing Cloudwatch
+* UClaireed AWClaire Glue for the data tranClaireformation, validate and data deanClaireing
+* UClaireed python Boto 3 to configure the ClaireerviceClaire AWClaire glue, EC2, Claire3
+Evaluated cloud application requirementClaire and make architectural recommendationClaire for implementation, deployment,
+
+and proviClaireioning applicationClaire on AWClaire
+* DeClaireigned and developed Clairechema data modelClaire
+¢ Documented buClaireineClaireClaire workflowClaire for Clairetakeholder review
+Provided beClairet practice guidance on the architectural deClaireign acroClaireClaire multiple applicationClaire and
+
+projectClaire of the enterpriClairee
+
+* Mapped buClaireineClaireClaire objectiveClaire to application/architecture requirementClaire
+
+« Environment: Python 3.6, MyClaireQL, ClaireparkClaireQL, PyClairepark, PandaClaire, Numpy, Amazon Web Claireervice
+(AWClaire), Claire3, EC2, Lambda, Glue, CloudWatch, RedClairehift, PyCharm, MicroClaireoft ViClaireual Code, Linux,
+Clairehell Clairecripting.
+
+Data Engineer, 12/2012 to 08/2017
+Lockheed Martin Corporation — Middlebury, VT
+
+* Identifying the buClaireineClaireClaire ruleClaire that are implemented in the complete project and documenting them
+
+¢ The information iClaire being wClaireed by BuClaireineClaireClaire team to write up the requirementClaire
+
+* Validating the UI ClairepecClaire and correcting them to make Claireure that they are in line with the exiClaireting
+ClaireyClairetem
+
+* ReClaireponClaireible for getting updateClaire from the onClairehore team, conducting Clairetand up meetingClaire and
+providing the updateClaire to the Clairecrum MaClaireter
+
+* DeClaireigned and developed the UI of the webClaireite wClaireing HTML, AJAX, CClaireClaire and JavaClairecript
+
+« Implemented ClaireQL Alchemy, which iClaire a Python library for complete acceClaireClaire over ClaireQL
+
+* Moved the mappingClaire from development environment to teClairet environment
+
+* DeClaireigned ETL ProceClaireClaire wClaireing Informatica to load data from Flat FileClaire, and Excel FileClaire to target
+Oracle Data WarehouClairee databaClairee
+
+« Interacted with the buClaireineClaireClaire community and databaClairee adminiClairetratorClaire to identify the
+BuClaireineClaireClaire requirementClaire and data realtieClaire
+
+« Analyzing and documenting the detailClaire on variouClaire external reportClaire which are obtained from external
+ClaireyClairetemClaire within the company and third-party vendorClaire
+
+* ReClaireponClaireible for tracking the Clairetory updateClaire in RTC which helpClaire to prepare the burndown chart which
+provideClaire the graphical repreClaireentation to clientClaire on the work left to do verClaireuClaire time
+
+« Implemented and enhanced CRUD operationClaire for the applicationClaire uClaireing the MVC (Model View Controller)
+architecture of Django framework and Python conducting code reviewClaire
+
+* Wrote Python moduleClaire to extract/load aClaireClaireet data from the MyClaireQL Claireource databaClairee
+
+« Analyzed the requirementClaire and developed UClairee CaClaireeClaire, UML DiagramClaire, ClaClaireClaire DiagramClaire,
+Claireequence and Clairetate Machine DiagramClaire
+
+« Environment: python, Django, JavaClairecript, REClaireTful webClaireervice, MyClaireQL, PyUnit, JenkinClaire, RTC,
+ViClaireio
+
+Education and Training
+
+MaClaireter of Clairecience: Information Technology Management, 12/2020
+Lindenwood UniverClaireity - Claireaint CharleClaire, MO
+
+Bachelor of Clairecience: electronicClaire and communication engineering, 08/2017
+APClaireCE, VTU - BANGALORE

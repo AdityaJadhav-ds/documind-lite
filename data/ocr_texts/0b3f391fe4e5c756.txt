@@ -1,0 +1,59 @@
+Vernice Gibson
+
+DATABASE ENGINEER
+
+@ vernice.i.gibson@gmail.com 0 106-726-2438 ® linkedin.com/in/vernice-gibson
+
+SUMMARY
+
+Skilled database engineer with over 5 years of experience in designing, developing and optimizing databases for multiple
+industries. Proven track record of success leveraging Oracle, SQL Server, MySQL and MongoDB to create efficient data models
+that meet business requirements. Experienced in capacity planning, performance tuning and troubleshooting complex
+database issues. Dedicated team player with the ability to work independently or collaboratively on challenging projects.
+
+EMPLOYMENT
+
+Database Engineer at Employer A Jersey City | January 2018 to Present
+
+« Backed up, monitored and secured over 500 databases with a 99.7% uptime rate across multiple platforms including
+SQL Server, Oracle & MySQL.
+
+« Represented the Database Engineering department in regular meetings with clients to discuss database requirements;
+resolved client queries and issues within an average of 72 hours per project cycle.
+
+¢ Effectively managed system performance by troubleshooting problems related to database availability, integrity and
+security for 10+ applications while utilizing tools such as Visual Studio Enterprise Edition & Access Manager Pro Plus
+2019+,
+
+¢ Implemented changes to existing systems that increased overall efficiency by 25%, allowing for seamless data
+integration between private networks used by 40+ remote users at any given time.
+
+¢ Mentored junior staff members on various aspects of database engineering such as query optimization techniques and
+best practices when building new structures or automating processes using scripting languages like Python & Ruby on
+
+Rails.
+Database Engineer at Employer B Santa Rosa | March 2012 to December 2017
+« Upgraded server infrastructure to the latest version of Oracle Database, resulting in an increase of 30% in data storage
+capabilities.
+« Designed efficient database systems from scratch and enhanced existing architectures to meet customer needs; reduced
+query response times by 40%.
+
+« Meticulously monitored system performance, identified potential issues and implemented solutions for a portfolio of
+over 200 databases with 100+ GBs each.
+
+« Administered user accounts privileges, assigned roles & rights based on company security standards and granted access
+as needed after thorough evaluation processes; improved overall data protection protocol by 15%.
+
+¢ Tested new software releases against sample datasets before rolling out updates across entire network; minimized
+downtime instances by 25% while ensuring optimal application performance at all times.
+
+EDUCATION
+
+Bachelor of Science in Computer Science at Educational Institution XYZ November 2011
+SKILLS
+
+SQL Databases Microsoft SQL Server
+
+Oracle Database Design Data Warehousing
+
+Unix Database Administration Software Development

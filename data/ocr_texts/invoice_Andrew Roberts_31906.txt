@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 31906
+Date: May 22 2012
+Bill To: Ship To: ;
+| . Ship Mode: Standard Class
+Andrew Roberts 19134, Philadelphia,
+Pennsylvania, United Balance Due: $71.11
+States
+Item Quantity Rate Amount
+Motorola L804 2 $55.19 $110.38
+Phones, Technology, TEC-PH-5257
+Subtotal: $110.38
+Discount (40%) : $44.15
+Shipping: $4.88
+Total: $71.11
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-AR10510140-41051

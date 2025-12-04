@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 35286
+Date: Nov 24 2012
+Bill To: Ship To: ;
+. Ship Mode: Second Class
+Andy Reiter 2895, Woonsocket,
+Rhode Island, United Balance Due: $108.64
+States
+Item Quantity Rate Amount
+DAX Black Cherry Wood-Tone Poster Frame 2 $52.96 $105.92
+Furnishings, Furniture, FUR-FU-3909
+Subtotal: $105.92
+Shipping: $2.72
+Total: $108.64
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AR10540140-41237

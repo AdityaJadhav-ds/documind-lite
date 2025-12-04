@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 44270
+Date: Aug 08 2012
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Carl Weiss Beirut, Beirut, p Moce
+Lebanon Balance Due: $539.60
+Item Quantity Rate Amount
+Hon Executive Leather Armchair, Black 1 $457.14 $457.14
+Chairs, Furniture, FUR-CH-4655
+Subtotal: $457.14
+Shipping: $82.46
+Total: $539.60
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : LE-2012-CW190571-41129

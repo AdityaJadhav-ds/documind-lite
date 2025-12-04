@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 49218
+Date: Apr 07 2012
+Bill To: Ship To: ; .
+. — oo. Ship Mode: First Class
+Bobby Elias Kindia, Kindia,
+Guinea Balance Due: $621.93
+Item Quantity Rate Amount
+KitchenAid Refrigerator, White 1 $526.08 $526.08
+Appliances, Office Supplies, OFF-AP-4963
+Subtotal: $526.08
+Shipping: $95.85
+Total: $621.93
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : GV-2012-BE141052-41006

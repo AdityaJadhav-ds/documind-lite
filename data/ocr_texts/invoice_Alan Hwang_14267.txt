@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 14267
+Date: Dec 01 2012
+Bill To: Ship To: Ship Mode: First Cl
+Alan Hwang Paris, Ile-de-France, pimioces mst Ulass
+France Balance Due: $1,075.62
+Item Quantity Rate Amount
+Fellowes File Cart, Single Width 3 $370.82 $1,112.45
+Storage, Office Supplies, OFF-ST-4259
+Subtotal: $1,112.45
+Discount (10%): $111.25
+Shipping: $74.42
+Total: $1,075.62
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-AH1021045-41244

@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 10340
+Date: Sep 26 2012
+Bill To: Ship To: ;
+oo . Ship Mode: Standard Class
+Christina Anderson Littlehampton,
+England, United Balance Due: $3,536.20
+Kingdom
+Item Quantity Rate Amount
+Brother Wireless Fax, Color 3 $1,140.75 $3,422.25
+Copiers, Technology, TEC-CO-3608
+Subtotal: $3,422.25
+Shipping: $113.95
+Total: $3,536.20
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-CA12265139-41178

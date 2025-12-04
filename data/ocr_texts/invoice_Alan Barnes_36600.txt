@@ -1,0 +1,31 @@
+SuperStore INVOICE
+
+# 36600
+
+Date: Nov 15 2012
+
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Alan Barnes 62521, Decatur,
+
+Illinois, United States Balance Due: $56.61
+
+Item Quantity Rate Amount
+SAFCO Optional Arm Kit for Workspace Cribbage Stacking Chair 2 $37.30 $74.59
+
+Chairs, Furniture, FUR-CH-5790
+
+Subtotal: $74.59
+
+Discount (30%) : $22.38
+
+Shipping: $4.40
+
+Total: $56.61
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-AB10165140-41228

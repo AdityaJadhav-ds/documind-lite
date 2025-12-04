@@ -1,0 +1,134 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+CERTIFICATION
+
+Jessica Claire
+
+9 Montgomery Street, San Francisco, CA94105 *2 (555) 432-1000 <4 resumesample@example.com
+
+) Around 4 years total IT experience as a Python Developer and Machine learning Engineer. Extensive experience in
+Python Django web frame works, large file processing using shell scripts and python, building machine learning and
+deep learning models for natural language processing (NLP), Computer Vision and predictive models.
+
+) « Python « SQL
+e  Tensorflow e Keras (Tensorflow backend)
+e AWS e Natural Language Processing
+« Flask e SkLearn
+e Pandas e Apache Spark (Py Spark)
+e Bokeh and Matplotlib e Azure Machine Learning Studio
+e Artificial Neural Networks and Convolutional Neural e Computer Vison
+Networks e Scipy
+e OpenCVv e Git
+« H20
+) PYTHON DEVELOPER 12/2019 to CURRENT
+
+Cognizant Technology Solutions | Mount Laurel, NJ
+
+e Maintaining daily bill cycle run for Voice, Data and SMS modules for Verizon customers.
+
+e Implement several code changes to the Python modules running Voice, Data and SMS which includes but not
+limited to addition of new functionalities, bug fixes and performance improvements.
+
+e Responsible for deploying enhanced code bases into production servers in the Data centers respective to the
+modules.
+
+e Team lead for project which implements billing of Phase 3 customers for Voice module, which is an additional
+new functionality.
+
+e Responsible for delivering billing module of Voice Phase 3 and monitoring the testing team in testing the entire
+module.
+
+e Responsible for implementing low latency SQL which does not overload the production databases as the load
+will be huge.
+
+e Responsible for answering business in situations like over charge, promo not applied errors, on the
+development team.
+
+e Part of team converting entire existing Java code base for data module for Verizon business customers
+making the entire billing module.
+
+Environment : Python 3.6, SQL, Jenkins (Cl/CD). AWS, Linux, SQLdeveloper, Java.
+
+MACHIICe LEARNING ENGINEER 05/2017 to 11/2019
+Salesforce.Com, Inc. | Raleigh, NC
+
+e Developed machine learning model which predicts the risk of a person being affected by sepsis during visit to
+the hospital.
+
+e Developed a deep neural network to predict the readmission probability of a person with in 7 days and 30 days
+of their visit to the hospital.
+
+e Built a recommendation system which recommends a level of dosage of a medicine for a person affected
+with pneumonia, diabetes, and blood pressure using recurrent neural networks (LSTM networks).
+
+e Developed a image recognition model using openCV and CNN, which recognizes the readings in a digital
+machine reading picture by isolating the digital reading from the picture.
+
+e Experience in working with different supervised and unsupervised, machine learning algorithms.
+
+e Experience in implementing different deep learning algorithms using network architectures like feed forward
+neural network, convolutional neural network, recurrent neural network.
+
+e Experience in using openCV to achieve wide variety of computer vision tasks mostly related to but not limited
+to health care.
+
+e Experience in using different machine learning libraries like Pandas, Numpy, Scikit-learn, Scipy, Tensorflow,
+Keras, XGBoost, NLTK, Computer vision libraries like OpenCV and imageio.
+
+e Experience in using different data visualization libraries like Matplotlib, Seaborn and Bokeh.
+
+e Built a resume suggestion tool which sorts and filters out the best possible candidate for a position based on
+the job description and the applicants resume using Natural Language Processing (NLP) techniques like
+Sequence labeling, Name entity recognition, part-of-speech tagging and word embeddings for internal use of
+our recruitment team.
+
+e Built plugins using flask which connects the database of resumes and data of job descriptions to use with the
+applications.
+
+e Built a basic UI for resume suggestion tool using Flask and integrated all the plugins for easy on non
+commercial use, which in turn increase the productivity of the recruitment team.
+
+e The machine learning models which i worked on are being used in ios and android application called myHFB.
+
+Enironment : Python, AWS, Tensorflow, Pandas, Flask, OpenCV, H2O0, SQL, Keras, Kubernetes, Apache spark,
+Jenkins (Cl/CD), Computer vision.
+
+PROGRAMMER ANALY ST/ETL DEVELOPER 09/2016 to 03/2017
+Tek9 Solutions | City, STATE
+
+e Understanding the Business Requirements and Develop an ETL process to load data from source to target.
+
+e Used transformations such as the source qualifier, normalizer, aggregators, connected & unconnected
+lookups, filters, sorter, stored procedures, router & sequence generator.
+
+e Developed and scheduled Workflows using task developer, worklet designer, and workflow designer in
+Workflow manager and monitored the results in Workflow monitor.
+
+e Designed and developed Informatica Mappings and Sessions based on business user requirements and
+business rules to load data from source flat files and sqlserver tables to target tables.
+
+e Actively involved in gathering requirements from the end users.
+
+e Worked with Source Analyzer, Warehouse Designer, Transformation designer, Mapping designer and
+Workflow Manager.
+
+e Worked with oracle data integrator (ODI) to cover all data integration requirements for data warehouse.
+
+Environment : SQLdeveloper, Informatica, Java, SQL, sqlserver.
+
+© Master of Science | Computer Information Technology 2016
+
+Purdue University, Hammond
+
+Bachel© of Science | Electrical And Electronics Engineering 2014
+Acharya Nagarjuna University, Guntur
+
+) AWS Solutions Architect ( Associate Level)
+OpenCV Computer Vision Course on Pyimagesearch

@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 16669
+Date: Sep 25 2012
+Bill To: Ship To: ;
+| Ship Mode: Standard Class
+Brad Thomas Beauvais, Nord-Pas-
+de-Calais-Picardie, Balance Due: $5,791.12
+France
+Item Quantity Rate Amount
+Cuisinart Microwave, Red 5 $1,253.07 $6,265.35
+Appliances, Office Supplies, OFF-AP-3865
+Subtotal: $6,265.35
+Discount (10%): $626.54
+Shipping: $152.31
+Total: $5,791.12
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-BT1148545-41177

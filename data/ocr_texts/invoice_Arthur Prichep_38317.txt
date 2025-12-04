@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 38317
+Date: Aug 22 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Arthur Prichep 80219, Denver,
+Colorado, United Balance Due: $7.03
+States
+Item Quantity Rate Amount
+Acme Titanium Bonded Scissors 1 $6.80 $6.80
+Supplies, Office Supplies, OFF-SU-3000
+Subtotal: $6.80
+Discount (20%) : $1.36
+Shipping: $1.59
+Total: $7.03
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AP10915140-41143

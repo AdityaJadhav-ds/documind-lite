@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+#910
+Date: Oct 26 2012
+Bill To: Ship To: ;
+| Ship Mode: Standard Class
+Art Ferguson Santa Clara, Villa
+Clara, Cuba Balance Due: $3,987.80
+Item Quantity Rate Amount
+Nokia Smart Phone, Full Size 3 $1,274.70 $3,824.10
+Phones, Technology, TEC-PH-5355
+Subtotal: $3,824.10
+Shipping: $163.70
+Total: $3,987.80
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-AF1087031-41208

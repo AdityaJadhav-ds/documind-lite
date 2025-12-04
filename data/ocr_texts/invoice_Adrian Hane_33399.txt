@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 33399
+Date: Jul 17 2012
+Bill To: Ship To: ;
+. Ship Mode: Same Day
+Adrian Hane 85705, Tucson,
+Arizona, United Balance Due: $860.38
+States
+Item Quantity Rate Amount
+Office Star - Ergonomically Designed Knee Chair 4 $259.14 $1,036.54
+Chairs, Furniture, FUR-CH-5428
+Subtotal: $1,036.54
+Discount (20%) : $207.31
+Shipping: $31.15
+Total: $860.38
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AH10120140-41107

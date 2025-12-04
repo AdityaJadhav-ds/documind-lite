@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 31901
+Date: Mar 14 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Alan Shonely 33614, Tampa,
+Florida, United States Balance Due: $8.07
+Item Quantity Rate Amount
+Insertable Tab Post Binder Dividers 3 $7.22 $21.65
+Binders, Office Supplies, OFF-BI-4885
+Subtotal: $21.65
+Discount (70%) : $15.16
+Shipping: $1.58
+Total: $8.07
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AS10240140-40982

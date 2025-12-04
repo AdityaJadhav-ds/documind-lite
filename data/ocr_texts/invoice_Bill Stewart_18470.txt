@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 18470
+Date: Jun 05 2012
+Bill To: Ship To: ; .
+Ship Mode: First Class
+Bill Stewart Oyonnax, Auvergne-
+Rhéne-Alpes, France Balance Due: $2,161.60
+Item Quantity Rate Amount
+Epson Card Printer, Durable 4 $578.24 $2,312.95
+Machines, Technology, TEC-MA-4193
+Subtotal: $2,312.95
+Discount (15%): $346.94
+Shipping: $195.59
+Total: $2,161.60
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-BS1138045-41065

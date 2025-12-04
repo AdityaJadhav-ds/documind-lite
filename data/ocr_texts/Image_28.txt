@@ -1,0 +1,65 @@
+Company Name Dates
+
+Sr. Business Analyst
+
+The project was to develop a Property and Casualty Insurance system for underwriters. It is a modern
+and powerful pure web-based insurance carrier system, designed to cater to the complete range of
+general insurance activities from -— Clients Management, Policy Administration, Dynamic, Claims
+management, Accounting, and Document Management. It makes it an ideal choice for rapid deployment.
+It can be accessed through internet and intranet by underwriters in order to customize and utilize
+unlimited scenarios and combinations of strategic information such as insurance premium rates, limits,
+loss for different policies over years. By automating their workflow, underwriters are better equipped to
+make decisions about the risks and avoid excessive losses.
+
+Responsibilities:
+> Understanding of Business Requirements Gathering, Business Process Flow, Business Process
+
+Modeling and Business Analysis.
+
+> My duties included Gathering Business Requirements,, conducting GAP analysis,
+developing Use Cases, SWOT analysis, Risk analysis, modeling Businesses Processes, Cost
+benefit analysis and preparing Training manuals.
+
+> Used Rational Unified Process (RUP) methodology, Software Development Life Cycle
+(SDLC) processes.
+
+>» Expertise in Creating Unified Modeling Language (UML) diagrams such as Activity diagrams,
+Class diagrams, Use Case diagrams, Collaboration diagrams, Sequence diagrams and State chart
+diagrams using IBM Rational Rose and Microsoft Visio according to UML methodology.
+
+> Worked in co-ordination with the technology and the business clients to improve business
+processes.
+
+> Documented major systems and supervised end user manual andsystems manual.
+
+> Conducted JAD sessions with management, SME's, vendors, users and other stakeholders.
+
+> Developed non-functional requirements and documented them as Business Rules, Quality
+attributes, constraints documents.
+
+> Alsoinvolved in feasibility analysis of the project.
+
+>» Validated technical designs created by IT developers against functional specifications.
+
+> UsedSQL queries to Access data base for back end testing.
+
+>» Created documentation for training and Help Desk teams.
+
+>» Trained developers for various financial products and help them understand the logic of
+operation and future & option trading techniques.
+
+> Implemented and monitored Individual Development Plans focusing on total performance,
+
+including both quality and productivity.
+
+> Created reports for business analysis purposes using Crystal Reports and Microsoft Excel.
+
+> Created traceability matrix attributes for mapping the whole requirements and use cases to
+capture all functions using RequisitePro.
+
+> Excellent verbal and written communication skills and the ability to interact professionally
+with a diverse group, executives, managers, and subject matter experts.
+
+Education:
+
+Page 5of5

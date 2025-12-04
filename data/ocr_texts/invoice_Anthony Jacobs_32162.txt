@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 32162
+Date: Jan 11 2012
+Bill To: Ship To: ;
+on Ship Mode: Standard Class
+Anthony Jacobs 22153, Springfield,
+Virginia, United Balance Due: $4.11
+States
+Item Quantity Rate Amount
+Avery 482 1 $2.89 $2.89
+Labels, Office Supplies, OFF-LA-3201
+Subtotal: $2.89
+Shipping: $1.22
+Total: $4.11
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AJ10780140-40919

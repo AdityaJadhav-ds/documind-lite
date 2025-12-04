@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 9354
+Date: Oct 24 2012
+Bill To: Ship To: Ship Mod S acl
+: econd Class
+Bruce Stewart Tecoman, Colima, p Moce
+Mexico Balance Due: $1,116.56
+Item Quantity Rate Amount
+Chromcraft Coffee Table, Adjustable Height 3 $430.85 $1,292.54
+Tables, Furniture, FUR-TA-3755
+Subtotal: $1,292.54
+Discount (20%) : $258.51
+Shipping: $82.53
+Total: $1,116.56
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-BS1175582-41206

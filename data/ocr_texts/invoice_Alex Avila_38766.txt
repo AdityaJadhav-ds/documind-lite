@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 38766
+Date: Sep 14 2012
+Bill To: Ship To: ;
+. . Ship Mode: Standard Class
+Alex Avila 10011, New York City,
+New York, United Balance Due: $30.43
+States
+Item Quantity Rate Amount
+Master Caster Door Stop, Large Neon Orange 2 $14.56 $29.12
+Furnishings, Furniture, FUR-FU-5174
+Subtotal: $29.12
+Shipping: $1.34
+Total: $30.43
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AA10315140-41166

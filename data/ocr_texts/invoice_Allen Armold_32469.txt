@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 32469
+Date: Apr 20 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Allen Armold 90008, Los Angeles,
+California, United Balance Due: $68.05
+States
+Item Quantity Rate Amount
+ACCOHIDE Binder by Acco 5 $16.52 $82.60
+Binders, Office Supplies, OFF-BI-2938
+Subtotal: $82.60
+Discount (20%) : $16.52
+Shipping: $1.97
+Total: $68.05
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AA10375140-41019

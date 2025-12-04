@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 32442
+Date: Sep 28 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Arthur Prichep 90045, Los Angeles,
+California, United Balance Due: $67.85
+States
+Item Quantity Rate Amount
+Fellowes Mobile File Cart, Black 1 $62.18 $62.18
+Storage, Office Supplies, OFF-ST-4271
+Subtotal: $62.18
+Shipping: $5.67
+Total: $67.85
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AP10915140-41180

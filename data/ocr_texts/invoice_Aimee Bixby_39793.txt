@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 39793
+Date: Mar 04 2012
+Bill To: Ship To: ;
+; | Ship Mode: Second Class
+Aimee Bixby 10701, Yonkers, New
+York, United States Balance Due: $186.58
+Item Quantity Rate Amount
+Newell 345 3 $59.52 $178.56
+Art, Office Supplies, OFF-AR-5325
+Subtotal: $178.56
+Shipping: $8.02
+Total: $186.58
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AB10150140-40972

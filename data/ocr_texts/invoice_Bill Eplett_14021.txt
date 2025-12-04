@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+#14021
+Date: Mar 07 2013
+Bill To: Ship To: ;
+; . Ship Mode: Second Class
+Bill Eplett Kingswood, England,
+United Kingdom Balance Due: $9,671.51
+Item Quantity Rate Amount
+Canon Wireless Fax, Laser 5 $1,893.30 $9,466.50
+Copiers, Technology, TEC-CO-3710
+Subtotal: $9,466.50
+Shipping: $205.01
+Total: $9,671.51
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ES-2013-BE11335139-41340

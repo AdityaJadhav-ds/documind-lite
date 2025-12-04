@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 27583
+Date: Jun 05 2012
+Bill To: Ship To:
+me iP ° . Ship Mode: Standard Class
+Charlotte Melton Gujranwala, Punjab,
+Pakistan Balance Due: $6,234.32
+Item Quantity Rate Amount
+Brother Personal Copier, Color 13 $938.15 $12,195.89
+Copiers, Technology, TEC-CO-3604
+Subtotal: $12,195.89
+Discount (50%): $6,097.95
+Shipping: $136.38
+Total: $6,234.32
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ID-2012-CM1219097-41065

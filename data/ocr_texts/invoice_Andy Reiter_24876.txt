@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 24876
+Date: Jan 01 2013
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Andy Reiter Jodhpur, Rajasthan, pion’
+India Balance Due: $1,314.84
+Item Quantity Rate Amount
+Nokia Signal Booster, Full Size 3 $413.37 $1,240.11
+Phones, Technology, TEC-PH-5351
+Subtotal: $1,240.11
+Shipping: $74.73
+Total: $1,314.84
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2013-AR1054058-41275

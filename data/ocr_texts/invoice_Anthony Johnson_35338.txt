@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 35338
+Date: Dec 28 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Anthony Johnson 94110, San
+Francisco, California, Balance Due: $486.11
+United States
+Item Quantity Rate Amount
+Mophie Juice Pack Helium for iPhone 3 $191.98 $575.93
+Phones, Technology, TEC-PH-5244
+Subtotal: $575.93
+Discount (20%) : $115.19
+Shipping: $25.37
+Total: $486.11
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AJ10795140-41271

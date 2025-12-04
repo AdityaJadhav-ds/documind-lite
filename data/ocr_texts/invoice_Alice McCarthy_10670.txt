@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 10670
+Date: Aug 15 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Alice McCarthy Harrogate, England,
+United Kingdom Balance Due: $31,604.76
+Item Quantity Rate Amount
+Nokia Smart Phone, Cordless 7 $4,453.05 $31,171.35
+Phones, Technology, TEC-PH-5354
+Subtotal: $31,171.35
+Shipping: $433.41
+Total: $31,604.76
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-AM10360139-41136

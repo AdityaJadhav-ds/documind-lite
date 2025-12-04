@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 30241
+Date: Nov 22 2012
+Bill To: Ship To: ; .
+. Ship Mode: First Class
+Becky Martin Jakarta, Jakarta,
+Indonesia Balance Due: $2,193.20
+Item Quantity Rate Amount
+Epson Receipt Printer, Red 5 $473.85 $2,369.24
+Machines, Technology, TEC-MA-4210
+Subtotal: $2,369.24
+Discount (17%): $402.77
+Shipping: $226.73
+Total: $2,193.20
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ID-2012-BM1114059-41235

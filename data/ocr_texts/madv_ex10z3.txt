@@ -1,0 +1,319 @@
+Professional Services Agreement
+
+This Professional Services Agreement (the “PSA”) is Made and entered into this 31st day of
+August, 2021 (the “Effective Date”) by and between John Galt Power, LLC, a duly formed
+Delaware Limited Liability Company in good standing with a business address of 414 Church
+Street, Suite 308, Sandpoint, Idaho 83864, acting on behalf of an entity to be formed, (JGP), and
+
+a natural person of the age of majority with an address of 1110 Superior Street,
+Sandpoint, Idaho 83864 (Contractor). JGP and CONTRACTOR may be individually referred to
+herein as a “Party” and collectively referred to as the “Parties”.
+
+WHEREAS, JGP is in the business of, inter alia, providing low carbon low pollution reliable
+energy solutions to users thereof; and
+
+WHEREAS, CONTRACTOR is in the business of, inter alia, designing, constructing,
+commissioning and operation of low carbon and pollution emission electric generators; and
+
+WHEREAS, JGP desires to have CONTRACTOR provide the professional services set forth
+under the scope of work set forth in this PSA, and CONTRACTOR desires to provide those
+services to JGP; and
+
+WHEREAS, CONTRACTOR and JGP executed that certain Framework Agreement dated
+August 31, 2021, (the “Framework Agreement”) setting forth the general terms of their working
+relationship with regard to the development of various advanced data centers and the power
+requirements related thereto; and
+
+WHEREAS, CONTRACTOR and JGP executed that certain Confidentiality and Non-Disclosure
+Agreement dated August 31°, 2021, (the “NDA”), memorializing the obligations of the Parties
+with regard to the confidentiality and use of information exchanged between them; and
+
+WHEREAS, this PSA is entered into pursuant to the Framework Agreement and the NDA to
+memorialize the understanding of the Parties with regard to the scope of work, and terms and
+conditions for that work, to be provided by CONTRACTOR to JGP with regard to the provision
+of a custom designed prototype 1SKW capacity homopolar generator (the “Project”); and
+
+WHEREAS, the Parties hereby agree that this PSA, the Scope of Work and Payment Terms set
+forth in this PSA, and all documents and other information produced and exchanged by the
+Parties under the terms and conditions of this PSA shall be defined as Confidential Information
+under the NDA;
+
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which
+is hereby acknowledged by the Parties, and intending to be legally bound, the Parties do hereby
+agree as follows:
+
+1.
+
+Scope of Work to Be Provided by CONTRACTOR to JGP:
+
+The Scope of Work to be provided by CONTRACTOR to JGP is set forth in Exhibit A, attached
+hereto and made a part hereof.
+
+2.
+
+Payment Terms for Professional Services Provided by CONTRACTOR:
+
+The Payment Terms for the professional services to be provided by CONTRACTOR to JGP
+under this PSA Agreement are set forth in Exhibit B, attached hereto and madee a part hereof.
+
+3.
+
+Duties and Obligations of CONTRACTOR to JGP:
+
+a) CONTRACTOR shall perform the work and render the services as set forth on
+Exhibit A hereto in accordance with the Project Schedule to be agreed to by the Parties;
+and
+
+b) CONTRACTOR shall use sound and professional principles and practices in
+accordance with normally accepted industry standards in performing the work and
+rendering the services provided hereunder; and
+
+c) CONTRACTOR’s performance shall reflect its best professional knowledge, skill
+and judgment; and
+
+d) CONTRACTOR shall work cooperatively with JGP personnel in the development
+of the Project; and
+
+e) CONTRACTOR shall comply with all local, state and federal regulations
+pertaining to the work to be performed under this PSA; and
+
+f) CONTRACTOR shall provide the work space for the production of the Project
+and all necessary equipment of any nature related to the Project, except for the following
+equipment that will need to be paid for and provided by JGP.
+
+i. Shipment of Waterjet from Maui, HI (which shali remain the property of
+CONTRACTOR;
+
+ii. Payment of fee for Solidworks CAD software; and
+iii. Payment of fee for Matlab processing software; and
+iv. Electronics lab equipment as required; and
+v. Tooling and equipment as required to produce the Project.
+Duties and Obligations of JGP to CONTRACTOR:
+a) JGP shall provide a project manager and a helper to CONTRACTOR; and
+
+b) JGP shall secure all raw materials required by CONTRACTOR to build the
+Project, and transport them to the CONTRACTORS facility, all at JGP’s cost; and
+
+5.
+
+c) JGP shall provide the necessary testing equipment to prove that the Project works
+as intended;
+
+d) JGP shall, in addition to or in the alternative to section 3 f) above, subject to
+agreement of CONTRACTOR, have components manufactured by outside vendors in
+such a manner as to keep the confidentiality of the project. Such components will be
+made from plans and specifications provided by CONTRACTOR.
+
+e) JGP shall provide additional labor as required to produce the Project.
+
+Coordination of Work:
+
+CONTRACTOR shall work with Walt Teter as Project Manager for JGP, and
+as assistant. CONTRACTOR shall coordinate his work with Walt Teter, who shall have
+authority to represent JGP with regard to the Project.
+
+6.
+
+Term and Termination.
+
+a) Term: This PSA shall become effective on the Effective Date and shall continue
+in effect until terminated by the Parties by mutual agreement or until a period of one
+
+(1) year has passed since the completion of the work set forth on Exhibit A hereto, and no
+new work assignment has been requested by CONTRACTOR and agreed to by JGP
+(“Term”).
+
+b) Termination Upon Default: Either Party may immediately terminate this PSA if a
+Default, as defined below, by the other Party has occurred and is continuing by giving
+written notice thereof to the defaulting Party. Termination of this PSA shall not relieve
+the Parties of any obligation accruing with respect to this PSA prior to such termination,
+or the obligation of CONTRACTOR set forth in paragraph 6. d) below. The term
+“Default” shall mean any of the following:
+
+i) failure by a Party to comply with or to perform any provision or condition
+of this PSA for thirty (30) days after written notice thereof to such Party;
+provided, however, if in the exercise of due diligence a breach shall require more
+than the thirty (30) days to cure, a Party shall not be default hereunder if it shall
+commence the cure within thirty (30) days and shall proceed to complete the cure
+with due diligence; or
+
+ii) a Party becomes insolvent, is unable to pay its debts as they mature or is
+the subject of a petition in bankruptcy, whether voluntary or involuntary, or of
+any other proceeding under bankruptcy, insolvency or similar laws; or makes an
+assignment for the benefit of creditors; or is named in, or its property is subject to,
+a suit for appointment of a receiver; or is dissolved or liquidated; or
+
+iii) | any warranty made in this PSA is breached, false, or misleading in any
+material respect.
+
+c) Other Remedies: In the event of a Default, whether or not this PSA has been
+terminated as provided herein, the non-defaulting Party shall be entitled to pursue any
+remedy provided in law or equity. Each Party agrees that in addition to, and without
+limiting any other remedy or right the other may have, a non-defaulting Party shall have
+the right to seek an injunction or restraining order. In no event whatsoever shall either
+party be liable to the other hereunder for any incidental, indirect, special, consequential or
+punitive damages or lost profits under any tort, contract, strict liability or other legal or
+equitable theory arising out of or pertaining to the subject matter of this PSA, even if said
+Party has been advised of the possibility of or could have foreseen such damages.
+
+General Provisions:
+
+a) Further Responsibilities of Parties: The Parties agree to use reasonable care and
+diligence to perform their respective obligations under this PSA. The Parties agree to act
+in good faith to execute all instruments, prepare all documents and take all actions as may
+be reasonably necessary to carry out the purposes of this PSA. Unless hereafter specified,
+neither Party shall be responsible for the service of the other.
+
+b) Choice of Law and Forum: This PSA shall be construed and interpreted both as
+to validity and to performance of the Parties in accordance with the laws of the State of
+Idaho. Legal actions concerning any dispute, claim or matter arising out of or in relation
+to this Agreement shall be instituted solely and exclusively in the District Court of the
+County of Bonner, State of Idaho, and the Parties agrees to submit to the personal
+jurisdiction of such court in the event of such action, and to waive any defenses of any
+nature whatsoever as to the selected forum.
+
+c) Waiver: No delay or omission in the exercise of any right or remedy by a non-
+defaulting Party on any default shall impair such right or remedy or be construed as a
+waiver. A Party’s consent to or approval of any act by the other Party requiring the
+Party’s consent or approval shall not be deemed to waive or render unnecessary the other
+Party’s consent to or approval of any subsequent act. Any waiver by either Party of any
+default must be in writing and shall not be a waiver of any other default concerning the
+same or any other provision of this Agreement.
+
+d) Entire Agreement/Waiver/Amendment: This document, including attachments
+and exhibits hereto and any documents incorporated by reference herein, constitutes the
+entire agreement and understanding between the Parties regarding the subject matter
+hereof, and supersedes and merges all prior discussions and all oral and/or written
+agreements between them relating thereto except for the Framework Agreement and
+NDA noted in the recitals above. No waiver, modification or amendment to this PSA
+shall be valid unless in writing, signed by the Parties hereto. No usage of trade or course
+of dealing between or among any persons having any interest in this PSA will be deemed
+effective to modify, amend or discharge any part of this PSA or any rights or obligations
+of any Party hereunder. No failure or delay by either Party in exercising any right, power
+or privilege hereunder shall operate as a waiver thereof, nor shall any single or partial
+
+exercise thereof preclude any other or further exercise thereof or the exercise of any right,
+power or privilege.
+
+e) Severability: Whenever possible, each provision of this PSA shall be interpreted
+in such manner as to be effective and valid under applicable law, but if any provision of
+this PSA shall be found to be illegal or invalid under applicable law, such provision shall
+be either modified to conform to applicable law or considered ineffective to the extent of
+such prohibition or invalidity without invalidating the remainder of such provision or the
+remaining provisions of this PSA. If the finding of illegality or invalidity has a material
+impact upon the economic expectation of the parties hereto, the parties agree to make
+appropriate modifications to this PSA to take such impact into account.
+
+f) Counterparts: This PSA may be executed in counterparts, including by means of
+telecopied signature pages, any one of which need not contain the signature of more than
+one party, each of which shall be deemed an original, but all of which together shall
+constitute the entire PSA.
+
+John Galt Power, LLC a Delaware Limited Liability Company
+
+By:
+
+Name: George Wentz
+
+Title: root ies Differ see Vordanry , GP,eee
+
+BEE cOnrRAcTOR
+
+zs
+
+
+EXHIBIT A
+SCOPE OF WORK
+
+1. Representation and Warranty Regarding Work
+
+CONTRACTOR represents and warrants that it:
+(a) has thoroughly investigated and considered the scope of services to be performed; and
+(b) has carefully considered how the services should be performed; and
+
+(c) fully understands the difficulties and restrictions attending performance of the
+services under the PSA.
+
+Should CONTRACTOR discover any latent or unknown conditions, which will materially affect
+the performance of the services hereunder, CONTRACTOR shall immediately inform JGP of
+such fact and shall not proceed except at CONTRACTOR’s risk until written instructions are
+received from the JGP Representative.
+
+23 Customized Project Development
+
+CONTRACTOR shall provide to JGP a comprehensive design for a prototype homopolar
+generator capable of generating 15Kw (the “Project”). CONTRACTOR shall provide a
+complete schedule of supplies and materials required for the production of the Project.
+
+3. Development of Project Schedule
+
+CONTRACTOR shall develop, in conjunction with JGP, a Project Schedule that shall set forth
+the timeline upon which the complete creation of the Project shall proceed. This Project
+Schedule shall be broken in to phases consistent to meet the goals set by JGP for the completion
+of the Project.
+
+4. Project Management
+
+CONTRACTOR shall diligently work to complete the Project on the Project Schedule so that a
+complete, operating prototype 1SKw homopolar generator is completed and operational on the
+timeline agreed on the Project Schedule.
+
+5. Operation of Power Package and Sale of Power by CONTRACTOR to JGP
+
+CONTRACTOR shall be responsible for the operation of the Project during the planning,
+production, and testing of the Project.
+
+EXHIBIT B
+PAYMENT TERMS
+
+The Parties agree that payment for the services performed, and work provided under the terms
+and conditions of this PSA shall be provided for a payment to CONTRACTOR of one hundred
+and fifty thousand dollars for the first year. The payment will be made in three $50,000
+installments as follows:
+
+1. The first $50,000 within five business days of the time this PSA is executed by the
+Parties.
+
+2. The second installment shall be made upon certification by CONTRACTOR that the safe
+room is completed at CONTRACTOR’: facility, the CAD drawings for the Project are complete,
+and all raw materials for production of the Project are on site at the CONTRACTOR’s facility.
+
+3. The final installment shall be made upon the completion of the operating protype.
+
+In addition, CONTRACTOR shall be issued fifteen percent (15%) of the ownership of John Galt
+Power, LLC pursuant to an Operating Agreement for John Galt Power, LLC to be executed
+simultaneously with the execution of the PSA.
+
+250 Ave Munoz Rivera, Suite BOO
+San Juan, PR 00918-/8!13
+Ter. (787) 764-8181
+Fax (787) 753-8944
+
+IN ACCOUNT WITH
+
+O’NEILL & BORGES ttc
+
+August 13, 2021
+
+FEATHERWOOD GAS & POWER, INC. Client: F1197
+JEFFREY OETTING Matter: 300
+1100 NASA ROAD ONE, SUITE 566 Billing Atty.: AIF
+HOUSTON, TX 77058
+REMINDER STATEMENT
+
+RE: TAX EXEMPTION
+
+Invoice Invoice Payments /
+
+Number Invoice Date Fees Expenses Total Credits Balance
+00397294 July 06, 2021 351.00 0.00 351.00 0.00 351.00 °
+
+Total Amount Due: $351.00
+
+*Nole: Last payment of $ 3,022.00 was received/applied on November 09, 2017
+AGED ACCOUNTS RECEIVABLE
+
+0 - 60 Days 61 - 120 Days 121 - 180 Days 181 - 360 Days Over 360 Days
+
+351.00 - 4 % i
+

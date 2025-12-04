@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+#11911
+Date: Jul 03 2012
+Bill To: Ship To:
+ne wos pie Ship Mode: Standard Class
+Christy Brittain Drancy, lle-de-
+France, France Balance Due: $5,146.03
+Item Quantity Rate Amount
+Eldon File Cart, Blue 7 $799.85 $5,598.94
+Storage, Office Supplies, OFF-ST-4055
+Subtotal: $5,598.94
+Discount (10%) : $559.89
+Shipping: $106.98
+Total: $5,146.03
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IT-2012-CB1241545-41093

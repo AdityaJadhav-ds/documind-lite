@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 35339
+Date: Dec 28 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Anthony Johnson 94110, San
+Francisco, California, Balance Due: $2,474.13
+United States ,
+Item Quantity Rate Amount
+Avery 477 9 $274.77 $2,472.93
+Labels, Office Supplies, OFF-LA-3195
+Subtotal: $2,472.93
+Shipping: $1.20
+Total: $2,474.13
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AJ10795140-41271

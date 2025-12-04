@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 39387
+Date: Dec 06 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Ann Steele 98103, Seattle,
+Washington, United Balance Due: $1,909.20
+States
+Item Quantity Rate Amount
+Advantus Rolling Drawer Organizers 7 $269.36 $1,885.52
+Storage, Office Supplies, OFF-ST-3058
+Subtotal: $1,885.52
+Shipping: $23.68
+Total: $1,909.20
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AS10630140-41249

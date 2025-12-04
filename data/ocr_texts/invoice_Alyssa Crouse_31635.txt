@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 31635
+Date: Jul 11 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Alyssa Crouse 94122, San
+Francisco, California, Balance Due: $1,766.86
+United States ,
+Item Quantity Rate Amount
+Hon 5100 Series Wood Tables 3 $698.35 $2,095.06
+Tables, Furniture, FUR-TA-4622
+Subtotal: $2,095.06
+Discount (20%) : $419.01
+Shipping: $90.81
+Total: $1,766.86
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AC10420140-41101

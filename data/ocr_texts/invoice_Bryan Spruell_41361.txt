@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 41361
+Date: Jul 06 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Bryan Spruell Cape Town, Western
+Cape, South Africa Balance Due: $7,585.79
+Item Quantity Rate Amount
+SAFCO Executive Leather Armchair, Adjustable 4 $1,855.68 $7,422.72
+Chairs, Furniture, FUR-CH-5773
+Subtotal: $7,422.72
+Shipping: $163.07
+Total: $7,585.79
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : SF-2012-BS1800117-41096

@@ -1,0 +1,35 @@
+SuperStore
+
+Bill To: Ship To:
+
+Chuck Magee Hradec Kralove,
+Hradec Kralove,
+Czech Republic
+
+Item
+
+Rubbermaid Frame, Duo Pack
+Furnishings, Furniture, FUR-FU-5728
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : EZ-2012-CM244532-41185
+
+INVOICE
+
+# 48363
+
+Date: Oct 03 2012
+
+Ship Mode: Standard Class
+Balance Due: $7,138.03
+Quantity Rate Amount
+8 $879.60 $7,036.80
+Subtotal: $7,036.80
+
+Shipping: $101.23
+
+Total: $7,138.03

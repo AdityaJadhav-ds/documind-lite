@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 29368
+Date: Jun 05 2012
+Bill To: Ship To:
+ne iP ° Ship Mode: Standard Class
+Annie Thurman Brisbane,
+Queensland, Balance Due: $7,868.63
+Australia
+Item Quantity Rate Amount
+Hewlett Wireless Fax, Color 5 $1,717.34 $8,586.68
+Copiers, Technology, TEC-CO-4590
+Subtotal: $8,586.68
+Discount (10%) : $858.67
+Shipping: $140.62
+Total: $7,868.63
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-AT107357-41065

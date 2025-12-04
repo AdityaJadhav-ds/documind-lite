@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 24210
+Date: Dec 09 2012
+Bill To: Ship To: Ship Mod First Cl
+: rst Class
+Catherine Glotzbach Yuci, Shanxi, China p Moce
+Balance Due: $2,499.74
+Item Quantity Rate Amount
+Belkin Router, Bluetooth 3 $776.25 $2,328.75
+Accessories, Technology, TEC-AC-3402
+Subtotal: $2,328.75
+Shipping: $170.99
+Total: $2,499.74
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-CG1204027-41252

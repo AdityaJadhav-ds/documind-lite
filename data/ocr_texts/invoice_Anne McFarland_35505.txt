@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 35505
+Date: Oct 30 2012
+Bill To: Ship To: ;
+Ship Mode: Second Class
+Anne McFarland 2920, Cranston,
+Rhode Island, United Balance Due: $8,314.32
+States
+Item Quantity Rate Amount
+Hon Pagoda Stacking Chairs 5 $1,604.90 $8,024.50
+Chairs, Furniture, FUR-CH-4674
+Subtotal: $8,024.50
+Shipping: $289.82
+Total: $8,314.32
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AM10705140-41212

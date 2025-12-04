@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 40100
+Date: Dec 30 2012
+Bill To: Ship To: Ship Mode: First Cl
+Aaron Hawkins 10035, New York City, pimioces St UIass
+New York, United Balance Due: $112.53
+States
+Item Quantity Rate Amount
+Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 10/Pack 3 $34.77 $104.31
+Accessories, Technology, TEC-AC-6340
+Subtotal: $104.31
+Shipping: $8.22
+Total: $112.53
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AH10030140-41273

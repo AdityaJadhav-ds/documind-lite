@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 21624
+Date: Aug 18 2012
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Cari Sayre Luoyang, Fujian, pion’
+China Balance Due: $7,539.25
+Item Quantity Rate Amount
+SAFCO Executive Leather Armchair, Black 4 $1,836.00 $7,344.00
+Chairs, Furniture, FUR-CH-5774
+Subtotal: $7,344.00
+Shipping: $195.25
+Total: $7,539.25
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-CS1184527-41139

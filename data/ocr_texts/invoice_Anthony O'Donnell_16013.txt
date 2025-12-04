@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 16013
+Date: Dec 25 2012
+Bill To: Ship To:
+mre P Ship Mode: Standard Class
+Anthony O'Donnell Doncaster, England,
+United Kingdom Balance Due: $5,927.89
+Item Quantity Rate Amount
+Ikea Library with Doors, Metal 4 $1,451.40 $5,805.60
+Bookcases, Furniture, FUR-BO-4860
+Subtotal: $5,805.60
+Shipping: $122.29
+Total: $5,927.89
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-A010810139-41268

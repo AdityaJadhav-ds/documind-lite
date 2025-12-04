@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 36194
+Date: Oct 14 2012
+Bill To: Ship To: ; .
+; Ship Mode: First Class
+Anna Chung 44134, Parma, Ohio,
+United States Balance Due: $309.48
+Item Quantity Rate Amount
+Global Italian Leather Office Chair 2 $183.37 $366.74
+Chairs, Furniture, FUR-CH-4413
+Subtotal: $366.74
+Discount (30%) : $110.02
+Shipping: $52.76
+Total: $309.48
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-AC10660140-41196

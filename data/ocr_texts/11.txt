@@ -1,0 +1,230 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+SUMMARY
+
+© Over 7 years of IT experience in system design, development, testing and implementation of business applications using Python, Django,
+Database and cloud technologies.
+
+e Python scripting development using various built-ins, application process automation.
+
+¢ Knowledge using string functions to clean data remove whitespaces, newlines and special characters without disruption of business data.
+
+e Experience using RegEx to validate and extract data from files, webservices and DB data sets.
+
+© Indepth working experience with various data formats using Python libraries such as JSON, CSV, xmltree, minidom, xml.sax.
+
+e Extensively worked with date, datetime and timezones using pytz. Storing datetime in UTC and conversion to local timezones handling
+DST.
+
+« Extensive experience with Python Django Web Framework for developing Restful Web Services.
+
+e Experienced in writing SQL Queries, Stored procedures, functions, packages, triggers.
+
+© In-depth working experience with various Python IDE’s using Visual Studio Code, Jupyter Notebook, PyCharm, Notepad++.
+
+© Worked extensively with Django to develop rest webservices, handled CRUD operations with restwebservices.
+
+© Created multiple endpoints to deliver data to various UI applications.
+
+© Indepth working knowledge in various version control systems like Git, GitHub, Subversion.
+
+e Experience with Jira and confluence for Issue & project tracking in fast paced environment
+
+© Involved in database-driven web application development using a variety of frameworks such as Django on Python.
+
+SKILLS
+
+© Technical Expertise © Web Technologies:
+
+e Languages: e Django, REST, HTML5, CSS3, JavaScript, ASP.Net
+
+e Python, Django, SQL, JavaScript, JSON, XML, CSV e Database: SQL Server, Oracle, MySQL, MongoDB
+
+¢ Python Libraries: Django, Flask, Pandas, NumPy, Matplotlib, © Other Tools:
+Pytz, file IO (OS Module) ,Glob Jira, Confluence, Jenkins, Oracle SQL Developer, SQL Server
+
+© IDE: Visual Studio Code. Jupyter Notebook, Notepad++, Management Studio, MySQL workbench, Postman, Git.
+PyCharm, Visual Studio
+
+© Data Science Tools: Python (libraries: Pandas, NumPy,
+Matplotlib)
+
+ADDITIONAL INFORMATION
+
+© US Citizen.
+
+@ Excellent communication and interpersonal skills.
+
+© Highly motivated to learn new methodologies, technologies and applications.
+
+© Highly organized with strict attention to detail, analytical problem solver and multitasking proficiency.
+
+EDUCATION AND TRAINING
+
+B.S & Masters: Computer Applications
+
+Microsoft Certified .net professional
+EXPERIENCE
+
+10/2020 to Current Python Developer
+Two95 International Inc. — Mount Laurel Township. NJ
+
+¢ Involved in the analysis, design & development of various web based applications for NIH, National Eye Institute
+using Python, SQL and Django
+
+© Integrated backend data driven systems to the NEI application
+
+© Job responsibilities:
+
+© Designed and Developed DB driven web-based applications based on the requirements, using python Django
+
+© Create data load python scripts to load CSV files into SQL Server DB
+
+© Developed post load validation scripts and automated the alert system to send out emails in case of load failures
+and delays
+
+© Develop SQL for ad-hoc data/report requests by the clients
+
+© Developed unit test cases using pyunit, created test scripts and logging mechanisms to make sure python
+application components were tested and audited as per the SLAs
+
+© Created REST webservices using Django REST, for CRUD operations, and various dashboard datasets
+
+© Developed serializers for CRUD Rest operations for user action events
+
+© Handled multiple view files and response types for JSON/TEXT/XML data sets
+
+© Used Inserts / Updates and Delete statements for backend of CRUD process
+
+© Write SQL queries to manipulate/retrieve data from database tables, including large volume data tables
+
+¢ Environment: Python 3.3, Django, SQL Server 2012
+
+01/2018 to 10/2020 Python Developer
+Two95 International Inc. — Mountain View, CA
+
+© Involved in the analysis, design and development of NCTM “e-resources” for online access of their Journals
+through the web
+
+« Articles are stored in PDF format and accessed from AWS S3 service
+
+© The Admin module of this application captures the information about a Joumnal, its articles and its authors’ details
+
+e An option to preview the list of articles and their information is provided for other modules
+
+© The system notifies the subscribers whenever a new issue of a journal is published
+
+© Job responsibilities:
+
+© Worked with CSV module to read and write CSV files for data processing
+
+© Handled application configuration with config files to handle metadata
+
+¢ Worked with JSONs created and used for webservices & dictionaries to jsons as needed
+
+© Developed applications and scripts to consume and use XML files using xmltree and xml_sax
+
+© Developed data acquisition into python using Pandas, numpy, file IO (OS Module)
+
+e Extensively worked with date, datetime and time zones using pytz
+
+© Storing datetime in GMT and conversion to local time zones handling DST
+
+© Developed SQL Queries to support application requirements and ad-hoc requests from the users to generate data
+extracts
+
+¢ For deployment used various version control systems like GitLab
+
+¢ Extensive work tracking with Jira and Confluence for Issue & project tracking in a fast-paced environment
+
+© Worked in various types of unit testing, automated testing, integration testing, user acceptance testing, for the
+application delivery fulfillment process
+
+© Involved in database-driven web application development using a variety of frameworks such as Django on Python
+
+e Environment: Python 3, Django, Django Rest, SQL Server 2012
+
+05/2016 to 11/2018 Python Developer
+Two95 International Inc. — New Haven, CT
+
+¢ SVB Financial Group Provides banking solutions to various clients from technology to healthcare, from San Jose to
+Shanghai, with various our clients
+
+© The data team provides data for various applications within the organization
+
+© Responsibilities:
+
+* Responsible for gathering requirements, system analysis, design, development, testing and deployment
+
+Participated in the complete SDLC process
+
+© Developed monitoring and notification tools using Python
+
+© Created business unit specific datasets using python scripts from the database tables
+
+© Create DB views and stored procedures to get data sets, based on timestamps
+
+© Create testing scripts using PyUnit, the Python unit test framework, for all Python applications
+
+¢ Rewrote existing Java application in Python module to deliver client requested data-formats
+
+© Created Business Logic using Python to create Planning and Tracking functions
+
+© Generated Python Django Forms to record data of online users
+
+© Wrote Python routines to log into the websites and fetch data for selected options
+
+© Developed entire frontend and backend modules using Python on Django Web Framework
+
+© Using Python Pandas analyzed large data analysis and extracting insights
+
+© Developed Business Logic using Python on Django Web Framework
+
+© Created webservices API layer using Django Framework to supply data to various applications
+
+© Build all database mapping classes using Django models
+
+© Worked with JSON based REST Web services
+
+© Involved in AJAX driven application by invoking web services/API and parsing the JSON response
+
+© Developed complex web, middleware, and back end systems in Python and SQL on the Linux server
+
+© Handled code checking using Git repository and added the project to GitHub
+
+© Utilized Agile process and JIRA issue management to track sprint cycles
+
+© Wrote validation scripts in SQL to validate data loading
+
+¢ Actively participated in Stand-up meeting, walkthrough meeting, weekly assessment meetings and daily triage
+meetings and interacted with business analysts to ensure quality of the application
+
+¢ Environment: Python, Java, PyUnit, Pandas, HTML, AJAX, CSS, JavaScript, Django, Jenkins, Amazon Web
+Services (AWS), JSON, REST, Git, JIRA, SQL, Agile, windows and Linux.
+
+07/2002 to 12/2004 Web Application Developer
+Webmd — Indianapolis, IN
+
+¢ Involved in the design and development of a web based carrier service module for US military using ASP.Net
+
+Its purpose is to provide efficient sea and inter modal transportation
+
+¢ It assists the US military in automating the solicitation, analysis and determination of ocean cargo transportation
+tates
+
+© The application has Oracle database as the back end, a reporting interface and a data entry interface developed in
+ASP.Net
+
+© Job responsibilities:
+
+¢ Involved in analysis, design and development of the application’s reporting and data input interface using ASP Net,
+HTML, JavaScript and connecting to Oracle using ADO
+
+© Incorporated features to download the reports in Microsoft Excel through the application
+
+¢ Involved in the unit and system testing of the application and the creation of required documentation
+
+¢ HTML 4.0, JavaScript, VB Script, TOAD, Visual Source Safe

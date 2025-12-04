@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+#21707
+Date: Feb 06 2013
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Christina DeMoss Amritsar, Punjab, pion’
+India Balance Due: $5,210.05
+Item Quantity Rate Amount
+Hewlett Fax Machine, Color 4 $1,285.44 $5,141.76
+Copiers, Technology, TEC-CO-4575
+Subtotal: $5,141.76
+Shipping: $68.29
+Total: $5,210.05
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2013-CD1228058-41311

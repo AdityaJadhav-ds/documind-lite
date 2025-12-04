@@ -1,0 +1,130 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor © (555) 432-1000 ¢ resumesample@example.com
+
+Summary
+
+Over years of experience in Analysis, Design, Development, Management, and Implementation of various standalone and client -
+server architecture-based enterprise application software.
+
+« Experience in each phase of software Development life cycle (SDLC) in Agile Software Methodology and the waterfall
+methodology.
+
+Exposed to all aspects of software development life cycle such as Analysis, Planning, Developing, Testing and Implementing and
+
+Post-production analysis of the projects.
+
+« Extensive experience of working with the build and deployment of large-scale applications.
+
+« Hands on experience with Subversion and GIT.
+
+* Experience in Administration / Maintenance of source control management systems such as Git Hub and Subversion SVN.
+Created tags and Branches, fix the merge issues and administered Software Repositories.
+
+« Hands on experience with bug tracking tools like Tracker, Jira, HP Service Manager and TFS.
+
+* Proposed and implemented branching strategies in version control systems.
+
+« Experience in a UNIX environment and expertise in several flavors of Linux including Red Hat, CentOS, and Ubuntu.
+
+« Experience writing Ruby, Python and Batch/PowerShell scripts to automate the deployments.
+
+Skills
+e SVN, Git ¢ Perl, Shell (Kshell, Bash), Python
+* Jira, Splunk,Github * Django
+* Jenkins, Datadog, Kafka, HPSA ¢ MySQL, PostgreSQL, Oracle DB, MS-SQL
+e Cloud Environment © Windows(2K8,2K12,2K16), Linux (RHEL, Ubuntu, Centos)
+
+e Amazon Web Services (AWS)
+
+Experience
+
+Python Developer, 06/2022 to Current
+General Dynamics — Houston, TX
+* Developed most of the application part in Linux environment and very much familiar with all of its commands.
+« As member of Release Engineering group, redefined processes and implemented tools for software builds, patch creation, source
+control, and release tracking and reporting.
+
+Assist with maintaining current build systems, developed build scripts, and maintained the source control system.
+¢ Experience in using collections in Python for manipulating and looping through different user defined objects.
+Used python and bash for automation of different installations like Perl packages and Anthilpro.
+
+¢ Worked on ansible deployments, written various ansible playbooks with multiple roles, tasks with loops, templates, service
+
+management, host variables, group variables etc.
+
+Used Ansible to manage Web applications, Environments configuration Files, Users, Mount points and Packages.
+
+Ansible playbook for application deployment and configuration management, orchestration on virtual instances to install and
+push initial configuration.
+Provide software configuration, perform failure analysis of system architecture and migrations.
+
+Created entire application using Python, Perl, PostgreSQL and Linux.
+* Experience of various Python application development and CI/CD pipeline tools like GitHub, Jenkins and Unix shell scripting.
+* Setting up the Ansible control machine (RHEL7) and configured the remote host inventories via SSH.
+
+Involved in Python OOP code for quality, logging, monitoring, and debugging code optimization.
+
+Created Unit test/ regression test framework for working/new code.
+¢ Used PyQt to implement GUI for the user to create, modify and view reports based on client data.
+
+Automated installation of the universal Splunk forwarder on several Unix servers.
+Developed several standalone scripts for the installing and the uninstalling different RPM’s.
+« Environment: Python, Bash, Jenkins, Ansible, UNIX/ Linux, windows, HPSA, GIT, Groovy, Jira, Perl, Agile, JSON, Splunk.
+
+Software Engineer, 02/2020 to 04/2022
+Foundation Capital — Greenville, SC
+¢ Built CI pipeline to automatically test all code commits and CD pipeline for developers to ship code to production.
+« Implemented Continuous Integration using Jenkins and TFS.
+Configured the Django admin site, dashboard and created a custom Django dashboard for end users with custom look and feel.
+Used Django APIs for database access.
+
+* Coordinate and assist developers with establishing and applying appropriate branching, labeling and naming conventions using
+
+GIT source control.
+
+Designed and implemented scalable, secure cloud architecture based on Amazon Web Services.
+
+Implemented AWS solutions using E2C, $3, RDS, EBS, SNS, Elastic Load Balancer, and Auto scaling groups, Optimized volumes
+and EC2 instances.
+
+Designed, build and deployed applications utilizing AWS EC2, Route53, $3, RDS, DynamoDB, Lambda, SQS and IAM etc.
+Configured Elastic search, Log stash and Kibana (ELK) for log analytics, full text search, application monitoring in integration
+with AWS Lambda and Cloud Watch.
+
+Managed datasets using Panda data frames and MySQL, queries MYSQL database queries from python using Python-MySQL
+connector and MySQL dB package to retrieve.
+
+Designed and developed components using Python with Django framework.
+Implemented code in python to retrieve and manipulate data.
+
+Involved in writing SQL queries implementing functions, triggers, cursors, object types, sequences, indexes etc.
+« Environment: Java, Subversion SVN, AWS (EC2, $3, Route53, ELB, EBS, VPC, AMI, SNS, SQS, RDS, LAM, Lambda), JIRA, AWS,
+ANT, GIT, Maven, Jenkins, UNIX/ Linux, Python, Ruby, Shell, Perl.
+
+Software Engineer Trainee, 11/2017 to 01/2019
+Booz Allen Hamilton Inc. —- Hawaii, HI
+
+* Within a collaborative development environment, designed business systems for clients from diverse industries, including
+insurance, ecommerce, retail, and human service. Engineered customized features and modules for new applications; devised
+enhancements and updates for existing application suites. Conducted detailed testing throughout the life cycle and resolved
+existing issues. Prepared overall system designs and documentation.
+
+Selected projects include:
+
+* Complete Assessing: Coordinated with various teams on client's end as well as with the internal teams for gathering
+requirements. Interaction with compliance teams and project managers throughout the project Played a key role during
+development, launching and enhancements of this large scale web application.
+
+¢ Flexible Web Solutions: Assisted in architecture and database design. Provided user requirements analysis, design and modules
+specifications. Developed and integrated key modules and provided working demo to client. Fueled additional revenue stream
+through responsive technical support.
+
+* Seriously Spoiled Salon and Spa: Contributed software engineering expertise in the development through the software
+development lifecycle, from requirement definition to successful deployment. Followed best practices that enhanced the overall
+
+performance and customization of various front end components.
+Education and Training
+
+Bachelor of Science: Computer Engineering, 2017
+Gujarat Technological University - Gujarat

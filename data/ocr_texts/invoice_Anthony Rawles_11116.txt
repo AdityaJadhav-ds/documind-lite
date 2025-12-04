@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+#11116
+Date: May 12 2012
+Bill To: Ship To: ;
+. . Ship Mode: Second Class
+Anthony Rawles Messina, Sicily, Italy
+Balance Due: $4,198.62
+Item Quantity Rate Amount
+SanDisk Router, Bluetooth 4 $1,025.40 $4,101.60
+Accessories, Technology, TEC-AC-5894
+Subtotal: $4,101.60
+Shipping: $97.02
+Total: $4,198.62
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-AR1082564-41041

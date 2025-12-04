@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 40780
+Date: Jul 21 2012
+Bill To: Ship To: ;
+| ; Ship Mode: Standard Class
+Alejandro Ballentine 90008, Los Angeles,
+California, United Balance Due: $119.45
+States
+Item Quantity Rate Amount
+Crayola Colored Pencils 6 $19.68 $118.08
+Art, Office Supplies, OFF-AR-3853
+Subtotal: $118.08
+Shipping: $1.37
+Total: $119.45
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AB10255140-41111

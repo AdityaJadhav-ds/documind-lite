@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 36493
+Date: May 09 2012
+Bill To: Ship To: ;
+| . Ship Mode: Standard Class
+Arianne Irving 98031, Kent,
+Washington, United Balance Due: $485.04
+States
+Item Quantity Rate Amount
+Strathmore #10 Envelopes, Ultimate White 3 $158.13 $474.39
+Envelopes, Office Supplies, OFF-EN-6212
+Subtotal: $474.39
+Shipping: $10.65
+Total: $485.04
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-Al10855140-41038

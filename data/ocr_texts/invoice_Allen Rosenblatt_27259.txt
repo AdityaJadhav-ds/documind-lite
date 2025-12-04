@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 27259
+Date: Jun 21 2012
+Bill To: Ship To: ; .
+| ; Ship Mode: First Class
+Allen Rosenblatt Wuhan, Hubei, China
+Balance Due: $1,035.65
+Item Quantity Rate Amount
+Bush Classic Bookcase, Traditional 3 $619.02 $1,857.06
+Bookcases, Furniture, FUR-BO-3627
+Subtotal: $1,857.06
+Discount (50%): $928.53
+Shipping: $107.12
+Total: $1,035.65
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ID-2012-AR1040527-41081

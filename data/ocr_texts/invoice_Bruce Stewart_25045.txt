@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 25045
+Date: Jul 19 2012
+Bill To: Ship To: ;
+. Ship Mode: Second Class
+Bruce Stewart Cairns, Queensland,
+Australia Balance Due: $6,607.39
+Item Quantity Rate Amount
+Bush Library with Doors, Pine 7 $1,535.81 $10,750.70
+Bookcases, Furniture, FUR-BO-3641
+Subtotal: $10,750.70
+Discount (40%) : $4,300.28
+Shipping: $156.97
+Total: $6,607.39
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-BS117557-41109

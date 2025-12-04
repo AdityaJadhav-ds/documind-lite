@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 7804
+Date: Sep 11 2012
+Bill To: Ship To: Ship Mod First Cl
+: rst Class
+Ashley Jarboe Hermosillo, Sonora, p Moce
+Mexico Balance Due: $6,286.92
+Item Quantity Rate Amount
+Belkin Router, Erganomic 6 $1,026.24 $6,157.44
+Accessories, Technology, TEC-AC-3403
+Subtotal: $6,157.44
+Shipping: $129.48
+Total: $6,286.92
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-AJ1094582-41163

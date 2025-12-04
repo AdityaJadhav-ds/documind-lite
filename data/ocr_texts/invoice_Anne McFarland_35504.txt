@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 35504
+Date: Oct 30 2012
+Bill To: Ship To: ;
+Ship Mode: Second Class
+Anne McFarland 2920, Cranston,
+Rhode Island, United Balance Due: $54.54
+States
+Item Quantity Rate Amount
+Eldon Wave Desk Accessories 3 $17.67 $53.01
+Furnishings, Furniture, FUR-FU-4109
+Subtotal: $53.01
+Shipping: $1.53
+Total: $54.54
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AM10705140-41212

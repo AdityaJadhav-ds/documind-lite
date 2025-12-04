@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 32461
+Date: Mar 02 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Anne Pryor 10035, New York City,
+New York, United Balance Due: $103.76
+States
+Item Quantity Rate Amount
+Cardinal HOLDit! Binder Insert Strips,Extra Strips 5 $25.32 $126.60
+Binders, Office Supplies, OFF-BI-3732
+Subtotal: $126.60
+Discount (20%) : $25.32
+Shipping: $2.48
+Total: $103.76
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AP10720140-40970

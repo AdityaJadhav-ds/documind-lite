@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 38852
+Date: May 09 2012
+Bill To: Ship To: ;
+| . Ship Mode: Second Class
+Art Foster 19134, Philadelphia,
+Pennsylvania, United Balance Due: $90.75
+States
+Item Quantity Rate Amount
+DIXON Ticonderoga Erasable Checking Pencils 5 $22.32 $111.60
+Art, Office Supplies, OFF-AR-3973
+Subtotal: $111.60
+Discount (20%) : $22.32
+Shipping: $1.47
+Total: $90.75
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AF10885140-41038

@@ -1,0 +1,24 @@
+SuperStore INVOICE
+
+# 33135
+Date: Jul 31 2012
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Barbara Fisher 28205, Charlotte, p Moce
+North Carolina, B .
+, alance Due: 145.52
+United States $
+Item Quantity Rate Amount
+9-3/4 Diameter Round Wall Clock 4 $44.13 $176.51
+Furnishings, Furniture, FUR-FU-2877
+Subtotal: $176.51
+Discount (20%) : $35.30
+Shipping: $4.31
+Total: $145.52
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-BF10975140-41121

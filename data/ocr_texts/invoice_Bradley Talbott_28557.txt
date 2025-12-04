@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 28557
+Date: Feb 26 2013
+Bill To: Ship To: ;
+| Ship Mode: Standard Class
+Bradley Talbott Muzaffarpur, Bihar,
+India Balance Due: $33,028.07
+Item Quantity Rate Amount
+Barricks Conference Table, Fully Assembled 6 $5,451.30 $32,707.80
+Tables, Furniture, FUR-TA-3344
+Subtotal: $32,707.80
+Shipping: $320.27
+Total: $33,028.07
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2013-BT1153058-41331

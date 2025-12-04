@@ -1,0 +1,24 @@
+SuperStore INVOICE
+
+# 34304
+Date: Oct 23 2012
+Bill To: Ship To:
+" p Ship Mode: Standard Class
+Allen Armold 91730, Rancho
+Cucamonga, — Balance Due: $84.32
+California, United
+States
+Item Quantity Rate Amount
+Avery Premier Heavy-Duty Binder with Round Locking Rings 3 $34.27 $102.82
+Binders, Office Supplies, OFF-BI-3306
+Subtotal: $102.82
+Discount (20%) : $20.56
+Shipping: $2.06
+Total: $84.32
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AA10375140-41205

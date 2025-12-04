@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 15587
+Date: Apr 21 2012
+Bill To: Ship To:
+me iP ° Ship Mode: Standard Class
+Brendan Sweed Sannois, Ile-de-
+France, France Balance Due: $2,856.29
+Item Quantity Rate Amount
+Cisco Signal Booster, with Caller ID 5 $645.28 $3,226.39
+Phones, Technology, TEC-PH-3803
+Subtotal: $3,226.39
+Discount (15%) : $483.96
+Shipping: $113.86
+Total: $2,856.29
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-BS1159045-41020

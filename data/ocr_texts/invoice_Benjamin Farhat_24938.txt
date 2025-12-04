@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 24938
+Date: Feb 16 2012
+Bill To: Ship To:
+ne . pe Ship Mode: Standard Class
+Benjamin Farhat Kanpur, Uttar
+Pradesh, India Balance Due: $8,589.05
+Item Quantity Rate Amount
+Okidata Card Printer, Red 7 $1,210.86 $8,476.02
+Machines, Technology, TEC-MA-5498
+Subtotal: $8,476.02
+Shipping: $113.03
+Total: $8,589.05
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-BF1121558-40955

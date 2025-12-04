@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 31670
+Date: Jul 22 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Arthur Gainer 85705, Tucson,
+Arizona, United Balance Due: $6,637.09
+States
+Item Quantity Rate Amount
+NETGEAR AC1750 Dual Band Gigabit Smart WiFi Router 8 $1,023.94 $8,191.49
+Accessories, Technology, TEC-AC-5279
+Subtotal: $8,191.49
+Discount (20%) : $1,638.30
+Shipping: $83.90
+Total: $6,637.09
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-AG10900140-41112

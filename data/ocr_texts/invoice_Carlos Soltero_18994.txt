@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 18994
+Date: Jan 09 2013
+Bill To: Ship To: ; .
+. Ship Mode: First Class
+Carlos Soltero Haninge, Stockholm,
+Sweden Balance Due: $3,508.77
+Item Quantity Rate Amount
+Breville Refrigerator, White 5 $1,293.68 $6,468.38
+Appliances, Office Supplies, OFF-AP-3577
+Subtotal: $6,468.38
+Discount (50%) : $3,234.19
+Shipping: $274.58
+Total: $3,508.77
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2013-CS11950124-41283

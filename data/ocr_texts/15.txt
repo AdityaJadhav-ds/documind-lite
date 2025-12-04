@@ -1,0 +1,104 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+SUMMARY
+
+Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight
+schedules while producing impeccable code. Accomplished engineer proffering extensive cloud monitoring, deployment and troubleshooting
+skills. Defined, built and maintained infrastructure using vendor-neutral and platform-specific tools. Organized and focused person with
+extraordinary leadership acumen.
+
+SKILLS
+e Python, C, C++ © Version Control
+e Pycharm, IBM Watson Studio, Excel, Jupyter Notebook, Visual e Requirements Gathering and Analysis
+studio e Efficient Data Management
+e MacOS, Unix, Linux e Unstructured Data
+© Waterfall, Agile e Test Automation
+© Software Quality Assurance © Bug Fixes
+© Software Customizations e Performance Analytics
+© Database Management Software © Data validation
+e Design Patterns and Principles © Data formatting
+© Software System Maintenance © Data analysis
+e Multithreaded Software Applications © Data Science
+
+© Debugging and Troubleshooting
+EXPERIENCE
+
+01/2019 to Current Python Developer
+Infosys Ltd — Newjersey. NJ
+¢ Enhanced business drivers with enterprise-scale applications, enabling visualization, consumption and
+monetization of both structured and unstructured data.
+© Utilized advanced querying, visualization and analytics tools to analyze and process complex data sets.
+© Worked with stakeholders to develop quarterly roadmaps based on impact, effort and test coordinations.
+© Created and implemented new forecasting models to increase company productivity.
+e Assessed accuracy and effectiveness of new and existing data sources and data analysis techniques.
+© Set up SQL database on cloud servers to store client data for query analysis.
+© Developed intricate algorithms based on deep-dive statistical analysis and predictive data modeling.
+* Discovered stories told by data to present information to scientists and business managers.
+¢ Extracted and assessed data from databases to drive improvement of product development and business strategies
+and processes.
+¢ Applied statistical and algebraic techniques to interpret key points from gathered data.
+© Implemented randomized sampling techniques for optimized surveys.
+© Improved data collection methods by designing surveys, polls and other instruments.
+© Developed polished visualizations to share results of data analyses.
+« Analyzed large datasets to identify trends and patterns in customer behaviors.
+© Devised and deployed predictive models using machine learning algorithms to drive business decisions.
+© Compiled, cleaned and manipulated data for proper handling.
+© Modeled predictions with feature selection algorithms.
+¢ Ran statistical analyses within software to process large datasets.
+« Leveraged mathematical techniques to develop engineering and scientific solutions.
+¢ Applied loss functions and variance explanation techniques to compare performance metrics.
+© Learned and adapted quickly to new technology and software applications.
+© Used critical thinking to break down problems, evaluate solutions and make decisions.
+
+01/2018 to 07/2018 Data Engineer
+Honeywell — Grand Rapids, MI
+
+© Collaborated on ETL (Extract, Transform, Load) tasks, maintaining data integrity and verifying pipeline stability.
+
+« Analyzed complex data and identified anomalies, trends, and risks to provide useful insights to improve internal
+controls.
+
+© Designed and implemented effective database solutions and models to store and retrieve data.
+
+© Contributed to intemal activities for overall process improvements, efficiencies and innovation.
+
+© Designed advanced analytics ranging from descriptive to predictive models to machine learning techniques.
+
+¢ Explained data results and discussed how best to use data to support project objectives.
+
+© Developed, implemented and maintained data analytics protocols, standards, and documentation.
+
+© Designed and developed analytical data structures.
+
+© Prepared documentation and analytic reports. delivering summarized results, analysis and conclusions to
+stakeholders.
+
+© Reviewed project requests describing database user needs to estimate time and cost required to accomplish
+projects.
+
+03/2012 to 11/2014 Python AWS Developer
+Cgi Group Inc. — Atlanta, GA
+
+© Worked with cloud architect to generate assessments and develop and implement actionable recommendations
+based on results and reviews.
+
+© Used metrics to monitor application and infrastructure performance.
+
+© Identified, analyzed and resolved infrastructure vulnerabilities and application deployment issues.
+
+© Worked with teams of talented software engineers to define, build and maintain cloud infrastructure.
+
+© Utilized code and modern cloud-native deployment techniques to design, plan and integrate cloud computing and
+virtualization systems.
+
+© Optimized web applications for speed, scalability and security.
+
+EDUCATION AND TRAINING
+
+¢ Relevant Coursework-Certified IBM Data Science Professional Certificate
+
+05/2011 Bachelors: Computer Science And Information Technology
+G.PullaReddy Engineering College - Kurnool

@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 23962
+Date: Aug 07 2012
+
+Bill To: Ship To: Ship Mod s D
+
+: ame Da
+Barbara Fisher Guangzhou, p Moce y
+Guangdong, China Balance Due: $5,307.27
+Item Quantity Rate Amount
+Canon Fax Machine, Laser 4 $1,273.56 $5,094.24
+Copiers, Technology, TEC-CO-3689
+
+Subtotal: $5,094.24
+Shipping: $213.03
+Total: $5,307.27
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-BF1097527-41128

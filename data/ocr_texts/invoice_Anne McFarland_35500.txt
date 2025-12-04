@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 35500
+Date: Oct 30 2012
+Bill To: Ship To: ;
+Ship Mode: Second Class
+Anne McFarland 2920, Cranston,
+Rhode Island, United Balance Due: $248.51
+States
+Item Quantity Rate Amount
+Lumber Crayons 5 $49.25 $246.25
+Art, Office Supplies, OFF-AR-5156
+Subtotal: $246.25
+Shipping: $2.26
+Total: $248.51
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AM10705140-41212

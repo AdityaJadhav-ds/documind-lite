@@ -1,0 +1,99 @@
+CONTACT
+
+&3 info@resumekraft.com
+Q 202-555-0120
+Q Chicago, Illinois, US
+
+in linkedin.com/resumekraft
+
+SKILLS
+
+Python &R
+
+PowerBl & Spotfire
+
+LANGUAGES
+
+English
+
+French 3)
+Arabic @@
+German @@
+
+PERSONAL SKILLS
+
+Motivation to learn
+Analytical mind
+Communication
+Good team player
+Result-oriented
+
+Enthusiasm & optimism
+
+COURSES
+
+Oct 2019 - Present
+Introduction to Economics,
+Open University of Catalonia
+
+CHRISTA TIM
+
+DATA SCIENTIST
+
+SUMMARY
+
+A professional Data scientist with a clear goal: to use statistics and machine learning
+for finding complex data patterns that drive meaningful impact on the business. In
+previous roles | built a model for predicting house prices with less than 12%
+
+error and discovered factors that predict job performance or that predict mortality in
+small cell lung cancer patients. | am looking for the opportunity to build an international
+career and apply my skills in an innovative and multicultural environment. | enjoy
+working in a team and communicating data-driven results. | ama constant learner - |
+am always thinking what comes next - and interested in different cultures and
+languages and in global problems.
+
+EXPERIENCE
+
+Data Scientist Oct 2018 - Present
+General Motor - NewYork
+e Project in Python: to predict house prices using time series analysis and neural
+networks
+e Project in R: to identify factors that predict which employees will have the best
+performance and which will benefit from a change in their job position using
+machine learning (XGBoost)
+
+Data Scientist Consultant May 2018 - Sep 2018
+At&T Communications
+e Project in R: Predicting mortality of small cell lung cancer patients and identification
+of important prognostic factors
+
+EDUCATION
+
+Masters in Computer Science Sep 2017 - Sep 2018
+San Jose State University
+
+Final mark: 75%. Modules: Machine learning, Advanced Statistics for Health, Data
+Analysis and Visualisation, Computational Genetics, Epidemiology, Electronic Health
+Records. Dissertation: done in collaboration with Roche. Societies: Salsa Society
+(Communications officer) and Mandarin Society.
+
+Bachelors in Computers Sep 2016 - Sep 2017
+Northeastern University
+
+Final mark: 78%. Modules: Cellular and molecular mechanisms of disease, Topics in
+Neuroscience (e.g. neuroimaging), Advanced Statistics and Research Methods. The 9-
+months research project was on explaining brain function of multiple sclerosis
+patients by exploring brain networks using graph theory.
+
+CERTIFICATION
+
+2019-01-10
+Python (32 hours), IT Formacion
+
+2019-09-17
+
+SAS Enterprise and SAS Miner (60 hours), IT Formacion
+
+2018-11-12
+Conflict management (16 hours), Ergo

@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 42196
+Date: Jul 31 2012
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Chuck Sachs Wad Madani, Gezira, pamoce
+Sudan Balance Due: $1,914.82
+Item Quantity Rate Amount
+SAFCO Executive Leather Armchair, Red 2 $922.86 $1,845.72
+Chairs, Furniture, FUR-CH-5775
+Subtotal: $1,845.72
+Shipping: $69.10
+Total: $1,914.82
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : SU-2012-CS2460122-41121

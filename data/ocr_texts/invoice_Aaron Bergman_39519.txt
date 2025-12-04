@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 39519
+Date: Feb 19 2012
+Bill To: Ship To:
+ne P . Ship Mode: Standard Class
+Aaron Bergman 76017, Arlington,
+Texas, United States Balance Due: $22.17
+Item Quantity Rate Amount
+Akro Stacking Bins 2 $12.62 $25.25
+Storage, Office Supplies, OFF-ST-3078
+Subtotal: $25.25
+Discount (20%) : $5.05
+Shipping: $1.97
+Total: $22.17
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AB10015140-40958

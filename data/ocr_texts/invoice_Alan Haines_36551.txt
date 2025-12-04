@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 36551
+Date: Mar 05 2013
+Bill To: Ship To:
+" . p Ship Mode: Second Class
+Alan Haines 18018, Bethlehem,
+Pennsylvania, United Balance Due: $149.91
+States
+Item Quantity Rate Amount
+Situations Contoured Folding Chairs, 4/Set 2 $99.37 $198.74
+Chairs, Furniture, FUR-CH-6016
+Subtotal: $198.74
+Discount (30%) : $59.62
+Shipping: $10.79
+Total: $149.91
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2013-AH10195140-41338

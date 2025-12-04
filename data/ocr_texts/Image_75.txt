@@ -1,0 +1,73 @@
+EXPERIENCE
+
+EDUCATION
+
+SKILLS
+
+Wilson Botsford
+275 Denis Crescent, New York, NY @ Phone: +1 (555) 834 8740
+
+ENTRY LEVEL ELECTRICAL DESIGN & ANALYSIS ENGINEER
+Phoenix, AZ
+12/2014 — present
+¢ Assists in providing engineering support throughout the lifecycle of the product
+¢ Assist in the development and documentation of electrical design modifications
+Assists in development of electronic architecture and detailed specifications for various electronic
+products
+Developing, and testing new designs
+Works under close supervision
+Provide alternatives for aging electronics to the customer
+Works under close to general supervision
+
+eevee
+
+HIGH VOLTAGE ELECTRICAL ENGINEER ENTRY LEVEL
+Los Angeles, CA
+10/2011 — 07/2014
+¢ Develop in-vehicle EDS solutions on future model year Electrified programs
+¢ Responsible for leading the team comprised of Tier | and Tier 2 suppliers, and multiple internal
+interfacing teams; Purchasing, Quality, Manufacturing, Program Attribute and Vehicle teams, as well as
+other interfacing component systems
+¢ Lead technical interface between CAD and CAE and manage quality foundation documents including
+DFMEA, SDS, DVP&R
+¢ Sign-off of the design & performance of component/systems relative to technical objectives (DVP&R,
+quality, weight, function, cost, timing and regulatory/FMVSS) that supports Ford development
+milestones
+« Manage supplier interface in the development of new vehicle component designs
+¢ Lead Phased PPAP process support through supplier visits and sign off
+¢ Support prototype builds and launch of vehicle programs at local facilities
+
+ENTRY LEVEL ELECTRICAL ENGINEER
+Houston, TX
+11/2006 — 09/2011
+¢ Assist in developing policies, standards, preventive maintenance procedures and tasks and operating
+procedures
+Assists in the development of electronic architecture
+Gathers data to assist in the development of electronic product specifications
+Improve productivity by leading electrical distribution and controls related projects
+Function as technical interface for customers including developing specifications with clients
+Support plant and Operational and Maintenance Excellence goals, including continuous improvement /
+Lean manufacturing initiatives
+¢ Develops design review materials
+
+oeeee
+
+EAST CAROLINA UNIVERSITY
+Bachelor’s Degree in Electrical Engineering
+
+Proficient in Microsoft suite of tools
+
+Basic use of oscilloscope, multi-meter and other lab equipment
+Experience programing in C# or C++
+
+Experience in electrical design through internships and/or projects
+Use of Unigraphics or other drafting CAD tools, DxDesigner
+Project management skills and communication skills
+
+Experience with the Xilinx Zynq family of FPGAs
+
+Experience with software defined radio development
+
+Experience working with ARM microprocessors
+
+eee eevee @

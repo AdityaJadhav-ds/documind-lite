@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 32104
+Date: Feb 02 2013
+Bill To: Ship To: ; .
+Ship Mode: First Class
+Allen Armold 68104, Omaha,
+Nebraska, United Balance Due: $71.74
+States
+Item Quantity Rate Amount
+Coloredge Poster Frame 2 $28.40 $56.80
+Furnishings, Furniture, FUR-FU-3836
+Subtotal: $56.80
+Shipping: $14.94
+Total: $71.74
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2013-AA10375140-41307

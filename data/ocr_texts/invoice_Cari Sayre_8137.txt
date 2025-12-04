@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 8137
+Date: Nov 03 2012
+Bill To: Ship To: ;
+. _. Ship Mode: Second Class
+Cari Sayre Oruro, Oruro, Bolivia
+Balance Due: $5,818.00
+Item Quantity Rate Amount
+Hoover Refrigerator, Black 4 $1,401.84 $5,607.36
+Appliances, Office Supplies, OFF-AP-4735
+Subtotal: $5,607.36
+Shipping: $210.64
+Total: $5,818.00
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-CS1184516-41216

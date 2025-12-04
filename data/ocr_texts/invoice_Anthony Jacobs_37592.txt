@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 37592
+Date: Dec 27 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Anthony Jacobs 1915, Beverly,
+Massachusetts, Balance Due: $10,554.79
+United States
+Item Quantity Rate Amount
+Hoover Upright Vacuum With Dirt Cup 6 $1,737.18 $10,423.08
+Appliances, Office Supplies, OFF-AP-4750
+Subtotal: $10,423.08
+Shipping: $131.71
+Total: $10,554.79
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AJ10780140-41270

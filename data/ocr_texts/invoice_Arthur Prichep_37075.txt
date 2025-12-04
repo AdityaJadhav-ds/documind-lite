@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 37075
+Date: Nov 10 2012
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Arthur Prichep 90008, Los Angeles, pion’
+California, United Balance Due: $95.46
+States
+Item Quantity Rate Amount
+50 Colored Long Pencils 3 $30.48 $91.44
+Art, Office Supplies, OFF-AR-2875
+Subtotal: $91.44
+Shipping: $4.02
+Total: $95.46
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AP10915140-41223

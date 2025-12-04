@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 33274
+Date: Oct 17 2012
+Bill To: Ship To:
+“e pie Ship Mode: Second Class
+Alan Schoenberger 36116, Montgomery,
+Alabama, United Balance Due: $3,305.18
+States
+Item Quantity Rate Amount
+Global Wood Trimmed Manager's Task Chair, Khaki 6 $545.88 $3,275.28
+Chairs, Furniture, FUR-CH-4429
+Subtotal: $3,275.28
+Shipping: $29.90
+Total: $3,305.18
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AS10225140-41199

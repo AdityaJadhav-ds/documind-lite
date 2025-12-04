@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 38585
+Date: Sep 01 2012
+Bill To: Ship To:
+n° p Ship Mode: Standard Class
+Andy Gerbode 77095, Houston,
+Texas, United States Balance Due: $1,052.20
+Item Quantity Rate Amount
+Epson TM-T88V Direct Thermal Printer - Monochrome - Desktop 3 $559.71 $1,679.13
+Machines, Technology, TEC-MA-4213
+Subtotal: $1,679.13
+Discount (40%) : $671.65
+Shipping: $44.72
+Total: $1,052.20
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AG10525140-41153

@@ -1,0 +1,506 @@
+SOFTWARE DISTRIBUTION AGREEMENT
+
+This Software Distribution Agreement ("Agreement") is made between WordLogic ("Software
+Owner") and Handango, Inc. ("Publisher") (each, a "Party"; together, the "Parties").
+
+Grant and Reservation of Rights.
+
+License to Use & Distribute. Software Owner grants Publisher and Publisher's authorized sales
+agents ("Channel Partners") the right and license to use, distribute, copy (in connection with
+electronic distribution only), market and license in any media throughout the world (including CDs,
+Springboard modules, CompactFlash cards, the world wide web, and other commercially acceptable
+means) the computer programs and user manuals (collectively, "Software"), now or later owned by
+Software Owner.
+
+Trademark License. Software Owner grants Publisher a nonexclusive, worldwide, royalty-free right
+and license to use its trademarks, trade names, service marks, logos or other identifying or
+distinctive marks (collectively, "Marks"), provided that Publisher will comply with Software
+Owner's trademark usage guidelines.
+
+Distribution. Publisher, at its sole discretion and at any time, may refuse to distribute any piece of
+Software from Software Owner that it deems inappropriate. In addition, Publisher, at its sole
+discretion and at any time, reserves the right to choose which Value Added Channel or Channels, as
+described in Exhibit B ("Channels"), if any, to distribute the Software.
+
+Demonstration License. Software Owner grants Publisher a royalty-free nonexclusive right and
+license to use, publicly display, publicly perform, and duplicate the Software either directly by
+Publisher's employees or through Publisher's Channel Partners solely for the purpose of marketing
+or demonstrating the Software to prospective customers. Such marketing or demonstration efforts
+may include demonstrating the Software online via an Internet accessible emulation device,
+webcasting, or other means.
+
+Suites. Publisher reserves the right to ask Software Owner to refrain from incorporating the word
+"Suite" in the Software name. Upon receipt of this request in writing, Software Owner must make
+any necessary changes to the Software within twenty-one (21) days.
+
+Obligations of Software Owner. Software Owner will not forward the Customer Information it
+receives from Publisher (as defined in Section 3(c)) to any third parties. Unless otherwise noted,
+Software Owner will provide, at no charge, to Publisher or, where applicable, the customer, the
+following:
+
+Promotional Material. Marketing materials and user manuals in all reasonably available media for
+use, at the Publisher's sole discretion, in marketing, installing or using the Software.
+
+Software Distribution. The Software in a form suitable for electronic reproduction and distribution.
+Before delivering any computer program to Publisher, Software Owner must first test the computer
+program to ensure it is, to a reasonable extent, free of defects.
+
+Bug Fixes. Bug fixes or software patches as are reasonably required to ensure proper operation of
+the Software in accordance with its accompanying documentation.
+
+Enhancements. Upgrades or enhancements for the Software within fourteen (14) days of their
+release, provided that the Software Owner may, at its sole discretion, charge customers for such
+upgrades or enhancements.
+
+Customer Support. Technical support that is accessible via e-mail or telephone during normal
+business hours to customers who purchase the Software. The level of support must, at a minimum,
+
+be in accordance with Software Owner's support policies then in effect.
+
+Volume Pricing. Software Owner will provide Publisher with a volume pricing model for all
+Software unless Software Owner elects to use Publisher's standard volume pricing model for any
+Software. Consistent with the foregoing, if Software Owner does not supply Publisher with a
+volume pricing model for any Software, Publisher and Publisher's Channel Partners may use
+Publisher's standard volume pricing model for sales of that Software in multiple quantities. The
+volume pricing model used for sales of Software in multiple quantities will determine the suggested
+retail price ("SRP") for the Software. Software Owner may view Publisher's standard volume
+pricing model through Software Owner's online account with Publisher accessible via Publisher's
+website, and Publisher may update Publisher's standard volume pricing model at its sole discretion
+and at any time.
+
+Obligations of Publisher.
+
+Marketing. Publisher will bear all expenses for its operation and staff. Publisher will advertise and
+promote the Software at Publisher's sole discretion and expense.
+
+Publisher's Services. Publisher will use reasonable efforts to provide installation assistance,
+technical training for end-users and first level support and maintenance services, which will include
+resolving problems not primarily caused by the Software's malfunction.
+
+Reports. Publisher will use reasonable efforts to provide Software Owner on a monthly basis an
+Invoice Report that identifies the number of customers who purchased the Software and have
+submitted payment to Publisher and the customer name and contact information (collectively,
+"Customer Information"), provided Software Owner is not in breach of any of its obligations.
+
+Returns. Returns from customers will be made in accordance with Publisher's Return Policy as
+described on Publisher's website at www.handango.com, which Return Policy may be updated by
+Publisher at its sole discretion and at any time.
+
+Payment.
+Invoice Procedure. Publisher will invoice its customers and collect all amounts due.
+
+Payments. For each customer of Publisher that purchases the Software, Publisher will remit the
+amounts due Software Owner pursuant to the terms set forth in Exhibit A ("Software Partner
+Program"), less any taxes Publisher withholds, within one (1) month after the close of any month in
+which Publisher receives full payment from that customer. Consistent with the foregoing, Publisher
+need not remit payment to Software Owner for Publisher's internal installation or use of the
+Software or for any unpaid purchases. Returns from customers will be credited against sales of
+Software. If Publisher fails to pay any amounts when due, Publisher shall pay Software Owner
+interest on the unpaid amount at the rate of twelve percent (12%) per annum.
+
+Verification. Software Owner may, once every twelve (12) months and at its sole expense, hire an
+independent accountant to audit Publisher's financial records to the extent reasonably necessary to
+verify Publisher's compliance with its payment obligations under this Agreement. Notwithstanding
+the foregoing, any financial records not audited within a twelve (12) month period will be deemed
+accurate and not subject to review. Should such audit discover a discrepancy of ten percent (10%)
+or more in the Software Owner's favor, Software Owner shall be reimbursed for the costs of such
+audit, in addition to receiving the adjusted payment.
+
+Limitation of Liability. INNO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER
+FOR ANY INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT
+LIMITED TO LOSS OF ANTICIPATED PROFITS) IN CONNECTION WITH OR ARISING
+OUT OF THIS AGREEMENT OR THE FURNISHING, FUNCTIONING, USE, DISTRIBUTION
+OR MARKETING OF THE SOFTWARE OR ANY RELATED ITEM OR SERVICE PROVIDED
+
+BY SOFTWARE OWNER OR PUBLISHER.
+Terms and Termination.
+
+In General. This Agreement commences on the date of the last signature, electronic via online
+acceptance or otherwise, and shall remain in effect for twelve (12) months (the "Term"). This
+Agreement automatically renews for successive twelve (12) month periods (the "Renewals"), unless
+either party notifies the other party in writing, at least sixty (60) days before the end of the Term or
+any Renewals, of its election not to renew. Either party may terminate this Agreement by giving the
+other party thirty (30) days prior written notice based on any of the following: (i) the other party's
+failure to comply with any term of this Agreement within thirty (30) days after written notification;
+or (ii) the other party's insolvency or the filing of any proceeding by or against that party seeking
+relief from creditors.
+
+Termination. Either party may terminate this Agreement at any time by giving the other party ninety
+(90) days prior written notice based on any reasoning not listed in 6a (i) or 6a(ii) of this Agreement.
+
+Final Termination Reports. Within thirty (30) days of termination of this Agreement, Publisher
+shall provide Software Owner with a statement of all sums due to Software Owner under this
+Agreement.
+
+Rights and Duties Upon Termination. In the event of expiration or termination of this Agreement:
+(i) Publisher shall not license, sell or otherwise dispose of the Software to any third party after such
+expiration or termination; and (ii) the Software Owner shall be responsible for continued support of
+past and future sales of the Software.
+
+Return of Software. Upon termination or expiration of this Agreement, Publisher shall deliver to
+Software Owner all Software, including code and documentation, covered by this Agreement or
+destroy or erase any versions of such material which cannot be returned to Software Owner.
+
+Survival. The provisions of Sections 5, 6c, 6d, 6e, 6f, 7, 8, 9a, 9b, 9d, 9f, and the representations
+made at the end of this Agreement and in Exhibit A to this Agreement will survive any termination
+of this Agreement.
+
+Proprietary Rights.
+
+Ownership by Software Owner. The parties agree that Software Owner owns all proprietary rights,
+including copyrights, patents, trademarks, and trade secrets, in and to the Software and that this
+Agreement does not transfer ownership of any of these rights.
+
+Ownership by Publisher. The parties agree that Publisher owns all proprietary rights, including
+copyrights or trademarks, in any marketing materials created, modified or otherwise prepared by
+Publisher which may contain Software Owner's proprietary materials, including copyrights or
+trademarks.
+
+Warranties and Indemnification.
+
+General Warranties. Each party warrants that it has the full power, legal right and authority to enter
+into this Agreement and perform its obligations hereunder.
+
+Warranties by Software Owner. Software Owner warrants that all Software are, as far as Software
+Owner can reasonably determine, free of any viruses, Trojan horses, trap doors, back doors, Easter
+eggs, worms, time bombs, cancelbots or other computer programming routines that are intended to
+damage, interfere with, intercept, or expropriate any system data or personal information.
+Furthermore, Software Owner warrants that it has used commercially reasonable means to
+determine if the Software infringes upon any patent, copyright, trade secret, or any other third party
+personal or proprietary right, and has determined that the Software provided to Publisher pursuant
+to this Agreement does not violate any third party's intellectual property rights.
+
+Duty to Indemnify. Software Owner shall indemnify and hold harmless Publisher, as well as
+Publisher's Channel Partners that resell the Software, against any and all liability, suits, claims,
+losses, damages and judgments, and shall pay all costs (including reasonable attorney's fees) and
+damages to the extent that such liability, costs or damages arise from a claim that the Software
+infringes any patent, copyright, trade secret, or any other third party personal or proprietary right.
+Software Owner's obligations under this Section are conditioned upon it being given prompt notice
+of each such claim received in writing by Publisher. Publisher shall indemnify and hold harmless
+Software Owner against any and all liability, suits, claims, losses, damages and judgments, and shall
+pay all costs (including reasonable attorney's fees) and damages to the extent that such liability,
+costs or damages arise from a claim that the Publisher infringes any patent, copyright, trade secret,
+or any other third party personal or proprietary right. Publisher's obligations under this Section are
+conditioned upon it being given prompt notice of each such claim received in writing by Software
+Owner.
+
+General Provisions.
+
+Notices. All notices under or relating to this Agreement may be sent by e-mail or by registered mail
+to the address below or to any other address the party may designate in writing.
+
+Notices to Publisher: (see Publisher's website at www.handango.com for Publisher's contact
+information)
+
+Notices to Software Owner: (see contact information below)
+
+Integration. This Agreement and its exhibit(s), attachments, and/or addenda, if any, set forth the
+entire understanding of the parties with respect to the subject matter of this Agreement and
+supersede all prior agreements, understandings and negotiations with respect to the subject matter
+hereof.
+
+Amendment. Publisher may, from time to time, modify the terms of this Agreement by: (i) posting
+the revised agreement on Publisher's website and notifying Software Owner of the change by e-
+mail; (ii) forwarding a copy of the revised Agreement to Software Owner, whether electronically or
+through a postal service; or (iii) any other means reasonably calculated to inform Software Owner
+of the terms of the revised agreement. Unless Software Owner objects to the revised agreement in
+writing to Publisher within thirty (30) days of receiving notice of the change, in which case no
+revision will take effect, Software Owner will be deemed to have accepted the terms of the revised
+Agreement and the as-revised Agreement will take effect and be binding on both parties at the end
+of Software Owner's thirty (30) day objection period. No modification, amendment, supplement to
+or waiver of any provision of this Agreement shall be binding upon the Parties unless in writing and
+accepted by Software Owner in the manner described above or signed by both Parties.
+
+Governing Law. This Agreement is to be construed in accordance with the law of the United States
+of America and, in particular, the State of Texas. Any dispute or litigation based on, related to or
+arising out of this Agreement must be brought and maintained in Dallas, Texas, U.S.A., before a
+court of competent jurisdiction. Each party consents to the personal jurisdiction of the State of
+Texas, acknowledges that venue is proper in any of its state or federal courts, and waives any
+objection it has or may have in the future with respect to any of the above.
+
+Acquisition. Neither party may assign this Agreement, or sublicense, assign or delegate any right or
+duty hereunder, without the prior written consent of the other; except that either party may assign its
+rights and obligations under this Agreement to any third party in connection with any merger, sale
+of assets or other reorganization or consolidation transaction, provided that the third party to whom
+the rights will be assigned first agrees in writing to assume the assigning party's obligations under
+this Agreement.
+
+Legal Effect. A printed version of this Agreement and of any notice given in electronic form shall be
+
+admissible in judicial or administrative proceedings based upon or relating to this Agreement to the
+same extent and subject to the same conditions as other business documents and records originally
+generated and maintained in printed form.
+
+Counterparts/Facsimiles. This Agreement may be executed in any number of counterparts, each of
+which when executed and delivered shall be deemed an original, and such counterparts together
+shall constitute one and the same instrument. For the purposes hereof, a facsimile copy of this
+Agreement including the signature pages hereto, shall be deemed an original.
+
+BY COMPLETING THE INFORMATION OR CLICKING THE "I AGREE" BUTTON BELOW,
+YOU REPRESENT AND WARRANT THAT THE INFORMATION PROVIDED BELOW IS
+TRUE AND ACCURATE, YOU ARE AT LEAST 18 YEARS OLD, AN AUTHORIZED
+REPRESENTATIVE OF THE SOFTWARE OWNER AND HAVE THE POWER AND
+AUTHORITY TO ENTER INTO AND BIND SOFTWARE OWNER TO THIS AGREEMENT.
+YOU AND THE SOFTWARE OWNER, ACKNOWLEDGE THAT YOU HAVE READ THIS
+AGREEMENT (WHICH INCLUDES ALL EXHIBITS), UNDERSTAND IT, AND AGREE TO
+BE BOUND BY ITS TERMS AND CONDITIONS.
+
+Exhibit A
+SOFTWARE PARTNER PROGRAM
+
+All trial versions of the Software provided by Software Owner pursuant to this Agreement must
+clearly direct the customer only to the Publisher to register and/or purchase the Software. The
+reference to the Publisher within the trial version of the Software must include the main URL of
+Publisher's website at www.handango.com or a specific web page accessible through
+www.handango.com and must be displayed, at a minimum, in the registration screen(s). If any
+Software does not contain a registration screen, then the reference and link to the Publisher and the
+Publisher's website must be displayed in all comparable introductory or informational screens.
+Consistent with the foregoing, Publisher grants to Software Owner a limited royalty-free
+nonexclusive and non-transferable license to incorporate and display the Publisher's Marks in the
+Software computer programs.
+
+For any Software sold through Publisher's Basic or Value Added Channels (Basic and Value Added
+Channels are listed in Exhibit B), Publisher will purchase the Software at a cost equal to a product
+of the Software's SRP multiplied by the percentage of the Software's SRP owed to Software Owner
+as a royalty. Software Owner will provide the SRP for all Software being distributed pursuant to
+this Agreement. At no time shall the Software's SRP provided to Publisher be higher than the
+Software's SRP provided to other distributors. The actual retail price of the Software to be
+determined by Handango may differ from the SRP provided by Software Owner.
+
+During the first year that any Software is sold through Publisher's Basic or Value Added Channels,
+Publisher shall pay Software Owner a royalty for each sale equal to percentages of the Software's
+SRP according to the following table:
+
+Basic Channels:
+
+70%
+
+Value Added Channels:
+
+70% for sales up to and including $10,000 per year
+
+60% for sales over $10,000 up to and including $50,000 per year
+
+50% for sales over $50,000 up to and including $100,000 per year; and
+40% for sales over $100,000 per year.
+
+In the first calendar year of this agreement, Software Owner's Royalty for Value Added Channel
+sales will be adjusted according to the table set forth above based on the aggregate dollar sales
+transacted through all of the Value Added Channels. In all subsequent years of this Agreement,
+Software Owner's Royalty for Value Added Channel sales will be set at the royalty level achieved in
+the prior calendar year (based on the prior year's volume sales) and will remain fixed at that royalty
+level throughout that calendar year until Value Added Channel sales reach the next highest level in
+the table above at which time the Software Owner's Royalty for Value Added Channel sales will be
+adjusted. If aggregate dollar sales transacted through all of the Value Added Channels in any
+calendar year is less than the amount in the prior calendar year, Software Owner's royalty will
+increase according to the table set forth above and begin in the subsequent calendar year.
+
+Thus, by way of example, if the aggregate sales volume of all Software through all Value Added
+Channels is $40,000 in year one of this Agreement, then the Software Owner's Royalty for the
+following year will be set initially at 60% for all sales through Value Added Channels. If the
+aggregate sales volume of all Software through all Value Added Channels is $60,000 in year two,
+then the Software Owner's Royalty will be set initially at 50% for all sales through Value Added
+Channels in year three. If the aggregate sales volume of all Software through all Value Added
+Channels is $40,000 in year three, then the Software Owner's Royalty will be set initially at 60% for
+all sales through Value Added Channels in year four.
+
+IT IS THE PARTIES' EXPRESS INTENT TO CONCLUDE AND BE BOUND BY THE TERMS
+OF THIS AGREEMENT EVEN IF A COURT OF COMPETENT JURISDICTION FINDS THE
+AGREEMENT DOES NOT FIX THE PRICE(S) FOR THE SOFTWARE TO BE DISTRIBUTED
+UNDER THIS AGREEMENT.
+
+Exhibit B
+
+CHANNELS
+
+Publisher's main website, www.handango.com, is a Basic Channel.
+
+Publisher's Value Added Channels include, but are not limited to, the following:
+
+CompuCom, Microsoft, Palm, Palm Europe, Palm Germany, Palm France, Compaq, Handango
+Germany, Tucows, Franklin-Covey, Sony, MSN, Software Spectrum, Mobile Planet, Mobile Planet
+France, Sarcom, PDABuzz, Vis-a-vis, Avant Go, Enable Systems, Yahoo!, Lycos, Lycos Germany,
+Dabs, Psion, Expansys, Jungle, and Casio.
+
+Value Added Channels will include, at a minimum, Publisher's sales team, certain websites with
+whom Publisher has special arrangements, or other means of distribution that Publisher may
+reasonably designate. The list of channels set forth above is not exhaustive and Software Owner will
+be notified by reasonable means, including the Publisher's electronic newsletters, when Publisher
+establishes or opens new distribution channels or re-designates existing channels in Publisher's sole
+and reasonable discretion (either from Basic to Value Added or vice versa). Publisher will not re-
+designate a Basic Channel to a Value Added Channel without a change in the conditions in which
+Software is distributed through that Basic Channel (such changes may include, but is not limited to,
+an increase in distribution cost or other resources required to maintain that distribution channel).
+Publisher reserves the right to establish new distribution channels with terms that differ from the
+terms of the Basic and Value Added Channels set forth in Exhibit A. In accordance with Section 9c,
+Publisher will notify Software Owner in writing of any such channel and the associated terms, and
+Software Owner may accept or decline the terms that apply to such channel.
+
+ADDENDUM ONE TO SOFTWARE DISTRIBUTION AGREEMENT
+
+This Addendum One to Software Distribution Agreement (“Addendum”) is entered into as of
+
+November 16, 2001 (the “Effective Date”), by and between WordLogic Corporation (“Software Owner”)
+and Handango, Inc. (Distributor”).
+
+1.
+
+Grant of Rights. Software Owner grants Distributor an exclusive license to sell and deliver Software
+and Physical Delivery Products via Software Owner’s website and a non-exclusive license to sell and
+deliver Software and Physical Products via channels other than Software Owner’s website.
+
+Launch Date. “Launch Date” means the date the Distributor’s e-commerce solution as described in
+Section 3 is first made commercially available at Software Owner’s website. The intended Launch
+Date is currently November 15, 2001.
+
+Obligations and Rights of Distributor.
+
+a. Services Provided. Distributor will build, integrate and maintain a backend e-commerce solution
+including, but not limited to, timely and accurate maintenance of Software Owner’s product line,
+choice of shipping method, End-User customer service, real-time and bi-weekly sales reporting,
+manage related tax and compliance issues, provide a secure order process, fraud protection, order
+fulfillment, and a merchant account for Software Owner. Software Owner hereby grants
+Distributor the right to use its copyright and trademark for the limited purpose of creating,
+integrating and maintaining the e-commerce solution.
+
+b. Returns. Returns from customers may be made in accordance with Distributor’s Return Policy as
+described on Distributor’s website, which may be updated from time to time by Distributor.
+
+c. Continuity of Service. Distributor shall make commercially reasonable efforts to maintain the
+availability of on-line ordering and processing. Software Owner acknowledges that periodic server
+and network failures are unavoidable and thus will not hold Distributor liable for damages or
+losses incurred as a result of such failures, except as agreed herein. Distributor shall ensure that the
+monthly average for uptime, where the Response Time and Page Generation Time shall be
+described herein, shall be no less than 99.8% (which does not include Handango’s scheduled
+downtimes for maintenance which Handango will not exceed three (3) hours per week).
+
+Obligations and Rights of Software Owner.
+
+a. Links. Software Owner agrees to maintain the necessary hyper-link(s) from Software Owner’s
+designated sales page(s) to Distributor’s appropriate Web page(s).
+
+Price and Payment
+
+a. Payments. Distributor will remit to Software Owner 85% of the total sales transaction amount for
+each Software sales that occurs at Software Owner’s website of Software Owner’s Software. The
+parties agree to the price discount schedules for the Physical Delivery products set forth in Exhibit
+A. Revisions to the payment terms and price discount schedules of this Addendum shall take
+effect only after the prior written consent of both parties has been obtained.
+
+Term and Termination Rights.
+
+a. In General. The initial term of this Addendum will commence on the Effective Date and will
+continue for a period of one (1) year (the “Term”) after the Launch Date. This Addendum
+automatically renews for successive one (1) year periods (the “Renewals”), unless either party
+notifies the other party in writing, at least sixty (60) days before the end of the Term or Renewals,
+of its election not to renew. Either party may terminate this Addendum by giving the other party
+ninety (90) days prior written notice based on any of the following: (i) the other party’s failure to
+comply with any terms of this Agreement within thirty (30) days after written notification; or (ii)
+the other party’s insolvency or the filing of any proceeding by or aginst that party seeking relief
+from creditors.
+
+7. Physical Delivery Products
+
+a. In General. Physical Delivery Products include computer hardware, peripherals, accessories, parts
+and other goods in boxed packages, and copies of computer software (e.g., programs and
+databases) and related user guides, reference manuals and other documentation in sealed packages
+that include the diskette or cd roms and documentation.
+
+AGREED:
+SOFTWARE OWNER: DISTRIBUTOR:
+WordLogic Corporation Handango, Inc.
+Signature /s/ Mark Dostie Signature /s/ Alana Mcintyre
+Title Chief Technical Officer Signature Business Development Associate
+Address #2400-650 W. Georgia Street Address 305 Northeast Loop 820
+
+Vancouver, B.C. Signature Hurst, Texas 76053
+Date November 15, 2001 Date November 15, 2001
+
+Exhibit A
+Physical Delivery Products
+Physical Delivery Product(s) MSRP Reseller Price ($ amount
+
+N/A N/A N/A
+
+AMENDMENT ONE TO ADDENDUM TO SOFTWARE DISTRIBUTION AGREEMENT
+(CD-ROM PROMOTION)
+
+This Amendment One to Addendum to Software Distribution Agreement (CD-ROM Promotion)
+(“Addendum”) between WordLogic Corporation (“Software Owner”) and Handango, Inc. (“Publisher”) is
+entered into as of March 1, 2002.
+
+The following Section shall be added to the Addendum as sections 3.d:
+
+3. Obligations and Rights of Publisher.
+
+d. Marketing. The minimum amount (US dollars) of marketing expenditures for the distribution
+of CD-ROMS as described in this Section 3(d) and provided to Software Owner by Publisher during the
+Term of this Addendum shall be $5,000. Publisher shall participate with an Original Equipment
+Manufacturer (OEM) partner in the production or distribution of CD-ROMS targeted at users of certain
+handheld devices manufactured by the OEM partner, and Publisher shall promote Software on CD-ROMS
+and provide end users of the CD-ROM a link to the relevant Handango web site to purchase Software
+Owner’s products.
+
+The following Section shall be added to the Addendum as Section 5.b:
+
+5. Payment.
+
+b. Payments. Notwithstanding Section 5.a to the contrary, beginning on the first date the CD-
+ROMS referenced in Section 3.d of this Amendment ship to users, within (1) month after the last day of
+any month in which Publisher receives any payment for Software sales that occur at Software Owner’s
+website through Publisher’s ecommerce services, Publisher shall pay Software Owner a royalty for each
+Software sale equal to 50% of the Software’s Suggested Retail Price (“SRP). Software Owner’s payment
+for such Software sales shall return to its previous amount of 85%, as set forth in Section 5.a, when the CD-
+ROM promotion described above ends. Returns from customers will be credited against sales of Software.
+Revisions to these payments terms shall take effect only after the prior written consent of both Parties has
+been obtained.
+
+The following Section shall be added to the Addendum as Section 8:
+
+8. Notification. By March 15, 2002, Publisher shall notify Software Owner in writing of the OEM partner,
+the specific handheld devices with which the CD-ROMS referenced in this Amendment are shipped, and
+the first date the CD-ROMS referenced in this Amendment will ship to end users.
+
+The following Section shall be added to this Addendum as Section 9:
+
+9. Distributor agrees that it shall not use the Software or Physical Delivery Products in any way except as
+set forth in the original agreement, the Addendum and this Amendment. Distributor agrees that it shall not
+disclose proprietary and/or confidential information of Software Owner to any third party without Software
+Owner’s prior written consent.
+
+All capitalized terms not otherwise defined herein shall have those meanings ascribed to them in the
+original agreement or the Addendum. Except as expressly set forth herein, all terms and conditions of the
+Software Distribution Agreement and the Addendum shall remain unchanged and in full force and effect.
+
+AGREED:
+“SOFTWARE OWNER”
+
+WordLogic Corporation
+
+By: /s/ T. Allen Rose
+
+Name: T. Allen Rose
+
+Title: Chief Financial Officer & Director
+
+Address: #2400 — 650 West Georgia Street
+
+Vancouver, BC, Canada, V6B 4N7
+
+Date: March 5, 2002
+
+“PUBLISHER”
+
+Handango, Inc.
+
+By: /s/ Eric Matzinger
+
+Name:__ Eric Matzinger
+
+Title: Senior Director of Business Development
+
+Address: 305 NE Loop 820, Suite 200
+
+Hurst, TX 76053
+
+Date: March 5, 2002

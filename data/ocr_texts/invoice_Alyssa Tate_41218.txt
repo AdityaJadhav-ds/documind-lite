@@ -1,0 +1,31 @@
+SuperStore INVOICE
+
+#41218
+
+Date: Nov 23 2012
+
+Bill To: Ship To: ;
+| Ship Mode: Standard Class
+Alyssa Tate 44312, Akron, Ohio,
+
+United States Balance Due: $6.27
+
+Item Quantity Rate Amount
+Acco Expandable Hanging Binders 3 $5.74 $17.23
+
+Binders, Office Supplies, OFF-BI-2907
+
+Subtotal: $17.23
+
+Discount (70%) : $12.06
+
+Shipping: $1.10
+
+Total: $6.27
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AT10435140-41236

@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 39797
+Date: Mar 04 2012
+Bill To: Ship To: ;
+; | Ship Mode: Second Class
+Aimee Bixby 10701, Yonkers, New
+York, United States Balance Due: $205.77
+Item Quantity Rate Amount
+Xerox 1891 2 $97.82 $195.64
+Paper, Office Supplies, OFF-PA-6441
+Subtotal: $195.64
+Shipping: $10.13
+Total: $205.77
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AB10150140-40972

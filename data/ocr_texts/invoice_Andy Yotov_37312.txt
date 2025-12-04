@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 37312
+Date: Apr 05 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Andy Yotov 90049, Los Angeles,
+California, United Balance Due: $186.69
+States
+Item Quantity Rate Amount
+Tenex B1-RE Series Chair Mats for Low Pile Carpets 2 $91.96 $183.92
+Furnishings, Furniture, FUR-FU-6227
+Subtotal: $183.92
+Shipping: $2.77
+Total: $186.69
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AY10555140-41004

@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 33136
+Date: Jul 31 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Barbara Fisher 28205, Charlotte,
+North Carolina, Balance Due: $55.96
+United States
+Item Quantity Rate Amount
+Honeywell Quietcare HEPA Air Cleaner 1 $62.92 $62.92
+Appliances, Office Supplies, OFF-AP-4718
+Subtotal: $62.92
+Discount (20%) : $12.58
+Shipping: $5.62
+Total: $55.96
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-BF10975140-41121

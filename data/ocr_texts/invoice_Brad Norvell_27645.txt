@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 27645
+Date: Nov 29 2012
+Bill To: Ship To: ; .
+Ship Mode: First Class
+Brad Norvell Kuala Lumpur, Kuala
+Lumpur, Malaysia Balance Due: $3,371.68
+Item Quantity Rate Amount
+Eldon File Cart, Blue 5 $634.80 $3,174.00
+Storage, Office Supplies, OFF-ST-4055
+Subtotal: $3,174.00
+Shipping: $197.68
+Total: $3,371.68
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ID-2012-BN1147078-41242

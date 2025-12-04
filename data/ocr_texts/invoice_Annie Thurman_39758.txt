@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 39758
+Date: Aug 29 2012
+Bill To: Ship To: ;
+; . Ship Mode: Standard Class
+Annie Thurman 6010, Bristol,
+Connecticut, United Balance Due: $296.36
+States
+Item Quantity Rate Amount
+Fellowes Bankers Box Stor/Drawer Steel Plus 3 $95.94 $287.82
+Storage, Office Supplies, OFF-ST-4245
+Subtotal: $287.82
+Shipping: $8.54
+Total: $296.36
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AT10735140-41150

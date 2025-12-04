@@ -1,0 +1,105 @@
+JESSICA CLAIRE
+100 Montgomery St. 10th Floor
+
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+6+ years of professional IT experience in develop, build and deployment of web applications. 3 years in practicing DevOps, Cloud
+Automation & Quality Engineering
+
+SKILLS
+« Effective communication © Developer collaboration
+© Project planning © Operational analysis
+¢ Performance Management © Build releases
+¢ IT solution development e Agile
+© Meeting participation © Code reviews
+Worx History
+
+06/2018 to 02/2021 DevOps Engineer
+Cgi Group Inc. — Mobile, AL
+
+* Strong experience in working with version control systems such as Git, GitHub, Bitbucket, Azure Git
+
+© Collaborated with cross-functional development team members to analyze potential system solutions based on
+evolving client requirements.
+
+« Extensive experience in setting up CI/CD pipelines using tools such as Jenkins, Maven, Docker, Nexus,
+Artifactory, Slack and Azure pipelines
+
+e Experience in migrating applications to both AWS and Azure cloud platforms
+
+e Extensive experience in distributed Agile and Scrum methodologies to develop best practices for software
+development and implementation
+
+¢ Experience working with developing scripts and automation tools used for building, integrating and deploying
+software releases to multiple environments.
+
+© Strong knowledge in Tomcat, WebLogic servers on different Operating Systems like Windows, Linux VMware,
+UNIX and Solaris platforms.
+
+¢ Strong exposure to configuration management tools such as Terraform, Ansible.
+
+* Good knowledge in Kubernetes and have setup clusters in Amazon EKS.
+
+* Strong experience in code quality and code coverage tools such as SonarQube, JaCoCo and JUnit.
+
+© Good knowledge of virtualization and container technology like Docker. Experience in creating Dockerfiles and
+working with Docker containers.
+
+© Strong knowledge on practicing TDD, automating Junit tests using Maven in Jenkins.
+
+¢ Participated in the release cycle of the product which involved environments like Development, QA UAT and
+Production
+
+e A highly motivated, energetic individual, a team player with excellent communication and inter-personal skills
+
+© Worked closely with other business analysts, development teams and infrastructure specialists to deliver high
+availability solutions for mission-critical applications
+
+* Monitored automated build and continuous software integration process to drive build/release failure resolution.
+
+02/2015 to 06/2018 Azure Cloud Engineer
+Alvarez & Marsal — Nashville. TN
+Responsible for managing Azure resources in cloud and maintain Continuous Integration and Continuous Deployment
+(CI/CD) pipeline for fast paced robust application development environment. As a member of onboarding team, my
+responsibility was to implement DevOps transformation by working with Agile teams to migrate applications to Azure
+platform.
+Roles:
+© Created WebApps (PaaS solutions) on Azure portal for deploying web applications using Azure DevOps
+pipelines.
+© Setup AKS clusters in Azure using Azure CLI
+© Setup repos on Azure Git, merging code from develop branch to master branch and make it ready for deployment.
+© Created nightly builds with integration to code quality tools such as SonarQube, Veracode
+© Set up the SonarLint plug-ins in developer’s workstation for detecting defects early during development.
+© Created quality gates in SonarQube dashboard and enforced in the pipelines to fail the builds when conditions
+were not met.
+© Built and deployed Docker containers to break up monolithic app into micro services, improving developer
+workflow, increasing scalability, and optimizing speed.
+© Prepared and presented SCM best practices for implementing continuous integration for the team
+© Helped teams to reduce defects rate by 30% by introducing TDD in first 3 months
+© Migrated legacy applications to Microsoft Azure Cloud PaaS by setting up CI/CD pipelines on AzureDevOps
+
+01/2015 to 07/2015 Scrum Master
+Loan Depot — Franklin, TN
+e Applied agile methodology to shorten cycle time and achieve target margins.
+¢ Planned Agile best practices and encouraged team cohesion, overcoming impediments and hurdles to productivity.
+© Shielded scrum team from external interference for optimal productivity and success of Agile process.
+© Led sprint reviews, daily scrums and planning meetings to realize full team engagement.
+¢ Facilitated Scrum framework — sprint planning, backlog grooming, daily scrums, sprint reviews and sprint
+retrospectives.
+© Worked effectively with multiple Scrum teams both internally and off-shore.
+© Managed product backlog and supported Scrum framework for monthly sprint releases.
+© Collaborated with product owners, team members, technologists and other scrum masters to define solutions and
+
+drive progress.
+¢ Planned and arranged meetings with extemal organizations and individuals, enabling parties to meet and discuss
+project progress.
+© Proactively identified and found ways to resolve issues to prevent distractions and keep projects on track.
+EpucaTion
+High School Diploma
+
+Girls High School - Lagos Nigeria
+
+12/2012 B.Ed.: Physical & Health Education
+Michael Otedola College of Education - Lagos, Nigeria

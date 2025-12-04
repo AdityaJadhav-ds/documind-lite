@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 31669
+Date: Jul 22 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Arthur Gainer 85705, Tucson,
+Arizona, United Balance Due: $13.39
+States
+Item Quantity Rate Amount
+Wilson Jones Custom Binder Spines & Labels 5 $8.16 $40.80
+Binders, Office Supplies, OFF-BI-6388
+Subtotal: $40.80
+Discount (70%) : $28.56
+Shipping: $1.15
+Total: $13.39
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-AG10900140-41112

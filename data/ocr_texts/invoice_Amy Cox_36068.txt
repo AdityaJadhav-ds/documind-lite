@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 36068
+Date: Oct 30 2012
+Bill To: Ship To: ;
+Ship Mode: Second Class
+Amy Cox 85323, Avondale,
+Arizona, United Balance Due: $4,992.81
+States
+Item Quantity Rate Amount
+Plantronics HL10 Handset Lifter 8 $742.34 $5,938.69
+Phones, Technology, TEC-PH-5607
+Subtotal: $5,938.69
+Discount (20%) : $1,187.74
+Shipping: $241.86
+Total: $4,992.81
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-AC10450140-41212

@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 32441
+Date: Sep 28 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Arthur Prichep 90045, Los Angeles,
+California, United Balance Due: $1,179.89
+States
+Item Quantity Rate Amount
+Star Micronics TSP800 TSP847IIU Receipt Printer 2 $686.32 $1,372.64
+Machines, Technology, TEC-MA-6131
+Subtotal: $1,372.64
+Discount (20%) : $274.53
+Shipping: $81.78
+Total: $1,179.89
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AP10915140-41180

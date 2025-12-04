@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 38989
+Date: Dec 28 2012
+Bill To: Ship To: ;
+| . Ship Mode: Standard Class
+Arianne Irving 94513, Brentwood,
+California, United Balance Due: $540.70
+States
+Item Quantity Rate Amount
+Alphabetical Labels for Top Tab Filing 6 $88.80 $532.80
+Labels, Office Supplies, OFF-LA-3083
+Subtotal: $532.80
+Shipping: $7.90
+Total: $540.70
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-Al10855140-41271

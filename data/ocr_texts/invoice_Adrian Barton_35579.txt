@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 35579
+Date: Dec 19 2012
+Bill To: Ship To: ; .
+. . . Ship Mode: First Class
+Adrian Barton 46203, Indianapolis,
+Indiana, United Balance Due: $5.08
+States
+Item Quantity Rate Amount
+Avery 487 1 $3.69 $3.69
+Labels, Office Supplies, OFF-LA-3206
+Subtotal: $3.69
+Shipping: $1.39
+Total: $5.08
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AB10105140-41262

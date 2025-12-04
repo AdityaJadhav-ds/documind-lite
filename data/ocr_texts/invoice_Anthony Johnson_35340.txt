@@ -1,0 +1,7 @@
+INVOICE
+
+Date: Jun 5, 2023
+Bill To: Balance Due: $0.00
+Item Quantity Rate Amount
+
+Total: $0.00

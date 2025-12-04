@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 39757
+Date: Aug 29 2012
+Bill To: Ship To:
+ne pie . Ship Mode: Standard Class
+Annie Thurman 6010, Bristol,
+Connecticut, United Balance Due: $128.51
+States
+Item Quantity Rate Amount
+Wilson Jones Standard D-Ring Binders 5 $25.30 $126.50
+Binders, Office Supplies, OFF-BI-6410
+Subtotal: $126.50
+Shipping: $2.01
+Total: $128.51
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AT10735140-41150

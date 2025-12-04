@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 49367
+Date: Jan 24 2012
+Bill To: Ship To: ;
+; | Ship Mode: Same Day
+Ann Blume Tallinn, Harjumaa,
+Estonia Balance Due: $2,840.29
+Item Quantity Rate Amount
+Cisco Smart Phone, Full Size 2 $1,302.78 $2,605.56
+Phones, Technology, TEC-PH-3806
+Subtotal: $2,605.56
+Shipping: $234.73
+Total: $2,840.29
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : EN-2012-AB60042-40932

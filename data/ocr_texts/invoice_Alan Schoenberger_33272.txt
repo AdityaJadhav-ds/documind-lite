@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 33272
+Date: Oct 17 2012
+Bill To: Ship To: ;
+Ship Mode: Second Class
+Alan Schoenberger 36116, Montgomery,
+Alabama, United Balance Due: $864.03
+States
+Item Quantity Rate Amount
+Gould Plastics 18-Pocket Panel Bin, 34w x 5-1/4d x 20-1/2h 3 $275.97 $827.91
+Storage, Office Supplies, OFF-ST-4456
+Subtotal: $827.91
+Shipping: $36.12
+Total: $864.03
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AS10225140-41199

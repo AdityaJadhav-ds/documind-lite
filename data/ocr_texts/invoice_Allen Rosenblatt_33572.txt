@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 33572
+Date: Oct 02 2012
+Bill To: Ship To: ;
+Ship Mode: Second Class
+Allen Rosenblatt 90036, Los Angeles,
+California, United Balance Due: $302.92
+States
+Item Quantity Rate Amount
+Global Deluxe Stacking Chair, Gray 3 $122.35 $367.06
+Chairs, Furniture, FUR-CH-4403
+Subtotal: $367.06
+Discount (20%) : $73.41
+Shipping: $9.27
+Total: $302.92
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AR10405140-41184

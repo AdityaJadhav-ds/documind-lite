@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 33911
+Date: Apr 25 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Aleksandra 90049, Los Angeles,
+Gannaway California, United Balance Due: $587.09
+States
+Item Quantity Rate Amount
+Bevis Steel Folding Chairs 3 $230.28 $690.84
+Chairs, Furniture, FUR-CH-3433
+Subtotal: $690.84
+Discount (20%) : $138.17
+Shipping: $34.42
+Total: $587.09
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AG10300140-41024

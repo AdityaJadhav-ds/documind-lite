@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+#31421
+Date: Dec 25 2012
+Bill To: Ship To:
+" . pie Ship Mode: Second Class
+Alan Dominguez 77041, Houston,
+Texas, United States Balance Due: $1,319.71
+Item Quantity Rate Amount
+Global Deluxe High-Back Manager's Chair 3 $600.56 $1,801.67
+Chairs, Furniture, FUR-CH-4400
+Subtotal: $1,801.67
+Discount (30%) : $540.50
+Shipping: $58.54
+Total: $1,319.71
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-AD10180140-41268

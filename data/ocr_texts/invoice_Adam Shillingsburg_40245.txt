@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 40245
+Date: Dec 23 2012
+Bill To: Ship To: ; .
+wae . Ship Mode: First Class
+Adam Shillingsburg 92037, San Diego,
+California, United Balance Due: $16.13
+States
+Item Quantity Rate Amount
+Belkin 7-Outlet SurgeMaster Home Series 1 $13.97 $13.97
+Appliances, Office Supplies, OFF-AP-3367
+Subtotal: $13.97
+Shipping: $2.16
+Total: $16.13
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AS10090140-41266

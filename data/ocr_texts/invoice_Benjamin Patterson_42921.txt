@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 42921
+Date: Aug 01 2012
+Bill To: Ship To: ; .
+oo. . Ship Mode: First Class
+Benjamin Patterson Port Harcourt, Rivers,
+Nigeria Balance Due: $249.85
+Item Quantity Rate Amount
+SAFCO Executive Leather Armchair, Black 2 $275.40 $550.80
+Chairs, Furniture, FUR-CH-5774
+Subtotal: $550.80
+Discount (70%) : $385.56
+Shipping: $84.61
+Total: $249.85
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : NI-2012-BP123095-41 122

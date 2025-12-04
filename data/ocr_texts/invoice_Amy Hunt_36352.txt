@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 36352
+Date: Jan 02 2013
+Bill To: Ship To: Ship Mode: S acl
+Amy Hunt 75217, Dallas, Texas, p Mocs: econa Wiass
+United States Balance Due: $8,396.39
+Item Quantity Rate Amount
+O'Sullivan Living Dimensions 5-Shelf Bookcases 9 $1,352.40 $12,171.58
+Bookcases, Furniture, FUR-BO-5529
+Subtotal: $12,171.58
+Discount (32%) : $3,894.91
+Shipping: $119.72
+Total: $8,396.39
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2013-AH10465140-41276

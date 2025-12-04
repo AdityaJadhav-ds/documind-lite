@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+#40101
+Date: Dec 30 2012
+Bill To: Ship To: ; .
+| . Ship Mode: First Class
+Aaron Hawkins 10035, New York City,
+New York, United Balance Due: $58.00
+States
+Item Quantity Rate Amount
+Avery 51 3 $18.90 $56.70
+Labels, Office Supplies, OFF-LA-3231
+Subtotal: $56.70
+Shipping: $1.30
+Total: $58.00
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AH10030140-41273

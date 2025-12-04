@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+#12051
+Date: Aug 09 2012
+Bill To: Ship To:
+me pie Ship Mode: Standard Class
+Becky Pak London, England,
+United Kingdom Balance Due: $43,198.41
+Item Quantity Rate Amount
+Cisco Smart Phone, Cordless 9 $5,276.99 $47,492.89
+Phones, Technology, TEC-PH-3805
+Subtotal: $47,492.89
+Discount (10%): $4,749.29
+Shipping: $454.81
+Total: $43,198.41
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-BP11155139-41130

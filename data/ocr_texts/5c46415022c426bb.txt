@@ -1,0 +1,88 @@
+Brian Franks
+
+Database Manager
+
+Contact Details
+
+oJ 555-555-555
+® brianfranks2@gmail.com
+@ Dallas, TX
+
+Motivated Database Manager with experience in overseeing the installation, security,
+and upgrading of repositories through design optimization, query tuning, and indexing
+strategies. In-depth knowledge of technologies, tools, utilities, and methodologies,
+such as Oracle Exadata, RAC, MS SQL Server, SQL Always On, Greenplum, PostgreSQL,
+MySQL, Data Replication, UNIX, Windows, LINUX, OEL, OEM, SQL, PL/SQL, Transact SQL,
+and Shell. Passionate about training staff in preparing data models, monitoring data
+availability, optimizing data warehouses in agile working environments.
+
+Jan 2017 - Present impresiv Health, Dallas, TX
+Database Manager
+
+Outline
+
+Assess databases and identify opportunities to streamline data management, for an
+organization that helps companies solve complex business challenges through clinical
+consulting, staffing, project management, and software implementation services.
+
+Key Responsibilities
+
+« Spearhead technical discussions with business partners concerning the
+development of cutting-edge database systems and features.
+
+e Lead the design ETL and templates used to collect and store information from
+external sources so that data can be accessed by users.
+
+e Create complex query definitions that allow data to be efficiently extracted.
+
+« Formulate policies and QA for database management structures, deliverables, and
+analyses, including capacity planning, migration, and maintenance.
+
+* Setand enforce control for troubleshooting and correcting system errors.
+
+« Guide teams in conducting diagnostic tests, evaluating performance metrics, and
+submitting project status reports to aid decision-making at stakeholder level.
+
+« Ensure data warehouse integrity and protection through software/hardware
+upgrades, security audits, and patches to enhance the scalability of existing
+database architecture.
+
+« Hire, supervise, and mentor personnel towards completing responsibilities
+according to tight deadlines and budgets.
+
+« Document processes and guarantee activities comply with legal regulations to
+improve the effectiveness of database tools and services.
+
+e Stay abreast of new technologies to bring into scope of existing infrastructure.
+
+Key Achievements
+
+« Repaired a malfunctioning database and expedited its ability to produce critical
+reports by 24 hours, while meeting all requirement expectations.
+
+« Increased data processing time by 150% due to rewriting analysis programs,
+
+« Attained $185K+ savings by purchasing cost-effective equipment from IT vendors.
+
+e Recruited 15 new team members who exceeded technical milestones by 35%.
+
+Jul 2012 - Dec 2016 Cambia Health Solutions, Dallas, TX
+Database Administrator
+
+Outline
+
+Ensured accuracy and completeness of data in master files and support tools, for a
+company that help people achieve better health and well-being, as well as make health
+care more available, affordable, and accessible through innovative technology.
+
+Key Responsibilities
+
+« Planned, transformed, consolidated, and preserved multiple premium and core
+database management technologies and equipment.
+
+« Selected and entered codes of utility program to monitor database performance,
+such as distribution of records and amount of available memory.
+
+« Conferred with staff to understand the impact and cost of data base changes.
+
+Page 1

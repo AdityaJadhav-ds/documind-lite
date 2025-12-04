@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 48974
+Date: Jun 19 2012
+Bill To: Ship To: ;
+Ship Mode: Same Day
+Clay Ludtke Yaounde, Centre,
+Cameroon Balance Due: $808.08
+Item Quantity Rate Amount
+Okidata Card Printer, Durable 2 $351.90 $703.80
+Machines, Technology, TEC-MA-5497
+Subtotal: $703.80
+Shipping: $104.28
+Total: $808.08
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CM-2012-CL256522-41079

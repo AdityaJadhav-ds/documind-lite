@@ -1,0 +1,31 @@
+SuperStore INVOICE
+
+# 17062
+
+Date: Jun 01 2012
+
+Bill To: Ship To:
+ne pie Ship Mode: Standard Class
+Benjamin Venier London, England,
+
+United Kingdom Balance Due: $7,538.23
+
+Item Quantity Rate Amount
+KitchenAid Stove, Red 4 $2,052.54 $8,210.16
+
+Appliances, Office Supplies, OFF-AP-4965
+
+Subtotal: $8,210.16
+
+Discount (10%): $821.02
+
+Shipping: $149.09
+
+Total: $7,538.23
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-BV11245139-41061

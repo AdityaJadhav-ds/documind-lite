@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 28750
+Date: Dec 05 2012
+Bill To: Ship To: ;
+| . Ship Mode: Standard Class
+Andrew Gjertsen Xiangtan, Hunan,
+China Balance Due: $17,915.74
+Item Quantity Rate Amount
+HP Wireless Fax, Digital 7 $2,518.95 $17,632.65
+Copiers, Technology, TEC-CO-4790
+Subtotal: $17,632.65
+Shipping: $283.09
+Total: $17,915.74
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-AG1049527-41248

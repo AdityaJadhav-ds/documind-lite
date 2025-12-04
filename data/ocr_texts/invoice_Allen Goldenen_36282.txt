@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 36282
+Date: Sep 02 2012
+Bill To: Ship To: ;
+. Ship Mode: Same Day
+Allen Goldenen 10009, New York City,
+New York, United Balance Due: $77.37
+States
+Item Quantity Rate Amount
+Avery 514 5 $14.40 $72.00
+Labels, Office Supplies, OFF-LA-3236
+Subtotal: $72.00
+Shipping: $5.37
+Total: $77.37
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AG10390140-41154

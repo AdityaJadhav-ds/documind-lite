@@ -1,0 +1,68 @@
+Data Scientist Phone: (123) 456 78 99
+
+Email: Info@qwikresurne.corm
+
+ROBERT SMITH mee ee ined
+
+linkedin.com/qwikresume
+Address; 1737 Marshville Road,
+Alabarna,
+
+Objective
+Hardworking, organized, Data Scientist professional with a proven background delivering sensible
+
+business technology solutions on time and under budget while working as ateam mernber or
+tearn leader.&armp;nbsp;
+
+Skills
+
+Data Entry, Planning Skills, Analyzing SKills,
+
+Work Experience
+
+Data Scientist
+Best Buy - February 2015 - 2019
+
+Deployed some flagship projects, such as Sales Forces allocation across points of sales based
+on business potential and image by using various sources of data (point of sales, sales data
+by SKU, Sales Rep data, social network, third-party data),
+
+Prioritized outlets through social media data &armp; automated updates to increase market
+penetration and better calibration of our route to market,
+
+Gathered and organized large and complex data assets, perform relevant analyses and
+modeling.
+
+Eneured SPalvte fodel quality assurance and validate thern (peer validation),
+
+Defined model monitoring criteria,
+
+Communicated hypotheses and findings in a structured way,
+
+Partnered with Data Analysts to present the outcomes of our models.
+
+Data Scientist
+ABC Corporation - March 2014 - February 2015
+
+Description The aim of the project was to analyze individual customer behaviors and spending
+activities.
+
+By applying unsupervised and supervised machine learning techniques the tearn have been
+able to predict custorner behaviors.
+
+Responsibilities Analyzed individual custorner behavior,
+
+Segmented customers based on spending activities.
+
+Categorized risky customers based on the days past due parameter,
+
+Categorized active and Inactive customers based on thelr utilization.
+
+Designed, developed and deployed statistical data models.
+
+Education
+
+Diplorna
+
+© This Free Resume Template is the copyright of Qwikresume.com. Usage
+Guidelines

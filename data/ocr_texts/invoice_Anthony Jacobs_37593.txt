@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 37593
+Date: Dec 27 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Anthony Jacobs 1915, Beverly,
+Massachusetts, Balance Due: $3,574.15
+United States
+Item Quantity Rate Amount
+Fellowes Strictly Business Drawer File, Letter/Legal Size 5 $704.25 $3,521.25
+Storage, Office Supplies, OFF-ST-4289
+Subtotal: $3,521.25
+Shipping: $52.90
+Total: $3,574.15
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AJ10780140-41270

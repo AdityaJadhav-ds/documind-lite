@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 21620
+Date: Aug 18 2012
+Bill To: Ship To: Ship Mod Standard Cl
+ip Mode: andard Class
+Cari Sayre Luoyang, Fujian, P
+China Balance Due: $11,913.91
+Item Quantity Rate Amount
+Office Star Executive Leather Armchair, Black 5 $2,337.15 $11,685.75
+Chairs, Furniture, FUR-CH-5442
+Subtotal: $11,685.75
+Shipping: $228.16
+Total: $11,913.91
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-CS1184527-41139

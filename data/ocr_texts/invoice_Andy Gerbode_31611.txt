@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 31611
+Date: Aug 08 2012
+Bill To: Ship To: ;
+| Ship Mode: Standard Class
+Andy Gerbode 33710, Saint
+Petersburg, Florida, Balance Due: $306.04
+United States
+Item Quantity Rate Amount
+AT&T 1070 Corded Phone 2 $178.38 $356.77
+Phones, Technology, TEC-PH-3160
+Subtotal: $356.77
+Discount (20%) : $71.35
+Shipping: $20.62
+Total: $306.04
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AG10525140-41129

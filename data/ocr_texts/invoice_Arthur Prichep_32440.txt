@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 32440
+Date: Sep 28 2012
+Bill To: Ship To:
+ne . p Ship Mode: Standard Class
+Arthur Prichep 90045, Los Angeles,
+California, United Balance Due: $7.80
+States
+Item Quantity Rate Amount
+Xerox 223 1 $6.48 $6.48
+Paper, Office Supplies, OFF-PA-6587
+Subtotal: $6.48
+Shipping: $1.32
+Total: $7.80
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AP10915140-41180

@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 27231
+Date: Jul 18 2012
+Bill To: Ship To: ; .
+Ship Mode: First Class
+Bruce Geld Kuala Lumpur, Kuala
+Lumpur, Malaysia Balance Due: $8,923.61
+Item Quantity Rate Amount
+StarTech Receipt Printer, White 9 $980.91 $8,828.19
+Machines, Technology, TEC-MA-6153
+Subtotal: $8,828.19
+Shipping: $95.42
+Total: $8,923.61
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-BG1174078-41108

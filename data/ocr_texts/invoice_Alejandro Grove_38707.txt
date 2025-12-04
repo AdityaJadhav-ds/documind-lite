@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 38707
+Date: Jul 22 2012
+Bill To: Ship To: Ship Mode: First Cl
+Alejandro Grove 10011, New York City, paces: Stas
+New York, United Balance Due: $222.89
+States
+Item Quantity Rate Amount
+Case Logic 2.4GHz Wireless Keyboard 2 $99.98 $199.96
+Accessories, Technology, TEC-AC-3748
+Subtotal: $199.96
+Shipping: $22.93
+Total: $222.89
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AG10270140-41112

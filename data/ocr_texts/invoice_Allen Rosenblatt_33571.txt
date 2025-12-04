@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 33571
+Date: Oct 02 2012
+Bill To: Ship To: Ship Mod s acl
+: econd Class
+Allen Rosenblatt 90036, Los Angeles, pion’
+California, United Balance Due: $129.65
+States
+Item Quantity Rate Amount
+Bevis Round Conference Room Tables and Bases 1 $143.43 $143.43
+Tables, Furniture, FUR-TA-3426
+Subtotal: $143.43
+Discount (20%) : $28.69
+Shipping: $14.91
+Total: $129.65
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AR10405140-41184

@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 35334
+Date: Dec 28 2012
+Bill To: Ship To: Ship Mode: Standard Cl
+Anthony Johnson 94110, San paces: ancara Wass
+Francisco, California, Balance Due: $126.56
+United States
+Item Quantity Rate Amount
+Stacking Trays by OIC 5 $24.90 $124.50
+Furnishings, Furniture, FUR-FU-6101
+Subtotal: $124.50
+Shipping: $2.06
+Total: $126.56
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AJ10795140-41271

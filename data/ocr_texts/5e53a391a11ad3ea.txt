@@ -1,0 +1,137 @@
+Christa Nathan
+
+DATABASE SPECIALIST
+
+info@resumekraft.com [] 202-555-0120 Chicago, Illinois, US fg linkedin.com/resumekraft
+
+& PROFILE SUMMARY
+
+Database Specialist with about 10 years of experience in Oracle
+Database Administration and Automation to reduce the manual efforts
+and errors. Experienced, self-motivated, creative, focused, time-
+efficient, and dedicated professional. Possess excellent interpersonal
+skills and the ability to conduct research and courage to sometimes
+adopt untested outcomes of research and innovation. Strengths in
+RAC, Dataguard, Scripting and Golden Gate.
+
+EXPERIENCE
+
+Database Specialist
+
+Robert Bosch Engineering and Industries Ltd Apr 2016 - Present
+
+e Service Package Lead and SME for Database Backup services
+
+and operations.
+
+Service package Lead for Golden gate services.
+
+Setup Golden gate replications in oracle.
+
+Automation Expert - Shell Scripting.
+
+Saved efforts equal to 2 billing by researching and implementing
+
+automated cost-saving initiatives and creating fresh new
+
+approaches to long-standing problems.
+
+e Working in multiple projects simultaneously and giving maximum
+efforts to reduce manual efforts and error by automation.
+
+e Clone, Restore and database migration for all versions 11g, 12c
+and 19c (CDB — PDB).
+
+e Automated Database Clone, Migration and Restoration processes,
+PSU making it easier to execute, error free and reducing manual
+efforts by as much as 70%.
+
+e Configured Data Guard for production Databases and provide
+troubleshoot.
+
+e Migrated Oracle Databases from 11gR2 to 12c RAC one Nodes.
+
+e Support over +5000 databases including Data lakes.
+
+e Perform Database clone, GI upgrade, Infrastructure installation,
+Apply PSU and support all daily basis activities.
+
+e Active member of migration/Infra team. Installation and
+configuration of RAC and GI upgrade.
+
+e Monitor and maintain database backups.
+
+e Part of On-Call team. Provide weekend and after office support.
+
+e Part of MySQL database creation and migration team as well as
+backup monitoring team.
+
+e Train and mentor freshers and newbies.
+
+Oracle Database Adminstrator
+
+Tech Mahindra Nov 2013 - Mar 2016
+
+e Installed & configured 2-Node RAC as well as Non- RAC DB on
+Linux.
+
+¢ Configured high availability services for Transparent Application
+Failover (TAF).
+
+SKILLS
+
+Python @®@ee@eoo
+Advance Shell @®@ee0e0e@
+Scripting
+
+Database clone and @@ee0ee@
+restore
+
+Oracle Database @eeee0
+Migration
+OracleRACandASM @@@@60@
+
+Dataguard & Golden @®@e@ee@eo
+Gate
+
+© LANGUAGES
+
+English @eee0e@
+French @®@e@ee@eo
+Arabic @®@e@eoo
+German @®@@e0oo
+
+AWARDS
+
+Silver Award
+
+RobertBosch 2019-12-11
+
+Improved Productivity in the project by
+automations.
+
+Bronz Award
+
+Robert Bosch 2019-11-06
+
+Developed automation scripts for
+ORACLE Database duplication,
+database configuration changes. Also
+supporting on SWS project.
+
+Spot Award
+
+Robert Bosch 2018-11-01
+
+Developed Database Clone script for
+12C RAC environment, which reduced
+effort spent.
+
+Expected potential saving of 0.50 PMO
+per month for the various requests that
+are handled by the team.
+
+In addition to Oracle platform, handling
+the L1 & L2 tasks for MySQL platforms.
+Also. Flexible enough to handle urgent
+project support requirements

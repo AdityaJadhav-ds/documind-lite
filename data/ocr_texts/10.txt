@@ -1,0 +1,141 @@
+SUMMARY
+
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+© Over 4 years of experience in Analysis, Design, Development, Management, and Implementation of various standalone and client -
+server architecture-based enterprise application software.
+
+e Experience in each phase of software Development life cycle (SDLC) in Agile Software Methodology and the waterfall methodology.
+
+e Exposed to all aspects of software development life cycle such as Analysis, Planning, Developing, Testing and Implementing and Post-
+production analysis of the projects.
+
+e Extensive experience of working with the build and deployment of large-scale applications.
+
+¢ Hands on experience with Subversion and GIT.
+
+e Experience in Administration / Maintenance of source control management systems such as Git Hub and Subversion SVN. Created tags
+and Branches, fix the merge issues and administered Software Repositories.
+
+e Hands on experience with bug tracking tools like Tracker, Jira, HP Service Manager and TFS.
+
+e Experience in a UNIX environment and expertise in several flavors of Linux including Red Hat, CentOS, and Ubuntu.
+
+© Strong experience in System Administration, Installation, Upgrading Patches, Configuration, Troubleshooting, Security, Backup.
+Disaster Recovery, Performance Monitoring and Fine-tuning on Red Hat Linux Systems.
+
+e Experience writing Ruby, Python, Shell (Bash), Perl and Batch’/PowerShell scripts to automate the deployments.
+
+SKILLS
+
+e SVN, Git e Perl, Shell (Kshell, Bash), Python
+
+© Jira, TFS e Django
+
+e Jenkins, Ansible, Kafka, HPSA e MySQL, PostgreSQL, Oracle DB, MS-SQL
+
+e Amazon Web Services (AWS) © Windows(2K8,2K12,2K16), Linux (RHEL, Ubuntu, Centos)
+EXPERIENCE
+12/2018 to Current Python Developer
+
+Cognizant Technology Solutions — Dayton, NJ
+
+© Developed most of the application part in Linux environment and very much familiar with all of its commands.
+
+¢ Assist with maintaining current build systems, developed build scripts, and maintained the source control system.
+
+¢ Experience in using collections in Python for manipulating and looping through different user defined objects.
+
+© Used python and bash for automation of different installations like Perl packages and Anthilpro.
+
+© Worked on Ansible deployments, written various Ansible playbooks with multiple roles, tasks with loops,
+templates, service management, host variables. group variables etc.
+
+© Used Ansible to manage Web applications, Environments configuration Files, Users, Mount points and Packages.
+
+e Ansible playbook for application deployment and configuration management, orchestration on virtual instances to
+install and push initial configuration.
+
+e Experience of various Python application development and CI/CD pipeline tools like GitHub, Jenkins and Unix
+shell scripting.
+
+¢ Involved in Python OOP code for quality, logging, monitoring, and debugging code optimization.
+
+© Created Unit test/ regression test framework for working/new code.
+
+« Automated installation of the universal Splunk forwarder on several Unix servers.
+
+© Developed several standalone scripts for the installing and the uninstalling different RPM’s.
+
+09/2017 to 11/2018 AWS Python Developer
+
+Cognizant Technology Solutions — Dayton, OH
+
+© Built CI pipeline to automatically test all code commits and CD pipeline for developers to ship code to production.
+
+© Implemented Continuous Integration using Jenkins and TFS.
+
+© Developed Views and Templates with Django view controller and template architecture to create a user-friendly
+website interface.
+
+© Configured the Django admin site, dashboard and created a custom Django dashboard for end users with custom
+look and feel.
+
+© Used Django APIs for database access.
+
+© Coordinate and assist developers with establishing and applying appropriate branching, labeling and naming
+conventions using GIT source control.
+
+© Designed and implemented scalable. secure cloud architecture based on Amazon Web Services.
+
+© Built scalable Docker infrastructure for Micro services utilizing ECS - AWS Elastic Container service by creating
+task definition json file.
+
+© Composed high level Kafka producers and consumers for the data streaming across various databases.
+
+© Created the REST API using python and used DJANGO.
+
+© Strong Expertise in working with server-side technologies including databases, Restful API and MVC design
+pattems.
+
+© Designed and developed components using Python with Django framework.
+
+© Implemented code in python to retrieve and manipulate data.
+
+09/2016 to 08/2017 Linux Admin-Intern
+
+Galaxy I Technologies — City, STATE
+
+¢ Performing capacity analysis, monitoring and controlling disk space usage on systems.
+
+* Monitoring system activities and fine-tuning system parameters and configurations to optimize performance and
+ensuring security of systems.
+
+Install, configure, and troubleshoot enterprise-wide Apache web servers and Tomcat application containers in a
+large Red Hat Linux/Centos environment.
+
+© Deploy. upgrade and maintain application and web servers.
+
+¢ Designing Firewall rules for new servers to enable communication with application.
+
+© Providing technical support for intemal users and resolving trouble shooting tickets.
+
+© Red Hat Package Management (RPM) and YUM package installation and maintenance.
+
+¢ Remote system administration via tools like SSH and Telnet.
+
+* Works with Database administrators to tune kernel for Oracle installations.
+
+© Provide After Hours and On-Call Linux support to Development team & internal customers.
+
+© Monitor system activities and fine tune system parameters and configurations to optimize performance
+
+EDUCATION AND TRAINING
+
+08/2016
+
+Master of Science: computer engineering
+California State University - Fullerton, CA

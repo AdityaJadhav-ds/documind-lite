@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 36714
+Date: Oct 05 2012
+Bill To: Ship To: Ship Mod S acl
+: cond Class
+Alice McCarthy 68104, Omaha, pion’
+Nebraska, United Balance Due: $36.03
+States
+Item Quantity Rate Amount
+GBC VeloBinder Strips 2 $15.36 $30.72
+Binders, Office Supplies, OFF-BI-4376
+Subtotal: $30.72
+Shipping: $5.31
+Total: $36.03
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AM10360140-41187

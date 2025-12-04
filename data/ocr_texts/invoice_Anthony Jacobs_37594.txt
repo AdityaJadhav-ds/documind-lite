@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 37594
+Date: Dec 27 2012
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Anthony Jacobs 1915, Beverly, pion’
+Massachusetts. B ,
+, alance Due: 578.38
+United States $
+Item Quantity Rate Amount
+Xerox 1906 4 $141.76 $567.04
+Paper, Office Supplies, OFF-PA-6457
+Subtotal: $567.04
+Shipping: $11.34
+Total: $578.38
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AJ10780140-41270

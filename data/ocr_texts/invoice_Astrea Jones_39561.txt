@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 39561
+Date: Dec 29 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Astrea Jones 10035, New York City,
+New York, United Balance Due: $382.11
+States
+Item Quantity Rate Amount
+Kensington 6 Outlet SmartSocket Surge Protector 3 $122.94 $368.82
+Appliances, Office Supplies, OFF-AP-4931
+Subtotal: $368.82
+Shipping: $13.29
+Total: $382.11
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AJ10960140-41272

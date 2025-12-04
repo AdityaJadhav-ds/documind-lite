@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 31672
+Date: Jul 22 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Arthur Gainer 85705, Tucson,
+Arizona, United Balance Due: $3,920.78
+States
+Item Quantity Rate Amount
+Microsoft Natural Keyboard Elite 10 $479.04 $4,790.40
+Accessories, Technology, TEC-AC-5236
+Subtotal: $4,790.40
+Discount (20%) : $958.08
+Shipping: $88.46
+Total: $3,920.78
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-AG10900140-41112

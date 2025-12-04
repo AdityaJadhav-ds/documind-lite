@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 38851
+Date: May 09 2012
+Bill To: Ship To: ;
+| . Ship Mode: Second Class
+Art Foster 19134, Philadelphia,
+Pennsylvania, United Balance Due: $1,264.35
+States
+Item Quantity Rate Amount
+Bestar Classic Bookcase 7 $349.97 $2,449.76
+Bookcases, Furniture, FUR-BO-3409
+Subtotal: $2,449.76
+Discount (50%) : $1,224.88
+Shipping: $39.47
+Total: $1,264.35
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AF10885140-41038

@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 35502
+Date: Oct 30 2012
+Bill To: Ship To: ;
+Ship Mode: Second Class
+Anne McFarland 2920, Cranston,
+Rhode Island, United Balance Due: $31.89
+States
+Item Quantity Rate Amount
+Eldon Expressions Wood Desk Accessories, Oak 2 $14.76 $29.52
+Furnishings, Furniture, FUR-FU-4054
+Subtotal: $29.52
+Shipping: $2.37
+Total: $31.89
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AM10705140-41212

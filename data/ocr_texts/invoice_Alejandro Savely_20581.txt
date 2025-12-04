@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 20581
+Date: Nov 08 2012
+Bill To: Ship To: ; .
+. Ship Mode: First Class
+Alejandro Savely Kanpur, Uttar
+Pradesh, India Balance Due: $634.89
+Item Quantity Rate Amount
+Nokia Signal Booster, Full Size 2 $275.58 $551.16
+Phones, Technology, TEC-PH-5351
+Subtotal: $551.16
+Shipping: $83.73
+Total: $634.89
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-AS1028558-41221

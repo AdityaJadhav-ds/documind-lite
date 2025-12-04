@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 47905
+Date: Sep 13 2012
+Bill To: Ship To:
+ne Pp ° Ship Mode: First Class
+Aaron Hawkins Kamina, Katanga,
+Democratic Republic Balance Due: $23,581.71
+of the Congo
+Item Quantity Rate Amount
+Apple Smart Phone, Full Size 6 $3,817.26 $22,903.56
+Phones, Technology, TEC-PH-3148
+Subtotal: $22,903.56
+Shipping: $678.15
+Total: $23,581.71
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CG-2012-AH1003033-41165

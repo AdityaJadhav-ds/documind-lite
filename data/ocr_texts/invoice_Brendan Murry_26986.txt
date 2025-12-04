@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 26986
+Date: Aug 28 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Brendan Murry Brisbane,
+Queensland, Balance Due: $11,558.94
+Australia
+Item Quantity Rate Amount
+Lesro Wood Table, Adjustable Height 7 $2,301.14 $16,107.97
+Tables, Furniture, FUR-TA-5071
+Subtotal: $16,107.97
+Discount (30%) : $4,832.39
+Shipping: $283.36
+Total: $11,558.94
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ID-2012-BM115757-41149

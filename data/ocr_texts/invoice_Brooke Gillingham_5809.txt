@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 5809
+Date: Dec 08 2012
+Bill To: Ship To: ;
+a . Ship Mode: Standard Class
+Brooke Gillingham Celaya, Guanajuato,
+Mexico Balance Due: $5,224.95
+Item Quantity Rate Amount
+Barricks Computer Table, with Bottom Storage 5 $1,280.08 $6,400.40
+Tables, Furniture, FUR-TA-3342
+Subtotal: $6,400.40
+Discount (20%) : $1,280.08
+Shipping: $104.63
+Total: $5,224.95
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-BG1169582-41251

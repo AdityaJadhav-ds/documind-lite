@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 2535
+Date: Jul 19 2012
+Bill To: Ship To: ;
+. Ship Mode: Same Day
+Bruce Degenhardt Mixco, Guatemala,
+Guatemala Balance Due: $6,031.16
+Item Quantity Rate Amount
+Memorex Router, Erganomic 6 $976.08 $5,856.48
+Accessories, Technology, TEC-AC-5224
+Subtotal: $5,856.48
+Shipping: $174.68
+Total: $6,031.16
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-BD1172551-41109

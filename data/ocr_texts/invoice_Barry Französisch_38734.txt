@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 38734
+Date: Feb 16 2012
+Bill To: Ship To:
+me Lo pie Ship Mode: Standard Class
+Barry Franzésisch 98105, Seattle,
+Washington, United Balance Due: $87.85
+States
+Item Quantity Rate Amount
+Pressboard Data Binders by Wilson Jones 5 $21.36 $106.80
+Binders, Office Supplies, OFF-BI-5642
+Subtotal: $106.80
+Discount (20%) : $21.36
+Shipping: $2.41
+Total: $87.85
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-BF11020140-40955

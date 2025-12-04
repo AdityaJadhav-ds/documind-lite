@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 35335
+Date: Dec 28 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Anthony Johnson 94110, San
+Francisco, California, Balance Due: $86.98
+United States
+Item Quantity Rate Amount
+Xerox 1981 4 $21.12 $84.48
+Paper, Office Supplies, OFF-PA-6539
+Subtotal: $84.48
+Shipping: $2.50
+Total: $86.98
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AJ10795140-41271

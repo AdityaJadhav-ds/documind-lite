@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 28262
+Date: Dec 05 2012
+
+Bill To: Ship To: Ship Mode: First Cl
+Alan Hwang Baotou, Inner paces: Stas
+Mongolia, China Balance Due: $4,298.84
+Item Quantity Rate Amount
+Canon Copy Machine, Laser 4 $1,048.56 $4,194.24
+
+Copiers, Technology, TEC-CO-3681
+
+Subtotal: $4,194.24
+Shipping: $104.60
+Total: $4,298.84
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-AH1021027-41248

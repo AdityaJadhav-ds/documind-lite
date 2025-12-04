@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 39140
+Date: Apr 18 2012
+Bill To: Ship To: ;
+| Ship Mode: Second Class
+Allen Goldenen 22204, Arlington,
+Virginia, United Balance Due: $790.88
+States
+Item Quantity Rate Amount
+Xerox 232 1 $71.28 $784.08
+Paper, Office Supplies, OFF-PA-6597
+Subtotal: $784.08
+Shipping: $6.80
+Total: $790.88
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AG10390140-41017

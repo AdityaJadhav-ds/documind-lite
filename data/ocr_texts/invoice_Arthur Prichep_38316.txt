@@ -1,0 +1,27 @@
+SuperStore INVOICE
+
+# 38316
+Date: Aug 22 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Arthur Prichep 80219, Denver,
+
+Colorado, United Balance Due: $39.17
+
+States
+Item Quantity Rate Amount
+Xerox 1976 3 $15.55 $46.66
+
+Paper, Office Supplies, OFF-PA-6533
+
+Subtotal: $46.66
+Discount (20%) : $9.33
+Shipping: $1.84
+Total: $39.17
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AP10915140-41143

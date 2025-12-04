@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 35336
+Date: Dec 28 2012
+Bill To: Ship To: Ship Mode: Standard Cl
+Anthony Johnson 94110, San paces: ancara Wass
+Francisco, California B 0D
+, > alance Due: 3,781.53
+United States $3,
+Item Quantity Rate Amount
+DYMO CardScan Personal V9 Business Card Scanner 6 $767.95 $4,607.71
+Machines, Technology, TEC-MA-3985
+Subtotal: $4,607.71
+Discount (20%) : $921.54
+Shipping: $95.36
+Total: $3,781.53
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AJ10795140-41271

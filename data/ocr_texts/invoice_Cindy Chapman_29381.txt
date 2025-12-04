@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 29381
+Date: Aug 12 2012
+Bill To: Ship To: ;
+. . . Ship Mode: Standard Class
+Cindy Chapman Manila, National
+Capital, Philippines Balance Due: $4,689.55
+Item Quantity Rate Amount
+Hon Rocking Chair, Black 8 $769.14 $6,153.12
+Chairs, Furniture, FUR-CH-4682
+Subtotal: $6,153.12
+Discount (25%) : $1,538.28
+Shipping: $74.71
+Total: $4,689.55
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ID-2012-CC12475102-41133

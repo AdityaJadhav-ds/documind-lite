@@ -1,0 +1,110 @@
+Christa Frank
+
+DATABASE ADMINISTRATOR
+
+2sumekraft
+
+A dedicated and focused IT Professional with 10+ years of
+scrupulous experience in database administration. Robust and
+meticulous expertise as well as thorough exposure, knowledge
+and understanding of critical Banking Projects, Change
+Management, Knowledge Transfer, P1 & P2 categories of Incident
+Management, DBA, SSRS, SSIS, etc. Possesses the rare abilities to
+understand and translate technical detail into scalable business
+language. MS Azure Certified IT Professional.
+
+ey) EXPERIENCE
+
+Lead Infrastructure Specialist
+
+Kyndryl Solutions Pvt Ltd. Sep 2021 - Present
+
+1.Experienced in Database administration activities (creating
+logins, users, roles, and assigning permission to them). MS SQL
+Server 2008, 2012, 2014, 2016, 2019.
+
+2. Executed the project of Service account remediation for over a
+year single handed successfully.
+
+3.Performed administrative tasks: Database files management,
+backup/restore, security management, database mirroring, data
+integration and synchronization, import/export tables/data,
+purging data, Migration activities.
+
+4.Worked on migration of SSRS, SSIS. Also, handled TDE
+configuration, HA (high availability) tasks.
+
+5.Setup backup and restoration jobs for development and QA
+environments. Managing user access and secure databases.
+
+Systems Administrator
+
+IBM India Pvt Ltd. Apr 2019- Aug 2021
+
+IBM GTS services have been transitioned to an Independent
+company ‘Kyndryl SOlutions'. Therefore, the roles and projects
+have been transferred from IBM to Kyndryl and are stated on my
+recent Job profile.
+
+Technology Analyst
+
+Infosys India Pvt Ltd. Jan 2013-Apr 2019
+
+1.Headed as a Lead for mentoring a team of 10 of 24x7
+production support.
+
+2.Worked on Batch operations for mainframe technology and
+worked on batch scheduling tools like ESP, CA Workload
+Automation, and ESP is installed on Z/OS.
+
+3.Worked on Nagios XI and monitor console tool.Fixing alerts,
+agent issues on the servers,Clear/delete unwanted alerts
+
+MS SQL Server
+MS Azure @@ee@eoo
+
+Change and incident ®@@@®
+Management
+
+Agile ecoe5e
+@eeee0
+ecoo5e
+
+ServiceNow
+Customer Relations
+
+@ EDUCATION
+
+Bachelors in Computer
+Application
+San Jose State University
+
+Sep 2009 - Sep 2012
+
+@ CERTIFICATION
+
+Microsoft AZ-104 Azure
+Administrator Associate
+
+Microsoft AZ-900 Azure
+Fundamentals
+
+Implementing Hybrid Cloud
+with Azure Stack HCI From
+Kyndryl University For
+Microsoft
+
+Microsoft DP-900 Azure Data
+Fundamentals
+
+IBM Cloud Essentials from IBM
+
+Strengthening Self-Advocacy
+Experience
+UC Berkeley Executive Education
+
+Communicating Persuasively
+and Building Trust
+
+Stanford University Graduate School
+of Business

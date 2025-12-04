@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 27673
+Date: Jun 23 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Andrew Allen Jakarta, Jakarta,
+Indonesia Balance Due: $4,141.24
+Item Quantity Rate Amount
+Samsung Smart Phone, Cordless 3 $1,591.11 $4,773.33
+Phones, Technology, TEC-PH-5839
+Subtotal: $4,773.33
+Discount (17%): $811.47
+Shipping: $179.38
+Total: $4,141.24
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-AA1048059-41083

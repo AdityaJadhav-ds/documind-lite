@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 19288
+Date: Aug 23 2012
+Bill To: Ship To: ;
+. Ship Mode: Same Day
+Caroline Jumper Lucca, Tuscany, Italy
+Balance Due: $288.60
+Item Quantity Rate Amount
+Cisco Signal Booster, with Caller ID 2 $182.20 $364.39
+Phones, Technology, TEC-PH-3803
+Subtotal: $364.39
+Discount (40%) : $145.76
+Shipping: $69.97
+Total: $288.60
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IT-2012-CJ1201064-41144

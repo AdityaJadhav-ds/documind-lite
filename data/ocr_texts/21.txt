@@ -1,0 +1,220 @@
+SUMMARY
+
+SKILLS (
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+LANGUAGES
+
+WEBSITES,
+PORTFOLIOS,
+PROFILES
+
+CERTIFICATIONS
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor *2 (555) 432-1000 resumesample@example.com
+
+Highly-motivated employee with desire to take on new challenges. Strong worth ethic, adaptability and
+exceptional interpersonal skills. Adept at working effectively unsupervised and quickly mastering new skills.
+Organized and motivated employee eager to apply time management and organizational skills in various
+environments. Hardworking and reliable
+
+[Job Title] with strong ability in [Task]. Offering [Skill] and [Skill]. Highly organized, proactive and punctual with
+team-oriented mentality.
+
+Diligent [Job Title] with [Number] years of experience. Known for effective [Type] systems improvements and
+careful attention to infrastructure and operational procedures. Excellent diagnostic abilities with advanced
+technical expertise. Proficient in [Software] and [Type] resources. . Intends to develop professional work
+experience utilizing excellent communication and time management skills.
+
+« Software Management ¢ Source and Version Control: Git, Github
+« Disaster Recovery ¢ Continuous Integration Systems
+
+* Team Collaboration ¢ Time Management and Organization
+
+« Data Backup ¢ Analytical Thinking and Problem Solving
+« Performance Monitoring and Optimization ¢ Task Prioritization
+
+¢ Verbal and Written Communication ¢ Linux Environments
+
+« Virtual Machine Operation e CRM Software
+
+« Self Motivation ¢ Debugging and Troubleshooting
+
+« VMware and Oracle VM ¢ Software Deployment
+
+« Permissions and Access Control ¢ Data Warehousing and Analytics
+
+« Teamwork and Collaboration « Amazon Web Services
+
+* — Agile/Scrum Methodology
+
+DEVOPS ENGINEER 07/2022 to CURRENT
+Centric Consulting | Miami, FL
+
+* Engaged consistently with mentees through designated contact points using various methods.
+
+« Assisted in connecting students and families to community-based support resources and other services.
+
+« Prepared students for later educational experiences by encouraging to explore learning opportunities
+and persevere with challenging tasks
+
+« Launch EC2 servers using AMI's and configuring servers for specified applications
+
+« Used CI/CD tools to build/continuous deployment automation using Jenkins.
+
+* Managed deployments in Kubernetes, creating clusters and deploying applications into containers.
+
+« Integration terraform with kubernetes cluster, creation deployment on cluster.
+
+« Manage and automate environments with tools like Ansible Playbooks.
+
+« Experience with Automation and Configuration Management Tool like Ansible.
+
+« Work on improvements including the development, automation, and integration.
+
+* Developed and maintained CI/CD pipelines for code deployment.
+
+¢ Built and maintained Kubernetes cluster on Google Cloud using Helm and Terraform.
+
+« Upgraded Kubernetes Dev/QA/Prod environment to newer version.
+
+« — Utilized Hashicorp Packer to create necessary type of machine images.
+
+« Implemented Packer scripts for golden images
+
+« Designed and implemented scalable and highly available Cloud Architecture on Amazon Web Services.
+
+« Configured Route53 DNS hosted zones to serve users on the web.
+
+* Maintained static web sites using S3 bucket and Route53.
+
+« Deployed a production ready, load balanced, highly available, fault tolerant, auto-scaled infrastructure
+leveraging Terraform.
+
+« Created different container images with Dockerfile.
+
+CLOUD ENGINEER 04/2021 to 02/2022
+Pearson | Dallas, TX
+
+« Provided status updates to keep upper management informed and to reach goals.
+
+¢ Built and oversaw network infrastructure comprised of various virtual products.
+
+¢ Verified stability, security and scalability of system architecture.
+
+« Oversaw team in completing job tasks quickly and accurately with appropriate use of instruments and
+tools.
+
+« Planned, tested and supported high-availability infrastructures.
+
+« Performed data backups and disaster recovery operations.
+
+« Analyzed equipment performance records to determine need for repair or replacement.
+
+« Created AWS AMls using Packer.
+
+* Managed IAAC through Terraform
+
+« Containerized most of company applications
+
+« Hands on experience of AWS and coming trends in the Cloud space
+
+« Participated in planning and architecting of our infrastructure on Amazon Web Services
+
+« Actively managed. improved, and monitored cloud infrastructure on AWS
+
+« Used Terraform for creating subnets, security groups, route tables and ACL's
+
+« Created and updated AWS AMI Images Using Packer
+
+« Experienced in working with S3, DynamoDB, API Gateway, IAM, and other core AWS technologies
+
+« Developed continuous delivery pipeline in Cloud
+
+« Designed and implemented scalable and secure Cloud Architecture on AWS
+
+« Leveraged VPC (Virtual Private Cloud) to build secure, highly scalable and flexible systems that handle
+expected and unexpected load bursts
+
+« Experienced on AWS EC2 Instances creation, setting up VPC, launching EC2 instances on private and
+public subnets based on the requirements for each of the applications
+
+« Worked on AWS ASG providing high availability of applications and EC2 instances based on the load
+
+« Experienced in architecting and supporting highly available and highly scalable infrastructure
+
+CCOISULTANT 10/2017 to 04/2021
+Livingston International | Fremont, CA
+
+« Contributed to requirements gathering and design development meetings.
+
+« Identified opportunities for process improvements to decrease in support calls.
+
+« Collaborated with support team to assist client stakeholders with emergent technical issues and develop
+effective solutions.
+
+« Maintained data cleanliness and accuracy by adding custom validation rules and custom formulas,
+reports and dashboards.
+
+« Provided technical guidance for system development and troubleshooting.
+
+«* Coordinated and enhanced existing databases and established new databases as part of initiative.
+
+« Provided status updates to keep upper management informed and to reach goals.
+
+« Compared online data with source documents and made corrections or consulted information sources
+when errors were found.
+
+« Used statistical software to analyze and process large data sets.
+
+« Followed industry innovations and emerging trends through scientific articles, conference papers or
+self-directed research.
+
+* Cleaned and manipulated raw data.
+
+« Maintained schedule of class assignments to meet deadlines.
+
+« Worked with team members and leadership to identify and develop process improvements.
+
+« Provided leadership, insight and mentoring to newly hired employees to supply knowledge of various
+company programs.
+
+« Researched and prepared reports required by management or governmental agencies.
+
+« Processed and sent invoices, adjustments and credit memos to customers.
+
+« Reviewed vendor documentation to comply with payment guidelines.
+
+« Managed numerous client accounts to track and collect money owed.
+
+« Increased professional knowledge and training to remain focused on long term objectives.
+
+« Supported staff training, development and evaluation.
+
+Master of Science | Administrative management
+NTUU KPI, Kyiv
+
+Mater of Science | Public Administration
+Municipal Academy, Kyiv
+
+Bachelor of Science | Sociology
+
+NTUU KPI, Kyiv
+
+Ukrainian: Russian:
+
+Negotiated: Negotiated:
+
+English: Italian:
+
+Negotiated: Negotiated:
+« Linkedin
+
+« [Area of certification], [Company Name] - [Year]
+¢ [Area of certification], [Company Name] - [Year]

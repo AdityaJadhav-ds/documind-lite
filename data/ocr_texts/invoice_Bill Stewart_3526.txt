@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 3526
+Date: Feb 26 2012
+Bill To: Ship To:
+ne pe Ship Mode: Second Class
+Bill Stewart Matagalpa,
+Matagalpa, Nicaragua Balance Due: $5,039.19
+Item Quantity Rate Amount
+Sharp Fax Machine, Color 5 $988.32 $4,941.60
+Copiers, Technology, TEC-CO-5997
+Subtotal: $4,941.60
+Discount (0.2%): $9.88
+Shipping: $107.47
+Total: $5,039.19
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-BS1138093-40965

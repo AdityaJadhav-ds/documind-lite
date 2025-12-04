@@ -1,0 +1,40 @@
+Joseph Corbin
+
+123 Santa Maria, San Francisco, CA 12345
+j bin@example.com
+(123) 456-7890
+
+Education Professional Experience
+
+Bachelor of Science (B.S.) Entry-Level Database Administrator
+
+Computer Science NorCal Insurance Inc., San Francisco, CA | May 2021 ~ Present
+
+University of San Francisco,
+
+San Francisco, CA © Coordinate with IT infrastructure and database development
+
+September 2017 - May 2021 teams to develop, configure, and maintain a 24/7 Microsoft SQL
+Server environment for a life insurance company with over 400K
+
+Key Skills la
+
+@ Oversee security protocols for client databases, ensure
+compliance with data protection and privacy requirements, and
+
+© Cybersecurity identify opportunities to improve functionality
+© = Microsoft SQL Server @ Support the development of database governance procedures,
+@ Data Protection create backup and disaster recovery protocols, and ensure data
+@ Data Governance integrity and security
+e i
+
+ai Database Administrator Intern
+
+Google Inc., Sunnyvale, CA | May 2020 - May 2021
+Certifications
+@ Provided support to technical teams in developing, implementing,
+© Microsoft Certified Database and optimizing database systems and creating security protocols
+Administrator (MCDBA), 2021 for data protection
+@ Developed stored procedures and disaster recovery processes,
+conducted performance tuning, and monitored database
+performance to support a 99.99% server uptime

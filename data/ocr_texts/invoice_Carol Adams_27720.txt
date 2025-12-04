@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 27720
+Date: Feb 10 2012
+Bill To: Ship To:
+me P ° Ship Mode: Standard Class
+Carol Adams Fuji, Shizuoka, Japan
+Balance Due: $77,398.84
+Item Quantity Rate Amount
+Samsung Smart Phone, VoIP 11 $6,998.64 $76,985.04
+Phones, Technology, TEC-PH-5841
+Subtotal: $76,985.04
+Shipping: $413.80
+Total: $77,398.84
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ID-2012-CA1196566-40949

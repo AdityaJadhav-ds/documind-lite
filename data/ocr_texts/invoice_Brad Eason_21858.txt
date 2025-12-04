@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 21858
+Date: Mar 03 2012
+Bill To: Ship To: ;
+| Ship Mode: Standard Class
+Brad Eason Chengdu, Sichuan,
+China Balance Due: $1,747.50
+Item Quantity Rate Amount
+Cisco Audio Dock, Cordless 3 $554.76 $1,664.28
+Phones, Technology, TEC-PH-3784
+Subtotal: $1,664.28
+Shipping: $83.22
+Total: $1,747.50
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-BE1145527-40971

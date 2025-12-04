@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 37425
+Date: Oct 24 2012
+Bill To: Ship To:
+ne pie Ship Mode: First Class
+Aaron Hawkins 94109, San
+Francisco, California, Balance Due: $160.94
+United States
+Item Quantity Rate Amount
+GBC VeloBind Cover Sets 4 $49.41 $197.63
+Binders, Office Supplies, OFF-BI-4372
+Subtotal: $197.63
+Discount (20%) : $39.53
+Shipping: $2.84
+Total: $160.94
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-AH10030140-41206

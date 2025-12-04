@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 31634
+Date: Jul 11 2012
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Alyssa Crouse 94122, San p Moce
+Francisco, California, Balance Due: $14.36
+United States
+Item Quantity Rate Amount
+Tuff Stuff Recycled Round Ring Binders 2 $7.71 $15.42
+Binders, Office Supplies, OFF-BI-6321
+Subtotal: $15.42
+Discount (20%) : $3.08
+Shipping: $2.02
+Total: $14.36
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AC10420140-41101

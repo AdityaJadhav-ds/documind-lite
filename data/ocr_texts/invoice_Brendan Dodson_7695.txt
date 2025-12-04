@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 7695
+Date: Jun 12 2012
+Bill To: Ship To: ;
+. oo. Ship Mode: Same Day
+Brendan Dodson Cuajimalpa, Distrito
+Federal, Mexico Balance Due: $1,503.05
+Item Quantity Rate Amount
+KitchenAid Toaster, Red 5 $284.40 $1,422.00
+Appliances, Office Supplies, OFF-AP-4969
+Subtotal: $1,422.00
+Shipping: $81.05
+Total: $1,503.05
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-BD1156082-41072

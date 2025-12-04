@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 767
+Date: Dec 28 2012
+Bill To: Ship To: ;
+. . . Ship Mode: Second Class
+Annie Zypern Leon, Leon,
+Nicaragua Balance Due: $19,649.94
+Item Quantity Rate Amount
+Novimex Executive Leather Armchair, Adjustable 8 $2,429.44 $19,435.52
+Chairs, Furniture, FUR-CH-5378
+Subtotal: $19,435.52
+Shipping: $214.42
+Total: $19,649.94
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-AZ1075093-41271

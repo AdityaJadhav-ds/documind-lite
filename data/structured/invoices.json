@@ -1,0 +1,2375 @@
+[
+  {
+    "doc_id": "invoice_Aaron Bergman_36258",
+    "source_file": "invoice_Aaron Bergman_36258.txt",
+    "invoice_number": "36258",
+    "invoice_date": "Mar 06 2012",
+    "total_amount": "48.71"
+  },
+  {
+    "doc_id": "invoice_Aaron Bergman_36259",
+    "source_file": "invoice_Aaron Bergman_36259.txt",
+    "invoice_number": "36259",
+    "invoice_date": "Mar 06 2012",
+    "total_amount": "53.82"
+  },
+  {
+    "doc_id": "invoice_Aaron Bergman_36260",
+    "source_file": "invoice_Aaron Bergman_36260.txt",
+    "invoice_number": "Date",
+    "invoice_date": null,
+    "total_amount": "0.00"
+  },
+  {
+    "doc_id": "invoice_Aaron Bergman_39519",
+    "source_file": "invoice_Aaron Bergman_39519.txt",
+    "invoice_number": "39519",
+    "invoice_date": "Feb 19 2012",
+    "total_amount": "25.25"
+  },
+  {
+    "doc_id": "invoice_Aaron Hawkins_36651",
+    "source_file": "invoice_Aaron Hawkins_36651.txt",
+    "invoice_number": "36651",
+    "invoice_date": "May 12 2012",
+    "total_amount": "1,676.74"
+  },
+  {
+    "doc_id": "invoice_Aaron Hawkins_36652",
+    "source_file": "invoice_Aaron Hawkins_36652.txt",
+    "invoice_number": "36652",
+    "invoice_date": "May 12 2012",
+    "total_amount": "16.00"
+  },
+  {
+    "doc_id": "invoice_Aaron Hawkins_37425",
+    "source_file": "invoice_Aaron Hawkins_37425.txt",
+    "invoice_number": "37425",
+    "invoice_date": "Oct 24 2012",
+    "total_amount": "197.63"
+  },
+  {
+    "doc_id": "invoice_Aaron Hawkins_38460",
+    "source_file": "invoice_Aaron Hawkins_38460.txt",
+    "invoice_number": "38460",
+    "invoice_date": "Apr 21 2012",
+    "total_amount": "1,982.72"
+  },
+  {
+    "doc_id": "invoice_Aaron Hawkins_38461",
+    "source_file": "invoice_Aaron Hawkins_38461.txt",
+    "invoice_number": "Date",
+    "invoice_date": null,
+    "total_amount": "0.00"
+  },
+  {
+    "doc_id": "invoice_Aaron Hawkins_40100",
+    "source_file": "invoice_Aaron Hawkins_40100.txt",
+    "invoice_number": "40100",
+    "invoice_date": "Dec 30 2012",
+    "total_amount": "104.31"
+  },
+  {
+    "doc_id": "invoice_Aaron Hawkins_40101",
+    "source_file": "invoice_Aaron Hawkins_40101.txt",
+    "invoice_number": "40101",
+    "invoice_date": "Dec 30 2012",
+    "total_amount": "56.70"
+  },
+  {
+    "doc_id": "invoice_Aaron Hawkins_47905",
+    "source_file": "invoice_Aaron Hawkins_47905.txt",
+    "invoice_number": "47905",
+    "invoice_date": "Sep 13 2012",
+    "total_amount": "22,903.56"
+  },
+  {
+    "doc_id": "invoice_Aaron Hawkins_4820",
+    "source_file": "invoice_Aaron Hawkins_4820.txt",
+    "invoice_number": "4820",
+    "invoice_date": "Dec 08 2012",
+    "total_amount": "3,122.43"
+  },
+  {
+    "doc_id": "invoice_Aaron Hawkins_49674",
+    "source_file": "invoice_Aaron Hawkins_49674.txt",
+    "invoice_number": "49674",
+    "invoice_date": "Feb 20 2013",
+    "total_amount": "8,204.16"
+  },
+  {
+    "doc_id": "invoice_Aaron Hawkins_6817",
+    "source_file": "invoice_Aaron Hawkins_6817.txt",
+    "invoice_number": "6817",
+    "invoice_date": "Oct 23 2012",
+    "total_amount": "10,604.00"
+  },
+  {
+    "doc_id": "invoice_Aaron Smayling_15978",
+    "source_file": "invoice_Aaron Smayling_15978.txt",
+    "invoice_number": "15978",
+    "invoice_date": "Mar 31 2012",
+    "total_amount": "2,979.50"
+  },
+  {
+    "doc_id": "invoice_Aaron Smayling_35876",
+    "source_file": "invoice_Aaron Smayling_35876.txt",
+    "invoice_number": "35876",
+    "invoice_date": "Jul 26 2012",
+    "total_amount": "723.58"
+  },
+  {
+    "doc_id": "invoice_Adam Bellavance_21617",
+    "source_file": "invoice_Adam Bellavance_21617.txt",
+    "invoice_number": "21617",
+    "invoice_date": "May 31 2012",
+    "total_amount": "8,301.68"
+  },
+  {
+    "doc_id": "invoice_Adam Hart_16384",
+    "source_file": "invoice_Adam Hart_16384.txt",
+    "invoice_number": "16384",
+    "invoice_date": "Dec 08 2012",
+    "total_amount": "6,118.14"
+  },
+  {
+    "doc_id": "invoice_Adam Hart_30118",
+    "source_file": "invoice_Adam Hart_30118.txt",
+    "invoice_number": "30118",
+    "invoice_date": "Aug 22 2012",
+    "total_amount": "7,300.21"
+  },
+  {
+    "doc_id": "invoice_Adam Hart_30845",
+    "source_file": "invoice_Adam Hart_30845.txt",
+    "invoice_number": "30845",
+    "invoice_date": "Sep 11 2012",
+    "total_amount": "2,981.66"
+  },
+  {
+    "doc_id": "invoice_Adam Hart_36279",
+    "source_file": "invoice_Adam Hart_36279.txt",
+    "invoice_number": "36279",
+    "invoice_date": "Nov 15 2012",
+    "total_amount": "10.44"
+  },
+  {
+    "doc_id": "invoice_Adam Shillingsburg_12471",
+    "source_file": "invoice_Adam Shillingsburg_12471.txt",
+    "invoice_number": "12471",
+    "invoice_date": "May 20 2012",
+    "total_amount": "3,045.60"
+  },
+  {
+    "doc_id": "invoice_Adam Shillingsburg_40245",
+    "source_file": "invoice_Adam Shillingsburg_40245.txt",
+    "invoice_number": "40245",
+    "invoice_date": "Dec 23 2012",
+    "total_amount": "13.97"
+  },
+  {
+    "doc_id": "invoice_Adam Shillingsburg_40952",
+    "source_file": "invoice_Adam Shillingsburg_40952.txt",
+    "invoice_number": "Date",
+    "invoice_date": null,
+    "total_amount": "0.00"
+  },
+  {
+    "doc_id": "invoice_Adam Shillingsburg_40953",
+    "source_file": "invoice_Adam Shillingsburg_40953.txt",
+    "invoice_number": "40953",
+    "invoice_date": "Sep 21 2012",
+    "total_amount": "3.98"
+  },
+  {
+    "doc_id": "invoice_Adam Shillingsburg_40954",
+    "source_file": "invoice_Adam Shillingsburg_40954.txt",
+    "invoice_number": "40954",
+    "invoice_date": "Sep 21 2012",
+    "total_amount": "52.16"
+  },
+  {
+    "doc_id": "invoice_Adam Shillingsburg_40955",
+    "source_file": "invoice_Adam Shillingsburg_40955.txt",
+    "invoice_number": "40955",
+    "invoice_date": "Sep 21 2012",
+    "total_amount": "2,318.11"
+  },
+  {
+    "doc_id": "invoice_Adrian Barton_25445",
+    "source_file": "invoice_Adrian Barton_25445.txt",
+    "invoice_number": "25445",
+    "invoice_date": "Dec 27 2012",
+    "total_amount": "3,200.04"
+  },
+  {
+    "doc_id": "invoice_Adrian Barton_35579",
+    "source_file": "invoice_Adrian Barton_35579.txt",
+    "invoice_number": "35579",
+    "invoice_date": "Dec 19 2012",
+    "total_amount": "3.69"
+  },
+  {
+    "doc_id": "invoice_Adrian Barton_35580",
+    "source_file": "invoice_Adrian Barton_35580.txt",
+    "invoice_number": "35580",
+    "invoice_date": "Dec 19 2012",
+    "total_amount": "3,311.91"
+  },
+  {
+    "doc_id": "invoice_Adrian Hane_33399",
+    "source_file": "invoice_Adrian Hane_33399.txt",
+    "invoice_number": "33399",
+    "invoice_date": "Jul 17 2012",
+    "total_amount": "1,036.54"
+  },
+  {
+    "doc_id": "invoice_Aimee Bixby_39793",
+    "source_file": "invoice_Aimee Bixby_39793.txt",
+    "invoice_number": "39793",
+    "invoice_date": "Mar 04 2012",
+    "total_amount": "178.56"
+  },
+  {
+    "doc_id": "invoice_Aimee Bixby_39794",
+    "source_file": "invoice_Aimee Bixby_39794.txt",
+    "invoice_number": "39794",
+    "invoice_date": "Mar 04 2012",
+    "total_amount": "1,439.91"
+  },
+  {
+    "doc_id": "invoice_Aimee Bixby_39795",
+    "source_file": "invoice_Aimee Bixby_39795.txt",
+    "invoice_number": "39795",
+    "invoice_date": "Mar 04 2012",
+    "total_amount": "37.24"
+  },
+  {
+    "doc_id": "invoice_Aimee Bixby_39796",
+    "source_file": "invoice_Aimee Bixby_39796.txt",
+    "invoice_number": "39796",
+    "invoice_date": "Mar 04 2012",
+    "total_amount": "297.79"
+  },
+  {
+    "doc_id": "invoice_Aimee Bixby_39797",
+    "source_file": "invoice_Aimee Bixby_39797.txt",
+    "invoice_number": "39797",
+    "invoice_date": "Mar 04 2012",
+    "total_amount": "195.64"
+  },
+  {
+    "doc_id": "invoice_Alan Barnes_36600",
+    "source_file": "invoice_Alan Barnes_36600.txt",
+    "invoice_number": "36600",
+    "invoice_date": "Nov 15 2012",
+    "total_amount": "74.59"
+  },
+  {
+    "doc_id": "invoice_Alan Dominguez_1626",
+    "source_file": "invoice_Alan Dominguez_1626.txt",
+    "invoice_number": "1626",
+    "invoice_date": "Aug 15 2012",
+    "total_amount": "2,687.00"
+  },
+  {
+    "doc_id": "invoice_Alan Dominguez_31421",
+    "source_file": "invoice_Alan Dominguez_31421.txt",
+    "invoice_number": "31421",
+    "invoice_date": "Dec 25 2012",
+    "total_amount": "1,801.67"
+  },
+  {
+    "doc_id": "invoice_Alan Dominguez_41032",
+    "source_file": "invoice_Alan Dominguez_41032.txt",
+    "invoice_number": "Date",
+    "invoice_date": null,
+    "total_amount": "0.00"
+  },
+  {
+    "doc_id": "invoice_Alan Haines_22343",
+    "source_file": "invoice_Alan Haines_22343.txt",
+    "invoice_number": "22343",
+    "invoice_date": "Dec 20 2012",
+    "total_amount": "735.36"
+  },
+  {
+    "doc_id": "invoice_Alan Haines_29721",
+    "source_file": "invoice_Alan Haines_29721.txt",
+    "invoice_number": "29721",
+    "invoice_date": "Nov 24 2012",
+    "total_amount": "10,615.65"
+  },
+  {
+    "doc_id": "invoice_Alan Haines_36551",
+    "source_file": "invoice_Alan Haines_36551.txt",
+    "invoice_number": "36551",
+    "invoice_date": "Mar 05 2013",
+    "total_amount": "198.74"
+  },
+  {
+    "doc_id": "invoice_Alan Haines_36552",
+    "source_file": "invoice_Alan Haines_36552.txt",
+    "invoice_number": "36552",
+    "invoice_date": "Mar 05 2013",
+    "total_amount": "67.14"
+  },
+  {
+    "doc_id": "invoice_Alan Haines_42998",
+    "source_file": "invoice_Alan Haines_42998.txt",
+    "invoice_number": "42998",
+    "invoice_date": "Aug 08 2012",
+    "total_amount": "527.04"
+  },
+  {
+    "doc_id": "invoice_Alan Haines_5873",
+    "source_file": "invoice_Alan Haines_5873.txt",
+    "invoice_number": "5873",
+    "invoice_date": "Jan 17 2012",
+    "total_amount": "15,527.06"
+  },
+  {
+    "doc_id": "invoice_Alan Hwang_14266",
+    "source_file": "invoice_Alan Hwang_14266.txt",
+    "invoice_number": "14266",
+    "invoice_date": "Dec 01 2012",
+    "total_amount": "9,466.80"
+  },
+  {
+    "doc_id": "invoice_Alan Hwang_14267",
+    "source_file": "invoice_Alan Hwang_14267.txt",
+    "invoice_number": "14267",
+    "invoice_date": "Dec 01 2012",
+    "total_amount": "1,112.45"
+  },
+  {
+    "doc_id": "invoice_Alan Hwang_14269",
+    "source_file": "invoice_Alan Hwang_14269.txt",
+    "invoice_number": "14269",
+    "invoice_date": "Dec 01 2012",
+    "total_amount": "1,137.86"
+  },
+  {
+    "doc_id": "invoice_Alan Hwang_28262",
+    "source_file": "invoice_Alan Hwang_28262.txt",
+    "invoice_number": "28262",
+    "invoice_date": "Dec 05 2012",
+    "total_amount": "4,194.24"
+  },
+  {
+    "doc_id": "invoice_Alan Hwang_35712",
+    "source_file": "invoice_Alan Hwang_35712.txt",
+    "invoice_number": "35712",
+    "invoice_date": "Nov 28 2012",
+    "total_amount": "1,151.84"
+  },
+  {
+    "doc_id": "invoice_Alan Hwang_35713",
+    "source_file": "invoice_Alan Hwang_35713.txt",
+    "invoice_number": "35713",
+    "invoice_date": "Nov 28 2012",
+    "total_amount": "152.00"
+  },
+  {
+    "doc_id": "invoice_Alan Schoenberger_33272",
+    "source_file": "invoice_Alan Schoenberger_33272.txt",
+    "invoice_number": "33272",
+    "invoice_date": "Oct 17 2012",
+    "total_amount": "827.91"
+  },
+  {
+    "doc_id": "invoice_Alan Schoenberger_33273",
+    "source_file": "invoice_Alan Schoenberger_33273.txt",
+    "invoice_number": "33273",
+    "invoice_date": "Oct 17 2012",
+    "total_amount": "6,974.75"
+  },
+  {
+    "doc_id": "invoice_Alan Schoenberger_33274",
+    "source_file": "invoice_Alan Schoenberger_33274.txt",
+    "invoice_number": "33274",
+    "invoice_date": "Oct 17 2012",
+    "total_amount": "3,275.28"
+  },
+  {
+    "doc_id": "invoice_Alan Shonely_31899",
+    "source_file": "invoice_Alan Shonely_31899.txt",
+    "invoice_number": "31899",
+    "invoice_date": "Mar 14 2012",
+    "total_amount": "142.78"
+  },
+  {
+    "doc_id": "invoice_Alan Shonely_31900",
+    "source_file": "invoice_Alan Shonely_31900.txt",
+    "invoice_number": "31900",
+    "invoice_date": "Mar 14 2012",
+    "total_amount": "137.09"
+  },
+  {
+    "doc_id": "invoice_Alan Shonely_31901",
+    "source_file": "invoice_Alan Shonely_31901.txt",
+    "invoice_number": "31901",
+    "invoice_date": "Mar 14 2012",
+    "total_amount": "21.65"
+  },
+  {
+    "doc_id": "invoice_Alan Shonely_31902",
+    "source_file": "invoice_Alan Shonely_31902.txt",
+    "invoice_number": "31902",
+    "invoice_date": "Mar 14 2012",
+    "total_amount": "172.75"
+  },
+  {
+    "doc_id": "invoice_Alan Shonely_31903",
+    "source_file": "invoice_Alan Shonely_31903.txt",
+    "invoice_number": "31903",
+    "invoice_date": "Mar 14 2012",
+    "total_amount": "395.71"
+  },
+  {
+    "doc_id": "invoice_Alan Shonely_37511",
+    "source_file": "invoice_Alan Shonely_37511.txt",
+    "invoice_number": "Date",
+    "invoice_date": null,
+    "total_amount": "0.00"
+  },
+  {
+    "doc_id": "invoice_Alan Shonely_43048",
+    "source_file": "invoice_Alan Shonely_43048.txt",
+    "invoice_number": "43048",
+    "invoice_date": "Sep 20 2012",
+    "total_amount": "4.80"
+  },
+  {
+    "doc_id": "invoice_Alejandro Ballentine_40780",
+    "source_file": "invoice_Alejandro Ballentine_40780.txt",
+    "invoice_number": "40780",
+    "invoice_date": "Jul 21 2012",
+    "total_amount": "118.08"
+  },
+  {
+    "doc_id": "invoice_Alejandro Grove_24518",
+    "source_file": "invoice_Alejandro Grove_24518.txt",
+    "invoice_number": "24518",
+    "invoice_date": "Jan 11 2013",
+    "total_amount": "19,620.00"
+  },
+  {
+    "doc_id": "invoice_Alejandro Grove_31314",
+    "source_file": "invoice_Alejandro Grove_31314.txt",
+    "invoice_number": "31314",
+    "invoice_date": "May 12 2012",
+    "total_amount": "111.00"
+  },
+  {
+    "doc_id": "invoice_Alejandro Grove_38707",
+    "source_file": "invoice_Alejandro Grove_38707.txt",
+    "invoice_number": "38707",
+    "invoice_date": "Jul 22 2012",
+    "total_amount": "199.96"
+  },
+  {
+    "doc_id": "invoice_Alejandro Savely_20581",
+    "source_file": "invoice_Alejandro Savely_20581.txt",
+    "invoice_number": "20581",
+    "invoice_date": "Nov 08 2012",
+    "total_amount": "551.16"
+  },
+  {
+    "doc_id": "invoice_Alejandro Savely_20583",
+    "source_file": "invoice_Alejandro Savely_20583.txt",
+    "invoice_number": "20583",
+    "invoice_date": "Nov 08 2012",
+    "total_amount": "6,785.52"
+  },
+  {
+    "doc_id": "invoice_Alejandro Savely_41450",
+    "source_file": "invoice_Alejandro Savely_41450.txt",
+    "invoice_number": "41450",
+    "invoice_date": "Aug 16 2012",
+    "total_amount": "9,546.00"
+  },
+  {
+    "doc_id": "invoice_Aleksandra Gannaway_33911",
+    "source_file": "invoice_Aleksandra Gannaway_33911.txt",
+    "invoice_number": "33911",
+    "invoice_date": "Apr 25 2012",
+    "total_amount": "690.84"
+  },
+  {
+    "doc_id": "invoice_Aleksandra Gannaway_33912",
+    "source_file": "invoice_Aleksandra Gannaway_33912.txt",
+    "invoice_number": "Date",
+    "invoice_date": null,
+    "total_amount": "0.00"
+  },
+  {
+    "doc_id": "invoice_Alex Avila_33526",
+    "source_file": "invoice_Alex Avila_33526.txt",
+    "invoice_number": "33526",
+    "invoice_date": "Mar 30 2012",
+    "total_amount": "1,347.14"
+  },
+  {
+    "doc_id": "invoice_Alex Avila_33527",
+    "source_file": "invoice_Alex Avila_33527.txt",
+    "invoice_number": "33527",
+    "invoice_date": "Mar 30 2012",
+    "total_amount": "105.96"
+  },
+  {
+    "doc_id": "invoice_Alex Avila_38765",
+    "source_file": "invoice_Alex Avila_38765.txt",
+    "invoice_number": "38765",
+    "invoice_date": "Sep 14 2012",
+    "total_amount": "44.82"
+  },
+  {
+    "doc_id": "invoice_Alex Avila_38766",
+    "source_file": "invoice_Alex Avila_38766.txt",
+    "invoice_number": "38766",
+    "invoice_date": "Sep 14 2012",
+    "total_amount": "29.12"
+  },
+  {
+    "doc_id": "invoice_Alex Grayson_18794",
+    "source_file": "invoice_Alex Grayson_18794.txt",
+    "invoice_number": "18794",
+    "invoice_date": "Jul 19 2012",
+    "total_amount": "545.52"
+  },
+  {
+    "doc_id": "invoice_Alex Russell_28157",
+    "source_file": "invoice_Alex Russell_28157.txt",
+    "invoice_number": "28157",
+    "invoice_date": "Jun 09 2012",
+    "total_amount": "942.01"
+  },
+  {
+    "doc_id": "invoice_Alex Russell_38655",
+    "source_file": "invoice_Alex Russell_38655.txt",
+    "invoice_number": "38655",
+    "invoice_date": "Dec 29 2012",
+    "total_amount": "1,511.78"
+  },
+  {
+    "doc_id": "invoice_Alex Russell_38656",
+    "source_file": "invoice_Alex Russell_38656.txt",
+    "invoice_number": "38656",
+    "invoice_date": "Dec 29 2012",
+    "total_amount": "1,571.29"
+  },
+  {
+    "doc_id": "invoice_Alice McCarthy_10670",
+    "source_file": "invoice_Alice McCarthy_10670.txt",
+    "invoice_number": "10670",
+    "invoice_date": "Aug 15 2012",
+    "total_amount": "31,171.35"
+  },
+  {
+    "doc_id": "invoice_Alice McCarthy_36714",
+    "source_file": "invoice_Alice McCarthy_36714.txt",
+    "invoice_number": "36714",
+    "invoice_date": "Oct 05 2012",
+    "total_amount": "30.72"
+  },
+  {
+    "doc_id": "invoice_Alice McCarthy_8673",
+    "source_file": "invoice_Alice McCarthy_8673.txt",
+    "invoice_number": "8673",
+    "invoice_date": "Sep 29 2012",
+    "total_amount": "4,699.20"
+  },
+  {
+    "doc_id": "invoice_Allen Armold_32104",
+    "source_file": "invoice_Allen Armold_32104.txt",
+    "invoice_number": "32104",
+    "invoice_date": "Feb 02 2013",
+    "total_amount": "56.80"
+  },
+  {
+    "doc_id": "invoice_Allen Armold_32105",
+    "source_file": "invoice_Allen Armold_32105.txt",
+    "invoice_number": "32105",
+    "invoice_date": "Feb 02 2013",
+    "total_amount": "449.91"
+  },
+  {
+    "doc_id": "invoice_Allen Armold_32469",
+    "source_file": "invoice_Allen Armold_32469.txt",
+    "invoice_number": "32469",
+    "invoice_date": "Apr 20 2012",
+    "total_amount": "82.60"
+  },
+  {
+    "doc_id": "invoice_Allen Armold_34304",
+    "source_file": "invoice_Allen Armold_34304.txt",
+    "invoice_number": "34304",
+    "invoice_date": "Oct 23 2012",
+    "total_amount": "102.82"
+  },
+  {
+    "doc_id": "invoice_Allen Goldenen_36282",
+    "source_file": "invoice_Allen Goldenen_36282.txt",
+    "invoice_number": "36282",
+    "invoice_date": "Sep 02 2012",
+    "total_amount": "72.00"
+  },
+  {
+    "doc_id": "invoice_Allen Goldenen_39139",
+    "source_file": "invoice_Allen Goldenen_39139.txt",
+    "invoice_number": "39139",
+    "invoice_date": "Apr 18 2012",
+    "total_amount": "174.15"
+  },
+  {
+    "doc_id": "invoice_Allen Goldenen_39140",
+    "source_file": "invoice_Allen Goldenen_39140.txt",
+    "invoice_number": "39140",
+    "invoice_date": "Apr 18 2012",
+    "total_amount": "784.08"
+  },
+  {
+    "doc_id": "invoice_Allen Rosenblatt_27259",
+    "source_file": "invoice_Allen Rosenblatt_27259.txt",
+    "invoice_number": "27259",
+    "invoice_date": "Jun 21 2012",
+    "total_amount": "1,857.06"
+  },
+  {
+    "doc_id": "invoice_Allen Rosenblatt_33571",
+    "source_file": "invoice_Allen Rosenblatt_33571.txt",
+    "invoice_number": "33571",
+    "invoice_date": "Oct 02 2012",
+    "total_amount": "143.43"
+  },
+  {
+    "doc_id": "invoice_Allen Rosenblatt_33572",
+    "source_file": "invoice_Allen Rosenblatt_33572.txt",
+    "invoice_number": "33572",
+    "invoice_date": "Oct 02 2012",
+    "total_amount": "367.06"
+  },
+  {
+    "doc_id": "invoice_Alyssa Crouse_31634",
+    "source_file": "invoice_Alyssa Crouse_31634.txt",
+    "invoice_number": "31634",
+    "invoice_date": "Jul 11 2012",
+    "total_amount": "15.42"
+  },
+  {
+    "doc_id": "invoice_Alyssa Crouse_31635",
+    "source_file": "invoice_Alyssa Crouse_31635.txt",
+    "invoice_number": "31635",
+    "invoice_date": "Jul 11 2012",
+    "total_amount": "2,095.06"
+  },
+  {
+    "doc_id": "invoice_Alyssa Tate_32473",
+    "source_file": "invoice_Alyssa Tate_32473.txt",
+    "invoice_number": "32473",
+    "invoice_date": "Dec 26 2012",
+    "total_amount": "46.24"
+  },
+  {
+    "doc_id": "invoice_Alyssa Tate_41218",
+    "source_file": "invoice_Alyssa Tate_41218.txt",
+    "invoice_number": "41218",
+    "invoice_date": "Nov 23 2012",
+    "total_amount": "17.23"
+  },
+  {
+    "doc_id": "invoice_Amy Cox_36068",
+    "source_file": "invoice_Amy Cox_36068.txt",
+    "invoice_number": "36068",
+    "invoice_date": "Oct 30 2012",
+    "total_amount": "5,938.69"
+  },
+  {
+    "doc_id": "invoice_Amy Hunt_36350",
+    "source_file": "invoice_Amy Hunt_36350.txt",
+    "invoice_number": "36350",
+    "invoice_date": "Jan 02 2013",
+    "total_amount": "1,992.00"
+  },
+  {
+    "doc_id": "invoice_Amy Hunt_36351",
+    "source_file": "invoice_Amy Hunt_36351.txt",
+    "invoice_number": "36351",
+    "invoice_date": "Jan 02 2013",
+    "total_amount": "21.17"
+  },
+  {
+    "doc_id": "invoice_Amy Hunt_36352",
+    "source_file": "invoice_Amy Hunt_36352.txt",
+    "invoice_number": "36352",
+    "invoice_date": "Jan 02 2013",
+    "total_amount": "12,171.58"
+  },
+  {
+    "doc_id": "invoice_Amy Hunt_37363",
+    "source_file": "invoice_Amy Hunt_37363.txt",
+    "invoice_number": "Date",
+    "invoice_date": null,
+    "total_amount": "0.00"
+  },
+  {
+    "doc_id": "invoice_Andrew Allen_27673",
+    "source_file": "invoice_Andrew Allen_27673.txt",
+    "invoice_number": "27673",
+    "invoice_date": "Jun 23 2012",
+    "total_amount": "4,773.33"
+  },
+  {
+    "doc_id": "invoice_Andrew Allen_32756",
+    "source_file": "invoice_Andrew Allen_32756.txt",
+    "invoice_number": "32756",
+    "invoice_date": "May 03 2012",
+    "total_amount": "54.92"
+  },
+  {
+    "doc_id": "invoice_Andrew Gjertsen_12447",
+    "source_file": "invoice_Andrew Gjertsen_12447.txt",
+    "invoice_number": "12447",
+    "invoice_date": "Apr 03 2012",
+    "total_amount": "2,029.10"
+  },
+  {
+    "doc_id": "invoice_Andrew Gjertsen_15999",
+    "source_file": "invoice_Andrew Gjertsen_15999.txt",
+    "invoice_number": "15999",
+    "invoice_date": "Apr 04 2012",
+    "total_amount": "13,223.39"
+  },
+  {
+    "doc_id": "invoice_Andrew Gjertsen_28750",
+    "source_file": "invoice_Andrew Gjertsen_28750.txt",
+    "invoice_number": "28750",
+    "invoice_date": "Dec 05 2012",
+    "total_amount": "17,632.65"
+  },
+  {
+    "doc_id": "invoice_Andrew Gjertsen_36943",
+    "source_file": "invoice_Andrew Gjertsen_36943.txt",
+    "invoice_number": "36943",
+    "invoice_date": "Jan 03 2013",
+    "total_amount": "2,691.08"
+  },
+  {
+    "doc_id": "invoice_Andrew Roberts_15115",
+    "source_file": "invoice_Andrew Roberts_15115.txt",
+    "invoice_number": "15115",
+    "invoice_date": "Sep 07 2012",
+    "total_amount": "10,095.19"
+  },
+  {
+    "doc_id": "invoice_Andrew Roberts_21464",
+    "source_file": "invoice_Andrew Roberts_21464.txt",
+    "invoice_number": "21464",
+    "invoice_date": "Dec 23 2012",
+    "total_amount": "16,356.00"
+  },
+  {
+    "doc_id": "invoice_Andrew Roberts_31904",
+    "source_file": "invoice_Andrew Roberts_31904.txt",
+    "invoice_number": "31904",
+    "invoice_date": "May 22 2012",
+    "total_amount": "6.56"
+  },
+  {
+    "doc_id": "invoice_Andrew Roberts_31905",
+    "source_file": "invoice_Andrew Roberts_31905.txt",
+    "invoice_number": "31905",
+    "invoice_date": "May 22 2012",
+    "total_amount": "190.51"
+  },
+  {
+    "doc_id": "invoice_Andrew Roberts_31906",
+    "source_file": "invoice_Andrew Roberts_31906.txt",
+    "invoice_number": "31906",
+    "invoice_date": "May 22 2012",
+    "total_amount": "110.38"
+  },
+  {
+    "doc_id": "invoice_Andrew Roberts_37121",
+    "source_file": "invoice_Andrew Roberts_37121.txt",
+    "invoice_number": "37121",
+    "invoice_date": "May 01 2012",
+    "total_amount": "78.41"
+  },
+  {
+    "doc_id": "invoice_Andy Gerbode_31611",
+    "source_file": "invoice_Andy Gerbode_31611.txt",
+    "invoice_number": "31611",
+    "invoice_date": "Aug 08 2012",
+    "total_amount": "356.77"
+  },
+  {
+    "doc_id": "invoice_Andy Gerbode_31612",
+    "source_file": "invoice_Andy Gerbode_31612.txt",
+    "invoice_number": "31612",
+    "invoice_date": "Aug 08 2012",
+    "total_amount": "46.66"
+  },
+  {
+    "doc_id": "invoice_Andy Gerbode_38585",
+    "source_file": "invoice_Andy Gerbode_38585.txt",
+    "invoice_number": "38585",
+    "invoice_date": "Sep 01 2012",
+    "total_amount": "1,679.13"
+  },
+  {
+    "doc_id": "invoice_Andy Reiter_24876",
+    "source_file": "invoice_Andy Reiter_24876.txt",
+    "invoice_number": "24876",
+    "invoice_date": "Jan 01 2013",
+    "total_amount": "1,240.11"
+  },
+  {
+    "doc_id": "invoice_Andy Reiter_35286",
+    "source_file": "invoice_Andy Reiter_35286.txt",
+    "invoice_number": "35286",
+    "invoice_date": "Nov 24 2012",
+    "total_amount": "105.92"
+  },
+  {
+    "doc_id": "invoice_Andy Yotov_37312",
+    "source_file": "invoice_Andy Yotov_37312.txt",
+    "invoice_number": "37312",
+    "invoice_date": "Apr 05 2012",
+    "total_amount": "183.92"
+  },
+  {
+    "doc_id": "invoice_Andy Yotov_37313",
+    "source_file": "invoice_Andy Yotov_37313.txt",
+    "invoice_number": "37313",
+    "invoice_date": "Apr 05 2012",
+    "total_amount": "231.77"
+  },
+  {
+    "doc_id": "invoice_Andy Yotov_37314",
+    "source_file": "invoice_Andy Yotov_37314.txt",
+    "invoice_number": "37314",
+    "invoice_date": "Apr 05 2012",
+    "total_amount": "58.32"
+  },
+  {
+    "doc_id": "invoice_Andy Yotov_37315",
+    "source_file": "invoice_Andy Yotov_37315.txt",
+    "invoice_number": "37315",
+    "invoice_date": "Apr 05 2012",
+    "total_amount": "55.48"
+  },
+  {
+    "doc_id": "invoice_Andy Yotov_39986",
+    "source_file": "invoice_Andy Yotov_39986.txt",
+    "invoice_number": "39986",
+    "invoice_date": "Dec 25 2012",
+    "total_amount": "24.05"
+  },
+  {
+    "doc_id": "invoice_Anemone Ratner_8876",
+    "source_file": "invoice_Anemone Ratner_8876.txt",
+    "invoice_number": "8876",
+    "invoice_date": "Apr 20 2012",
+    "total_amount": "3,886.85"
+  },
+  {
+    "doc_id": "invoice_Angele Hood_12988",
+    "source_file": "invoice_Angele Hood_12988.txt",
+    "invoice_number": "12988",
+    "invoice_date": "Jun 07 2012",
+    "total_amount": "11,482.56"
+  },
+  {
+    "doc_id": "invoice_Angele Hood_35601",
+    "source_file": "invoice_Angele Hood_35601.txt",
+    "invoice_number": "35601",
+    "invoice_date": "Oct 25 2012",
+    "total_amount": "255.68"
+  },
+  {
+    "doc_id": "invoice_Angele Hood_35602",
+    "source_file": "invoice_Angele Hood_35602.txt",
+    "invoice_number": "35602",
+    "invoice_date": "Oct 25 2012",
+    "total_amount": "1,919.80"
+  },
+  {
+    "doc_id": "invoice_Ann Blume_35427",
+    "source_file": "invoice_Ann Blume_35427.txt",
+    "invoice_number": "35427",
+    "invoice_date": "Nov 17 2012",
+    "total_amount": "72.40"
+  },
+  {
+    "doc_id": "invoice_Ann Blume_35513",
+    "source_file": "invoice_Ann Blume_35513.txt",
+    "invoice_number": "35513",
+    "invoice_date": "Feb 17 2013",
+    "total_amount": "27.72"
+  },
+  {
+    "doc_id": "invoice_Ann Blume_49366",
+    "source_file": "invoice_Ann Blume_49366.txt",
+    "invoice_number": "49366",
+    "invoice_date": "Jan 24 2012",
+    "total_amount": "560.97"
+  },
+  {
+    "doc_id": "invoice_Ann Blume_49367",
+    "source_file": "invoice_Ann Blume_49367.txt",
+    "invoice_number": "49367",
+    "invoice_date": "Jan 24 2012",
+    "total_amount": "2,605.56"
+  },
+  {
+    "doc_id": "invoice_Ann Chong_42692",
+    "source_file": "invoice_Ann Chong_42692.txt",
+    "invoice_number": "42692",
+    "invoice_date": "Sep 30 2012",
+    "total_amount": "4,066.56"
+  },
+  {
+    "doc_id": "invoice_Ann Steele_33707",
+    "source_file": "invoice_Ann Steele_33707.txt",
+    "invoice_number": "33707",
+    "invoice_date": "Jul 31 2012",
+    "total_amount": "11.36"
+  },
+  {
+    "doc_id": "invoice_Ann Steele_39387",
+    "source_file": "invoice_Ann Steele_39387.txt",
+    "invoice_number": "39387",
+    "invoice_date": "Dec 06 2012",
+    "total_amount": "1,885.52"
+  },
+  {
+    "doc_id": "invoice_Ann Steele_51179",
+    "source_file": "invoice_Ann Steele_51179.txt",
+    "invoice_number": "51179",
+    "invoice_date": "Jul 06 2012",
+    "total_amount": "2,606.83"
+  },
+  {
+    "doc_id": "invoice_Anna Andreadi_35317",
+    "source_file": "invoice_Anna Andreadi_35317.txt",
+    "invoice_number": "35317",
+    "invoice_date": "Jun 21 2012",
+    "total_amount": "510.17"
+  },
+  {
+    "doc_id": "invoice_Anna Andreadi_35318",
+    "source_file": "invoice_Anna Andreadi_35318.txt",
+    "invoice_number": "35318",
+    "invoice_date": "Jun 21 2012",
+    "total_amount": "248.35"
+  },
+  {
+    "doc_id": "invoice_Anna Andreadi_35319",
+    "source_file": "invoice_Anna Andreadi_35319.txt",
+    "invoice_number": "35319",
+    "invoice_date": "Jun 21 2012",
+    "total_amount": "4,269.65"
+  },
+  {
+    "doc_id": "invoice_Anna Andreadi_39300",
+    "source_file": "invoice_Anna Andreadi_39300.txt",
+    "invoice_number": "39300",
+    "invoice_date": "Nov 30 2012",
+    "total_amount": "543.80"
+  },
+  {
+    "doc_id": "invoice_Anna Andreadi_39301",
+    "source_file": "invoice_Anna Andreadi_39301.txt",
+    "invoice_number": "Date",
+    "invoice_date": null,
+    "total_amount": "0.00"
+  },
+  {
+    "doc_id": "invoice_Anna Andreadi_39302",
+    "source_file": "invoice_Anna Andreadi_39302.txt",
+    "invoice_number": "39302",
+    "invoice_date": "Nov 30 2012",
+    "total_amount": "19.64"
+  },
+  {
+    "doc_id": "invoice_Anna Chung_36194",
+    "source_file": "invoice_Anna Chung_36194.txt",
+    "invoice_number": "36194",
+    "invoice_date": "Oct 14 2012",
+    "total_amount": "366.74"
+  },
+  {
+    "doc_id": "invoice_Anna Chung_36195",
+    "source_file": "invoice_Anna Chung_36195.txt",
+    "invoice_number": "36195",
+    "invoice_date": "Oct 14 2012",
+    "total_amount": "15.94"
+  },
+  {
+    "doc_id": "invoice_Anna Gayman_42837",
+    "source_file": "invoice_Anna Gayman_42837.txt",
+    "invoice_number": "42837",
+    "invoice_date": "Sep 01 2012",
+    "total_amount": "922.95"
+  },
+  {
+    "doc_id": "invoice_Anna H\u00e4berlin_40216",
+    "source_file": "invoice_Anna H\u00e4berlin_40216.txt",
+    "invoice_number": "40216",
+    "invoice_date": "Apr 01 2012",
+    "total_amount": "355.36"
+  },
+  {
+    "doc_id": "invoice_Anne McFarland_19331",
+    "source_file": "invoice_Anne McFarland_19331.txt",
+    "invoice_number": "19331",
+    "invoice_date": "Oct 11 2012",
+    "total_amount": "8,741.76"
+  },
+  {
+    "doc_id": "invoice_Anne McFarland_35500",
+    "source_file": "invoice_Anne McFarland_35500.txt",
+    "invoice_number": "35500",
+    "invoice_date": "Oct 30 2012",
+    "total_amount": "246.25"
+  },
+  {
+    "doc_id": "invoice_Anne McFarland_35501",
+    "source_file": "invoice_Anne McFarland_35501.txt",
+    "invoice_number": "Date",
+    "invoice_date": null,
+    "total_amount": "0.00"
+  },
+  {
+    "doc_id": "invoice_Anne McFarland_35502",
+    "source_file": "invoice_Anne McFarland_35502.txt",
+    "invoice_number": "35502",
+    "invoice_date": "Oct 30 2012",
+    "total_amount": "29.52"
+  },
+  {
+    "doc_id": "invoice_Anne McFarland_35503",
+    "source_file": "invoice_Anne McFarland_35503.txt",
+    "invoice_number": "35503",
+    "invoice_date": "Oct 30 2012",
+    "total_amount": "68.16"
+  },
+  {
+    "doc_id": "invoice_Anne McFarland_35504",
+    "source_file": "invoice_Anne McFarland_35504.txt",
+    "invoice_number": "35504",
+    "invoice_date": "Oct 30 2012",
+    "total_amount": "53.01"
+  },
+  {
+    "doc_id": "invoice_Anne McFarland_35505",
+    "source_file": "invoice_Anne McFarland_35505.txt",
+    "invoice_number": "35505",
+    "invoice_date": "Oct 30 2012",
+    "total_amount": "8,024.50"
+  },
+  {
+    "doc_id": "invoice_Anne McFarland_35506",
+    "source_file": "invoice_Anne McFarland_35506.txt",
+    "invoice_number": "Date",
+    "invoice_date": null,
+    "total_amount": "0.00"
+  },
+  {
+    "doc_id": "invoice_Anne Pryor_32459",
+    "source_file": "invoice_Anne Pryor_32459.txt",
+    "invoice_number": "32459",
+    "invoice_date": "Mar 02 2012",
+    "total_amount": "9.99"
+  },
+  {
+    "doc_id": "invoice_Anne Pryor_32460",
+    "source_file": "invoice_Anne Pryor_32460.txt",
+    "invoice_number": "32460",
+    "invoice_date": "Mar 02 2012",
+    "total_amount": "377.28"
+  },
+  {
+    "doc_id": "invoice_Anne Pryor_32461",
+    "source_file": "invoice_Anne Pryor_32461.txt",
+    "invoice_number": "32461",
+    "invoice_date": "Mar 02 2012",
+    "total_amount": "126.60"
+  },
+  {
+    "doc_id": "invoice_Annie Thurman_29368",
+    "source_file": "invoice_Annie Thurman_29368.txt",
+    "invoice_number": "29368",
+    "invoice_date": "Jun 05 2012",
+    "total_amount": "8,586.68"
+  },
+  {
+    "doc_id": "invoice_Annie Thurman_37562",
+    "source_file": "invoice_Annie Thurman_37562.txt",
+    "invoice_number": "Date",
+    "invoice_date": null,
+    "total_amount": "0.00"
+  },
+  {
+    "doc_id": "invoice_Annie Thurman_37563",
+    "source_file": "invoice_Annie Thurman_37563.txt",
+    "invoice_number": "37563",
+    "invoice_date": "Nov 02 2012",
+    "total_amount": "1,294.70"
+  },
+  {
+    "doc_id": "invoice_Annie Thurman_39757",
+    "source_file": "invoice_Annie Thurman_39757.txt",
+    "invoice_number": "39757",
+    "invoice_date": "Aug 29 2012",
+    "total_amount": "126.50"
+  },
+  {
+    "doc_id": "invoice_Annie Thurman_39758",
+    "source_file": "invoice_Annie Thurman_39758.txt",
+    "invoice_number": "39758",
+    "invoice_date": "Aug 29 2012",
+    "total_amount": "287.82"
+  },
+  {
+    "doc_id": "invoice_Annie Zypern_33729",
+    "source_file": "invoice_Annie Zypern_33729.txt",
+    "invoice_number": "33729",
+    "invoice_date": "Mar 24 2012",
+    "total_amount": "2,567.50"
+  },
+  {
+    "doc_id": "invoice_Annie Zypern_36397",
+    "source_file": "invoice_Annie Zypern_36397.txt",
+    "invoice_number": "36397",
+    "invoice_date": "Mar 16 2012",
+    "total_amount": "8.90"
+  },
+  {
+    "doc_id": "invoice_Annie Zypern_36398",
+    "source_file": "invoice_Annie Zypern_36398.txt",
+    "invoice_number": "36398",
+    "invoice_date": "Mar 16 2012",
+    "total_amount": "5.18"
+  },
+  {
+    "doc_id": "invoice_Annie Zypern_36399",
+    "source_file": "invoice_Annie Zypern_36399.txt",
+    "invoice_number": "36399",
+    "invoice_date": "Mar 16 2012",
+    "total_amount": "46.66"
+  },
+  {
+    "doc_id": "invoice_Annie Zypern_767",
+    "source_file": "invoice_Annie Zypern_767.txt",
+    "invoice_number": "767",
+    "invoice_date": "Dec 28 2012",
+    "total_amount": "19,435.52"
+  },
+  {
+    "doc_id": "invoice_Anthony Garverick_32175",
+    "source_file": "invoice_Anthony Garverick_32175.txt",
+    "invoice_number": "Date",
+    "invoice_date": null,
+    "total_amount": "0.00"
+  },
+  {
+    "doc_id": "invoice_Anthony Jacobs_32162",
+    "source_file": "invoice_Anthony Jacobs_32162.txt",
+    "invoice_number": "32162",
+    "invoice_date": "Jan 11 2012",
+    "total_amount": "2.89"
+  },
+  {
+    "doc_id": "invoice_Anthony Jacobs_32163",
+    "source_file": "invoice_Anthony Jacobs_32163.txt",
+    "invoice_number": "Date",
+    "invoice_date": null,
+    "total_amount": "0.00"
+  },
+  {
+    "doc_id": "invoice_Anthony Jacobs_37592",
+    "source_file": "invoice_Anthony Jacobs_37592.txt",
+    "invoice_number": "37592",
+    "invoice_date": "Dec 27 2012",
+    "total_amount": "10,423.08"
+  },
+  {
+    "doc_id": "invoice_Anthony Jacobs_37593",
+    "source_file": "invoice_Anthony Jacobs_37593.txt",
+    "invoice_number": "37593",
+    "invoice_date": "Dec 27 2012",
+    "total_amount": "3,521.25"
+  },
+  {
+    "doc_id": "invoice_Anthony Jacobs_37594",
+    "source_file": "invoice_Anthony Jacobs_37594.txt",
+    "invoice_number": "37594",
+    "invoice_date": "Dec 27 2012",
+    "total_amount": "567.04"
+  },
+  {
+    "doc_id": "invoice_Anthony Jacobs_37936",
+    "source_file": "invoice_Anthony Jacobs_37936.txt",
+    "invoice_number": "37936",
+    "invoice_date": "Oct 30 2012",
+    "total_amount": "11,373.31"
+  },
+  {
+    "doc_id": "invoice_Anthony Johnson_32065",
+    "source_file": "invoice_Anthony Johnson_32065.txt",
+    "invoice_number": "32065",
+    "invoice_date": "May 13 2012",
+    "total_amount": "621.76"
+  },
+  {
+    "doc_id": "invoice_Anthony Johnson_35334",
+    "source_file": "invoice_Anthony Johnson_35334.txt",
+    "invoice_number": "35334",
+    "invoice_date": "Dec 28 2012",
+    "total_amount": "124.50"
+  },
+  {
+    "doc_id": "invoice_Anthony Johnson_35335",
+    "source_file": "invoice_Anthony Johnson_35335.txt",
+    "invoice_number": "35335",
+    "invoice_date": "Dec 28 2012",
+    "total_amount": "84.48"
+  },
+  {
+    "doc_id": "invoice_Anthony Johnson_35336",
+    "source_file": "invoice_Anthony Johnson_35336.txt",
+    "invoice_number": "35336",
+    "invoice_date": "Dec 28 2012",
+    "total_amount": "4,607.71"
+  },
+  {
+    "doc_id": "invoice_Anthony Johnson_35337",
+    "source_file": "invoice_Anthony Johnson_35337.txt",
+    "invoice_number": "35337",
+    "invoice_date": "Dec 28 2012",
+    "total_amount": "43.06"
+  },
+  {
+    "doc_id": "invoice_Anthony Johnson_35338",
+    "source_file": "invoice_Anthony Johnson_35338.txt",
+    "invoice_number": "35338",
+    "invoice_date": "Dec 28 2012",
+    "total_amount": "575.93"
+  },
+  {
+    "doc_id": "invoice_Anthony Johnson_35339",
+    "source_file": "invoice_Anthony Johnson_35339.txt",
+    "invoice_number": "35339",
+    "invoice_date": "Dec 28 2012",
+    "total_amount": "2,472.93"
+  },
+  {
+    "doc_id": "invoice_Anthony Johnson_35340",
+    "source_file": "invoice_Anthony Johnson_35340.txt",
+    "invoice_number": "Date",
+    "invoice_date": null,
+    "total_amount": "0.00"
+  },
+  {
+    "doc_id": "invoice_Anthony O'Donnell_16013",
+    "source_file": "invoice_Anthony O'Donnell_16013.txt",
+    "invoice_number": "16013",
+    "invoice_date": "Dec 25 2012",
+    "total_amount": "5,805.60"
+  },
+  {
+    "doc_id": "invoice_Anthony O'Donnell_25068",
+    "source_file": "invoice_Anthony O'Donnell_25068.txt",
+    "invoice_number": "25068",
+    "invoice_date": "Dec 08 2012",
+    "total_amount": "5,175.17"
+  },
+  {
+    "doc_id": "invoice_Anthony Rawles_11116",
+    "source_file": "invoice_Anthony Rawles_11116.txt",
+    "invoice_number": "11116",
+    "invoice_date": "May 12 2012",
+    "total_amount": "4,101.60"
+  },
+  {
+    "doc_id": "invoice_Anthony Rawles_34444",
+    "source_file": "invoice_Anthony Rawles_34444.txt",
+    "invoice_number": "34444",
+    "invoice_date": "Jun 29 2012",
+    "total_amount": "162.00"
+  },
+  {
+    "doc_id": "invoice_Anthony Witt_16997",
+    "source_file": "invoice_Anthony Witt_16997.txt",
+    "invoice_number": "16997",
+    "invoice_date": "Nov 29 2012",
+    "total_amount": "11,526.72"
+  },
+  {
+    "doc_id": "invoice_Anthony Witt_6470",
+    "source_file": "invoice_Anthony Witt_6470.txt",
+    "invoice_number": "6470",
+    "invoice_date": "Jun 12 2012",
+    "total_amount": "9,073.26"
+  },
+  {
+    "doc_id": "invoice_Arianne Irving_36493",
+    "source_file": "invoice_Arianne Irving_36493.txt",
+    "invoice_number": "36493",
+    "invoice_date": "May 09 2012",
+    "total_amount": "474.39"
+  },
+  {
+    "doc_id": "invoice_Arianne Irving_36494",
+    "source_file": "invoice_Arianne Irving_36494.txt",
+    "invoice_number": "36494",
+    "invoice_date": "May 09 2012",
+    "total_amount": "218.00"
+  },
+  {
+    "doc_id": "invoice_Arianne Irving_38989",
+    "source_file": "invoice_Arianne Irving_38989.txt",
+    "invoice_number": "38989",
+    "invoice_date": "Dec 28 2012",
+    "total_amount": "532.80"
+  },
+  {
+    "doc_id": "invoice_Arianne Irving_38990",
+    "source_file": "invoice_Arianne Irving_38990.txt",
+    "invoice_number": "38990",
+    "invoice_date": "Dec 28 2012",
+    "total_amount": "1,279.87"
+  },
+  {
+    "doc_id": "invoice_Arianne Irving_39748",
+    "source_file": "invoice_Arianne Irving_39748.txt",
+    "invoice_number": "39748",
+    "invoice_date": "Apr 27 2012",
+    "total_amount": "8,399.80"
+  },
+  {
+    "doc_id": "invoice_Art Ferguson_20228",
+    "source_file": "invoice_Art Ferguson_20228.txt",
+    "invoice_number": "20228",
+    "invoice_date": "Sep 27 2012",
+    "total_amount": "33,561.60"
+  },
+  {
+    "doc_id": "invoice_Art Ferguson_910",
+    "source_file": "invoice_Art Ferguson_910.txt",
+    "invoice_number": "910",
+    "invoice_date": "Oct 26 2012",
+    "total_amount": "3,824.10"
+  },
+  {
+    "doc_id": "invoice_Art Ferguson_911",
+    "source_file": "invoice_Art Ferguson_911.txt",
+    "invoice_number": "911",
+    "invoice_date": "Oct 26 2012",
+    "total_amount": "17,525.76"
+  },
+  {
+    "doc_id": "invoice_Art Foster_34581",
+    "source_file": "invoice_Art Foster_34581.txt",
+    "invoice_number": "34581",
+    "invoice_date": "Sep 11 2012",
+    "total_amount": "447.47"
+  },
+  {
+    "doc_id": "invoice_Art Foster_38851",
+    "source_file": "invoice_Art Foster_38851.txt",
+    "invoice_number": "38851",
+    "invoice_date": "May 09 2012",
+    "total_amount": "2,449.76"
+  },
+  {
+    "doc_id": "invoice_Art Foster_38852",
+    "source_file": "invoice_Art Foster_38852.txt",
+    "invoice_number": "38852",
+    "invoice_date": "May 09 2012",
+    "total_amount": "111.60"
+  },
+  {
+    "doc_id": "invoice_Arthur Gainer_31669",
+    "source_file": "invoice_Arthur Gainer_31669.txt",
+    "invoice_number": "31669",
+    "invoice_date": "Jul 22 2012",
+    "total_amount": "40.80"
+  },
+  {
+    "doc_id": "invoice_Arthur Gainer_31670",
+    "source_file": "invoice_Arthur Gainer_31670.txt",
+    "invoice_number": "31670",
+    "invoice_date": "Jul 22 2012",
+    "total_amount": "8,191.49"
+  },
+  {
+    "doc_id": "invoice_Arthur Gainer_31671",
+    "source_file": "invoice_Arthur Gainer_31671.txt",
+    "invoice_number": "31671",
+    "invoice_date": "Jul 22 2012",
+    "total_amount": "9.24"
+  },
+  {
+    "doc_id": "invoice_Arthur Gainer_31672",
+    "source_file": "invoice_Arthur Gainer_31672.txt",
+    "invoice_number": "31672",
+    "invoice_date": "Jul 22 2012",
+    "total_amount": "4,790.40"
+  },
+  {
+    "doc_id": "invoice_Arthur Prichep_32438",
+    "source_file": "invoice_Arthur Prichep_32438.txt",
+    "invoice_number": "32438",
+    "invoice_date": "Sep 28 2012",
+    "total_amount": "409.20"
+  },
+  {
+    "doc_id": "invoice_Arthur Prichep_32439",
+    "source_file": "invoice_Arthur Prichep_32439.txt",
+    "invoice_number": "32439",
+    "invoice_date": "Sep 28 2012",
+    "total_amount": "34.88"
+  },
+  {
+    "doc_id": "invoice_Arthur Prichep_32440",
+    "source_file": "invoice_Arthur Prichep_32440.txt",
+    "invoice_number": "32440",
+    "invoice_date": "Sep 28 2012",
+    "total_amount": "6.48"
+  },
+  {
+    "doc_id": "invoice_Arthur Prichep_32441",
+    "source_file": "invoice_Arthur Prichep_32441.txt",
+    "invoice_number": "32441",
+    "invoice_date": "Sep 28 2012",
+    "total_amount": "1,372.64"
+  },
+  {
+    "doc_id": "invoice_Arthur Prichep_32442",
+    "source_file": "invoice_Arthur Prichep_32442.txt",
+    "invoice_number": "32442",
+    "invoice_date": "Sep 28 2012",
+    "total_amount": "62.18"
+  },
+  {
+    "doc_id": "invoice_Arthur Prichep_35041",
+    "source_file": "invoice_Arthur Prichep_35041.txt",
+    "invoice_number": "35041",
+    "invoice_date": "Oct 23 2012",
+    "total_amount": "35.55"
+  },
+  {
+    "doc_id": "invoice_Arthur Prichep_37075",
+    "source_file": "invoice_Arthur Prichep_37075.txt",
+    "invoice_number": "37075",
+    "invoice_date": "Nov 10 2012",
+    "total_amount": "91.44"
+  },
+  {
+    "doc_id": "invoice_Arthur Prichep_37076",
+    "source_file": "invoice_Arthur Prichep_37076.txt",
+    "invoice_number": "37076",
+    "invoice_date": "Nov 10 2012",
+    "total_amount": "112.65"
+  },
+  {
+    "doc_id": "invoice_Arthur Prichep_38316",
+    "source_file": "invoice_Arthur Prichep_38316.txt",
+    "invoice_number": "38316",
+    "invoice_date": "Aug 22 2012",
+    "total_amount": "46.66"
+  },
+  {
+    "doc_id": "invoice_Arthur Prichep_38317",
+    "source_file": "invoice_Arthur Prichep_38317.txt",
+    "invoice_number": "38317",
+    "invoice_date": "Aug 22 2012",
+    "total_amount": "6.80"
+  },
+  {
+    "doc_id": "invoice_Arthur Prichep_38318",
+    "source_file": "invoice_Arthur Prichep_38318.txt",
+    "invoice_number": "38318",
+    "invoice_date": "Aug 22 2012",
+    "total_amount": "12.67"
+  },
+  {
+    "doc_id": "invoice_Arthur Prichep_38319",
+    "source_file": "invoice_Arthur Prichep_38319.txt",
+    "invoice_number": "38319",
+    "invoice_date": "Aug 22 2012",
+    "total_amount": "1,292.76"
+  },
+  {
+    "doc_id": "invoice_Arthur Prichep_38320",
+    "source_file": "invoice_Arthur Prichep_38320.txt",
+    "invoice_number": "38320",
+    "invoice_date": "Aug 22 2012",
+    "total_amount": "186.62"
+  },
+  {
+    "doc_id": "invoice_Arthur Prichep_38321",
+    "source_file": "invoice_Arthur Prichep_38321.txt",
+    "invoice_number": "38321",
+    "invoice_date": "Aug 22 2012",
+    "total_amount": "2,007.50"
+  },
+  {
+    "doc_id": "invoice_Arthur Wiediger_33503",
+    "source_file": "invoice_Arthur Wiediger_33503.txt",
+    "invoice_number": "33503",
+    "invoice_date": "Jul 13 2012",
+    "total_amount": "209.52"
+  },
+  {
+    "doc_id": "invoice_Arthur Wiediger_33504",
+    "source_file": "invoice_Arthur Wiediger_33504.txt",
+    "invoice_number": "33504",
+    "invoice_date": "Jul 13 2012",
+    "total_amount": "153.09"
+  },
+  {
+    "doc_id": "invoice_Ashley Jarboe_31852",
+    "source_file": "invoice_Ashley Jarboe_31852.txt",
+    "invoice_number": "31852",
+    "invoice_date": "Mar 02 2012",
+    "total_amount": "77.82"
+  },
+  {
+    "doc_id": "invoice_Ashley Jarboe_7804",
+    "source_file": "invoice_Ashley Jarboe_7804.txt",
+    "invoice_number": "7804",
+    "invoice_date": "Sep 11 2012",
+    "total_amount": "6,157.44"
+  },
+  {
+    "doc_id": "invoice_Astrea Jones_12655",
+    "source_file": "invoice_Astrea Jones_12655.txt",
+    "invoice_number": "12655",
+    "invoice_date": "Feb 06 2013",
+    "total_amount": "3,906.36"
+  },
+  {
+    "doc_id": "invoice_Astrea Jones_31788",
+    "source_file": "invoice_Astrea Jones_31788.txt",
+    "invoice_number": "31788",
+    "invoice_date": "Sep 13 2012",
+    "total_amount": "2,245.75"
+  },
+  {
+    "doc_id": "invoice_Astrea Jones_31789",
+    "source_file": "invoice_Astrea Jones_31789.txt",
+    "invoice_number": "31789",
+    "invoice_date": "Sep 13 2012",
+    "total_amount": "33.21"
+  },
+  {
+    "doc_id": "invoice_Astrea Jones_39561",
+    "source_file": "invoice_Astrea Jones_39561.txt",
+    "invoice_number": "39561",
+    "invoice_date": "Dec 29 2012",
+    "total_amount": "368.82"
+  },
+  {
+    "doc_id": "invoice_Astrea Jones_39562",
+    "source_file": "invoice_Astrea Jones_39562.txt",
+    "invoice_number": "39562",
+    "invoice_date": "Dec 29 2012",
+    "total_amount": "248.14"
+  },
+  {
+    "doc_id": "invoice_Barbara Fisher_23962",
+    "source_file": "invoice_Barbara Fisher_23962.txt",
+    "invoice_number": "23962",
+    "invoice_date": "Aug 07 2012",
+    "total_amount": "5,094.24"
+  },
+  {
+    "doc_id": "invoice_Barbara Fisher_33134",
+    "source_file": "invoice_Barbara Fisher_33134.txt",
+    "invoice_number": "33134",
+    "invoice_date": "Jul 31 2012",
+    "total_amount": "52.63"
+  },
+  {
+    "doc_id": "invoice_Barbara Fisher_33135",
+    "source_file": "invoice_Barbara Fisher_33135.txt",
+    "invoice_number": "33135",
+    "invoice_date": "Jul 31 2012",
+    "total_amount": "176.51"
+  },
+  {
+    "doc_id": "invoice_Barbara Fisher_33136",
+    "source_file": "invoice_Barbara Fisher_33136.txt",
+    "invoice_number": "33136",
+    "invoice_date": "Jul 31 2012",
+    "total_amount": "62.92"
+  },
+  {
+    "doc_id": "invoice_Barbara Fisher_33137",
+    "source_file": "invoice_Barbara Fisher_33137.txt",
+    "invoice_number": "33137",
+    "invoice_date": "Jul 31 2012",
+    "total_amount": "156.61"
+  },
+  {
+    "doc_id": "invoice_Barbara Fisher_39349",
+    "source_file": "invoice_Barbara Fisher_39349.txt",
+    "invoice_number": "39349",
+    "invoice_date": "Jul 13 2012",
+    "total_amount": "53.82"
+  },
+  {
+    "doc_id": "invoice_Barry Blumstein_40184",
+    "source_file": "invoice_Barry Blumstein_40184.txt",
+    "invoice_number": "40184",
+    "invoice_date": "Jul 26 2012",
+    "total_amount": "552.56"
+  },
+  {
+    "doc_id": "invoice_Barry Franz_38346",
+    "source_file": "invoice_Barry Franz_38346.txt",
+    "invoice_number": "38346",
+    "invoice_date": "Sep 24 2012",
+    "total_amount": "29.15"
+  },
+  {
+    "doc_id": "invoice_Barry Franz\u00f6sisch_38734",
+    "source_file": "invoice_Barry Franz\u00f6sisch_38734.txt",
+    "invoice_number": "38734",
+    "invoice_date": "Feb 16 2012",
+    "total_amount": "106.80"
+  },
+  {
+    "doc_id": "invoice_Barry Gonzalez_2765",
+    "source_file": "invoice_Barry Gonzalez_2765.txt",
+    "invoice_number": "2765",
+    "invoice_date": "Dec 20 2012",
+    "total_amount": "4,407.06"
+  },
+  {
+    "doc_id": "invoice_Barry Gonzalez_39057",
+    "source_file": "invoice_Barry Gonzalez_39057.txt",
+    "invoice_number": "39057",
+    "invoice_date": "Dec 05 2012",
+    "total_amount": "84.42"
+  },
+  {
+    "doc_id": "invoice_Barry Gonzalez_41083",
+    "source_file": "invoice_Barry Gonzalez_41083.txt",
+    "invoice_number": "41083",
+    "invoice_date": "Nov 04 2012",
+    "total_amount": "749.50"
+  },
+  {
+    "doc_id": "invoice_Barry Pond_40736",
+    "source_file": "invoice_Barry Pond_40736.txt",
+    "invoice_number": "Date",
+    "invoice_date": null,
+    "total_amount": "0.00"
+  },
+  {
+    "doc_id": "invoice_Barry Weirich_12169",
+    "source_file": "invoice_Barry Weirich_12169.txt",
+    "invoice_number": "12169",
+    "invoice_date": "Aug 04 2012",
+    "total_amount": "4,688.64"
+  },
+  {
+    "doc_id": "invoice_Barry Weirich_40737",
+    "source_file": "invoice_Barry Weirich_40737.txt",
+    "invoice_number": "40737",
+    "invoice_date": "May 24 2012",
+    "total_amount": "29.24"
+  },
+  {
+    "doc_id": "invoice_Barry Weirich_9907",
+    "source_file": "invoice_Barry Weirich_9907.txt",
+    "invoice_number": "9907",
+    "invoice_date": "Apr 03 2012",
+    "total_amount": "5,319.84"
+  },
+  {
+    "doc_id": "invoice_Bart Watters_20674",
+    "source_file": "invoice_Bart Watters_20674.txt",
+    "invoice_number": "20674",
+    "invoice_date": "Jun 16 2012",
+    "total_amount": "16,191.53"
+  },
+  {
+    "doc_id": "invoice_Bart Watters_30764",
+    "source_file": "invoice_Bart Watters_30764.txt",
+    "invoice_number": "30764",
+    "invoice_date": "May 22 2012",
+    "total_amount": "2,544.24"
+  },
+  {
+    "doc_id": "invoice_Becky Martin_30241",
+    "source_file": "invoice_Becky Martin_30241.txt",
+    "invoice_number": "30241",
+    "invoice_date": "Nov 22 2012",
+    "total_amount": "2,369.24"
+  },
+  {
+    "doc_id": "invoice_Becky Pak_12051",
+    "source_file": "invoice_Becky Pak_12051.txt",
+    "invoice_number": "12051",
+    "invoice_date": "Aug 09 2012",
+    "total_amount": "47,492.89"
+  },
+  {
+    "doc_id": "invoice_Becky Pak_3801",
+    "source_file": "invoice_Becky Pak_3801.txt",
+    "invoice_number": "3801",
+    "invoice_date": "Sep 15 2012",
+    "total_amount": "2,211.84"
+  },
+  {
+    "doc_id": "invoice_Ben Peterman_17220",
+    "source_file": "invoice_Ben Peterman_17220.txt",
+    "invoice_number": "17220",
+    "invoice_date": "Dec 09 2012",
+    "total_amount": "609.12"
+  },
+  {
+    "doc_id": "invoice_Ben Peterman_17222",
+    "source_file": "invoice_Ben Peterman_17222.txt",
+    "invoice_number": "17222",
+    "invoice_date": "Dec 09 2012",
+    "total_amount": "1,109.05"
+  },
+  {
+    "doc_id": "invoice_Ben Wallace_12333",
+    "source_file": "invoice_Ben Wallace_12333.txt",
+    "invoice_number": "12333",
+    "invoice_date": "Jun 25 2012",
+    "total_amount": "1,408.10"
+  },
+  {
+    "doc_id": "invoice_Benjamin Farhat_24938",
+    "source_file": "invoice_Benjamin Farhat_24938.txt",
+    "invoice_number": "24938",
+    "invoice_date": "Feb 16 2012",
+    "total_amount": "8,476.02"
+  },
+  {
+    "doc_id": "invoice_Benjamin Patterson_11954",
+    "source_file": "invoice_Benjamin Patterson_11954.txt",
+    "invoice_number": "11954",
+    "invoice_date": "Mar 31 2012",
+    "total_amount": "1,775.52"
+  },
+  {
+    "doc_id": "invoice_Benjamin Patterson_22999",
+    "source_file": "invoice_Benjamin Patterson_22999.txt",
+    "invoice_number": "22999",
+    "invoice_date": "Feb 24 2013",
+    "total_amount": "7,514.88"
+  },
+  {
+    "doc_id": "invoice_Benjamin Patterson_42921",
+    "source_file": "invoice_Benjamin Patterson_42921.txt",
+    "invoice_number": "42921",
+    "invoice_date": "Aug 01 2012",
+    "total_amount": "550.80"
+  },
+  {
+    "doc_id": "invoice_Benjamin Venier_17062",
+    "source_file": "invoice_Benjamin Venier_17062.txt",
+    "invoice_number": "17062",
+    "invoice_date": "Jun 01 2012",
+    "total_amount": "8,210.16"
+  },
+  {
+    "doc_id": "invoice_Berenike Kampe_12204",
+    "source_file": "invoice_Berenike Kampe_12204.txt",
+    "invoice_number": "12204",
+    "invoice_date": "Apr 10 2012",
+    "total_amount": "2,356.02"
+  },
+  {
+    "doc_id": "invoice_Beth Fritzler_3924",
+    "source_file": "invoice_Beth Fritzler_3924.txt",
+    "invoice_number": "3924",
+    "invoice_date": "Dec 22 2012",
+    "total_amount": "2,261.66"
+  },
+  {
+    "doc_id": "invoice_Beth Thompson_1286",
+    "source_file": "invoice_Beth Thompson_1286.txt",
+    "invoice_number": "1286",
+    "invoice_date": "Nov 01 2012",
+    "total_amount": "1,344.96"
+  },
+  {
+    "doc_id": "invoice_Bill Donatelli_11631",
+    "source_file": "invoice_Bill Donatelli_11631.txt",
+    "invoice_number": "11631",
+    "invoice_date": "May 01 2012",
+    "total_amount": "6,944.40"
+  },
+  {
+    "doc_id": "invoice_Bill Eplett_14021",
+    "source_file": "invoice_Bill Eplett_14021.txt",
+    "invoice_number": "14021",
+    "invoice_date": "Mar 07 2013",
+    "total_amount": "9,466.50"
+  },
+  {
+    "doc_id": "invoice_Bill Eplett_27119",
+    "source_file": "invoice_Bill Eplett_27119.txt",
+    "invoice_number": "27119",
+    "invoice_date": "Jun 28 2012",
+    "total_amount": "6,414.00"
+  },
+  {
+    "doc_id": "invoice_Bill Stewart_18470",
+    "source_file": "invoice_Bill Stewart_18470.txt",
+    "invoice_number": "18470",
+    "invoice_date": "Jun 05 2012",
+    "total_amount": "2,312.95"
+  },
+  {
+    "doc_id": "invoice_Bill Stewart_3526",
+    "source_file": "invoice_Bill Stewart_3526.txt",
+    "invoice_number": "3526",
+    "invoice_date": "Feb 26 2012",
+    "total_amount": "4,941.60"
+  },
+  {
+    "doc_id": "invoice_Bill Stewart_3527",
+    "source_file": "invoice_Bill Stewart_3527.txt",
+    "invoice_number": "3527",
+    "invoice_date": "Feb 26 2012",
+    "total_amount": "4,112.64"
+  },
+  {
+    "doc_id": "invoice_Bobby Elias_49218",
+    "source_file": "invoice_Bobby Elias_49218.txt",
+    "invoice_number": "49218",
+    "invoice_date": "Apr 07 2012",
+    "total_amount": "526.08"
+  },
+  {
+    "doc_id": "invoice_Brad Eason_21858",
+    "source_file": "invoice_Brad Eason_21858.txt",
+    "invoice_number": "21858",
+    "invoice_date": "Mar 03 2012",
+    "total_amount": "1,664.28"
+  },
+  {
+    "doc_id": "invoice_Brad Norvell_27645",
+    "source_file": "invoice_Brad Norvell_27645.txt",
+    "invoice_number": "27645",
+    "invoice_date": "Nov 29 2012",
+    "total_amount": "3,174.00"
+  },
+  {
+    "doc_id": "invoice_Brad Thomas_16669",
+    "source_file": "invoice_Brad Thomas_16669.txt",
+    "invoice_number": "16669",
+    "invoice_date": "Sep 25 2012",
+    "total_amount": "6,265.35"
+  },
+  {
+    "doc_id": "invoice_Bradley Drucker_14229",
+    "source_file": "invoice_Bradley Drucker_14229.txt",
+    "invoice_number": "14229",
+    "invoice_date": "Dec 16 2012",
+    "total_amount": "3,281.04"
+  },
+  {
+    "doc_id": "invoice_Bradley Talbott_28557",
+    "source_file": "invoice_Bradley Talbott_28557.txt",
+    "invoice_number": "28557",
+    "invoice_date": "Feb 26 2013",
+    "total_amount": "32,707.80"
+  },
+  {
+    "doc_id": "invoice_Brendan Dodson_16305",
+    "source_file": "invoice_Brendan Dodson_16305.txt",
+    "invoice_number": "16305",
+    "invoice_date": "Nov 01 2012",
+    "total_amount": "3,786.18"
+  },
+  {
+    "doc_id": "invoice_Brendan Dodson_20145",
+    "source_file": "invoice_Brendan Dodson_20145.txt",
+    "invoice_number": "20145",
+    "invoice_date": "Feb 22 2013",
+    "total_amount": "11,428.50"
+  },
+  {
+    "doc_id": "invoice_Brendan Dodson_7694",
+    "source_file": "invoice_Brendan Dodson_7694.txt",
+    "invoice_number": "7694",
+    "invoice_date": "Jun 12 2012",
+    "total_amount": "1,895.74"
+  },
+  {
+    "doc_id": "invoice_Brendan Dodson_7695",
+    "source_file": "invoice_Brendan Dodson_7695.txt",
+    "invoice_number": "7695",
+    "invoice_date": "Jun 12 2012",
+    "total_amount": "1,422.00"
+  },
+  {
+    "doc_id": "invoice_Brendan Murry_20958",
+    "source_file": "invoice_Brendan Murry_20958.txt",
+    "invoice_number": "20958",
+    "invoice_date": "Sep 01 2012",
+    "total_amount": "12,459.64"
+  },
+  {
+    "doc_id": "invoice_Brendan Murry_26986",
+    "source_file": "invoice_Brendan Murry_26986.txt",
+    "invoice_number": "26986",
+    "invoice_date": "Aug 28 2012",
+    "total_amount": "16,107.97"
+  },
+  {
+    "doc_id": "invoice_Brendan Sweed_15587",
+    "source_file": "invoice_Brendan Sweed_15587.txt",
+    "invoice_number": "15587",
+    "invoice_date": "Apr 21 2012",
+    "total_amount": "3,226.39"
+  },
+  {
+    "doc_id": "invoice_Brendan Sweed_3187",
+    "source_file": "invoice_Brendan Sweed_3187.txt",
+    "invoice_number": "3187",
+    "invoice_date": "Aug 24 2012",
+    "total_amount": "6,371.84"
+  },
+  {
+    "doc_id": "invoice_Brian Derr_30860",
+    "source_file": "invoice_Brian Derr_30860.txt",
+    "invoice_number": "30860",
+    "invoice_date": "Nov 09 2012",
+    "total_amount": "2,943.00"
+  },
+  {
+    "doc_id": "invoice_Brian Stugart_42321",
+    "source_file": "invoice_Brian Stugart_42321.txt",
+    "invoice_number": "42321",
+    "invoice_date": "May 13 2012",
+    "total_amount": "1,449.60"
+  },
+  {
+    "doc_id": "invoice_Brooke Gillingham_4891",
+    "source_file": "invoice_Brooke Gillingham_4891.txt",
+    "invoice_number": "4891",
+    "invoice_date": "Dec 07 2012",
+    "total_amount": "20,041.34"
+  },
+  {
+    "doc_id": "invoice_Brooke Gillingham_5809",
+    "source_file": "invoice_Brooke Gillingham_5809.txt",
+    "invoice_number": "5809",
+    "invoice_date": "Dec 08 2012",
+    "total_amount": "6,400.40"
+  },
+  {
+    "doc_id": "invoice_Bruce Degenhardt_2535",
+    "source_file": "invoice_Bruce Degenhardt_2535.txt",
+    "invoice_number": "2535",
+    "invoice_date": "Jul 19 2012",
+    "total_amount": "5,856.48"
+  },
+  {
+    "doc_id": "invoice_Bruce Degenhardt_9931",
+    "source_file": "invoice_Bruce Degenhardt_9931.txt",
+    "invoice_number": "9931",
+    "invoice_date": "Jan 01 2013",
+    "total_amount": "4,590.74"
+  },
+  {
+    "doc_id": "invoice_Bruce Geld_27230",
+    "source_file": "invoice_Bruce Geld_27230.txt",
+    "invoice_number": "27230",
+    "invoice_date": "Jul 18 2012",
+    "total_amount": "10,222.56"
+  },
+  {
+    "doc_id": "invoice_Bruce Geld_27231",
+    "source_file": "invoice_Bruce Geld_27231.txt",
+    "invoice_number": "27231",
+    "invoice_date": "Jul 18 2012",
+    "total_amount": "8,828.19"
+  },
+  {
+    "doc_id": "invoice_Bruce Stewart_25045",
+    "source_file": "invoice_Bruce Stewart_25045.txt",
+    "invoice_number": "25045",
+    "invoice_date": "Jul 19 2012",
+    "total_amount": "10,750.70"
+  },
+  {
+    "doc_id": "invoice_Bruce Stewart_6183",
+    "source_file": "invoice_Bruce Stewart_6183.txt",
+    "invoice_number": "6183",
+    "invoice_date": "Sep 12 2012",
+    "total_amount": "2,054.00"
+  },
+  {
+    "doc_id": "invoice_Bruce Stewart_9354",
+    "source_file": "invoice_Bruce Stewart_9354.txt",
+    "invoice_number": "9354",
+    "invoice_date": "Oct 24 2012",
+    "total_amount": "1,292.54"
+  },
+  {
+    "doc_id": "invoice_Bryan Davis_16603",
+    "source_file": "invoice_Bryan Davis_16603.txt",
+    "invoice_number": "16603",
+    "invoice_date": "Jul 26 2012",
+    "total_amount": "4,865.86"
+  },
+  {
+    "doc_id": "invoice_Bryan Mills_21030",
+    "source_file": "invoice_Bryan Mills_21030.txt",
+    "invoice_number": "21030",
+    "invoice_date": "Mar 09 2012",
+    "total_amount": "5,096.64"
+  },
+  {
+    "doc_id": "invoice_Bryan Mills_28645",
+    "source_file": "invoice_Bryan Mills_28645.txt",
+    "invoice_number": "28645",
+    "invoice_date": "Aug 03 2012",
+    "total_amount": "5,820.48"
+  },
+  {
+    "doc_id": "invoice_Bryan Mills_28646",
+    "source_file": "invoice_Bryan Mills_28646.txt",
+    "invoice_number": "28646",
+    "invoice_date": "Aug 03 2012",
+    "total_amount": "3,853.44"
+  },
+  {
+    "doc_id": "invoice_Bryan Mills_49041",
+    "source_file": "invoice_Bryan Mills_49041.txt",
+    "invoice_number": "49041",
+    "invoice_date": "May 23 2012",
+    "total_amount": "1,749.36"
+  },
+  {
+    "doc_id": "invoice_Bryan Spruell_41361",
+    "source_file": "invoice_Bryan Spruell_41361.txt",
+    "invoice_number": "41361",
+    "invoice_date": "Jul 06 2012",
+    "total_amount": "7,422.72"
+  },
+  {
+    "doc_id": "invoice_Bryan Spruell_46338",
+    "source_file": "invoice_Bryan Spruell_46338.txt",
+    "invoice_number": "46338",
+    "invoice_date": "Oct 09 2012",
+    "total_amount": "3,942.72"
+  },
+  {
+    "doc_id": "invoice_Candace McMahon_16144",
+    "source_file": "invoice_Candace McMahon_16144.txt",
+    "invoice_number": "16144",
+    "invoice_date": "Apr 17 2012",
+    "total_amount": "18,151.61"
+  },
+  {
+    "doc_id": "invoice_Cari Sayre_21620",
+    "source_file": "invoice_Cari Sayre_21620.txt",
+    "invoice_number": "21620",
+    "invoice_date": "Aug 18 2012",
+    "total_amount": "11,685.75"
+  },
+  {
+    "doc_id": "invoice_Cari Sayre_21621",
+    "source_file": "invoice_Cari Sayre_21621.txt",
+    "invoice_number": "21621",
+    "invoice_date": "Aug 18 2012",
+    "total_amount": "9,690.75"
+  },
+  {
+    "doc_id": "invoice_Cari Sayre_21624",
+    "source_file": "invoice_Cari Sayre_21624.txt",
+    "invoice_number": "21624",
+    "invoice_date": "Aug 18 2012",
+    "total_amount": "7,344.00"
+  },
+  {
+    "doc_id": "invoice_Cari Sayre_8137",
+    "source_file": "invoice_Cari Sayre_8137.txt",
+    "invoice_number": "8137",
+    "invoice_date": "Nov 03 2012",
+    "total_amount": "5,607.36"
+  },
+  {
+    "doc_id": "invoice_Carl Jackson_2027",
+    "source_file": "invoice_Carl Jackson_2027.txt",
+    "invoice_number": "2027",
+    "invoice_date": "Oct 14 2012",
+    "total_amount": "6,878.00"
+  },
+  {
+    "doc_id": "invoice_Carl Weiss_44270",
+    "source_file": "invoice_Carl Weiss_44270.txt",
+    "invoice_number": "44270",
+    "invoice_date": "Aug 08 2012",
+    "total_amount": "457.14"
+  },
+  {
+    "doc_id": "invoice_Carlos Daly_25242",
+    "source_file": "invoice_Carlos Daly_25242.txt",
+    "invoice_number": "25242",
+    "invoice_date": "Mar 11 2012",
+    "total_amount": "22,904.07"
+  },
+  {
+    "doc_id": "invoice_Carlos Soltero_18994",
+    "source_file": "invoice_Carlos Soltero_18994.txt",
+    "invoice_number": "18994",
+    "invoice_date": "Jan 09 2013",
+    "total_amount": "6,468.38"
+  },
+  {
+    "doc_id": "invoice_Carlos Soltero_3719",
+    "source_file": "invoice_Carlos Soltero_3719.txt",
+    "invoice_number": "3719",
+    "invoice_date": "Feb 24 2012",
+    "total_amount": "1,002.95"
+  },
+  {
+    "doc_id": "invoice_Carol Adams_27720",
+    "source_file": "invoice_Carol Adams_27720.txt",
+    "invoice_number": "27720",
+    "invoice_date": "Feb 10 2012",
+    "total_amount": "76,985.04"
+  },
+  {
+    "doc_id": "invoice_Carol Darley_42483",
+    "source_file": "invoice_Carol Darley_42483.txt",
+    "invoice_number": "42483",
+    "invoice_date": "Apr 21 2012",
+    "total_amount": "829.32"
+  },
+  {
+    "doc_id": "invoice_Carol Triggs_15981",
+    "source_file": "invoice_Carol Triggs_15981.txt",
+    "invoice_number": "15981",
+    "invoice_date": "Jan 12 2013",
+    "total_amount": "1,837.35"
+  },
+  {
+    "doc_id": "invoice_Caroline Jumper_19288",
+    "source_file": "invoice_Caroline Jumper_19288.txt",
+    "invoice_number": "19288",
+    "invoice_date": "Aug 23 2012",
+    "total_amount": "364.39"
+  },
+  {
+    "doc_id": "invoice_Caroline Jumper_24158",
+    "source_file": "invoice_Caroline Jumper_24158.txt",
+    "invoice_number": "24158",
+    "invoice_date": "Jan 25 2013",
+    "total_amount": "1,581.03"
+  },
+  {
+    "doc_id": "invoice_Caroline Jumper_7640",
+    "source_file": "invoice_Caroline Jumper_7640.txt",
+    "invoice_number": "7640",
+    "invoice_date": "Jun 16 2012",
+    "total_amount": "1,238.40"
+  },
+  {
+    "doc_id": "invoice_Catherine Glotzbach_24210",
+    "source_file": "invoice_Catherine Glotzbach_24210.txt",
+    "invoice_number": "24210",
+    "invoice_date": "Dec 09 2012",
+    "total_amount": "2,328.75"
+  },
+  {
+    "doc_id": "invoice_Cathy Hwang_27988",
+    "source_file": "invoice_Cathy Hwang_27988.txt",
+    "invoice_number": "27988",
+    "invoice_date": "Apr 11 2012",
+    "total_amount": "5,805.60"
+  },
+  {
+    "doc_id": "invoice_Chad Cunningham_11753",
+    "source_file": "invoice_Chad Cunningham_11753.txt",
+    "invoice_number": "11753",
+    "invoice_date": "Jan 04 2013",
+    "total_amount": "3,402.24"
+  },
+  {
+    "doc_id": "invoice_Chad Cunningham_1935",
+    "source_file": "invoice_Chad Cunningham_1935.txt",
+    "invoice_number": "1935",
+    "invoice_date": "Feb 03 2013",
+    "total_amount": "1,796.04"
+  },
+  {
+    "doc_id": "invoice_Charles Sheldon_51126",
+    "source_file": "invoice_Charles Sheldon_51126.txt",
+    "invoice_number": "51126",
+    "invoice_date": "Jan 18 2012",
+    "total_amount": "2,985.55"
+  },
+  {
+    "doc_id": "invoice_Charlotte Melton_27583",
+    "source_file": "invoice_Charlotte Melton_27583.txt",
+    "invoice_number": "27583",
+    "invoice_date": "Jun 05 2012",
+    "total_amount": "12,195.89"
+  },
+  {
+    "doc_id": "invoice_Chris Selesnick_15521",
+    "source_file": "invoice_Chris Selesnick_15521.txt",
+    "invoice_number": "15521",
+    "invoice_date": "Mar 29 2012",
+    "total_amount": "3,645.68"
+  },
+  {
+    "doc_id": "invoice_Christina Anderson_10338",
+    "source_file": "invoice_Christina Anderson_10338.txt",
+    "invoice_number": "10338",
+    "invoice_date": "Sep 26 2012",
+    "total_amount": "9,461.25"
+  },
+  {
+    "doc_id": "invoice_Christina Anderson_10340",
+    "source_file": "invoice_Christina Anderson_10340.txt",
+    "invoice_number": "10340",
+    "invoice_date": "Sep 26 2012",
+    "total_amount": "3,422.25"
+  },
+  {
+    "doc_id": "invoice_Christina Anderson_48914",
+    "source_file": "invoice_Christina Anderson_48914.txt",
+    "invoice_number": "48914",
+    "invoice_date": "Sep 18 2012",
+    "total_amount": "302.46"
+  },
+  {
+    "doc_id": "invoice_Christina DeMoss_21707",
+    "source_file": "invoice_Christina DeMoss_21707.txt",
+    "invoice_number": "21707",
+    "invoice_date": "Feb 06 2013",
+    "total_amount": "5,141.76"
+  },
+  {
+    "doc_id": "invoice_Christine Phan_50073",
+    "source_file": "invoice_Christine Phan_50073.txt",
+    "invoice_number": "50073",
+    "invoice_date": "Aug 10 2012",
+    "total_amount": "6,054.24"
+  },
+  {
+    "doc_id": "invoice_Christopher Martinez_22699",
+    "source_file": "invoice_Christopher Martinez_22699.txt",
+    "invoice_number": "22699",
+    "invoice_date": "Feb 15 2012",
+    "total_amount": "7,411.72"
+  },
+  {
+    "doc_id": "invoice_Christopher Martinez_22701",
+    "source_file": "invoice_Christopher Martinez_22701.txt",
+    "invoice_number": "22701",
+    "invoice_date": "Feb 15 2012",
+    "total_amount": "8,292.38"
+  },
+  {
+    "doc_id": "invoice_Christopher Martinez_50636",
+    "source_file": "invoice_Christopher Martinez_50636.txt",
+    "invoice_number": "50636",
+    "invoice_date": "Jan 13 2013",
+    "total_amount": "783.72"
+  },
+  {
+    "doc_id": "invoice_Christopher Martinez_8015",
+    "source_file": "invoice_Christopher Martinez_8015.txt",
+    "invoice_number": "8015",
+    "invoice_date": "Dec 12 2012",
+    "total_amount": "10,604.00"
+  },
+  {
+    "doc_id": "invoice_Christy Brittain_11911",
+    "source_file": "invoice_Christy Brittain_11911.txt",
+    "invoice_number": "11911",
+    "invoice_date": "Jul 03 2012",
+    "total_amount": "5,598.94"
+  },
+  {
+    "doc_id": "invoice_Chuck Magee_45227",
+    "source_file": "invoice_Chuck Magee_45227.txt",
+    "invoice_number": "45227",
+    "invoice_date": "Apr 24 2012",
+    "total_amount": "1,812.48"
+  },
+  {
+    "doc_id": "invoice_Chuck Magee_48363",
+    "source_file": "invoice_Chuck Magee_48363.txt",
+    "invoice_number": "48363",
+    "invoice_date": "Oct 03 2012",
+    "total_amount": "7,036.80"
+  },
+  {
+    "doc_id": "invoice_Chuck Sachs_42196",
+    "source_file": "invoice_Chuck Sachs_42196.txt",
+    "invoice_number": "42196",
+    "invoice_date": "Jul 31 2012",
+    "total_amount": "1,845.72"
+  },
+  {
+    "doc_id": "invoice_Cindy Chapman_29381",
+    "source_file": "invoice_Cindy Chapman_29381.txt",
+    "invoice_number": "29381",
+    "invoice_date": "Aug 12 2012",
+    "total_amount": "6,153.12"
+  },
+  {
+    "doc_id": "invoice_Cindy Schnelling_49559",
+    "source_file": "invoice_Cindy Schnelling_49559.txt",
+    "invoice_number": "49559",
+    "invoice_date": "Jan 21 2013",
+    "total_amount": "2,172.36"
+  },
+  {
+    "doc_id": "invoice_Clay Cheatham_48022",
+    "source_file": "invoice_Clay Cheatham_48022.txt",
+    "invoice_number": "48022",
+    "invoice_date": "Jun 02 2012",
+    "total_amount": "855.15"
+  },
+  {
+    "doc_id": "invoice_Clay Ludtke_48974",
+    "source_file": "invoice_Clay Ludtke_48974.txt",
+    "invoice_number": "48974",
+    "invoice_date": "Jun 19 2012",
+    "total_amount": "703.80"
+  },
+  {
+    "doc_id": "invoice_Clay Rozendal_29578",
+    "source_file": "invoice_Clay Rozendal_29578.txt",
+    "invoice_number": "29578",
+    "invoice_date": "Aug 11 2012",
+    "total_amount": "8,128.38"
+  },
+  {
+    "doc_id": "invoice_Corey Catlett_17534",
+    "source_file": "invoice_Corey Catlett_17534.txt",
+    "invoice_number": "17534",
+    "invoice_date": "Jan 15 2013",
+    "total_amount": "20,553.43"
+  },
+  {
+    "doc_id": "invoice_Corey Catlett_6832",
+    "source_file": "invoice_Corey Catlett_6832.txt",
+    "invoice_number": "6832",
+    "invoice_date": "Nov 25 2012",
+    "total_amount": "3,399.66"
+  }
+]

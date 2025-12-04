@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 15981
+Date: Jan 12 2013
+Bill To: Ship To: ;
+. Ship Mode: Second Class
+Carol Triggs Peterborough,
+England, United Balance Due: $1,916.48
+Kingdom
+Item Quantity Rate Amount
+Tenex Lockers, Blue 3 $612.45 $1,837.35
+Storage, Office Supplies, OFF-ST-6261
+Subtotal: $1,837.35
+Shipping: $79.13
+Total: $1,916.48
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2013-CT11995139-41286

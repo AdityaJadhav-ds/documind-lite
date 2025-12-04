@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+#12447
+Date: Apr 03 2012
+Bill To: Ship To:
+me P ° . Ship Mode: First Class
+Andrew Gjertsen Saint-Priest,
+Auvergne-Rhéne- Balance Due: $1,967.23
+Alpes, France
+Item Quantity Rate Amount
+Office Star Rocking Chair, Red 4 $507.28 $2,029.10
+Chairs, Furniture, FUR-CH-5448
+Subtotal: $2,029.10
+Discount (10%): $202.91
+Shipping: $141.04
+Total: $1,967.23
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-AG1049545-41002

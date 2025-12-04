@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+#51179
+Date: Jul 06 2012
+Bill To: Ship To:
+me pie Ship Mode: Second Class
+Ann Steele Lagos, Lagos,
+Nigeria Balance Due: $946.86
+Item Quantity Rate Amount
+Hamilton Beach Stove, Silver 4 $651.71 $2,606.83
+Appliances, Office Supplies, OFF-AP-4507
+Subtotal: $2,606.83
+Discount (70%) : $1,824.78
+Shipping: $164.81
+Total: $946.86
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : NI-2012-AS63095-41096

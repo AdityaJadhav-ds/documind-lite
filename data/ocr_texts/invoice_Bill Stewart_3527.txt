@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 3527
+Date: Feb 26 2012
+Bill To: Ship To: ;
+; Ship Mode: Second Class
+Bill Stewart Matagalpa,
+Matagalpa, Nicaragua Balance Due: $4,201.03
+Item Quantity Rate Amount
+Safco 3-Shelf Cabinet, Mobile 6 $685.44 $4,112.64
+Bookcases, Furniture, FUR-BO-5746
+Subtotal: $4,112.64
+Shipping: $88.39
+Total: $4,201.03
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-BS1138093-40965

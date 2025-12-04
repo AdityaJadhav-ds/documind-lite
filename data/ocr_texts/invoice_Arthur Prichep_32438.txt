@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 32438
+Date: Sep 28 2012
+Bill To: Ship To:
+ne . pie Ship Mode: Standard Class
+Arthur Prichep 90045, Los Angeles,
+California, United Balance Due: $423.89
+States
+Item Quantity Rate Amount
+Luxo Professional Combination Clamp-On Lamps 2 $204.60 $409.20
+Furnishings, Furniture, FUR-FU-5160
+Subtotal: $409.20
+Shipping: $14.69
+Total: $423.89
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AP10915140-41180

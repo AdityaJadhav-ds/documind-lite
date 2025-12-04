@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+#20145
+Date: Feb 22 2013
+Bill To: Ship To: ; .
+; Ship Mode: First Class
+Brendan Dodson Cambridge, England,
+United Kingdom Balance Due: $11,783.56
+Item Quantity Rate Amount
+Hon Executive Leather Armchair, Black 5 $2,285.70 $11,428.50
+Chairs, Furniture, FUR-CH-4655
+Subtotal: $11,428.50
+Shipping: $355.06
+Total: $11,783.56
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ES-2013-BD11560139-41327

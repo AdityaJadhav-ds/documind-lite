@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 31905
+Date: May 22 2012
+Bill To: Ship To: ;
+| . Ship Mode: Standard Class
+Andrew Roberts 19134, Philadelphia,
+Pennsylvania, United Balance Due: $153.67
+States
+Item Quantity Rate Amount
+Newell 317 9 $21.17 $190.51
+Art, Office Supplies, OFF-AR-5294
+Subtotal: $190.51
+Discount (20%) : $38.10
+Shipping: $1.26
+Total: $153.67
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-AR10510140-41051

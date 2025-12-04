@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 35713
+Date: Nov 28 2012
+Bill To: Ship To: Ship Mode: Standard Cl
+Alan Hwang 94122, San paces: ancara Wass
+Francisco, California, Balance Due: $154.12
+United States
+Item Quantity Rate Amount
+Staples 5 $30.40 $152.00
+Fasteners, Office Supplies, OFF-FA-6129
+Subtotal: $152.00
+Shipping: $2.12
+Total: $154.12
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AH10210140-41241

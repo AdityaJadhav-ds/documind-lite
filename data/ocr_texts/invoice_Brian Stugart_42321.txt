@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 42321
+Date: May 13 2012
+Bill To: Ship To: ;
+. . . Ship Mode: Same Day
+Brian Stugart Cluj-Napoca, Cluj,
+Romania Balance Due: $1,546.16
+Item Quantity Rate Amount
+Dania Library with Doors, Traditional 2 $724.80 $1,449.60
+Bookcases, Furniture, FUR-BO-3904
+Subtotal: $1,449.60
+Shipping: $96.56
+Total: $1,546.16
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : RO-2012-BS1665107-41042

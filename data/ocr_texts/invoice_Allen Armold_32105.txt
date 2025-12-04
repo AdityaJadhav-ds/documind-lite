@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 32105
+Date: Feb 02 2013
+Bill To: Ship To: ; .
+Ship Mode: First Class
+Allen Armold 68104, Omaha,
+Nebraska, United Balance Due: $495.07
+States
+Item Quantity Rate Amount
+Kensington SlimBlade Notebook Wireless Mouse with Nano 3 $149.97 $449.91
+Receiver
+Accessories, Technology, TEC-AC-4938
+Subtotal: $449.91
+Shipping: $45.16
+Total: $495.07
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2013-AA10375140-41307

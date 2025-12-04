@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 27988
+Date: Apr 11 2012
+Bill To: Ship To: ;
+_ Ship Mode: Standard Class
+Cathy Hwang Jining, Shandong,
+China Balance Due: $5,938.42
+Item Quantity Rate Amount
+Ikea Library with Doors, Metal 4 $1,451.40 $5,805.60
+Bookcases, Furniture, FUR-BO-4860
+Subtotal: $5,805.60
+Shipping: $132.82
+Total: $5,938.42
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-CH1207027-41010

@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 16603
+Date: Jul 26 2012
+Bill To: Ship To: ;
+. . a. Ship Mode: Standard Class
+Bryan Davis Bressuire, Aquitaine-
+Limousin-Poitou- Balance Due: $4,319.12
+Charentes, France
+Item Quantity Rate Amount
+Nokia Smart Phone, Full Size 3 $1,621.95 $4,865.86
+Phones, Technology, TEC-PH-5355
+Subtotal: $4,865.86
+Discount (15%) : $729.88
+Shipping: $183.14
+Total: $4,319.12
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-BD1177045-41116

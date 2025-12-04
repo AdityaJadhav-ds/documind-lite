@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 22343
+Date: Dec 20 2012
+Bill To: Ship To:
+me pe . . Ship Mode: First Class
+Alan Haines Delhi, Dethi, India
+Balance Due: $803.95
+Item Quantity Rate Amount
+Novimex Bag Chairs, Red 4 $183.84 $735.36
+Chairs, Furniture, FUR-CH-5368
+Subtotal: $735.36
+Shipping: $68.59
+Total: $803.95
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-AH1019558-41263

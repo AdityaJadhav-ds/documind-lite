@@ -1,0 +1,96 @@
+ORION MITCHELL
+
+IT Specialist
+o.mitchell@email.com (123) 456-7890
+LinkedIn
+
+WORK EXPERIENCE
+
+IT Specialist
+GlobalTech Solutions
+
+2019 - current Albany, NY
+
+¢ Implemented network monitoring solution using Zabbix to
+reduce network downtime by 33%.
+Designed and deployed a scalable and secure network
+infrastructure using Cisco ASA firewalls, reducing security
+incidents by 21%.
+Documented and maintained network diagrams,
+configurations, and standard operating procedures for
+accurate and updated documentation for future reference.
+Implemented Microsoft Azure cloud services to migrate
+critical applications and reduce infrastructure costs by 56%.
+
+Help Desk Technician
+ByteTech Solutions
+
+2016 - 2019 Albany, NY
+
+¢ Resolved network connectivity issues for 50+ users per week,
+ensuring uninterrupted access to critical resources and
+
+systems.
+
+Improved average response time for help desk tickets by 26%
+
+through efficient troubleshooting and resolution techniques.
+Implemented VMware vSphere virtualization technologies,
+
+resulting in a 39% reduction in server hardware costs and
+
+improved scalability.
+
+Provided end-user training on network troubleshooting
+techniques and best practices, which resulted in a 42%
+reduction in user errors.
+
+Lead Bartender
+The Hollow Bar + Kitchen
+
+2013 - 2016 Albany, NY
+« Developed and implemented a new cocktail menu that
+
+resulted in a 16% increase in drink sales within the first
+
+month.
+
+Conducted regular staff training sessions on responsible
+alcohol service to decrease alcohol-related incidents by 18%
+Reduced procurement costs by 12% through vendor
+negotiation regarding pricing and the timely delivery of bar
+supplies,
+
+Albany, NY
+
+EDUCATION
+
+Bachelor of Science
+Computer Science
+Carnegie Mellon University
+
+2011 - 2015
+Albany, NY
+
+SKILLS
+
+Network protocol analyzer
+Python 3
+
+Microsoft Azure
+
+VMware vSphere
+
+ITSM
+
+Cisco ASA
+
+Oracle Database
+
+Zabbix
+
+CERTIFICATIONS
+
+« VMware Certified Professional
+(VCP)
+

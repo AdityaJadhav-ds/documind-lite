@@ -1,0 +1,29 @@
+SuperStore INVOICE
+
+# 36398
+Date: Mar 16 2012
+Bill To: Ship To: ;
+. Ship Mode: Same Day
+Annie Zypern 75217, Dallas, Texas,
+
+United States Balance Due: $5.94
+
+Item Quantity Rate Amount
+
+Xerox 1966 1 $5.18 $5.18
+Paper, Office Supplies, OFF-PA-6522
+
+Subtotal: $5.18
+
+Discount (20%) : $1.04
+
+Shipping: $1.80
+
+Total: $5.94
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AZ10750140-40984

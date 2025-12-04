@@ -1,0 +1,56 @@
+Business Analyst Resume
+Senior Business Analyst
+
+Atlanta, GA - Email me on Indeed: i
+
+Please email your requirements to karuna@premieritsolns.com/ [...]
+RESUME OF SULAKSHANA
+
++ 7+ years of IT experience as a Business Analyst in deployment of web-based, Client-Server applications,
+developing business processes and system solutions for Banking and Financial Industries for various projects
+from conceptualization to implementation.
+
++ Excellent technical writing skills to create Business Requirements Document (BRD), Functional Specifications
+Document (FSD), Nonfunctional Requirements Document and Use Cases Specifications.
+
++ Strong process modeling using UML (Use Cases, Sequence Diagrams. Activity Diagrams, etc.)
+
++ Strong in writing SQL queries and reporting the results to the business team.
+
++ Strong Requirement Traceability Matrix mapping.
+
++ Excellent Team player to work in conjunction with testers (QA), developers and other team members in
+validation and testing of complex project scenarios and in the maintenance of Quality Standards of projects.
++ Experience with Web Development E commerce projects.
+
++ Excellent conceptual and working knowledge of System Development Life Cycle, RUP, OO Models and UML
+Methodologies.
+
++ Fluent in a broad range of technologies, including business process tools such as MS Project, Excel, Access,
+Visio.
+
++ Experience working in CMMI, ITIL and Six Sigma methodologies.
+
++ Have experience with various defect tracking tools: Quality Center, ClearQuest
+
++ Experience in Requirement Analysis, JAD sessions, Business and Systems reviews and working sessions
+to understand the requirements and system design.
+
++ Strong database integration experience. Worked on analyzing data needs, identifying relational databases
+and coordinating the modeling.
+
++ Well versed in Requirements/Change Management, Impact Analysis and Gap Analysis.
+
++ Interviewed SMEs and Stakeholders to get a better understanding of client business processes and gather
+business requirements.
+
++ Strong Analytical and Problem Solving skills, Multi-Tasking abilities, with proven expenence in utilizing people
+and process knowledge to assist enterprises in making critical decision.
+
+WORK EXPERIENCE
+Senior Business Analyst
+PayPal - La Vista, NE - August 2011 to Present
+
+PayPal is a global e-Commerce business allowing payments and money transfers to be made through the
+internet. Online money transfers serve as electronic alternatives to paying with traditional paper methods, such
+as checks and money orders.

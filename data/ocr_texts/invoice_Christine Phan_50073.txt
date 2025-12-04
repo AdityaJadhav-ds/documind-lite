@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 50073
+Date: Aug 10 2012
+Bill To: Ship To: ;
+. . Ship Mode: Second Class
+Christine Phan Rabat, Rabat-Saleé-
+Zemmour-Zaer, Balance Due: $6,195.56
+Morocco
+Item Quantity Rate Amount
+Hewlett Wireless Fax, High-Speed 4 $1,513.56 $6,054.24
+Copiers, Technology, TEC-CO-4592
+Subtotal: $6,054.24
+Shipping: $141.32
+Total: $6,195.56
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : MO-2012-CP234086-41131

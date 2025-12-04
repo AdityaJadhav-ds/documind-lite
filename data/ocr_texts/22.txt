@@ -1,0 +1,131 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Critical thinking DevOps Engineer with extensive understanding of high availability architecture and concepts. Purpose-driven professional
+with capacity to be strong team player plus work effectively independently.
+
+SKILLS
+
+Over 8 years of experience as DevOps/Cloud Engineer supporting Experienced in AWS and Azure solution architecture, GCP, gsutil.
+
+core IT infrastructure. gcloud, AWS EC2, ELB, RDS, $3, Lambda, Cloud Front, Cloud
+© Strong experience in DevOps Automation with configuration Formation, Cloud Watch, VPC, LAM.
+tools such as Puppet, Ansible, and Chef. e Cybersecurity and security monitoring experience using software
+© Containerization with Docker, Docker-compose, Kubemetes. such as ArcSight, Tanium and QRadar.
+¢ Continuous Integration and Continuous deployment with Jenkins, ° Experienced in ArcSight configuration such as Logger, ESM and
+Terraform, GitHub, GitLab. Smart Connector.
+¢ Source Control Management tools for versioning include as GIT Jenkins CI
+and SVN. e Source and Version Control: Git, GitHub
+Training Junior Team Members
+Work History
+
+03/2020 to Current DevOps Engineer
+
+Womble Bond Dickinson — Greensboro, NC
+
+¢ Integrate CI pipeline with configuration management tools for continuous deployment such as using Gitlab-CI with
+Puppet.
+
+© Monitored automated build and continuous software integration process to drive build/release failure resolution.
+
+e Evaluate Ansible and Puppet framework and tools to automate Cloud deployment and operations.
+
+© Supporting software development and data management projects that prepare large datasets for delivery to a shared
+cloud computing and storage environment.
+
+© Provide strategies and requirements for seamless migration of applications, web services, and data from local and
+server-based systems to the AWS and GCP cloud.
+
+e Automating installation of software through Ansible scripts.
+
+© Part of a team of DevOps engineer for infrastructure support on AWS and GCP cloud. Creating cloud formation
+scripts for hosting software on AWS cloud.
+
+© Wrote and updated documentation to outline technical design of entire project.
+
+© Built a new CI pipeline. Testing and deployment automation with Docker, Jenkins
+
+© Deployed configuration management and provisioning to Aws using Packer-Docker and Terraform, involved in
+automated deployment of EBS to AWS.
+
+© Using Docker in Environment variables, Configuration files, Option types and Strings & integers.
+
+* Developed AWS Cloud Formation templates to create custom sized VPC, subnets, NAT, EC2 instances, ELB,
+Security Groups.
+
+« AWS EC2 and Cloud watch services. CI/CD pipeline management through Jenkins. Automation of manual tasks
+using Shell scripting.
+
+02/2015 to 03/2020 Cloud Engineer
+
+Merck & Co., Inc. — Bloomington, IN
+
+© Utilized code and modern cloud-native deployment techniques to design, plan and integrate cloud computing and
+virtualization systems.
+
+© Utilized Perl and Python for cloud engineering.
+
+© Building & configuration of RHEL 6 for application development in Cloud.
+
+© Worked on setting up and Building of Veritas Cluster Server.
+
+* Experienced in redefining volume groups, migrating, mirroring logical volume using VERITAS VOLUME
+MANAGER.
+
+© Developed Cron jobs and Shell Scripts (Perl, ksh) for automating administration tasks like file system management,
+process management, Server reboots etc.
+
+© Worked on Datacenter Moves where servers were moved from one datacenter to another with on-premise cloud
+infrastructure.
+
+© Worked as an integral part of development team with troubleshooting, development and maintenance of systems.
+
+¢ Provided solutions on using Ansible to automate deployment of server within VMware.
+
+© Integrated the ServiceNow with VMware environment to provide cloud services for deployment of environment.
+
+© Worked with the development team to create appropriate cloud solutions for client needs.
+
+© Server build in both Physical environments using CISCO, HP and/or Dell Hardware, and in Virtual environment
+using VMware with ESXI hosts, Xenserver or Citrix hosts.
+
+© Worked on SAN migration in both AIX and Linux Servers.
+
+07/2013 to 02/2015 Linux Administrator
+
+Nes Associates — Chantilly, VA
+© Developed organization-wide administration policies to encourage continuity across multiple systems and facilities.
+ Installation/configuration of RHEL 4/5/6 using kickstart Server and Windows OS.
+¢ Creation, Installation and administration of Red Hat Virtual machines in VMware.
+© Designed System Requirements, Storage requirements, Configuration Management/Change control/Release
+management.
+© User administration & quota management.
+© Log file was managed for troubleshooting and resolving errors.
+Installation of patches and other software packages.
+© Wrote Shell scripts for automation of jobs, system monitoring and error reporting.
+© Performed administration of Domain Name Server and configuration of Database Files.
+© Wrote bash shell scripts for getting information about various Linux servers
+Installed and Configured Send mail Utility on UNIX Servers.
+
+EpucaTIion
+
+MBA: Business Administration
+Southern Methodist University - Dallas, TX
+Ongoing
+
+10/2015 Certification: Project Management
+
+Southern Methodist University - Dallas, TX
+
+11/2012 Bachelor of Science: Computer Science
+
+Igbinedion University - Okada, Benin City, Edo State, Nigeria
+
+CERTIFICATIONS
+
+Aws Certified Cloud Practitioner
+Project Mangement

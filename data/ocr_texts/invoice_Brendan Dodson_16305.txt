@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 16305
+Date: Nov 01 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Brendan Dodson Leipzig, Saxony,
+Germany Balance Due: $3,496.72
+Item Quantity Rate Amount
+Office Star Executive Leather Armchair, Black 3 $1,262.06 $3,786.18
+Chairs, Furniture, FUR-CH-5442
+Subtotal: $3,786.18
+Discount (10%): $378.62
+Shipping: $89.16
+Total: $3,496.72
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IT-2012-BD1156048-41214

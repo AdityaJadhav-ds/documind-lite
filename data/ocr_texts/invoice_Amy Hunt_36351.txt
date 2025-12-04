@@ -1,0 +1,29 @@
+SuperStore INVOICE
+
+# 36351
+Date: Jan 02 2013
+Bill To: Ship To: Ship Mode: S acl
+
+Amy Hunt 75217, Dallas, Texas, pimioces Second ass
+
+United States Balance Due: $18.78
+
+Item Quantity Rate Amount
+
+Newell 317 3 $7.06 $21.17
+Art, Office Supplies, OFF-AR-5294
+
+Subtotal: $21.17
+
+Discount (20%) : $4.23
+
+Shipping: $1.84
+
+Total: $18.78
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2013-AH10465140-41276

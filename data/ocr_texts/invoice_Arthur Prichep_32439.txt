@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 32439
+Date: Sep 28 2012
+Bill To: Ship To:
+mre . P Ship Mode: Standard Class
+Arthur Prichep 90045, Los Angeles,
+California, United Balance Due: $36.17
+States
+Item Quantity Rate Amount
+Stockwell Push Pins 4 $8.72 $34.88
+Fasteners, Office Supplies, OFF-FA-6192
+Subtotal: $34.88
+Shipping: $1.29
+Total: $36.17
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AP10915140-41180

@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 40955
+Date: Sep 21 2012
+Bill To: Ship To: Ship Mode: Standard Cl
+Adam Shillingsburg 10035, New York City, p Mocs: ancareass
+New York, United Balance Due: $2,150.86
+States
+Item Quantity Rate Amount
+Office Star - Mid Back Dual function Ergonomic High Back Chair 4 $579.53 $2,318.11
+with 2-Way Adjustable Arms
+Chairs, Furniture, FUR-CH-5430
+Subtotal: $2,318.11
+Discount (10%): $231.81
+Shipping: $64.56
+Total: $2,150.86
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AS10090140-41173

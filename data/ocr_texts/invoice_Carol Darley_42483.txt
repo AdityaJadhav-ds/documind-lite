@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 42483
+Date: Apr 21 2012
+Bill To: Ship To: , .
+Ship Mode: First Class
+Carol Darley Dakar, Dakar,
+Senegal Balance Due: $929.00
+Item Quantity Rate Amount
+Fellowes Lockers, Blue 2 $414.66 $829.32
+Storage, Office Supplies, OFF-ST-4266
+Subtotal: $829.32
+Shipping: $99.68
+Total: $929.00
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : SG-2012-CD1980111-41020

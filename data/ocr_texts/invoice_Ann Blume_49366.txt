@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 49366
+Date: Jan 24 2012
+Bill To: Ship To: ;
+. . Ship Mode: Same Day
+Ann Blume Tallinn, Harjumaa,
+Estonia Balance Due: $694.54
+Item Quantity Rate Amount
+Breville Stove, Black 1 $560.97 $560.97
+Appliances, Office Supplies, OFF-AP-3578
+Subtotal: $560.97
+Shipping: $133.57
+Total: $694.54
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : EN-2012-AB60042-40932

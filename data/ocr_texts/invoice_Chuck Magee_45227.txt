@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 45227
+Date: Apr 24 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Chuck Magee Jerusalem,
+Jerusalem, Israel Balance Due: $1,891.97
+Item Quantity Rate Amount
+Eldon Frame, Durable 4 $453.12 $1,812.48
+Furnishings, Furniture, FUR-FU-4066
+Subtotal: $1,812.48
+Shipping: $79.49
+Total: $1,891.97
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IS-2012-CM244563-41023

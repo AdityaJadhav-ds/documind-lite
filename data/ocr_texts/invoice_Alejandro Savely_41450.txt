@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 41450
+Date: Aug 16 2012
+Bill To: Ship To: ; .
+. _ Ship Mode: First Class
+Alejandro Savely Kaliningrad,
+Kaliningrad, Russia Balance Due: $9,789.85
+Item Quantity Rate Amount
+Harbour Creations Steel Folding Chair, Black 10 $954.60 $9,546.00
+Chairs, Furniture, FUR-CH-4558
+Subtotal: $9,546.00
+Shipping: $243.85
+Total: $9,789.85
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : RS-2012-AS285108-41137

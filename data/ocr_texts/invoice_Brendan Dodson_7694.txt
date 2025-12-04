@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 7694
+Date: Jun 12 2012
+Bill To: Ship To: ;
+. oo. Ship Mode: Same Day
+Brendan Dodson Cuajimalpa, Distrito
+Federal, Mexico Balance Due: $1,970.23
+Item Quantity Rate Amount
+Canon Fax Machine, High-Speed 3 $631.91 $1,895.74
+Copiers, Technology, TEC-CO-3688
+Subtotal: $1,895.74
+Discount (0.2%): $3.79
+Shipping: $78.28
+Total: $1,970.23
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-BD1156082-41072

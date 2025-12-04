@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+#11954
+Date: Mar 31 2012
+Bill To: Ship To: ; .
+oo. . Ship Mode: First Class
+Benjamin Patterson Treviso, Veneto, Italy
+Balance Due: $1,846.74
+Item Quantity Rate Amount
+Wilson Jones Binding Machine, Recycled 6 $295.92 $1,775.52
+Binders, Office Supplies, OFF-BI-6385
+Subtotal: $1,775.52
+Shipping: $71.22
+Total: $1,846.74
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-BP1123064-40999

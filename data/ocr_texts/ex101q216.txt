@@ -1,0 +1,1437 @@
+Exhibit 10.1
+
+EXHIBIT HAS BEEN REDACTED AND IS THE SUBJECT OF A CONFIDENTIAL TREATMENT REQUEST.
+CONFIDENTIAL PORTIONS OF EXHIBIT ARE MARKED WITH [***] AND HAVE BEEN FILED SEPARATELY
+WITH THE SECURITIES AND EXCHANGE COMMISSION.
+
+SUPPLY AGREEMENT
+
+This Supply Agreement (this “Agreement”) is made and entered into effective as of the Closing Date by and among MAXIM
+INTEGRATED PRODUCTS, INC., a Delaware corporation (“Maxim US”), and MAXIM INTEGRATED PRODUCTS
+INTERNATIONAL, LTD., an Ireland corporation (“MIPI’”) (together, “Maxim’’), and TJ TEXAS, INC., a corporation organized
+under the laws of Delaware (“Supplier”). Maxim and Supplier are each sometimes referred to herein as a “Party” and collectively
+as the “Parties.” The Parties agree that this Agreement will be binding on the Parties on the date hereof, however, will only become
+effective on the Closing Date (as defined below).
+
+RECITALS
+
+A. The Parties entered into that certain Asset Purchase Agreement of even date herewith (the “Asset Purchase
+Agreement”), pursuant to which Supplier acquired from Maxim certain Transferred Assets (as defined in the Asset Purchase
+Agreement);
+
+B. In connection with the transaction under the Asset Purchase Agreement, the Parties agreed for Supplier to provide
+to Maxim manufacturing and foundry services for integrated circuits as set forth in this Agreement; and
+
+Cc. Supplier now wishes to make, and Maxim wishes to procure from Supplier, certain silicon wafers on which are
+manufactured integrated circuits that are designed by Maxim and use certain Maxim Technology (as defined below). This
+Agreement does not address any products not fabricated using the Maxim Technology together with the Transferred Assets.
+
+Now, Therefore, in consideration of the mutual promises and covenants contained herein, and other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, Maxim and Supplier hereby agree as follows:
+
+1 EXHIBITS.
+
+All exhibits set forth in this Section 1 (each, an “Exhibit”), are hereby incorporated herein and made part of this Agreement. All
+Exhibits agreed to after the Closing Date shall be deemed incorporated herein and made a part of the Agreement upon the Parties’
+written execution thereof.
+
+[***]
+
+2 DEFINITIONS.
+
+All defined terms herein apply to both their singular and plural forms, as the context may require. The terms “herein,” “hereunder,”
+“hereof” and similar expressions refer to this Agreement. The term “Section” refers to any of the numbered section or subsections,
+as applicable, herein. The word “including” means “including without limitation.” All references to “day” are to a calendar day,
+unless otherwise specified. All references to “year” are to a calendar year, unless otherwise specified.
+
+2.1 “Acceptance Criteria” means the criteria [***].
+
+1
+
+2.2
+
+23
+
+24
+
+2.5
+
+2.6
+
+2.7
+
+2.8
+
+29
+
+2.10
+
+2.11
+
+2.12
+
+2.13
+
+2.14
+
+2.15
+
+2.16
+
+“Applicable Laws” means applicable national, international, multinational, municipal, foreign, federal, regional,
+state or local laws, statutes, treaties, ordinances, rules, regulations, judgments, decrees, or other constitution,
+law, code, binding case law, principle of common law or orders of any legislative, judicial, administrative,
+governmental, regulatory or standards body, agency or authority of any kind.
+
+“Closing Date” means as defined in the Asset Purchase Agreement.
+
+“Commercial Sample” means a final pre-production version of the Wafer, which is not intended for commercial
+use or sale.
+
+“Customer” means any third party that, directly or indirectly, obtains products including Wafers from Maxim,
+directly or through its distributors or other designees.
+
+“Deliverable” means any of the Engineering Samples, Commercial Samples, Wafers, documentation or any
+components of the foregoing.
+
+“Delivery” is the date on which a Deliverable is actually delivered to the Delivery Point.
+
+“Delivery Point” means the gate of the Supplier’s Plant pursuant to Section 5.1, unless designated other delivery
+location in the applicable Purchase Order as mutually agreed by the Parties.
+
+“Derivation” means, with regard to any Technology, any modification, improvement, derivative work,
+derivation, adaptation, localization, translation, transliteration, and/or compilation of any kind, directly or
+indirectly, to or of or from or based on or over such Technology. A direct or indirect Derivation of a Derivation
+to any Technology is also a Derivation of such Technology.
+
+“Engineering Sample” means a preliminary version of the Wafer provided by Supplier to Maxim from time to
+time for Maxim’s engineering, testing or other internal use purposes.
+
+“Fabrication” means any making and manufacture of any integrated circuits on silicon or other semiconductor
+material at the Plant, including, without limitation, any Manufacturing or any manufacture for third parties.
+
+“FCD” means the Factory Committed Date, i.e., the confirmed delivery date by the Supplier for any Deliverable
+listed in the Purchase Order. This is the confirmation to the Requested Delivery Date.
+
+“Final Acceptance” has the meaning set forth in Section 7.1.
+
+“IP Right” means any and all of the following, anywhere in the world and under any law or legal system: (i)
+any patent and patent application (including, without limitation, any provisional, utility, and design patent
+application, continuation, continuation-in-part, divisional, reissue, reexamination, substitution, and extension,
+and foreign, international, national, and other counterparts and equivalents thereof), (ii) any copyright, mask
+work right, industrial design right, and any right similar thereto, whether arising from statute, regulation, common
+or judicial law, treaty or otherwise, and any registration, application for registration, and renewal thereof or
+related thereto, any right of attribution and integrity and other moral right, (iii) any trademark, service mark,
+trade name, corporate name, business name, domain name, logos, slogans, trade dress, packaging design, and
+other designations of source or origin of any kind, and any translation, transliteration, adaptation, derivation and
+combination thereof, and any common law rights, registration, application for registration, extension, and renewal
+thereof or related thereto, and all goodwill symbolized by any of the foregoing or associated therewith, (iv) any
+right in or arising from any trade secret, know-how, and confidential or proprietary or other information, material,
+items or things, and (v) other intellectual or industrial property right, whether existing now or being recognized
+or created in the future.
+
+“Latent Defect” means any failure of a Product to perform in accordance with its specifications resulting from
+a defect attributable to Supplier that could not have been readily detected by Supplier during normal inspection
+or use.
+
+“Lead Time” means the anticipated period of time beginning upon acceptance of a Purchase Order and ending
+on the Delivery, as set forth in Section 3.3.
+
+2.17
+
+2.18
+
+2.19
+
+2.20
+
+2.21
+
+2.22
+
+2.23
+
+2.24
+
+2.25
+
+2.26
+
+2.27
+
+2.28
+
+2.29
+
+2.30
+
+2.31
+
+2.32
+
+2.33
+
+2.34
+
+“Licensed Software” means the [***] software (including source code) used at the Plant on the Closing Date
+[***]. For the avoidance of doubt, the Licensed Software does not mean or include [***].
+
+“Licensed Technology” means, collectively, the Maxim-Designated Licensed Technology, the Operational
+Licensed Technology, and the Licensed Software.
+
+“Mandatory Engineering Change” or “MEC” means any design or functionality change that is necessary for
+a Wafer’s performance, reliability or compatibility with contemplated devices or other components with which
+the Wafer may be integrated or other technology, or the Wafer’s Regulatory Compliance.
+
+“Mandatory Engineering Change Order” or “MEC Order” means a written document setting forth the
+Specifications of a Mandatory Engineering Change and its implementation schedule.
+
+“Manufacturing” (and “Manufacture” and “Manufactured”) means manufacturing of Wafers for Maxim at
+the Plant carried out by Supplier hereunder.
+
+“Manufacturing Requirements” means, collectively, the Acceptance Criteria, the Process Flow, the Schedule,
+the Specifications, and other requirements set forth in this Agreement [***].
+
+“Maxim-Designated Licensed Technology” means, individually and collectively, the Maxim Technology to
+be used by Supplier only and solely for Manufacturing Wafers for Maxim under this Agreement, including,
+without limitation, the Maxim Technology [***].
+
+“Maxim Competitors” means each of the companies [***].
+
+“Maxim Technology” means, individually and collectively, any Technology existing at the Plant on the Closing
+Date other than any Transferred Assets) or provided, delivered, or made available by or for Maxim to, or obtained
+from Maxim by or for, Supplier, including, without limitation, the Licensed Software, the Process Flow, process
+recipes, individual unique tool recipes, [***], device structures, design rules, and the Specifications.
+
+“Maxim Technology Improvement” has the meaning set forth in Section 14.2.
+
+“Move” means the completion of an individual stage in the process required for Manufacturing Wafers at the
+Plant.
+
+“Operational Licensed Technology” means, individually and collectively, solely the [***] and operational
+specifications that are [***] used with the Transferred Assets, all to be used by Supplier only and solely for any
+Fabrication by Supplier at the Plant.
+
+“Plant” means the fabrication plant and business located at 9651-9655 Westover Hills Boulevard, San Antonio,
+Texas 78251, United States of America, and sold and transferred by Maxim to Supplier as part of the Transferred
+Assets under the Asset Purchase Agreement.
+
+“Price” means prices for Wafers, as set forth in Section 8.1.
+“Process Flow” means the process flow [***].
+
+“Prototype” means a version of the Wafer that may be provided by Supplier to Maxim for use by Maxim in
+marketing, promoting and/or demonstrating the Wafer to third parties.
+
+“Purchase Order” means a written Maxim document identifying ordered Wafers and containing information
+related to the ordered Wafers, including, but not limited to: (i) date; (ii) item numbers; (ili) quantity; (iv) price;
+and (v) Delivery Date.
+
+“Regulatory Compliance” or “Regulatory Compliant” means obtaining any and all approvals, registrations,
+certifications, standard compliances or other clearances required prior to the Manufacture and sale of any
+Deliverable and taking all necessary actions so that all Deliverables satisfy, and otherwise comply with all
+Applicable Laws.
+
+2.35
+
+2.36
+
+2.37
+
+2.38
+
+2.39
+
+2.40
+
+241
+
+2.42
+
+2.43
+
+“Requested Delivery Date” means the date specified on Maxim’s Purchase Order for (i) the delivery of any
+Deliverable to arrive at the Delivery Point; or (ii) Services to be completed by Supplier as specified within a
+Purchase Order.
+
+“Schedule” means the schedule for the completion and delivery of the Deliverables and the Services [***].
+
+“Scheduling Cycle Time” means the cycle time for fulfillment of Purchase Orders (through the moment of the
+delivery of Wafers under such Purchase Orders in accordance with this Agreement) at a rate of [***] of the order
+fulfillment cycle time for orders within the [***] immediately preceding the Closing Date for similar fab loading.
+
+“Services” means the services, if any, performed by Supplier hereunder, including Manufacturing, maintenance
+of Plant equipment, supply, and repair or replacement of Wafers, as agreed in writing by the Parties.
+
+“Specifications” means the design and technical specifications, functionality, features, and performance criteria
+and requirements of the Deliverables and Services, as set forth in this Agreement, including, without limitation,
+[***], and if not so defined: (i) the Plant’s manufacturing procedures immediately before the Closing or (ii) the
+Plant’s then current different manufacturing procedures if such differences do not result in any adverse impact
+on the Wafers or their manufacture, including, without limitation, with regard to process control, device
+performance, quality, and long term reliability shall apply or (iii) modifications that will be mutually agreed to
+by the Parties.
+
+“Supplier Technology” means any Technology developed or acquired by Supplier, or licensed by Supplier from
+any third party, which (a) exists prior to the Closing Date or (b) is developed entirely independently by Supplier,
+or by Supplier and a third party, at any time, without any use, knowledge of or reference to, and that is not and
+does not include, Maxim’s Confidential Information, Maxim Technology, or Maxim Technology Improvements.
+
+“Technology” means, individually and collectively, any technology (including design and process technology),
+materials, ideas, know-how, inventions, know-how, show-how, approaches, works, mask works, software (and
+all object, source code, libraries, algorithms, and other code therein or thereof), hardware, microelectronics,
+designs, concepts, techniques, processes, data, methodologies, algorithms, documents, documentation,
+information, and knowledge, and any copy, embodiment, or manifestation of any of the foregoing.
+
+“Term” means the period from the Closing Date until the termination, cancellation or expiration of this
+Agreement.
+
+“Wafer” means, individually, a production eight (8) inch silicon or other semiconductor material upon which
+integrated circuits are made in accordance with this Agreement.
+
+3. MANUFACTURING.
+
+3.1
+
+3.2
+
+Performance of Manufacturing. Supplier shall Manufacture all Wafers solely at the Plant in accordance with
+the Manufacturing Requirements. Supplier will make reasonable efforts to maintain a cycle time for
+Manufacturing Wafers at the Plant as was in effect prior to the Closing Date and as set forth in the Manufacturing
+Requirements (the “Manufacturing Cycle Time”). Failure to meet the Minimum Quantities during any
+calendar year due solely to Maxim’s fault shall not proportionally reduce the Quarterly Minimum Payments
+during such calendar year. Supplier will Manufacture Wafers using the same process flows and operating
+procedures as used at the Plant as of the Closing Date. Supplier agrees to keep the Transferred Assets in good
+repair and undertakes to replace, at its own cost, Manufacturing equipment for the Manufacture of Wafers if
+necessary for the Manufacture of Wafers based on the loading, technology and product mix as manufactured as
+of the Closing Date. Supplier is responsible to ensure at its cost that it meets the minimum supply obligation
+under this Agreement at the Plant, so long as Maxim continues to meet its obligations under Section 8.3.
+
+Maintenance of Quality. Supplier agrees that it will Manufacture all Wafers under this Agreement in accordance
+with the Manufacturing Requirements for defect density and other quality criteria consistent with the relevant
+standards at the Plant immediately before the Closing Date, measured using data from [***] to the transfer of
+the Transferred Assets to Supplier under the Asset Purchase Agreement except for cycle time that will be
+calibrated per loading.
+
+3.3
+
+3.4
+
+3.5
+
+3.6
+
+3.7
+
+3.8
+
+3.9
+
+Wafer Markings. Supplier will mark each Wafer pursuant to the mask designated by Maxim. Notwithstanding
+the above, it is Maxim’s responsibility to ensure that such designated markings comply with customs authorities
+and other applicable requirements.
+
+Lead Time. Supplier will have Lead Times for Delivery based on a reasonable time required to schedule Wafer
+starts according to a planning procedure (the “Queue Time”) plus the Scheduling Cycle Time.
+
+Rework. Maxim may issue a Purchase Order requiring Supplier to rework, reconfigure or repackage Deliverables
+that have been previously accepted by Maxim, whereupon the Parties will negotiate in good faith to establish a
+reasonable cost and Schedule for Supplier to perform such Service.
+
+Quality Inspection. At Maxim’s request and with reasonable prior notice, Supplier shall allow Maxim to inspect
+the Plant and the Services. If Supplier becomes aware of material issues related to (i) a functional problem, (ii)
+a Specification deviation, or (iii) a performance deficiency, Supplier shall immediately notify Maxim thereof.
+
+Mandatory Engineering Changes.
+
+3.7.1. Maxim shall notify Supplier in writing of any Mandatory Engineering Change in the form of a MEC
+Order. Upon receipt of such MEC Order, Supplier shall promptly evaluate the impact thereof, including
+quality and Regulatory Compliance. Within [***] following the date of the MEC Order, Supplier shall
+present to Maxim, in writing, the results of Supplier’s evaluation, including all costs associated with
+implementing the MEC, including required material, resources and personnel. Supplier shall use
+reasonable efforts to complete the MEC in the time frame specified by Maxim in the applicable MEC
+Order. Supplier shall start implementing each MEC Order as specified in the Supplier’s response to
+the MEC Order within [***], subject to Supplier’s approval, provided that Maxim shall bear all extra
+costs incurred by such MEC Order or resulting from the implementation thereof.
+
+3.7.2 Supplier shall use reasonable efforts to keep Maxim informed during the Term about any issue of which
+it becomes aware that may require a MEC.
+
+Supplier shall not make any significant and substantial changes to the technology, machinery, materials, except
+for in the ordinary course of business, used to Manufacture the Deliverables, excluding changes to machinery
+that is not used for the volumes Manufactured for Maxim provided that such changes do not result in any
+meaningful adverse impact on Maxim’s Wafers or their manufacture, including, without limitation, with regard
+to process control, device performance, quality, and long term reliability, without Maxim’s prior written approval.
+Supplier shall not make any changes to the manufacturing processes without Maxim’s prior written approval.
+
+The Parties may agree to implement an improvement in the Plant for general quality and efficiency purposes.
+In such case, the Parties will share the reasonable costs of implementing such improvement.
+
+4 FORECASTS; PURCHASE ORDERS.
+
+4.1
+
+Forecasts; Minimum Order and Supply Commitments. Once a month during the Term, Maxim will provide
+Supplier with a non-binding rolling [***] forecast of Maxim’s then-current good faith estimate of its Purchase
+Orders for Wafers for such [***] period, which shall be for informational purposes only and not be legally
+binding on Maxim. Starting on January 1, 2016, MIPI agrees to place Purchase Orders in line with the Lead
+Time for, and purchase, and Supplier shall Manufacture and deliver upon such Purchase Orders in accordance
+with this Agreement, including, without limitation, the Manufacturing Requirements, at least the minimum
+quantities of Wafers based on the applicable Moves [***] (the “Minimum Quantities”). Any non-shipment of
+any Wafers of not more than [***] (if less Wafers are shipped than ordered or if the delivery date is delayed)
+shall not be a breach of this Agreement nor of Supplier’s minimum supply commitment under this Agreement
+if caused during the ordinary course of business, including line yield loss and Plant excursions. Supplier, at its
+sole discretion, will provide Maxim with the additional required Wafers within a reasonable time and invoice
+Maxim only for the Wafers actually shipped. MIPI shall not be obligated to place any Purchase Orders, and
+Maxim shall not be obligated to purchase any Wafers, above the Minimum Quantities. Supplier shall not be
+obligated to supply Wafers in excess of the Minimum Quantities, provided that if: (i) MIPI places Purchase
+Orders during any calendar quarter of a calendar year [***] in excess of the quarterly Minimum Quantities for
+such calendar year to be consistent with the Minimum Quantities for such calendar year, Supplier shall supply
+such excess quantity of Wafers on such Purchase Order, and (ii) MIPI otherwise places a Purchase Order for
+
+5
+
+42
+
+43
+
+44
+
+4.5
+
+4.6
+
+47
+
+48
+
+more than the Minimum Quantities, Supplier shall make reasonable efforts to Manufacture and supply MIPI
+with such excess quantity. Either Party may request a change to such minimum commitments during any given
+year, which shall be effected by mutual written agreement of the Parties. Any reduction in Supplier’s minimum
+supply commitment as agreed to by the Parties will also automatically, without need for any notice or additional
+agreement, result in a corresponding reduction in Maxim’s minimum order commitment for the time during
+which such reduction is in place.
+
+Purchase Orders. MIPI will use reasonable efforts to provide Supplier with each Purchase Order in accordance
+with the Lead Time. A Purchase Order sent to Supplier by email, facsimile transmission or other electronic
+means shall constitute a writing for all legal purposes and, once accepted by Supplier, will be a binding
+commitment of Maxim to purchase, and Supplier to sell and supply, the Wafers ordered in such Purchase Order.
+
+Acknowledgment. Within [***] of Supplier’s receipt of each Purchase Order, Supplier shall accept or reject
+the Purchase Order by signing and returning it to Maxim via return mail, email, confirmed facsimile, or other
+electronic means. [***] Supplier will provide FCD for each Deliverable specified in the Purchase Order.
+
+During the transition period post-Closing, the current methodology implemented at the Plant on the date hereof
+will be maintained including planning, wafer starts plan and delivery. Maxim will provide a blanket PO that
+will reflect the wafers start plan and the Supplier will issue invoices for aggregated wafers once a week. This
+will not change Maxim’s minimum purchase commitment and the supplier commitment to delivery as set forth
+in Sections 4.1 and 8.3. The Parties will make their best efforts to implement a commercial system that will
+enable the procedure defined in Sections 4.1, 4.2, 4.3 above.
+
+Before the [***] of the Closing Date, the Parties will review their procedures with respect to forecasts, issuance
+of Purchase Orders, acknowledgement and general course of business. The Parties may mutually revise the
+
+procedures set forth herein in order to allow the Plant to ramp products of other customers.
+
+Disruption of Production. For the quantity of Wafers consistent with the Minimum Quantities:
+
+(i) [***] Maxim’s Purchase Orders shall be fulfilled in accordance with the Manufacturing Cycle Time
+requirements, and
+
+(ii) Supplier shall [***] allow [***] production or delivery of Deliverables for Maxim in accordance with
+the relevant Manufacturing Requirements.
+
+Request for Production Holds. So long as Maxim continues to fulfill its take or pay obligations per Section
+8.3 (unless Supplier breaches its minimum supply obligation hereunder), and without derogating from such take
+or pay and such minimum supply obligations:
+
+4.7.1 Supplier agrees to hold production of Deliverables in process for a maximum period of [***] at Maxim’s
+request for Deliverables that have not been fully verified. Supplier agrees to hold lots for engineering
+reasons for a period of [***] free of charge.
+
+4.7.2 Requests to hold lots for engineering reasons for a period of more than [***] will be handled pursuant
+to the Purchase Order cancellation provisions set forth in Section 4.7.1.
+
+Purchase Order Changes. So long as Maxim continues to fulfill its take or pay obligations per Section 8.3
+(unless Supplier breaches its minimum supply obligation hereunder), and without derogating from such take or
+pay and such minimum supply obligations:
+
+4.8.1 Early Cancellation. Maxim may cancel any Purchase Order at any time prior to Wafer lot start date,
+and shall reimburse Supplier for the actual price paid by Supplier for any unique materials that Supplier
+shows through written documentation to have procured especially and only for Maxim and to not be
+reasonably usable by Supplier otherwise, including, without limitation, for Manufacturing Wafers for
+Maxim under other Purchase Orders. If Maxim cancels after the Wafer lot start date, Maxim shall pay
+Supplier a cancellation charge based upon mask layers completed at the time of receipt of the
+cancellation notice plus the substrate cost actually incurred by Supplier therefor.
+
+4.9
+
+4.8.2 Reschedule Purchase Order. Maxim shall have the right to reschedule any Purchase Order by up to
+[***] from the FCD (in case of metal mask revision, it could be up to [***] if such rescheduling request
+is provided to Supplier in writing more than [***] prior to the Delivery Date for any such Purchase
+Order.
+
+Electronic Communication. Supplier agrees that the Parties will use electronic means to provide and receive
+communications relating to this Agreement, including without limitation, purchase orders, invoices, and inventory
+reporting. Supplier agrees that it will complete Maxim’s EDI Trading Partner Agreement and other documents as
+reasonably requested by Maxim to enable electronic data exchanges between the Parties. The Parties shall be
+responsible for their own costs relating to setting up and maintaining such electronic data exchanges.
+
+5 DELIVERY, TITLE AND RISK OF LOSS.
+
+5.1
+
+5.2
+
+Risk of Loss. All Deliverables shall be delivered ExWorks (Incoterms 2010) the Plant, and title to and all risk of
+damage or loss to the Deliverables will pass to Maxim upon delivery to Maxim’s carrier at an industry-standard
+loading dock permitting reasonable loading of the Wafers at the Plant’s gate upon such carrier’s arrival during
+normal business hours at the Plant.
+
+Delivery Schedule. Delivery shall conform to the FCD for each Purchase Order. [***].
+
+6 PACKING AND SHIPMENT.
+
+Deliverables will be shipped as specified on the applicable Purchase Order. Supplier will package and label Deliverables,
+prepare a packing list for a shipment of Deliverables, and have copies of such packing list be sent to Maxim via electronic
+transmission, together with the invoice, as well as accompany such shipment, all as and to the same extent as is generally
+done at the Plant immediately before the Closing Date. Supplier shall: (i) arrange for shipping taking into account the
+Delivery Date; and (ii) issue shipping documentation with the address as to where to ship the Deliverables as specified in
+the applicable Purchase Order.
+
+7 INSPECTION AND ACCEPTANCE.
+
+7A
+
+7.2
+
+73
+
+74
+
+Deliverable Inspection. Maxim shall have the right to inspect Deliverables at any time for a period of [***]
+following Delivery (the “Inspection Period”). Supplier will reasonably assist in such inspection and testing.
+If written acceptance or rejection is not received by Supplier for any Deliverables within the Inspection Period,
+Maxim shall be deemed to have accepted such Deliverables on the [***] following Delivery, without limiting
+any rights and remedies of Maxim for any defects, whether known or unknown (“Final Acceptance”).
+
+Repeat Non-Conformance. If Maxim elects to receive a replacement or modified Deliverable, the procedure
+specified in Sections 7.1 and 11.1 shall apply to such replaced or modified Deliverable. [***].
+
+Epidemic Defects. For the purposes of this Agreement, an “Epidemic Defect” will be considered to exist when
+[***] of the Wafer Population (as defined below), or [***], whichever is greater, exhibits a substantially similar
+failure that is shown through root cause analysis to have been based on the same failure that is attributable to
+Supplier that is due to one or more similar material defects in materials and/or workmanship, product recalls or
+safety defects. “Wafer Population” shall mean production Wafers that are fabricated in the same technology
+node during any [***]. If at any time during the Term and directly attributable to Supplier, an Epidemic Defect
+occurs, then, in addition to the remedies set forth in Sections 7.1 and 7.2 and subject to any other rights or
+remedies under this Agreement, Supplier shall, within [***] of Maxim notifying Supplier of such Epidemic
+Defect, provide a plan of action to correct such Epidemic Defect (the “Plan of Action”), which shall include
+[***]. Maxim shall then accept orreject such Plan of Action and in the case of rejection, shall provide areasonably
+detailed explanation for such rejection. Maxim may not unreasonably reject the Plan of Action. If Maxim accepts
+the Plan of Action, Supplier shall carry out such Plan of Action. If Maxim rejects such Plan of Action, the Parties
+shall define a joint Plan of Action together. The Parties agrees that [***]. Supplier and Maxim will engage in
+good-faith discussions regarding any Epidemic Defects. [***].
+
+Process Control Information. Upon Maxim’s written request, to the extent feasible based on the existing
+systems and database, Supplier shall provide to Maxim process control information reasonably related to the
+Deliverables and/or the Services, including process and electrical test yield results, current process specifications,
+
+7
+
+calibration schedules and logs for equipment, environmental monitor information for air, gases and DI water,
+documentation of operator qualification and training, documentation of traceability, process verification
+information, trouble reports and other data, documentation and information reasonably requested by Maxim.
+
+8 PRICE; PAYMENT.
+
+8.1
+
+8.2
+
+8.3
+
+Pricing.
+
+8.1.1
+
+During the Term, Supplier shall supply any Wafers to Maxim under this Agreement at a price [***]
+(the “Price”) [***].
+
+The Price excludes any and all applicable sales, use, value added, excise and/or withholding taxes.
+Supplier shall receive a current resale certification applicable to the Wafers to be supplied hereunder.
+To the extent actually collected in connection with any transaction hereunder, all such taxes, fees and
+other charges shall be paid by Maxim to the relevant authorities by the Party obligated to pay such tax
+under applicable law. The Price and the compensation for silicon raw material [***] is and shall be
+Supplier’s sole consideration under this Agreement for any Wafers. [***]. Maxim shall provide the
+Supplier with special materials required for the Manufacturing of Wafers, including [***] for the amount
+in excess of historic usage.
+
+All Prices under this Agreement are, and shall be invoiced and paid in, U.S. dollars. If and to the extent
+that Maxim requests Services other than Manufacturing from Supplier (e.g., tapeout, engineering
+experiments, design, and other NRE services), and the Parties agree on the provision of such Services
+and the compensation therefor in a written agreement signed by each Party through its authorized
+representative, the agreed-upon compensation for such Services are in addition to the Price, and in
+addition to Maxim’s take or pay obligation set forth in this Agreement.
+
+Take-or-Pay Agreement.
+
+8.3.1
+
+8.3.2
+
+8.3.3
+
+8.3.4
+
+Starting on the later of (i) January 1, 2016 or (ii) Closing Date, as long as Supplier materially meets
+its obligations to deliver Wafers (with “materially” meaning that, during a calendar quarter, Supplier
+would not materially meet its obligations if [***] to be delivered by Supplier to Maxim under this
+Agreement during such calendar quarter is not delivered) (so long as such non-delivery is not due to
+Maxim’s fault)) in the amount purchased by MIPI in accordance with Parties’ obligations under Section
+4.1, Maxim shall purchase from Supplier quantities of Wafers based on the quantity of Moves in
+accordance with the minimum order obligation under Section 4.1 and pay to Supplier, during a given
+calendar year, [***].
+
+In the event that the Closing Date will be after January 1, 2016, the Quarterly Minimum Payments, and
+Maxim’s take or pay obligation under this Section 8.3, will be prorated for the time between January
+1, 2016 and the Closing Date. In the event Supplier manufactures Moves within [***] its minimum
+supply obligation under Section 4.1 during a calendar quarter, Maxim’s take or pay obligations on an
+annual basis as set forth in Section 8.3 below shall remain unchanged and stay in effect, [***].
+
+The minimum quantities of Wafers to be purchased by MIPI during each calendar quarter of a given
+year shall be that quantity corresponding to [***] (the “Quarterly Minimum Quantity”), except that,
+if Maxim actually purchases during any calendar quarter ofa given year [***], the Quarterly Minimum
+Quantity, Maxim shall pay the full Quarterly Minimum Payment, provided that, [***], subject to Maxim
+complying with its annual obligations under the take or pay agreement in this Agreement to order
+Wafers corresponding to the aggregate quantity of Moves for such calendar year [***]. For clarification,
+in case there is a quarter which is [***], however, during said calendar year, no additional quarter will
+be [***].
+
+If Maxim purchases and is supplied Wafers during any calendar quarter in a given year in such quantity
+corresponding to Moves that exceed the Quarterly Minimum Quantity for such calendar quarter (the
+difference between the quantity of such Moves and the Quarterly Minimum Quantity for such calendar
+quarter being referred to herein as “Excess Overload Quantity”, and Excess Overload Quantity
+
+8
+
+8.4
+
+8.5
+
+8.6
+
+multiplied by the Price-per-Move applicable to such calendar quarter being referred to herein as “Excess
+Overload Payment”), Maxim shall pay for the Price for the supplied Wafers [***].
+
+8.3.5 If Maxim purchases and is supplied Wafers during any calendar quarter in a given year in such quantity
+corresponding to Moves that is less than the Quarterly Minimum Quantity for such calendar quarter
+(the difference between the quantity of such Moves and the Quarterly Minimum Quantity for such
+calendar quarter being referred to herein as “Excess Underload Quantity”, and Excess Underload
+Quantity multiplied by the Price-per-Move applicable to such calendar quarter being referred to herein
+as “Excess Underload Payment”), Maxim shall pay the Quarterly Minimum Payment owed under
+this Agreement for such calendar quarter [***].
+
+8.3.6 Notwithstanding the foregoing, as long as Supplier materially meets its obligation to deliver purchased
+Wafers in no less than quantities ordered by MIPI from Supplier in accordance with the minimum
+supply obligation under Section 4.1 and the Manufacturing Requirements, Maxim must comply with
+the payment obligation under the terms of the take or pay agreement herein during each year equal to
+the applicable Quarterly Minimum Payment multiplied by four (4), and in the event that any amount
+of such payment owed is not satisfied, Maxim shall pay the deficit amount to Supplier within thirty
+(30) days of issuance of the relevant invoice therefor.
+
+83.7 [**],
+
+8.3.8 Notwithstanding the foregoing of this Section 8.3 and Section 3.4, if the average cycle time (over a
+calendar quarter) in the Term exceeds the average cycle time at the Plant before the Closing Date [***],
+the Quarterly Minimum Payments, and the take or pay obligation, of Maxim for each such calendar
+quarter will be [***] that is [***], without prejudice to other rights and remedies. [***].
+
+8.3.9 Nothing in this Section 8.3 or in Section 4.1 shall affect any right or remedy of Maxim in the event of
+Supplier’s failure to deliver any ordered Wafers or Supplier’s delivery of any defective Wafers or any
+other breach of this Agreement by Supplier.
+
+8.3.10 Nothing in this Section 8.3 or otherwise in this Agreement shall obligate Maxim to purchase or take
+receipt ofany Wafers not ordered by Maxim in any Purchase Order to Supplier, without limiting Maxim’s
+obligation to pay the amounts owed and due under the take or pay agreement in this Section 8.3.
+
+Payment Terms. Supplier shall submit any invoice for any Wafers ordered by Maxim upon Delivery of such
+Wafers to Maxim or for the take or pay obligation under Section 8.3 when it accrues. Maxim will pay all invoices
+within [***] from the date of issuance of a valid invoice by Supplier for such amounts.
+
+Pricing [***]. After the [***] of this Agreement, in the event that Maxim believes that the prevailing market
+rate for the Price-per-Move is [***], the Parties agree to discuss in good faith to [***].
+
+9 SERVICES.
+
+9.1
+
+9.2
+
+9.3
+
+General Support. During the Term, and at no additional cost to Maxim, Supplier shall provide Maxim with
+reasonable technical support, including by telephone and email, to answer questions and diagnose problems
+relating to the Wafer. In the event that Supplier needs to send a support technician to Maxim’s facility, if
+reasonably required, in connection with its support obligation under this Section 9.1, Maxim will reimburse
+Supplier for all reasonable costs and expenses actually incurred by Supplier in connection therewith, provided
+that such costs and expenses are preapproved by Maxim in writing.
+
+Information Delivery. Supplier shall keep Maxim apprised of the status of the development work that is part
+of any Services on an ongoing basis during project review meetings held on a schedule to be agreed upon by
+the Parties from time to time, and in any event at least once every month.
+
+Resources. Supplier agrees to commit the resources and employees necessary to fulfill its obligations under
+this Agreement.
+
+10 RECORDS; AUDIT.
+
+Supplier shall maintain complete and accurate records relating to the Deliverables and Services, including all
+manufacturing, quality and reliability records, Required Regulations, licenses, permits and approvals, invoices, payments
+and pricing information and documents for [***] (the “Audit Period”). All accounting records shall be maintained in
+accordance with generally accepted accounting principles, consistently applied. During the Audit Period, Maxim, or its
+designee, shall have the right to conduct, at its own expense and upon [***] prior written notice to Supplier, periodic
+audits of such records and/or Plant to the reasonable extent to verify Supplier’s compliance with its obligations under
+this Agreement. All information obtained during such audit shall be considered to be Confidential Information of Supplier
+and subject to the confidentiality restrictions set forth in Section 17.
+
+11 WARRANTIES; NON-CONFORMING WAFERS.
+
+11.1
+
+11.2
+
+11.3
+
+11.4
+
+Statement of Warranties.
+
+11.1.1 Supplier warrants to Maxim that for [***] beginning on the date of Final Acceptance of the applicable
+Deliverable (the “Warranty Period”), the Deliverables [***] (i) shall conform to the Specifications,
+including any Acceptance Criteria, and (ii) be free from defects in material or workmanship, provided
+that [***] the Wafers shall be stored in a controlled environment. Any Deliverable not in conformance
+with such warranty (a “Non-conforming Deliverable”) may be requested to be returned to Supplier
+by providing written notice to Supplier (a “Defect Notice”). Supplier shall verify such non-conformance
+in collaboration with Maxim. Maxim will return the Non-conforming Deliverable upon Supplier’s
+request [***] or, if Supplier agrees in advance, Maxim will provide a certificate certifying the destruction
+of such Non-conforming Deliverable. Within [***] of receiving a Non-conforming Deliverable with
+a Defect Notice and additional relevant lead time, provided that the non-conformance is agreed to be
+related to Supplier, Supplier shall replace the non-conforming Deliverable with a conforming one of
+such Deliverable. If Supplier fails to do so, Supplier shall credit Maxim’s account for the Price of the
+Non-conforming Deliverable.
+
+11.1.2 Supplier warrants to Maxim that all Services will be performed in accordance with the Specifications,
+this Agreement and applicable Schedules and professional standards. If any Service is found non-
+conforming to said warranty, Maxim shall notify Supplier of the defective Service, and Supplier, at its
+sole expense, shall re-perform the Service so as to correct such defect within the lead times agreed-
+upon in this Agreement free of charge to Maxim.
+
+11.1.3. Supplier further warrants to Maxim that title to each Deliverable delivered to Maxim, or its designated
+common carrier, shall pass to Maxim free and clear of any liens or encumbrances.
+
+Latent Defects. If during the Warranty Period, Maxim determines that a Latent Defect exists in a Wafer that
+results in such Wafer being a Non-conforming Deliverable, Maxim will notify Supplier of such defect in writing,
+and the procedure and provisions set forth in Section 11.1 will apply. Supplier will replace the Wafers having
+such Latent Defect within the lead times agreed-upon in this Agreement free of charge to Maxim.
+
+Limitation of Liability. SUPPLIER’S TOTAL LIABILITY FOR ALL CLAIMS ARISING OUT OF OR
+RELATED TO THIS AGREEMENT [***], THE MANUFACTURE, SALE, STORAGE, DELIVERY OR USE
+OF ANY PRODUCTS OR ANY TRANSACTION OR SERIES OF TRANSACTIONS BETWEEN MAXIM
+AND SUPPLIER UNDER THIS AGREEMENT, REGARDLESS OF THE LEGAL THEORY UNDERLYING
+SUCH CLAIMS, SHALL BE LIMITED TO (AT SUPPLIERS’ SOLE CHOICE) [***]. WITHOUT LIMITING
+THE PREVIOUS SENTENCE, IN NO EVENT SHALL SUPPLIER’S LIABILITY [***].
+
+MAXIM’S TOTAL LIABILITY FOR ALL CLAIMS ARISING OUT OF OR RELATED TO THIS
+AGREEMENT [****].
+
+FOR THE AVOIDANCE OF DOUBT, THE LIMITATIONS OF LIABILITY HEREIN SHALL APPLY FOR
+LIABILITY [***].
+
+10
+
+12. OTHER WARRANTIES & REPRESENTATIONS; COVENANTS.
+
+12.1
+
+12.2
+
+12.3
+
+Supplier Warranties. Supplier hereby also warrants, represents and covenants to Maxim all of the following:
+
+12.1.1 (i) Supplier is and shall remain a corporation duly organized, validly existing and in good standing
+under the laws of Delaware with all necessary authority to conduct its business and perform this
+Agreement; (ii) the individual executing this Agreement is an authorized representative of Supplier
+with the power to bind Supplier to this Agreement; and (iii) no bankruptcy or insolvency proceeding
+has been instituted by or against Supplier, and no receiver has been appointed for all or any portion of
+Supplier’s assets.
+
+12.1.2 Nothing in this Agreement, nor the performance by Supplier of this Agreement, does or will: (i)
+contravene any provision of Supplier’s organizational documents; or (ii) conflict with any obligation
+by which Supplier is bound.
+
+Maxim Warranties. Maxim hereby warrants, represents and covenants to Supplier all of the following:
+
+12.2.1 (i) Maxim US is and shall remain a corporation, duly organized, validly existing and in good standing
+under the laws of the State of Delaware, USA, with all necessary corporate power and authority to
+conduct its business and duly qualified to transact business and perform this Agreement to the full
+extent contemplated herein; (ii) the individual executing this Agreement is an authorized representative
+of Maxim US with the power to bind Maxim US to this Agreement; and (iii) no bankruptcy or insolvency
+proceeding has been instituted by or against Maxim US, and no receiver has been appointed for all or
+any portion of Maxim US’s assets.
+
+12.2.2 (i) MIPLis and shall remain a corporation, duly organized, validly existing and in good standing under
+the laws of Ireland, with all necessary corporate power and authority to conduct its business and duly
+qualified to transact business and perform this Agreement to the full extent contemplated herein; (ii)
+the individual executing this Agreement is an authorized representative of MIPI with the power to bind
+MIPI to this Agreement; and (iii) no bankruptcy or insolvency proceeding has been instituted by or
+against MIPI, and no receiver has been appointed for all or any portion of MIPI’s assets.
+
+12.2.3 Nothing in this Agreement, nor the performance by Maxim or MIPI of this Agreement, does or will:
+(i) contravene any provision of Maxim’s or MIPI’s organizational documents, respectively; or (ii)
+conflict with any obligation by which each is bound.
+
+12.2.4 Maxim has the full right and authority to grant the license granted by Maxim to Supplier, and Maxim
+has not, and will not, grant any right to any third party which would conflict with the rights granted to
+Supplier.
+
+12.2.5 The Supplier Quality Manual [***] has complied with all Applicable Laws, and is the standard practice
+at the Plant for at least six (6) months prior to the Closing Date.
+
+13. COMPLIANCE.
+
+13.1
+
+13.2
+
+Regulatory Compliance. Supplier hereby warrants that the Deliverables will be Regulatory Compliant and
+will comply with all international environmental standards and regulations, including RoHS (Reduction of
+Hazardous Substances) and WEEE (Waste Electrical and Electronic Equipment), and Supplier will comply with
+all Applicable Laws in the implementation of this Agreement. Supplier will comply with the Supplier Quality
+Manual [***]. Supplier will complete such regulatory and other compliance related forms, questionnaires,
+certifications and other documents as reasonably requested by Maxim.
+
+Government Approval and Registration. Each Party agrees to take all necessary steps to gain government
+approval applicable to such Party’s obligations under this Agreement at its own expense. If any approval or
+registration of this Agreement (the “Required Registrations”) shall be required by a Party with regard to the
+obligations of such Party under this Agreement, either initially or at any time during the Term, in order to give
+this Agreement legal effect in applicable jurisdictions, including, without limitation, the United States and Israel,
+
+11
+
+13.3
+
+13.4
+
+such Party agrees, at its expense, to take whatever steps may be necessary to secure such Required Registration,
+immediately and prior to commencing any activities that are subject to such approval or registration. The other
+Party shall provide the required Party all reasonable assistance, at its own expense, to comply with all the
+regulations and acquire all Required Registrations.
+
+Export Controls. Each Party will inform the other Party in writing in advance of furnishing to the other Party
+of any specific product, information or technology which is subject to any export controls promulgated by any
+applicable government (including, without limitation, the United States government or any agency thereof). For
+the avoidance of doubt, the Maxim Technology is subject to such export controls. Upon such notification, the
+receiving Parties:
+
+13.3.1 Shall not, directly or indirectly, export or re-export, or knowingly permit the export or re-export of, the
+Deliverables, any technical information or any component thereof, or any other items, to any country
+for which the U.S. Department of Commerce Export Administration Regulations (EAR), U.S.
+Department of State International Traffic in Arms Regulations (ITAR) or any regulation thereunder, or
+any other similar law or regulation of United Sates and Israel, requiring an export license or other
+United States governmental approval, unless the appropriate export license or approval has first been
+obtained.
+
+13.3.2 Supplier agrees to provide such information, assurances, documentation or take such other steps as
+reasonably necessary to assist Maxim in obtaining any export licenses, including, but not limited to, if
+appropriate, execution of end-user certifications, document marking, and supplemental agreements
+with respect to control and handling of export controlled technology.
+
+13.3.3. In compliance with U.S. regulations regarding Technology and Software under Restriction, subject to
+and upon Maxim’s reasonable direction and information, Supplier hereby agrees that, without express
+approval of Maxim (pursuant to issuance of an export license from the Bureau of Industry and Security),
+Supplier will not reexport or release any Technology, direct product of the Technology, software, or
+source code related to the Technology provided by Maxim to Supplier to a national ofa country specified
+in Country Groups D:1 or E:2 as set forth in 15 C.F.R. Part 740, Supplement No. | and as amended.
+
+13.3.4 None of the Parties shall have any responsibility for delayed delivery or non-delivery resulting from
+(i) any governmental action under U.S. or other applicable law suspending or revoking a necessary
+export license or authorization, or (ii) a failure to obtain and maintain all necessary export licenses for
+the goods to be shipped hereunder. The obligations of the Parties under this Section 13.3 shall be
+perpetual and shall not terminate upon expiration or termination of this Agreement.
+
+Compliance with Anti-Corruption and Anti-Boycott Laws and Ethical Practices. Neither Party will engage
+in corrupt practices, including public or private bribery or kickbacks, or act in any way or take any action that
+will render the other Party liable for a violation of the U.S. Foreign Corrupt Practices Act or U.K. Bribery Act
+or similar anti-corruption legislation, which prohibits the offering, giving or promising to offer or give, directly
+or indirectly, money or anything of value to any official of a government, political party or instrumentality, to
+assist either Party in obtaining or retaining business or in carrying out its obligations hereunder. In addition,
+neither Party will, directly or indirectly, take any action that would cause the other Party to be in violation of
+United States anti-boycott laws under the United States Export Administration Act or the United States Internal
+Revenue Code, or any regulation thereunder. Each Party will complete such anti-bribery, anti-boycott, regulatory
+and other compliance related forms, questionnaires, certifications and other documents as reasonably requested
+by the other Party. Furthermore, neither Party will do business with any entity or person that the other Party
+believes has engaged in unethical practices. Each Party expects the other Party to abide by this policy and to
+conduct its business with the highest ethical standards and not to engage in any activity that results or may result
+in a conflict of interest, embarrass the other Party, or harm the other Party’s reputation.
+
+14. INTELLECTUAL PROPERTY OWNERSHIP.
+
+14.1
+
+Intellectual Property. Maxim solely owns, and shall solely retain, all rights, title, and interest in and to all
+Maxim Technology, all Maxim Technology Improvements, and all IP Rights in and to any Maxim Technology
+and/or Maxim Technology Improvements (the foregoing individually and collectively, the “Maxim IP”).
+Supplier shall retain all rights, title and interest in and to the Supplier Technology, the Supplier Technology
+Improvements and all IP Rights in and to any Supplier Technology and/or Supplier Technology Improvements.
+
+12
+
+14.2
+
+14.3
+
+14.4
+
+14.5
+
+14.6
+
+14.7
+
+14.8
+
+Maxim Technology Improvements. Maxim shall solely own all Derivations to or from or based on any Maxim
+Technology (“Maxim Technology Improvements”) and all IP Rights therein and thereto. [***]; its being
+expressly intended that Maxim shall be the sole owner of all Maxim Technology and Maxim Technology
+Improvements and all IP Rights therein and thereto. To the maximum extent allowed by Applicable Laws,
+without limiting the other provisions in this Section 14, all works of authorship and other applicable works
+developed under this Agreement [***] or upon order for Maxim shall be considered a work-made-for-hire by
+[***] for Maxim under United States copyright law and Maxim shall own all rights therein.
+
+Supplier Technology Improvements. Supplier shall own all Derivations to or from or based on Supplier
+Technology that are neither Maxim Technology nor Maxim Technology Improvements (“Supplier Technology
+Improvements’) and all IP Rights in to and to such Supplier Technology Improvements.
+
+Transferred IP. In the event that any intellectual property is created by Supplier during the performance of
+Services exclusively or upon order for Maxim other than Manufacturing, Supplier hereby agrees to promptly
+disclose to Maxim any such intellectual property other than a Maxim Technology Improvement (“Transferred
+IP”), and hereby irrevocably assigns, transfers, and conveys all of its rights, title, and interest in and to the
+Transferred IP, and all IP Rights therein and thereto, to Maxim [***]. Upon such assignment of all rights, title,
+and interest in and to the Transferred IP, Maxim shall grant Supplier a perpetual, irrevocable, nonexclusive,
+royalty-free license to use all such Transferred IP with no limitations. In the event Supplier designs, develops,
+authors, creates, or acquires any intellectual property that is neither a Maxim Technology Improvement nor a
+Transferred IP, it and all IP Rights therein shall be solely owned by Supplier.
+
+Ownership of Third Party Materials. Maxim may provide to Supplier certain Technology or intellectual
+property that is owned by third parties and licensed to Maxim (the “Third Party Intellectual Property”).
+Notwithstanding anything express or implied in this Agreement, such third party owners shall retain all rights,
+title and interest in and to such Third Party Intellectual Property including all underlying IP Rights. MAXIM
+DOES NOT MAKE, AND EXPRESSLY DISCLAIMS, ANY AND ALL WARRANTIES, EXPRESS OR
+IMPLIED, RELATED TO ANY INTELLECTUAL PROPERTY, TECHNOLOGY OR INFORMATION
+PROVIDED BY OR OWNED BY ANY THIRD PARTY.
+
+Further Assistance. The Parties agree to execute all applications, assignments or other documents of any kind
+and take all other legally necessary steps under the law of any applicable jurisdiction including the United States,
+Israel, or any treaty regime, at the expense of the requesting party, in order to apply for, obtain, protect, perfect
+or enforce the requesting Party’s rights, title, and interest in the requesting Party’s intellectual property as specified
+herein.
+
+Reservation of Rights. Maxim does not, and nothing in this Agreement or the Asset Purchase Agreement shall
+be interpreted that Maxim does, transfer, assign, convey, or grant any right, title, interest, license (except solely
+for and to the extent of the express limited licenses in Section 15), lien, or encumbrance in or to any Maxim IP
+to Supplier or any third party under or in connection with this Agreement or the Asset Purchase Agreement or
+any performance hereunder or thereunder. Neither the delivery of any Maxim Technology, Maxim Technology
+Improvements, or other Maxim intellectual property, nor any provision of this Agreement or the Asset Purchase
+Agreement, shall be construed to grant to Supplier either expressly, by implication or otherwise, any license
+under any IP Rights of Maxim other than the extent of the limited licenses granted in Section 15. Supplier shall
+not challenge Maxim’s sole ownership of or claim any ownership right to, or assert or seek to invalidate or make
+unenforceable any IP Rights in, or any ownership or other proprietary rights of Maxim in, any of the Maxim
+Technology, the Maxim Technology Improvements, or in any element, derivation, adaptation or variation thereof,
+or any IP Right in or to any of the foregoing. If and to the extent that Supplier or any of its employees or any
+of its contractors under this Agreement owns or holds any right, title, interest, license (other than to the extent
+of the express limited licenses to Supplier in Section 15), lien, or encumbrance, or any contractual or other right
+of any kind thereto, in or to any Maxim IP, Supplier hereby assigns, transfers, and conveys, and shall cause such
+employees and contractors to assign, transfer, and convey, to Maxim all such rights, title, interest, licenses, lien,
+or encumbrance, or such contractual or other right [***] effective immediately.
+
+Trademarks. Each Party hereby agrees that it shall not use or seek to register anywhere in the world any of
+the other Party’s trademarks, logos, trade names, service marks or service names, URLs, e-mail addresses,
+domain names or business names used or owned by such Party or any of its affiliates (the “Trademarks”), or
+any other name, symbol or mark confusingly similar to any Trademark, for any purpose, whether in the Party’s
+
+13
+
+URL, name, internet address or site, business card or other means of identification. Each Party expressly agrees
+not to challenge the ownership or validity of any of the other Party’s Trademarks.
+
+15 MAXIM TECHNOLOGY LICENSES.
+
+15.1
+
+15.2
+
+15.3
+
+15.4
+
+15.5
+
+16 TERM.
+
+16.1
+
+16.2
+
+Licensed Technology. Maxim represents that the Licensed Technology required for the Manufacture of Wafers
+under this Agreement is already, in its entirety, located and existing at the Plant.
+
+License to Maxim-Designated Licensed Technology. Subject to the terms of this Agreement, Maxim hereby
+grants to Supplier, during the Term, a non-exclusive, royalty-free and fully paid-up, non-assignable, non-
+transferable, indivisible, limited right and license (with no right to sublicense or grant the right to sublicense,
+directly or indirectly) to use the Maxim-Designated Licensed Technology [***] during the Term and solely for
+the limited purpose of Manufacturing and supplying the Deliverables to Maxim pursuant to this Agreement, but
+not for any other purpose, including, without limitation, any Fabrication for any person other than Maxim.
+
+License to Operational Licensed Technology and Licensed Software.
+
+15.3.1 Subject to the terms of this Agreement, Maxim hereby grants to Supplier, during the Term, except solely
+as stated in Section 15.3.2, a non-exclusive, royalty-free and fully paid-up, non-assignable, non-
+transferable, indivisible, limited right and license (with no right to sublicense or grant the right to
+sublicense, directly or indirectly) to use the Operational Licensed Technology and the Licensed Software
+[***] solely for, and as necessary for, Manufacturing and supplying the Deliverables to Maxim pursuant
+to this Agreement or for other Fabrication of integrated circuits on silicon or other semiconductor
+material [***] for other customers.
+
+15.3.2 The license under Section 15.3.1 to Operational Licensed Technology and Licensed Software will
+survive the end of the Term in the event of expiration of this Agreement, an early termination by Maxim
+under Section 16.2(i) or early termination by Supplier under Section 16.3. Such license shall terminate
+only if Maxim terminates this Agreement under Section 16.2(ii) or Section 16.3.
+
+Limitations. Supplier shall not (i) alter, modify, translate or adapt any Maxim Technology or create any
+Derivations therefrom or use any Maxim Technology for any development, design, or research purposes or
+activities, other than solely as necessary for the Manufacture of Wafers hereunder (for Maxim Technology); (ii)
+reproduce or duplicate any Maxim Technology without the prior written consent of Maxim; (iii) assign, sublicense
+or otherwise transfer any of the Maxim Technology; (iv) use the Maxim Technology, except as specifically
+licensed in this Agreement; (v) use the Licensed Technology for any purpose, other than the purpose as set forth
+therefor in Section 15.2 (for Maxim-Designated Licensed Technology) or Section 15.3 (for Operational Licensed
+Technology and Licensed Software) (the “Purpose’); (vi) de-compile, reverse engineer, disassemble or
+otherwise seek to reveal the trade secrets or know-how underlying any Maxim Technology; (vii) combine any
+Maxim Technology with any other Technology, except as necessary for the Manufacturing (for Maxim-
+Designated Licensed Technology or Operational Licensed Technology or Licensed Software) or other Fabrication
+(for Operational Licensed Technology or Licensed Software only); or (viii) disclose the Maxim Technology, or
+any underlying IP Rights therein or component thereof, to any third party.
+
+Proprietary Notices. Supplier shall fully reproduce on each Deliverable any and all copyright, patent and other
+proprietary right notices provided by Maxim and not remove any proprietary notices, markings or other legends
+from the Maxim Technology or any accompanying documentation.
+
+Term. Subject to an earlier termination of this Agreement under Sections 16.2, 16.3, or 16.4, this Agreement
+shall commence upon the Closing Date and continue for a period of [***] (the “Initial Term’) and automatically
+renew for consecutive [***] terms on the same terms and conditions that apply to the last year of the relevant
+Term (each, a “Renewal Term’’) at the end of the Initial Term or any Renewal Term, unless each Party gives
+the other Party a written notice of termination of this Agreement at least [***] before the end of the Initial Term
+or any Renewal Term.
+
+Termination for Convenience. Maxim may terminate this Agreement: (i) at any time for convenience upon
+[***] prior written notice of termination to Supplier, or (ii) by written notice of termination to Supplier upon a
+
+14
+
+16.3
+
+16.4
+
+Change Event (as defined in the Asset Purchase Agreement), in which case Maxim’s take or pay obligations
+under Section 8.3 shall be fulfilled by Maxim until the effective date of such termination under the terms of this
+Agreement under either (i) or (ii) above, and subject to and without limiting Maxim’s right of first offer under
+the Asset Purchase Agreement.
+
+Termination for Cause. Either Party may terminate this Agreement by written notice of termination to the
+other Party upon (i) a material breach of this Agreement of such other Party that is: (aa) if such other Party is
+(A) Maxim, solely Maxim’s non-payment to Supplier of any material amount owed and due under this Agreement
+to Supplier, or (B) Supplier, solely the material non-delivery or material non-conforming delivery of Wafers
+(with “material” meaning that [***] or more of Wafers to be delivered by Supplier to Maxim under this Agreement
+during a calendar year are not delivered due to Supplier’s fault), and (bb) reasonably identified in such notice
+of termination, which termination shall be effective at the end of sixty (60) days from such notice unless such
+material breach is cured before the end of such sixty (60)-day period; (ii) effective immediately upon a material
+breach of Sections 14 (“Intellectual Property Ownership”), 15 (“Licenses”), or 17 (“Confidential Information”)
+by such other Party, provided, however, that in the event that Maxim continues to make the minimum payments
+owed by Maxim under the take or pay obligations under Section 8.3, Supplier may not terminate this Agreement
+pursuant to this Section 16.3; or (iii) such other Party (a) becomes insolvent; (b) admits in writing its insolvency
+or inability to pay its debts or perform its obligations as they mature; or (c) makes an assignment of all or
+substantially all of its assets for the benefit of creditors. Termination of this Agreement by a Party shall not limit
+or restrict any right of such Party to damages or other remedy. Notwithstanding to the contrary, the Parties agree
+that termination of this Agreement shall be the last resort in the event of any of the foregoing events and that,
+prior to a Party’s giving any written notice of termination under this Section 16.3, the Parties shall, in good faith,
+discuss the reason for such potential termination and seek to resolve such reason without termination.
+
+Effect of Termination. Upon any termination or expiration of this Agreement for any reason:
+
+6.4.1 Confidential Information. Each Recipient (as defined below) agrees to return to Discloser (as defined
+below) or destroy all tangible items then in its possession or under its control constituting or containing
+the Confidential Information of Discloser, including any and all copies thereof.
+
+6.4.2. Inventory. Maxim shall purchase Wafers Manufactured by Supplier pursuant to confirmed Purchase
+Orders that are either finished goods or work-in-progress prior to the termination or expiration date
+hereof.
+
+6.4.3 Licenses. The licenses granted herein shall terminate and expire immediately on, and shall not survive,
+the termination or expiration of this Agreement for any reason, except for the licenses granted in Section
+14.2 and in Section 15.3 only if and as stated therein.
+
+6.4.4 Transitional Cooperation. Supplier agrees to provide to Maxim or its designee, all reasonable
+cooperation and assistance, for a period of up to [***] following the date of expiration or termination
+of this Agreement in order to facilitate Maxim’s transition to a new supplier.
+
+6.4.5 Survival. Sections | (“Exhibit”), 2 (“Definition”), 4.4 (“Disruption of Production”), 4.6 (“Purchase
+Order Changes”), 7 (“Inspection and Acceptance”), 8 (Price; Payment”), 10 (““Records; Audit”), 11.
+(“Product Warranties; Non-Conforming Products”), 13 (“Compliance”), 14 (“Intellectual Property
+Ownership”), 15.3.1 (“License to Operational Licensed Technology and Licensed Software”) only if
+and as stated in Section 15.3.2, 17 (“Confidential Information”), 18 (“Indemnification”), and 20
+(“Miscellaneous”), and this Section 16.5, shall survive the expiration or termination of this Agreement
+for any reason.
+
+17 CONFIDENTIAL INFORMATION.
+
+17.1
+
+Confidential Information. In connection with this Agreement, the Parties may disclose to each other certain
+confidential and proprietary information (“Confidential Information”), and each Party recognizes the value
+and importance of the protection of the other’s Confidential Information. All Confidential Information of one
+Party (the “Discloser”) that is disclosed to the other Party (the “Recipient”) shall remain the sole property of
+Discloser (or its licensors), which shall own all rights (including, without limitation, IP Rights), title, and interest
+in and to Discloser’s Confidential Information. Only information which is identified as confidential pursuant
+to the next paragraph shall be deemed Confidential Information hereunder; except that: (i) Supplier acknowledges
+
+15
+
+17.2
+
+17.3
+
+17.4
+
+17.5
+
+17.6
+
+17.7
+
+17.8
+
+and agrees that (without limiting the generality of the foregoing) the Specifications, Maxim Technology, Maxim
+Technology Improvements, and all business, financial, customer or technical information disclosed by Maxim
+in connection with this Agreement, constitutes Maxim’s Confidential Information, which must be treated as
+such hereunder by Supplier, and (ii) Maxim acknowledges and agrees that the Supplier Technology, Supplier
+Technology Improvements, and all business, financial, customer, process or technical information disclosed by
+Supplier in connection with this Agreement, constitute Supplier’s Confidential Information, which must be
+treated as such by Maxim.
+
+Identification. A Discloser may designate information as confidential by: (i) marking written information or
+other tangible media as “Confidential” or with a similar legend prior to disclosure; (ii) indicating in the visual
+display of information that such information is confidential; (iii) identifying oral information as confidential at
+the time of disclosure to Recipient; or (iv) notifying Recipient in writing prior to disclosure that certain specifically
+identified types of information are considered to be confidential.
+
+Non-Disclosure. Each Recipient agrees that at all times, and notwithstanding the expiration or termination for
+any reason of this Agreement, it will hold in strict confidence and not disclose to any third party Discloser’s
+Confidential Information. Recipient will use the Confidential Information only for the purpose of performing
+its obligations under this Agreement, and not for any other purpose, whether for Recipient’s own benefit or the
+benefit of any third party. Without limiting the generality of the foregoing, each Recipient shall: (i) keep
+Discloser’s Confidential Information in a safe and secure location; and (ii) only permit access to Discloser’s
+Confidential Information to those of Recipient’s employees, authorized representatives, financial, accounting
+or legal advisors having a need to know and who, prior to obtaining such access, are bound by a written and
+legally enforceable confidentiality agreement with provisions to protect Discloser’s Confidential Information
+at least as restrictive as those contained herein. Each Recipient shall execute any documents and otherwise shall
+take all necessary steps to ensure that Discloser shall be able to enforce Discloser’s rights hereunder against
+Recipient, including its employees or representatives, under the laws of each jurisdiction in which Discloser’s
+Confidential Information is disclosed by Recipient. Recipient shall be liable for any breach of this Section 17
+by Recipient’s employees or authorized representatives.
+
+Notification. Recipient shall immediately notify Discloser upon discovery of any loss or unauthorized disclosure
+of Discloser’s Confidential Information.
+
+Exceptions. Recipient’s obligations under this Agreement with respect to any portion of Discloser’s Confidential
+Information shall not apply to information that Recipient can prove: (i) is or subsequently becomes publicly
+available without breach of any obligation owed to Discloser; (ii) became known to Recipient prior to Discloser’s
+disclosure of such information to Recipient; (iii) became known to Recipient from a source other than Discloser,
+and without breach of any obligation of confidentiality owed to Discloser; (iv) is used by Recipient to the limited
+extent necessary to enforce any of its rights, claims or defenses under, or as otherwise contemplated in, this
+Agreement; or (v) is disclosed to comply with accounting, United States Securities and Exchange Commission
+(SEC) or any Applicable Law or was communicated in response to a valid order by a court or other governmental
+body, by subpoena, law or other such rules, or was necessary to establish the rights or obligations of either Party
+under this Agreement and such disclosure complies with the requirements set forth below.
+
+Notification of Disclosure. If Recipient is required to disclose any of Discloser’s Confidential Information
+pursuant to Section 17.5, Recipient will promptly provide Discloser with written notice of the applicable subpoena
+or Applicable Law so that Discloser may seek a protective order or other appropriate remedy. The Recipient
+and its representatives will cooperate fully with Discloser to obtain any such protective order or other remedy.
+If Discloser elects not to seek, or is unsuccessful in obtaining, any such protective order or other remedy in
+connection with any requirement that Recipient disclose Confidential Information, then Recipient may disclose
+such Confidential Information only to the minimum extent required.
+
+Reproduction and Ownership. Confidential Information shall not be reproduced or used in any form or for
+any purpose except as required to implement this Agreement. Any reproduction by Recipient ofany of Discloser’s
+Confidential Information shall remain the property of Discloser and shall contain any and all confidential or
+proprietary notices or legends which appear on the original, unless otherwise authorized in writing by the other
+Party.
+
+Enhanced Documentation Control System. The Parties will set up a document control system that will be
+treated as Confidential in nature. Maxim will have the option to define enhanced protection requirements to
+
+16
+
+Supplier for its most sensitive Maxim Technology, as may be feasible within said system’s limitations, and
+Maxim will bear all costs related to implementation of such enhanced protection requirements.
+
+18 INDEMNIFICATION.
+
+18.1
+
+18.2
+
+Indemnification by Supplier. Supplier agrees to indemnify, defend and hold Maxim, including its officers,
+directors and employees, harmless from and against, any and all claims, demands, suits, proceedings, judgments,
+awards, penalties, damages, liabilities, costs and other expenses (including legal and expert fees) finally awarded
+in a non-appealable judgment rendered by a court or administrative body, or agreed to in a written settlement
+signed by Supplier, solely arising out of or resulting from: (i) [***]; or (ii) any claim of direct infringement of
+any third party’s IP Right(s) by any use of any Supplier Technology, Supplier Technology Improvements, or
+Supplier’s IP Rights (other than any infringement related to the Maxim-Designated Technology and Maxim
+Technology Improvements and Operational Licensed Technology for which Maxim is liable for indemnity to
+Supplier under Section 18.2), all as specified in Section 11.3. Supplier will have full control over, and Maxim
+will cooperate with and provide all reasonable assistance (at Maxim’s expense) to support Supplier in the defense
+and settlement of the Claim. Maxim will notify Supplier of the Claim within three (3) business days of Maxim’s
+receipt of the Claim. Supplier will have no liability or obligation under this Section 18.1 with respect to any
+Claim to the extent it is (a) based upon the combination of Supplier or Maxim Technology with any parts,
+materials, components, products, processes, devices, hardware, or software provided by Maxim; (c) based upon
+any modification to or derivatives of the Supplier or Maxim Technology made by Maxim; (d) based upon third
+party parts, materials, components, products, processes, devices, hardware, or software; (e) based upon adherence
+or compliance by Supplier with specifications or instructions from Maxim; (f) based upon continuing
+infringement by Maxim after Supplier has provided Maxim with a non-infringing substitute for the accused
+Supplier or Maxim Technology, or (g) made in response to a claim, action, or threatened action by Maxim or
+on behalf of Maxim.
+
+Indemnification by Maxim. Without limiting any of Maxim’s indemnification obligations under the Asset
+Purchase Agreement, Maxim agrees to indemnify, defend and hold Supplier harmless from and against, any and
+all settlement amounts, damages, costs, and other expenses finally awarded in a non-appealable judgment
+rendered by a court or administrative body, or agreed to in a written settlement signed by Maxim, solely arising
+out of or resulting from: (i) any claim of direct infringement of any third party’s IP Right(s) by any use of any
+(aa) Maxim-Designated Technology, and any Maxim Technology Improvements or (bb) any Operational
+Licensed Technology as provided by Maxim to Supplier if and to the extent, but only if and to the extent, such
+claim of infringement arises from any Wafer that Supplier made for and delivered to Maxim and not from any
+Wafer that Supplier made for itself or any of its Affiliates or made for or delivered to any third party, under this
+Agreement, or (ii) Maxim’s material breach of any ofits obligations under this Agreement as specified in Section
+11.4 (“Claim”). Maxim will have full control over, and Supplier will cooperate with and provide all reasonable
+assistance (at Supplier’s expense) to support Maxim in the defense and settlement of the Claim. Supplier will
+notify Maxim of the Claim within three (3) business days of Supplier’s receipt of the Claim. Maxim will have
+no liability or obligation under this Section 18.2 with respect to any Claim to the extent it is (a) based upon use
+of Maxim Technology or Maxim Technology Improvements (“Maxim Indemnified Technology”) outside the
+license thereto under Section 15.2 or the Purpose or in violation of this Agreement; (b) based upon the combination
+of Maxim Indemnified Technology with any parts, materials, components, products, processes, devices,
+hardware, or software not provided by Maxim; (c) based upon any modification to or derivatives of the Maxim
+Indemnified Technology not made by Maxim; (d) based upon third party parts, materials, components, products,
+processes, devices, hardware, or software; (e) based upon adherence or compliance by Maxim with specifications
+or instructions from Supplier; (f) based upon continuing infringement by Supplier after Maxim has provided
+Supplier with a non-infringing substitute for the accused Maxim Indemnified Technology, or (g) made in response
+to a claim, action, or threatened action by Supplier or on behalf of Supplier.
+
+19 MISCELLANEOIUS.
+
+19.1
+
+Relationships. The relationship between the Parties under this Agreement is solely that of independent
+contractors, and neither Party is a partner, employer, employee, owner, agent, franchisor, franchisee, joint venturer
+or representative of the other Party. Neither Party is authorized or empowered to represent the other Party, nor
+to transact business, incur obligations or buy goods in the other Party’s name or for the other Party’s account.
+This Agreement does not constitute, and shall not be deemed to constitute, a joint venture or partnership between
+the Parties, and neither Party shall be deemed to be an agent of the other Party, or have authority to bind, obligate
+or make an agreement for the other Party.
+
+17
+
+19.2
+
+19.3
+
+19.4
+
+19.5
+
+19.6
+
+19.7
+
+19.8
+
+19.9
+
+Assignment. Neither Party may assign or delegate or subcontract, by operation of law or otherwise, any of its
+rights or obligations under this Agreement to any third party without the other Party’s prior written consent.
+Any such attempted assignment or delegation shall be null and void.
+
+Non-Exclusivity. Nothing expressed or implied in this Agreement shall be deemed to restrict either Party’s
+right or ability, whether during the Term or any time thereafter, to (i) directly or indirectly sell, license, use,
+promote, market, exploit, develop or otherwise deal anywhere in any product of service of any kind; or (ii) enter
+into any business arrangement of whatever nature or description with any other entity in any location.
+
+Governing Law; Jurisdiction. This Agreement shall be governed, construed and enforced, in all respects,
+solely and exclusively by the laws of California, United States of America, without giving effect to its conflict
+of laws principles. The applicability of the UN Convention on Contracts for the International Sale of Goods is
+expressly waived by the Parties and does not apply to the interpretation or enforcement of this Agreement. If
+there is a dispute between the Parties, the Parties agree that they will first attempt to resolve the dispute through
+one senior management member of each Party named as a representative of the Party to resolve the dispute. If
+they are unable to do so within sixty (60) days after the complaining Party’s written notice to the other Party,
+either Party may commence litigation in the exclusive jurisdiction and venue of a court of competent jurisdiction
+in Santa Clara County, California, United States of America. Each Party hereby (i) agrees to submit to the
+exclusive jurisdiction of such court, (ii) agrees to appear in any such action, (iii) consents to the jurisdiction and
+venue of such court and (iv) waives any objections it might have as to venue in any such court. Service of
+process may be made in any action, suit or proceeding by mailing or delivering a copy of such process to a party
+at its address and in the manner set forth in the notice section hereof. Any judgment or award by such court
+may be entered and enforced by any court whenever located, with proper jurisdiction upon the applicable Party
+or its assets. All proceedings should be conducted in the English language.
+
+Agreement Language is English. The Parties acknowledge that this Agreement is drafted and executed in,
+and shall be solely governed by, the English language, which shall control, in all respects, the construction and
+interpretation of this Agreement.
+
+Force Majeure. Any delay and/or failure in performance shall not be deemed a breach hereof when such delay
+or failure is caused by or due to causes beyond the reasonable control and without negligence of the Party charged
+with such performance hereunder, including, but not limited to, fire, earthquake, flood, accidents, explosions,
+acts of God and acts of governmental authority or acts of war, power outages, power shortages, acts of terrorism,
+or acts of a civil or military authority (“Force Majeure”). The Party claiming Force Majeure shall notify the
+other Party, in writing, within [***] after the occurrence of the Force Majeure event specifying the nature and
+anticipated duration of the delay. Supplier shall use reasonable efforts to avoid or minimize the effects of delay
+or non-performance and the Schedule shall be amended to take into account the delay caused by the Force
+Majeure event. During any Force Majeure event, Maxim’s obligations under Section 8.3 shall be suspended.
+Notwithstanding the foregoing, in the event any delay extends for a period of more than [***], or any agreed
+upon extension, Maxim shall have the right to procure Wafers from another supplier in order to meet its Customer
+requirements, but without limiting Maxim’s rights related to a Force Majeure-based Change Event under the
+Asset Purchase Agreement.
+
+Time of Essence. TIME IS OF THE ESSENCE IN THE PERFORMANCE OF SUPPLIER’S OBLIGATIONS
+UNDER THIS AGREEMENT.
+
+Notices. Except as otherwise expressly provided herein, any notice required or permitted by this Agreement
+shall be in writing and shall be delivered in person or by Federal Express or other reputable overnight courier,
+with notice deemed given upon written verification of receipt as evidenced by the courier’s delivery record. All
+notices must be in English and shall be sent to the addresses set forth below or to such other address as either
+Party may specify in writing from time to time.
+
+18
+
+19.10
+
+19.11
+
+19.12
+
+19.13
+
+19.14
+
+19.15
+
+19.16
+
+If to Maxim US: If to Supplier:
+
+MAXIM INTEGRATED PRODUCTS, INC. TJ Texas, Inc.
+
+160 Rio Robles 9651-9655 Westover Hills Blvd.
+San Jose, California 95134 San Antonio, Texas 78251
+United States of America United States of America
+
+Attn: Legal Department
+
+If to MIPI:
+
+MAXIM INTEGRATED PRODUCTS,
+INTERNATIONAL LTD.
+
+Beaver House, Beech Hill Office Campus,
+Clonskeagh, Dublin 4
+
+Republic of Ireland
+
+Attn: Legal Department
+
+Headings. The headings in this Agreement are for convenience only and will not be construed to affect the
+meaning of any provision of this Agreement.
+
+Conflicting Terms. The terms set forth in this Agreement shall prevail over all preprinted or other terms set
+forth on any Purchase Order or acknowledgment of Purchase Order.
+
+Interpretation. Any ambiguity in this Agreement shall be interpreted equitably without regard to which Party
+drafted the Agreement or any provision thereof.
+
+Entire Agreement. This Agreement, together with the Exhibits, and the Asset Purchase Agreement and
+Transition Services Agreement (to the extent referenced herein) constitute the sole, final and entire understanding
+and agreement between the Parties concerning the subject matter hereof and supersedes all prior discussions,
+agreements, understandings and representations whether oral or written and whether or not executed by Maxim
+and Supplier. No modification, variation, amendment or other change may be made to this Agreement or any
+part thereof unless set forth in a written agreement identified as an amendment to this Agreement and signed by
+each Party through its authorized representative.
+
+Non-Waiver; Remedies. A Party’s delay or failure to enforce at any time any provision of this Agreement shall
+not constitute a waiver of such right thereafter or of any other right or remedy. The rights and remedies provided
+to each Party herein are cumulative and in addition to any other rights and remedies available to such Party at
+law or in equity.
+
+Severability. If one or more provisions in this Agreement are ruled entirely or partly invalid or unenforceable
+by any court or governmental authority of competent jurisdiction, then: (i) the validity and enforceability of all
+provisions not ruled to be invalid or unenforceable shall remain unaffected; (ii) the effect of such ruling shall
+be limited to the body making the ruling; (iii) the provision(s) held wholly or partly invalid or unenforceable
+shall be deemed amended, and the Parties shall reform the provision(s) to the minimum extent necessary to
+render them valid and enforceable in conformity with the Parties’ intent as manifested herein; and (iv) if the
+ruling, or the controlling principle of law or equity leading to the ruling, is subsequently overruled, modified,
+or amended, then the provision(s) in question, as originally set forth in this Agreement, shall be deemed valid
+and enforceable to the maximum extent permitted by the new controlling principle of law or equity.
+
+Counterparts. This Agreement may be executed in counterparts, by confirmed facsimile, or both, each of which
+
+will be considered an original, but all of which together will constitute the same instrument.
+
+(signature page follows)
+
+19
+
+In WITNESS WHEREOEF, the Parties have caused their authorized representatives to execute this Agreement as of
+
+the date written below.
+
+MAXIM INTEGRATED PRODUCTS, INC.
+
+By: /s/ Mark Casper
+
+Name: Mark Casper
+
+Title: Vice President & Secretary
+Date: November 18, 2015
+
+MAXIM INTEGRATED PRODUCTS
+
+INTERNATIONAL, LTD
+
+By: /s/ Colm Greaves
+
+Name: Colm Greaves
+
+Title: Director, Customer Operations
+Date: November 18, 2015
+
+Place of Signature: Dublin, Ireland
+
+20
+
+TJ TEXAS, INC.
+
+By:
+Name:
+Title:
+Date:
+
+/s/ Rafi Mor
+Rafi Mor
+CEO
+
+November 18, 2015

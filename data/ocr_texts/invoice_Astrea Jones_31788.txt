@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 31788
+Date: Sep 13 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Astrea Jones 14609, Rochester,
+New York, United Balance Due: $2,264.78
+States
+Item Quantity Rate Amount
+Fellowes Officeware Wire Shelving 5 $449.15 $2,245.75
+Storage, Office Supplies, OFF-ST-4273
+Subtotal: $2,245.75
+Shipping: $19.03
+Total: $2,264.78
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AJ10960140-41165

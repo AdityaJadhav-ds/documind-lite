@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 32065
+Date: May 13 2012
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Anthony Johnson 33710, Saint pion’
+Petersburg, Florida, Balance Due: $518.35
+United States
+Item Quantity Rate Amount
+Electrix Halogen Magnifier Lamp 2 $310.88 $621.76
+Furnishings, Furniture, FUR-FU-4113
+Subtotal: $621.76
+Discount (20%) : $124.35
+Shipping: $20.94
+Total: $518.35
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AJ10795140-41042

@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 38318
+Date: Aug 22 2012
+Bill To: Ship To: Ship Mode: Standard Cl
+Arthur Prichep 80219, Denver, pimioces angara wiass
+Colorado, United Balance Due: $11.47
+States
+Item Quantity Rate Amount
+Regeneration Desk Collection 3 $4.22 $12.67
+Furnishings, Furniture, FUR-FU-5679
+Subtotal: $12.67
+Discount (20%) : $2.53
+Shipping: $1.33
+Total: $11.47
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AP10915140-41143

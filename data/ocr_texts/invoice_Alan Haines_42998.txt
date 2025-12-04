@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 42998
+Date: Aug 08 2012
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Alan Haines Waterloo, Ontario, pion’
+Canada Balance Due: $535.01
+Item Quantity Rate Amount
+Ames Business Envelopes, Security-Tint 6 $87.84 $527.04
+Envelopes, Office Supplies, OFF-EN-3089
+Subtotal: $527.04
+Shipping: $7.97
+Total: $535.01
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AH19523-41129

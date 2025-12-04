@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 21030
+Date: Mar 09 2012
+Bill To: Ship To: ; .
+. . . Ship Mode: First Class
+Bryan Mills Zhenjiang, Jiangsu,
+China Balance Due: $5,345.23
+Item Quantity Rate Amount
+Brother Fax Machine, Laser 4 $1,274.16 $5,096.64
+Copiers, Technology, TEC-CO-3598
+Subtotal: $5,096.64
+Shipping: $248.59
+Total: $5,345.23
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-BM1178527-40977

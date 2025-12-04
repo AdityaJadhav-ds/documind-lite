@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 36350
+Date: Jan 02 2013
+Bill To: Ship To: ;
+Ship Mode: Second Class
+Amy Hunt 75217, Dallas, Texas,
+United States Balance Due: $1,619.18
+Item Quantity Rate Amount
+Enermax Acrylux Wireless Keyboard 5 $398.40 $1,992.00
+Accessories, Technology, TEC-AC-4140
+Subtotal: $1,992.00
+Discount (20%) : $398.40
+Shipping: $25.58
+Total: $1,619.18
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2013-AH10465140-41276

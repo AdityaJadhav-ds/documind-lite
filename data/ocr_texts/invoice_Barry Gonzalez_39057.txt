@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 39057
+Date: Dec 05 2012
+Bill To: Ship To:
+me pie . Ship Mode: Standard Class
+Barry Gonzalez 38109, Memphis,
+Tennessee, United Balance Due: $72.53
+States
+Item Quantity Rate Amount
+Xerox 1909 2 $42.21 $84.42
+Paper, Office Supplies, OFF-PA-6460
+Subtotal: $84.42
+Discount (20%) : $16.88
+Shipping: $4.99
+Total: $72.53
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-BG11035140-41248

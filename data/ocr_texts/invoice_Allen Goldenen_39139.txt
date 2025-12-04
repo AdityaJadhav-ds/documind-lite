@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 39139
+Date: Apr 18 2012
+Bill To: Ship To: Ship Mode: S acl
+Allen Goldenen 22204, Arlington, ip Mode: econa Wiass
+Virginia, United Balance Due: $182.15
+States
+Item Quantity Rate Amount
+GBC Durable Plastic Covers 3 $58.05 $174.15
+Binders, Office Supplies, OFF-BI-4344
+Subtotal: $174.15
+Shipping: $8.00
+Total: $182.15
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AG10390140-41017

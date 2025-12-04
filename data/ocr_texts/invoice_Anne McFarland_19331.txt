@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 19331
+Date: Oct 11 2012
+Bill To: Ship To:
+me "p . Ship Mode: Standard Class
+Anne McFarland Trier, Rhineland-
+Palatinate, Germany Balance Due: $8,832.67
+Item Quantity Rate Amount
+Nokia Signal Booster, VoIP 8 $1,092.72 $8,741.76
+Phones, Technology, TEC-PH-5352
+Subtotal: $8,741.76
+Shipping: $90.91
+Total: $8,832.67
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IT-2012-AM1070548-41193

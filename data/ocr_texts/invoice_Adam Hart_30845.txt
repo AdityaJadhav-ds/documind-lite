@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 30845
+Date: Sep 11 2012
+Bill To: Ship To:
+mre Pp . . Ship Mode: Second Class
+Adam Hart Melton, Victoria,
+Australia Balance Due: $1,866.95
+Item Quantity Rate Amount
+Konica Inkjet, White 4 $745.42 $2,981.66
+Machines, Technology, TEC-MA-5007
+Subtotal: $2,981.66
+Discount (40%) : $1,192.66
+Shipping: $77.95
+Total: $1,866.95
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ID-2012-AH100757-41163

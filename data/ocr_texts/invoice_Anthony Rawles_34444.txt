@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 34444
+Date: Jun 29 2012
+Bill To: Ship To:
+n° pie Ship Mode: Second Class
+Anthony Rawles 90004, Los Angeles,
+California, United Balance Due: $163.53
+States
+Item Quantity Rate Amount
+BIC Brite Liner Highlighters, Chisel Tip 5 $32.40 $162.00
+Art, Office Supplies, OFF-AR-3446
+Subtotal: $162.00
+Shipping: $1.53
+Total: $163.53
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AR10825140-41089

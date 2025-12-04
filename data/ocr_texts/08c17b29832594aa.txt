@@ -1,0 +1,72 @@
+TAYLOR FOSTER
+
+Database Developer
+
+& 958.764.8202 @ taylor94@yahoo.com
+@ slippery-tonic.com 9 Sheboygan, Niue
+
+MY LIFE PHILOSOPHY
+
+The biggest asset in any organization's tech stack is a well-optimized database.
+
+SUMMARY
+
+Experienced and passionate Database Developer with a track record of maximizing SQL Server performance
+and working with large data sets. Skilled in T-SQL writing, query optimization, indexing, performance tuning,
+and query execution plans. Seeking to join a top-notch team in an online tech business with a focus on
+professional growth and pushing the boundaries of database development.
+
+STRENGTHS
+
+"~~ Problem Solving
+
+Known for my ability to analyze complex database
+issues, identify root causes, and propose effective
+solutions resulting in improved system performance
+and data accuracy.
+
+vw Attention to Detail
+
+Detail-oriented approach to database development,
+with a focus on maintaining data integrity,
+implementing quality checks, and delivering accurate
+results to support informed decision-making.
+
+EXPERIENCE
+
+2022-Ongoing ¢ Database Developer
+New York, NY Tech Solutions Inc.
+
+database solutions.
+
+optimal performance.
+
+information.
+
+ensuring data availability.
+
+www.enhancv.com
+
+“~e Collaboration
+
+Experienced in working collaboratively with cross-
+functional teams, effectively bridging the gap between
+developers, data analysts, and stakeholders to ensure
+successful project outcomes.
+
+Led database development projects, optimizing OLTP database performance resulting in a 35%
+increase in query execution speed. Implemented indexing strategies, improving overall database
+efficiency by 20%. Collaborated with cross-functional teams to design, develop, and deploy
+
+- Developed and maintained databases for high-traffic websites, ensuring data integrity and
+
+* Optimized complex SQL queries, reducing response time by 40%.
+
+- Performed database tuning and monitoring to identify and resolve performance issues.
+
+- Collaborated with software engineers to integrate database functionalities into web applications.
+- Designed and implemented data security protocols, successfully protecting sensitive customer
+
+- Developed automated processes for database backup and recovery, minimizing downtime and
+
+Powered by (CX? Enhancy

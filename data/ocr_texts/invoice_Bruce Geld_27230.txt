@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 27230
+Date: Jul 18 2012
+Bill To: Ship To: ; .
+Ship Mode: First Class
+Bruce Geld Kuala Lumpur, Kuala
+Lumpur, Malaysia Balance Due: $10,632.78
+Item Quantity Rate Amount
+Nokia Smart Phone, with Caller ID 4 $2,555.64 $10,222.56
+Phones, Technology, TEC-PH-5356
+Subtotal: $10,222.56
+Shipping: $410.22
+Total: $10,632.78
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-BG1174078-41108

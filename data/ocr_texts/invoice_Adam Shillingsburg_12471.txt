@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+#12471
+Date: May 20 2012
+Bill To: Ship To: ;
+Ship Mode: Second Class
+Adam Shillingsburg Breda, North Brabant,
+Netherlands Balance Due: $1,620.65
+Item Quantity Rate Amount
+Sauder 3-Shelf Cabinet, Mobile 6 $507.60 $3,045.60
+Bookcases, Furniture, FUR-BO-5941
+Subtotal: $3,045.60
+Discount (50%) : $1,522.80
+Shipping: $97.85
+Total: $1,620.65
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IT-2012-AS1009091-41049

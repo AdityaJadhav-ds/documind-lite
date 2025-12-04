@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 36259
+Date: Mar 06 2012
+Bill To: Ship To: ; .
+Ship Mode: First Class
+Aaron Bergman 98103, Seattle,
+Washington, United Balance Due: $58.11
+States
+Item Quantity Rate Amount
+Newell 330 3 $17.94 $53.82
+Art, Office Supplies, OFF-AR-5309
+Subtotal: $53.82
+Shipping: $4.29
+Total: $58.11
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AB10015140-40974

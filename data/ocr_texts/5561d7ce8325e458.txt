@@ -1,0 +1,102 @@
+LOUETTA BREWTON
+
+Data Scientist
+
+PROFILE
+
+Data Scientist with 2 years of
+experience in leveraging strong
+analytical, programming, and
+problem-solving skills to drive
+data-driven decisions. Proficient
+
+in extracting actionable insights
+from large datasets using
+
+machine learning techniques and
+statistical modeling. Adept at
+collaborating with cross-functional
+teams, presenting data-driven
+recommendations, and developing
+data visualization tools to enable
+effective business strategies.
+Committed to continuous learning
+and staying updated on the latest
+industry trends.
+
+LINKS
+
+LANGUAGES
+
+English
+
+Spanish
+
+louetta.brewton@gmail.com
+
+(381) 796-8679
+
+1234 Ocean View Drive, San Francisco, CA
+94121
+
+o.G
+
+EMPLOYMENT HISTORY
+
+® Senior Data Scientist at Google, CA
+
+Feb 2023 - Present
+
+« Led a cross-functional team in developing a machine learning
+model that improved search result relevance by 20%, resulting in a
+15% increase in click-through rates and a 10% boost in ad revenue
+for Google Search.
+
+* Designed and implemented a predictive analytics system for
+YouTube, which increased video recommendations accuracy by
+25% and contributed to a 30% growth in average watch time per
+user.
+
+* Optimized Google Maps' traffic prediction algorithm, reducing
+estimated time of arrival (ETA) errors by 35% and enhancing user
+satisfaction by 20% as measured by app store ratings and user
+feedback surveys.
+
+® Junior Data Scientist at , CA
+
+Sep 2021 - Dec 2022
+
+* Developed a predictive model for customer churn, resulting in a
+20% reduction in customer attrition and saving the company $1.2
+million in annual revenue.
+
+* Streamlined data processing pipeline, reducing data preparation
+time by 30% and enabling faster insights for the team.
+
+* Led a project to analyze customer feedback data, uncovering key
+drivers of satisfaction and informing product improvements that
+led to a 15% increase in customer satisfaction scores.
+
+* Collaborated with cross-functional teams to design and implement
+a real-time recommendation engine, boosting average order value
+by 10% and generating an additional $500,000 in revenue per
+quarter.
+
+EDUCATION
+
+Master of Science in Data Science at University of California,
+Berkeley, CA
+
+Aug 2016 - May 2021
+
+Relevant Coursework: Advanced Statistics, Machine Learning, Data Mining,
+Big Data Analytics, Data Visualization, Artificial Intelligence, Database
+Systems, Natural Language Processing, Optimization Techniques, Deep
+Learning, and Cloud Computing.
+
+CERTIFICATES
+Certified Data Scientist (CDS)
+Feb 2022
+
+Professional Certificate in Applied Data Science from IBM
+Sep 2020

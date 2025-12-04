@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 1626
+Date: Aug 15 2012
+Bill To: Ship To: ; .
+Ship Mode: First Class
+Alan Dominguez Manaus, Amazonas,
+Brazil Balance Due: $2,815.49
+Item Quantity Rate Amount
+Hon Swivel Stool, Black 5 $537.40 $2,687.00
+Chairs, Furniture, FUR-CH-4702
+Subtotal: $2,687.00
+Shipping: $128.49
+Total: $2,815.49
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-AD1018018-41136

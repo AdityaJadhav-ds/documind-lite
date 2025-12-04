@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 3924
+Date: Dec 22 2012
+Bill To: Ship To: ;
+. Ship Mode: Second Class
+Beth Fritzler La Romana, La
+Romana, Dominican Balance Due: $1,985.54
+Republic
+Item Quantity Rate Amount
+Harbour Creations Executive Leather Armchair, Adjustable 3 $753.89 $2,261.66
+Chairs, Furniture, FUR-CH-4530
+Subtotal: $2,261.66
+Discount (20%) : $452.33
+Shipping: $176.21
+Total: $1,985.54
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-BF1127536-41265

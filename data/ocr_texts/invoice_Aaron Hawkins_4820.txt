@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 4820
+Date: Dec 08 2012
+Bill To: Ship To: ; .
+. . . Ship Mode: First Class
+Aaron Hawkins Saltillo, Coahuila,
+Mexico Balance Due: $2,724.57
+Item Quantity Rate Amount
+Ikea Library with Doors, Mobile 4 $780.61 $3,122.43
+Bookcases, Furniture, FUR-BO-4861
+Subtotal: $3,122.43
+Discount (20%) : $624.49
+Shipping: $226.63
+Total: $2,724.57
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-AH1003082-41251

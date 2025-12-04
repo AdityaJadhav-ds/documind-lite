@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 29578
+Date: Aug 11 2012
+Bill To: Ship To: ;
+a . Ship Mode: Second Class
+Clay Rozendal Ho Chi Minh City, Ho
+Chi Minh City, Balance Due: $5,326.84
+Vietnam
+Item Quantity Rate Amount
+Hewlett Copy Machine, Laser 7 $1,161.20 $8,128.38
+Copiers, Technology, TEC-CO-4570
+Subtotal: $8,128.38
+Discount (37%) : $3,007.50
+Shipping: $205.96
+Total: $5,326.84
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ID-2012-CR12580144-41132

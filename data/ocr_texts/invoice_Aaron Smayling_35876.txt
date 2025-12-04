@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 35876
+Date: Jul 26 2012
+Bill To: Ship To: ;
+| . Ship Mode: Standard Class
+Aaron Smayling 10035, New York City,
+New York, United Balance Due: $727.94
+States
+Item Quantity Rate Amount
+Xerox 1956 11 $65.78 $723.58
+Paper, Office Supplies, OFF-PA-6512
+Subtotal: $723.58
+Shipping: $4.36
+Total: $727.94
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-AS10045140-41116

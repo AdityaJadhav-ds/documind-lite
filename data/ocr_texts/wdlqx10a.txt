@@ -1,0 +1,386 @@
+EMPLOYMENT AND STOCK OPTION AGREEMENT
+
+THIS AGREEMENT dated for reference the Ist day of July, 2004 (the “Commencement
+Date”) between PETER KNAVEN (the “Employee”, having a residence at having a residence
+at 1924 Limerick Place, North Vancouver, British Columbia V7J 3A1, and WORDLOGIC
+CORPORATION (the “Company’), a corporation under the laws of Nevada principal business
+office at Suite 2400, 650 West Georgia Street, Vancouver, British Columbia V6B 4N7.
+
+WITNESSES THAT WHEREAS:
+
+A. The Company is engaged in the business of research, development, marketing,
+distribution and licensing of software tools for enabling data entry on personal computing
+devices and like devices on a number of different platforms and the provision of services in
+support thereof (the “Business”).
+
+B. The Employee has valuable experience in technology and software development of the
+type of products to be developed by the Company and has agreed to be employed by the
+Company on the terms set out in this Agreement.
+
+NOW THEREFORE in consideration of the mutual covenants herein and other good and
+valuable consideration (the receipt and sufficiency of which is hereby acknowledged), the parties
+hereby agree as follows:
+
+ARTICLE 1
+TERMS OF EMPLOYMENT
+
+1.1 Duties of Employee. The Employee will, during his employment with the Company (the
+“Term”):
+
+a) act as Software Programmer and Developer for the Company and carry on such
+other duties as requested from time to time by the president as required by the
+Company in the conduct of the Business; and
+
+b) use all proper means to develop, enhance, promote and maintain the Business and
+the Company’s products.
+
+1.2. Devotion of Time. The Employee will devote his full working time and attention to the
+Business and to the best interests of the Company during the Term and will not work in any
+manner for any third party involved in a business that is competitive with the Business.
+
+1.3 Remuneration. In consideration for performance of his duties hereunder, the Company
+will pay the Employee a salary of $100,000 per annum (the “Base Salary”), such salary to be
+paid in equal installments semi-monthly or at such other times as the Employee and the
+Company may agree.
+
+TWM\IWM09150
+
+-2-
+
+1.4 Reimbursement for Expenses. The Company will reimburse the Employee for all
+reasonable expenses incurred by the Employee while or resulting from performing his duties
+hereunder.
+
+1.5 Annual Vacations. The Employee will be entitled to 15 days annual vacation, the timing
+of which the Employee will coordinate with the Company to accommodate the business needs of
+the Company as well as the desires of the Employee.
+
+1.6 Statutory Deductions. The Company will make such at-source deductions from the pay
+of the Employee as are required by law including but not limited to income tax, Canada Pension
+Plan and Employment Insurance premiums, and the Company will remit all amounts so deducted
+to the appropriate government agencies.
+
+1.7 Other Employment Benefits. The Employee shall be entitled to all employee benefits
+including a comprehensive health plan which the Company intends to provide to its senior
+officers from time to time.
+
+ARTICLE 2
+OWNERSHIP OF IP RIGHTS
+
+2.1 Transfer of Employee IP. For good and valuable consideration including the entering
+into of this Agreement by the Company, the Employee hereby transfers and assigns all his right,
+title and interest in and to any and all source code, compiled code, documentation, notes,
+drawings, flow charts, work records, plans, planning tools, summaries, presentations and other
+works created by him during the Term (any and all of which are referred to herein as
+“Employee’s Developments”) and with respect to the Business.
+
+2.2 Confidential Information. The Employee acknowledges that in the course of his
+employment with the Company he will acquire information about the Business and the affairs of
+the Company, some of which will include commercially valuable trade secrets, intellectual
+property and other confidential or proprietary information (all referred to herein as “Confidential
+Information”), including without limitation financial, sales and marketing information,
+processes, techniques, know how, systems, methods, data, inventions, devices, ideas, formulae
+and improvements, and enhancements and modifications thereto and derivatives thereof, whether
+patented or not.
+
+2.3 Non-Disclosure of Confidential Information. The Employee covenants with the
+Company that he will not, either during the Term or at any time thereafter, disclose any
+Confidential Information to any third party directly or indirectly other than as may be in the best
+interest of the Company.
+
+2.4 Exception. Section 2.3 shall not apply to particular material which the Employee can
+show with reasonable proof was:
+
+a) already known to the Employee before it was disclosed to the Employee by the
+Company;
+
+TWM\IWM09150
+
+-3-
+
+b) lawfully disclosed to the Employee on a non-confidential basis from a third party
+that is entitled to disclose it on a non-confidential basis; or
+
+c) generally available to the public at the time of the Employee’s exposure to same
+without any breach of an obligation of confidentiality.
+
+Further, disclosure of any Confidential Information of the Company shall not be prohibited if
+required by law, provided that the Employee notify the Company promptly of any legal
+proceeding that would require disclosure of any Confidential Information and, at the request and
+expense of the Company, provide any assistance requested by the Company to enable the
+Company to seek and obtain a protective order prior to such disclosure.
+
+2.5 Proprietary Developments. For the purposes of this Agreement, “Development” or
+“Developments” includes all Employee’s Developments and all:
+
+a) modifications or improvements to the intellectual property or assets developed,
+acquired, owned, licensed, sold, marketed or used by the Company in connection
+with the Business;
+
+b) trade-marks, trade names, business names, logos, design marks, trade dress and
+other proprietary marks;
+
+c) inventions, devices, discoveries, concepts, ideas, formulae, know how, processes,
+techniques, systems, methods and any and all improvements, derivatives and
+modifications thereto, whether or not patented;
+
+developed, created, generated, contributed to or reduced to practice by the Employee alone or
+jointly with others during his employment with the Company and which results from tasks
+assigned to the Employee by the Company or which results from the use of the premises or
+property (including computers, software tools, equipment, supplies or Confidential Information)
+owned, developed, leased or licensed by the Company or which reasonably relates to the
+Business.
+
+2.6 Originality. The Employee will use reasonable efforts to ensure that the Developments
+do not infringe any proprietary rights of any third parties in any way which would or could
+derogate from the rights of the Company in the Developments hereunder.
+
+2.7 Use of Materials. The Employee will not, without the prior written approval of the
+Company, use any Developments, Confidential Information or any information related thereto,
+in any form, for his own purposes or for any purposes or interests other than those of the
+Company.
+
+2.8 Return of Materials. Upon request by the Company, the Employee will deliver to the
+Company all tangible and electronic files, computer code, notes, flow charts, work records and
+other documentation in his possession or control, and related to any Developments or
+Confidential Information.
+
+TWM\IWM09150
+
+-4-
+
+2.9 Full Disclosure. The Employee will, promptly upon its creation, make full disclosure to
+the Company of each Employee Development. If required by the Company, the Employee will
+maintain work journals or log books or such other form of recording methods provided by the
+Company to record the particulars of all Developments for or with which the Employee is
+involved or responsible.
+
+2.10 Intellectual Property Rights. For the purposes of this Agreement “Intellectual Property
+Rights” means all copyrights, design rights, trade secrets and confidential information
+(including, without limitation, inventions, technical data, and methodologies), patent rights, and
+other proprietary rights which may subsist anywhere in the world, whether registered or
+unregistered, and all applications for registration of any of the foregoing, and all rights to file any
+such applications.
+
+2.11 Acknowledgement and Assignment. The Employee acknowledges that all
+Developments are works made in the course of or as a result of the Employee’s employment with
+the Company and the Employee shall and does hereby irrevocably:
+
+a) assign and transfer to the Company all of the Employee’s right title and interest in
+and to each Development and all Intellectual Property Rights therein;
+
+b) acknowledge that the Company owns all Intellectual Property Rights in and to the
+Developments; and
+
+c) waive all moral rights (as that term is defined in the Copyright Act (Canada)) with
+respect to the Developments and all Intellectual Property Rights therein.
+
+2.12 Assistance to the Company. The Employee covenants to, at all times during and
+subsequent to his employment with the Company:
+
+a) co-operate fully with respect to the execution of all further documents and the
+carrying out of all such acts and things as are reasonably requested by the
+Company to confirm the transfer of ownership to the Company of all rights
+effective at or after the time such Developments are created; and
+
+b) at the request and expense of the Company, apply for and use all reasonable
+efforts to obtain for the Company any and all Intellectual Property Rights for
+Developments and any and all Intellectual Property Rights therein created during
+his employment with the Company or created within six months of the
+termination of his employment with the Company.
+
+2.13 Copyright and Ownership. If any one or more of the Developments are entitled to
+copyright protection and are deemed in any way to fall within the definition of “work made for
+hire”, as defined in the Copyright Act of 1976 (United States of America), such Developments
+shall be considered a “work made for hire”, the copyright of which shall be owned solely,
+completely and exclusively by the Company. If any one or more of the Developments are
+entitled to copyright protection and are not considered to be included in the categories of works
+covered by the “work made for hire” definition contained in the Copyright Act of 1976 (United
+
+TWM\IWM09150
+
+-5-
+
+States of America), the Employee shall and does hereby, by virtue of this Agreement, assign and
+transfer completely and exclusively the copyright in such Developments to the Company.
+
+ARTICLE 3
+NON-COMPETITION
+
+3.1 Non-Competition. The Employee hereby covenants that he will not while he is an
+employee of the Company or during the three year period after he ceases to be an officer or
+employee of the Company as a result of his termination of employment, engage in any of the
+following activities:
+
+a) either directly or indirectly as principal, agent, owner, proprietor, partner,
+shareholder, director, officer or otherwise, own, operate, carry on, be engaged in
+the operation of, have any financial interest in, lend any monies to, guarantee any
+liabilities or obligations of, act as a consultant to or provide management services
+to any business operation, whether a proprietorship, partnership, joint venture,
+corporation or otherwise which competes directly with the Company anywhere in
+the world where the Company markets, sells, licenses or develops its products or
+services during the term of this employment agreement;
+
+b) directly or indirectly solicit, interfere with or endeavor to direct or entice away
+from the Company any customer, client or any person, firm or corporation in the
+habit of dealing with the Company; or
+
+c) interfere with, entice away or otherwise attempt to obtain the withdrawal of any
+employee or accountant of the Company.
+
+3.2 Reasonableness of Restrictions. The Employee hereby acknowledges that, in view of
+the worldwide availability of the world wide web and nature of the Company’s products, the
+restrictions contained in this Article 3 are reasonable and appropriate to protect the legitimate
+business interests of the Company and the Employee hereby waives all defenses to the strict
+enforcement thereof.
+
+3.3 Severability. If any of the restrictions, whether with respect to capacities, activities,
+periods of time or geographic areas, specified in this Article 3 are considered by a court of
+competent jurisdiction to be unreasonable, void or unenforceable, the parties hereto agree that
+such court shall be authorized to and is hereby requested and directed to limit such capacities,
+activities, periods of time or geographic areas to such capacities, activities, periods of time or
+geographic areas as the court considers reasonable and enforceable in the circumstances. Where
+the court specifies one or more terms in substitution for any term hereof, such term or terms shall
+automatically replace the corresponding term or terms set forth herein and shall be binding upon
+the parties to the same extent as if originally set forth herein.
+
+TWM\IWM09150
+
+-6-
+
+ARTICLE 4
+TERM
+
+4.1 Term and Termination. This Agreement shall commence on the Commencement Date
+and continue in force and effect for the period of 24 months thereafter and, with respect to
+Article 2 and Article 3, for the two year period after the Employee ceases to be an employee of
+the Company.
+
+4.2 Termination. The Company may terminate the Employee’s employment for cause, as
+that term is interpreted by the Courts of British Columbia, or without cause provided that the
+Company provides the Employee with six (6) months notice of termination or pay in lieu thereof.
+
+43 Notice. The Employee will give not less than 30 days prior written notice of his intention
+to resign as an employee of the Company.
+
+ARTICLE 5
+SHARE OPTIONS
+
+a) Share Option Grant. As per document attached.
+
+ARTICLE 6
+MISCELLANEOUS PROVISIONS
+
+6.1 Time of the Essence. Time shall be of the essence of this Agreement.
+
+6.2 Governing Law. This Agreement shall be governed by and construed in accordance with
+the laws of British Columbia which shall be deemed to be the proper law hereof and each of the
+parties hereto irrevocably attorns to the jurisdiction of the courts of British Columbia.
+
+6.3 Equitable Remedies. The Employee agrees that a breach of the Employee’s obligations
+under this Agreement would result in damages to the Company that could not be adequately
+compensated for by monetary award and that in the event of any such breach by the Employee,
+in addition to all other remedies available to the Company at law or in equity, the Company shall
+be entitled as a matter of right to apply to a court of competent jurisdiction for such relief by way
+of restraining order, injunction, decree or otherwise as may be appropriate to ensure compliance
+with the provisions of this Agreement.
+
+64 Further Acts, Things. Each of the parties to this Agreement shall at the request of any
+other party, and at the expense of the Company, execute and deliver any further documents and
+do all acts and things as that party may reasonably require in order to carry out the true intent
+and meaning of this Agreement.
+
+6.5 Enurement. This Agreement shall enure to the benefit of and be binding upon the parties
+hereto and their personal representatives, heirs, successors and assigns.
+
+6.6 No Waiver. No condoning, excusing or waiver by any party hereto of any default, breach
+or non-observance by any other party hereto at any time in respect of any covenant, agreement,
+
+TWM\IWM09150
+
+-7-
+
+proviso or condition contained herein shall be or construed as being a waiver of that party's
+rights hereunder in respect of any continuing or subsequent default, breach or non-observance or
+so as to defeat, limit or affect in any way the rights of that party in respect of such continuing or
+subsequent default, breach or non-observance and no waiver shall be inferred from or implied by
+anything done or omitted to be done by the party having those rights.
+
+6.7 Severability. If any covenant, obligation or provision contained in this Agreement or the
+application thereof to any person or circumstance shall to any extent be invalid or unenforceable,
+the remainder of this Agreement or the application of that covenant, obligations or provision to
+persons or circumstances other than those concerning which it is held invalid or unenforceable
+shall not be affected thereby and each covenant, obligation and provision of this Agreement shall
+be separately valid and enforceable to the fullest extent permitted by law.
+
+6.8 Amendment. No amendment, waiver, termination or variation of the terms, conditions,
+warranties, covenants, agreements or undertaking set out herein shall be of any force or effect
+unless reduced to writing duly executed by all parties hereto in the same manner and with the
+same formality as this agreement is executed.
+
+6.9 Headings. The headings to the sections of this Agreement are used for convenience only
+and shall not form part of the terms of this Agreement.
+
+6.10 Assignment. This contract is assignable to a third party at the mutual consent of both
+parties.
+
+IN WITNESS WHEREOF the parties have executed this agreement as of the date first written
+above.
+
+WORDLOGIC CORPORATION
+
+/s/Peter Knaven Per:_/s/Frank Evanshen, CEO
+Peter Knaven Authorized Signatory
+
+TWM\IWM09150
+
+Notice of Grant of Stock Options WordLogic Corporation
+
+and Option Agreement ID:
+Box 11512, 2400-650 W. Georgia Street
+
+Vancouver, BC CANADA V6B 4N7
+
+Peter Knaven Option Number: — 1-119
+
+Plan: 2000
+
+Base Date: July 1, 2004
+Grant
+
+Effective July 1, 2004 you have been granted an Incentive Stock Option to buy 1,000,000 shares of WordLogic
+Corporation (the Company) stock at US$0.60 per share.
+
+Vesting Schedule
+
+Shares in each period will become fully vested (for options, exercisable) on the date shown. Periods begin on the
+Full Vest date for the previous period (or, for the first period shown, on the Base Date listed above).
+
+You agree to this Vesting Schedule for the Shares. For any increment to vest, you must hold Continuous Status
+as an Employee or Consultant through the date or condition described. In the event of a merger, asset sale, or
+material change of control, any and all options will be deemed fully vested on the date said change is effected.
+
+When the "Vest Type" says a calendar interval (e.g., "monthly"), the shares shown will vest at the end of each full
+calendar interval in the period. If the total number of shares in a period do not divide evenly by the number of
+intervals in the period, leftover shares will be assigned one to each interval, starting with the first interval in the
+period, and continuing until used up.
+
+Shares Exercise Price Vest Type Full Vest Expiry Date
+100,000 US$0.60 Immediately Immediately July 1, 2011
+900,000 US$0.60 Monthly July 1,2009 July 1, 2011
+
+By your signature and the Company's signature below, you and the Company agree that these options are
+granted under and governed by the Terms and Conditions of Option Grant and the Company's 2000 Stock
+Incentive Plan. You also agree to accept as final and binding all decisions or interpretations of the Board of
+Directors of the Company on any questions arising under the Plan.
+
+WordLogic Corporation
+
+By: /s/Frank Evanshen /s/ Peter Knaven
+
+
+Peter Knaven
+Title: CEO 1924 Limerick Place
+North Vancouver, BC, V7J 3A1
+
+SIN: XXXXXXXXX

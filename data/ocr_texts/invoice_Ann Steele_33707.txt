@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 33707
+Date: Jul 31 2012
+Bill To: Ship To: Ship Mode: Standard Cl
+Ann Steele 19120, Philadelphia, pimioces angara wiass
+Pennsylvania, United Balance Due: $10.86
+States
+Item Quantity Rate Amount
+Acco Clips to Go Binder Clips, 24 Clips in Two Sizes 2 $5.68 $11.36
+Fasteners, Office Supplies, OFF-FA-2903
+Subtotal: $11.36
+Discount (20%) : $2.27
+Shipping: $1.77
+Total: $10.86
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AS10630140-41121

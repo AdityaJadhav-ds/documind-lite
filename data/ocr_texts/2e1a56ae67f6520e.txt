@@ -1,0 +1,93 @@
+NEWELL PADBERG
+
+885 Koch Valley, Dallas, TX + +1(555) 7751700
+
+WORK EXPERIENCE
+
+MANAGER, DATABASE ADMINISTRATION 08/2015 - PRESENT
+Detroit, MI
+
+Manage DBA team of approximately 60 (+/-) split between FTE/Contractors supporting our development, UAT and performance test
+environments
+
+Coordinate and contribute to performance and Disaster Recovery testing on a quarterly basis
+
+Services delivered include general consulting, project build work, general administration, 3rd level support, migration and/or transition
+planning, performance and tuning, project planning, standards validation/development, technical documentation, process automation,
+and problem analysis and resolution
+
+Work with the Operations DBA team to collaborate effectively and turnover defect free systems with a warranty period
+
+Development and continuous refinement of documented database strategies in order to provide a scalable and manageable environment
+for future growth, Heavy emphasis on automation
+
+Hands-on experience as an Oracle DBA
+
+Hands-on experience in Oracle RAC, ASM environment
+
+Hands-on experience with Oracle Data Guard
+
+DATABASE ADMINISTRATION 05/2009 - 02/2015
+Phoenix, AZ
+
+Researches and implements new or improved methods, processes, tools, and systems
+
+Motivate others to perform above normal expectations
+
+Manage the operational support of production and development database systems in a
+
+X7 production environment
+
+Oversee the execution of Database Administration Team activities including assigning work responsibilities and ensuring timely
+completion of tasks related to the Database Administration Team
+
+Manage the support activities for applications development teams in designing, developing and implementing database applications,
+including defining the database architecture, data modeling, and database object definitions
+
+Monitor and tune databases to avoid issues and maximize performance
+
+Evaluate and recommend vendor products to support database administration activities
+
+Participate in strategic planning and budgeting
+
+DATABASE ADMINISTRATION INTERN 02/2004 - 03/2009
+Los Angeles, CA
+
+Oracle RMAN Backup and Recovery techniques
+
+General data modelling / schema design
+
+Experience working with development teams on implementation and release of database changes as submitted by development projects
+Works with management team and staff to create goals and objectives in relation to data services activities
+
+Manages prioritization and work efforts across multiple projects
+
+Collaborate with business units and internal IT teams to provide support and proactive service, including analysis of opportunities in order
+to take advantage of existing tools and technical capabilities
+
+Work with development teams to understand their goals and help engineer solutions that meet their needs
+
+Foster an environment of empowering team members by encouraging collaboration, clear communication, creativity and critical thinking
+
+EDUCATION
+
+MAHARISHI UNIVERSITY OF MANAGEMENT 1998 - 2003
+Bachelor's Degree in Computer Science
+
+PROFESSIONAL SKILLS
+
+* Good proactive planning skills and multi-tasking skills
+
+* Strong SQL/T-SQL skills with hands-on experience in successful database design, schema design, SQL performance tuning and
+optimization
+
+¢ Proven analytical and project management skills with the ability to consistently prioritize and produce accurate work within set
+deadlines required
+
+* Strong written / verbal English communication skills with ability to communicate effectively
+
+* Exceptional inter-personal skills, oral and written communications skills
+
+* Proven track record of strong leadership skills to coordinate and facilitate activities with functional business partners/colleague
+
+* Proven leadership, problem solving consensus building, training and quality assurance skills

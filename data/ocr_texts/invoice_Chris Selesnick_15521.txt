@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+#15521
+Date: Mar 29 2012
+Bill To: Ship To: ;
+. . . Ship Mode: Standard Class
+Chris Selesnick Troisdorf, North
+Rhine-Westphalia, Balance Due: $3,377.10
+Germany
+Item Quantity Rate Amount
+Novimex Swivel Stool, Black 5 $729.14 $3,645.68
+Chairs, Furniture, FUR-CH-5412
+Subtotal: $3,645.68
+Discount (10%): $364.57
+Shipping: $95.99
+Total: $3,377.10
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-CS1225048-40997

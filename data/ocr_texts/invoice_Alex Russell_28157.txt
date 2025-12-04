@@ -1,0 +1,27 @@
+SuperStore INVOICE
+
+# 28157
+Date: Jun 09 2012
+Bill To: Ship To: ; .
+a . Ship Mode: First Class
+Alex Russell Ho Chi Minh City, Ho
+
+Chi Minh City, Balance Due: $706.92
+
+Vietnam
+Item Quantity Rate Amount
+Sauder 3-Shelf Cabinet, Metal 3 $314.00 $942.01
+
+Bookcases, Furniture, FUR-BO-5940
+
+Subtotal: $942.01
+Discount (37%) : $348.54
+Shipping: $113.45
+Total: $706.92
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-AR10345144-41069

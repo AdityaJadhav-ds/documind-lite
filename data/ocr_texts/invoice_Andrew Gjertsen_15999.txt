@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 15999
+Date: Apr 04 2012
+Bill To: Ship To:
+no . p Ship Mode: Standard Class
+Andrew Gjertsen La Seyne-sur-Mer,
+Provence-Alpes-Cote Balance Due: $12,023.40
+d'Azur, France
+Item Quantity Rate Amount
+Breville Microwave, White 7 $1,889.06 $13,223.39
+Appliances, Office Supplies, OFF-AP-3573
+Subtotal: $13,223.39
+Discount (10%): $1,322.34
+Shipping: $122.35
+Total: $12,023.40
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-AG1049545-41003

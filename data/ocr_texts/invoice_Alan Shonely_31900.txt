@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 31900
+Date: Mar 14 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Alan Shonely 33614, Tampa,
+Florida, United States Balance Due: $114.24
+Item Quantity Rate Amount
+Eldon Expressions Desk Accessory, Wood Photo Frame, 3 $45.70 $137.09
+Mahogany
+Furnishings, Furniture, FUR-FU-4048
+Subtotal: $137.09
+Discount (20%) : $27.42
+Shipping: $4.57
+Total: $114.24
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AS10240140-40982

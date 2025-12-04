@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 12655
+Date: Feb 06 2013
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Astrea Jones Paris, Ile-de-France,
+France Balance Due: $4,002.41
+Item Quantity Rate Amount
+Rubbermaid Frame, Erganomic 6 $651.06 $3,906.36
+Furnishings, Furniture, FUR-FU-5730
+Subtotal: $3,906.36
+Shipping: $96.05
+Total: $4,002.41
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ES-2013-AJ1096045-41311

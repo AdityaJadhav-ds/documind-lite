@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 43048
+Date: Sep 20 2012
+Bill To: Ship To: ;
+| Ship Mode: Second Class
+Alan Shonely Vaughan, Ontario,
+Canada Balance Due: $6.15
+Item Quantity Rate Amount
+Smead Round Labels, Adjustable 1 $4.80 $4.80
+Labels, Office Supplies, OFF-LA-6054
+Subtotal: $4.80
+Shipping: $1.35
+Total: $6.15
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AS24023-41172

@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 28646
+Date: Aug 03 2012
+
+Bill To: Ship To: Ship Mode: Standard Cl
+Bryan Mills Tiruchchirappalli, paces: ancara Wass
+Tamil Nadu, India Balance Due: $3,940.70
+Item Quantity Rate Amount
+Sharp Copy Machine, Color 4 $963.36 $3,853.44
+
+Copiers, Technology, TEC-CO-5990
+
+Subtotal: $3,853.44
+Shipping: $87.26
+Total: $3,940.70
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-BM1178558-41 124

@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 14229
+Date: Dec 16 2012
+Bill To: Ship To: ;
+; | Ship Mode: Second Class
+Bradley Drucker Lisbon, Lisboa,
+Portugal Balance Due: $1,723.81
+Item Quantity Rate Amount
+Novimex Rocking Chair, Adjustable 7 $468.72 $3,281.04
+Chairs, Furniture, FUR-CH-5394
+Subtotal: $3,281.04
+Discount (50%) : $1,640.52
+Shipping: $83.29
+Total: $1,723.81
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IT-2012-BD11500104-41259

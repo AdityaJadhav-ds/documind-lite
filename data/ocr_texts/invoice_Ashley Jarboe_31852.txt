@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 31852
+Date: Mar 02 2012
+Bill To: Ship To: ;
+a Ship Mode: Second Class
+Ashley Jarboe 28403, Wilmington,
+North Carolina, Balance Due: $64.31
+United States
+Item Quantity Rate Amount
+Zebra Zazzle Fluorescent Highlighters 4 $19.46 $77.82
+Art, Office Supplies, OFF-AR-6632
+Subtotal: $77.82
+Discount (20%) : $15.56
+Shipping: $2.05
+Total: $64.31
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AJ10945140-40970

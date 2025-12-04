@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 24158
+Date: Jan 25 2013
+Bill To: Ship To: ; .
+. a . Ship Mode: First Class
+Caroline Jumper Ho Chi Minh City, Ho
+Chi Minh City, Balance Due: $1,405.11
+Vietnam
+Item Quantity Rate Amount
+Rogers Lockers, Single Width 3 $527.01 $1,581.03
+Storage, Office Supplies, OFF-ST-5702
+Subtotal: $1,581.03
+Discount (17%): $268.78
+Shipping: $92.86
+Total: $1,405.11
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ID-2013-CJ12010144-41299

@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 37563
+Date: Nov 02 2012
+Bill To: Ship To: ;
+; | Ship Mode: Standard Class
+Annie Thurman 37211, Nashville,
+Tennessee, United Balance Due: $1,047.71
+States
+Item Quantity Rate Amount
+Xerox 1884 9 $143.86 $1,294.70
+Paper, Office Supplies, OFF-PA-6433
+Subtotal: $1,294.70
+Discount (20%) : $258.94
+Shipping: $11.95
+Total: $1,047.71
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AT10735140-41215

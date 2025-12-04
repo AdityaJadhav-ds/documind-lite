@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 31904
+Date: May 22 2012
+Bill To: Ship To: ;
+| . Ship Mode: Standard Class
+Andrew Roberts 19134, Philadelphia,
+Pennsylvania, United Balance Due: $3.17
+States
+Item Quantity Rate Amount
+Angle-D Ring Binders 2 $3.28 $6.56
+Binders, Office Supplies, OFF-BI-3119
+Subtotal: $6.56
+Discount (70%) : $4.59
+Shipping: $1.20
+Total: $3.17
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-AR10510140-41051

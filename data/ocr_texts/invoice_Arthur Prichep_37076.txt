@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 37076
+Date: Nov 10 2012
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Arthur Prichep 90008, Los Angeles, pamoce
+California, United Balance Due: $106.14
+States
+Item Quantity Rate Amount
+Hon Olson Stacker Stools 1 $112.65 $112.65
+Chairs, Furniture, FUR-CH-4673
+Subtotal: $112.65
+Discount (20%) : $22.53
+Shipping: $16.02
+Total: $106.14
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AP10915140-41223

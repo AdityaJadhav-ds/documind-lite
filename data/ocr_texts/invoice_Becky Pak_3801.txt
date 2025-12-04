@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 3801
+Date: Sep 15 2012
+Bill To: Ship To: Ship Mod First Cl
+: rst Class
+Becky Pak Holguin, Holguin, pamoce
+Cuba Balance Due: $2,314.77
+Item Quantity Rate Amount
+Fellowes Lockers, Single Width 4 $552.96 $2,211.84
+Storage, Office Supplies, OFF-ST-4268
+Subtotal: $2,211.84
+Shipping: $102.93
+Total: $2,314.77
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-BP1115531-41167

@@ -1,0 +1,48 @@
+EMAIL LOCATION PHONE LINKEDIN
+johnsmith@email.com Dania Beach, FL, USA (+754) 943 132 /john-smith
+
+PROFILE
+
+Highly motivated and responsible professional with 3 years’ experience in data science. Confident in researching and
+developing statistical learning models for data analysis using programming languages such as Python and R.
+Experienced in verifying data of developed algorithms and predicting future outcomes. Excellent communication and
+team skills. Excels in a creative, fast-paced, collaborative environment. Keep eye for details and focused on
+continuously learning new skills.
+
+SKILLS
+
+= Machine Learning = JAVA, C/C++
+
+= Pattern Recognition = Database Algorithms
+
+= Python andR = SQL, MySQL
+
+PROFESSIONAL EXPERIENCE
+
+Data Science Intern at Chewy Mar. 2021 - Present
+
+Dania Beach, FL
+
+= Building a real-time analytics dashboard using Tableau and D3.js
+
+= Analyzing multiple networks using tools such as Hive, Python, and Pig
+
+= Performed empirical data analysis using Python — numpy, matplotlib, and pomorphy2
+
+Data Science Intern at Procter Aug. 2019 - Feb. 2021
+Lakeland, FL
+
+= Reduced time spend by customer per session by 11 seconds
+= Designed a machine learning model which increased performance by 62%
+= Created a natural language processing chatbot to automate low-level customer service interactions
+
+EDUCATION
+
+BA Computer Science Engineering Sep. 2015 - Jul. 2019
+Florida Polytechnic University, Lakeland, FL
+
+Microsoft Office Advanced Course Nov. 2020 - Apr. 2021
+ONLINE
+Google Professional Data Science Course Mar. 201 9- Jun. 2019
+
+ONLINE

@@ -1,0 +1,58 @@
+Electrical Engineering Student Sample Resume
+201 South 1460 East + Salt Lake City, Utah 84112
+(801) 581-6186 + studentemail@ gmail.com
+
+OBJECTIVE
+To obtain an electrical engineering position with El Fako-O Semiconductors, Inc.
+EDUCATION
+Bachelor of Science, Electrical Engineering May 2007
+University of Utah, Salt Lake City, Utah
+GPA: 3.72
+RELATED COURSE WORK
+Partial Differential Equations Beginning Solid State Devices
+Digital Communications Systems Advanced IC Design
+Implementation of DSP Digital Circuit Design
+SENIOR PROJECT
+
+Desigued a hone securily system thal integrated phone activation with use of # microcontroller.
+
+SKILLS
+Hardware: FPGA Design, Digital IO and Processor Design, High Frequency Microstrip
+Microwave Design, Feedback and Control Systems, Signal Processing, Wireless Analog and
+Digital Communications
+Software: C, Matlab, C++, JAVA, LISP, Object Oriented Programming, OS Programming,
+Firmware Coding, Embedded Software Coding, Linux/Unix Programming, GUI and Web
+
+Programming
+
+RELATED EXPERIENCE
+Electrical Engineering Department, University of Utah Salt Lake City, Utah
+Teaching Assistant September 2005 — Present
+
++ Present lab instruction and grade assignments for 30-40 students in the undergraduate course,
+Introduction to Lab Instrumentation and Methodology
+
+Imaginary, Inc. Salt Lake City, Utah
+
+Hees Engineer May 2005 — August 2005
+Developed a bit error rate test for 10/100 LAN cards which allowed IBM to take the product
+
+* Solved hardware problems on PCMCIA, MiniP Cl cards using logic analyzers and
+oscilloscopes
+
+* Ran qualification tests on a MiniPCI project on twelve Dell laptops and five OS's
+
+HONORS AND ACTIVITIES
+Imaginary, Inc. Foundation Scholarship 2002 — 2003
+Continuing Student Electrical Engineering Scholarship 2001 - 2002
+Presidential Scholarship 2001 — 2003
+MEMBERSHIPS
+
+IEEE — The Institute of Electrical and Electronics Engineers
+SWE — Society of Woman Engineers
+
+EMPLOYMENT
+Ersatz Industries Salt Lake City, Utah
+Customer Service Team Leader June 2004 — April 2005
+
+* Trained and managed 25 employees

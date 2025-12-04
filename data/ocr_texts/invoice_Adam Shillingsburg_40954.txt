@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 40954
+Date: Sep 21 2012
+Bill To: Ship To: ;
+a . Ship Mode: Standard Class
+Adam Shillingsburg 10035, New York City,
+New York, United Balance Due: $53.32
+States
+Item Quantity Rate Amount
+Avery Hi-Liter GlideStik Fluorescent Highlighter, Yellow Ink 4 $13.04 $52.16
+Art, Office Supplies, OFF-AR-3285
+Subtotal: $52.16
+Shipping: $1.16
+Total: $53.32
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AS10090140-41173

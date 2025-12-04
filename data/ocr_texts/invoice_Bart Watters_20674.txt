@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 20674
+Date: Jun 16 2012
+Bill To: Ship To: ; .
+_ _ Ship Mode: First Class
+Bart Watters Beijing, Beijing,
+China Balance Due: $11,783.25
+Item Quantity Rate Amount
+Bevis Conference Table, Fully Assembled 5 $3,238.31 $16,191.53
+Tables, Furniture, FUR-TA-3420
+Subtotal: $16,191.53
+Discount (30%) : $4,857.46
+Shipping: $449.18
+Total: $11,783.25
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-BW1111027-41076

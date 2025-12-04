@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+#911
+Date: Oct 26 2012
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Art Ferguson Santa Clara, Villa pion’
+Clara, Cuba Balance Due: $17,614.49
+Item Quantity Rate Amount
+Dania Classic Bookcase, Traditional 8 $2,190.72 $17,525.76
+Bookcases, Furniture, FUR-BO-3892
+Subtotal: $17,525.76
+Shipping: $88.73
+Total: $17,614.49
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-AF1087031-41208

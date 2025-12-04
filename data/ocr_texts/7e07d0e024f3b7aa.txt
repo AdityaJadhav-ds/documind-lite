@@ -1,0 +1,93 @@
+KEVIN MARTEL
+
+CONTACT
+
+kevin_martel@email.com
+(123) 456-7890
+
+Boston, MA
+
+Linkedin
+
+EDUCATION
+
+Bachelor of Science
+Computer Science
+Tufts University
+2001 - 2005
+Medford, MA
+
+SKILLS
+
+Python
+
+Network Security
+
+Jira
+
+Network Infrastructure
+Software Development Life
+Cycle (SDLC)
+
+Data Analysis
+
+Written Communication
+Conflict Resolution
+
+IT DIRECTOR
+
+WORK EXPERIENCE
+
+IT Director
+Datadog
+2017 - current / Boston,MA
+
+Directed 46 IT staff members, evaluating staff performance &
+efficiency through monthly check-ins with managers
+
+Oversaw technical infrastructure with a concentration in network
+security by performing tests and drafting reports
+
+Collaborated with vendors for installations and upgrades, reducing
+installation time by 8% and decreasing costs by 11%
+
+Upgraded IT equipment, including laptops, monitors, chairs,
+chargers, and printers, increasing efficiency by 16%
+
+Evaluated and developed department budget of $10.4M, remaining
+under budget by 4% or more each year
+
+IT Manager
+Persistent Systems
+2008 - 2017 / Boston,MA
+
+Trained 17 techs in installations, upgrades, and maintenance for
+telecommunication channels, online networks, and security systems,
+reducing time-to-productivity by 36%
+
+Created an in-house network for locating digital tools & resources,
+cutting costs by 21% and saving $5.2K a year
+
+Partnered with IT director to design software to expedite ticketing
+automation, saving $9K in labor costs
+
+Overhauled IT procedures to reflect modern practices, decreasing
+maintenance errors by 19%
+
+Established training sessions regarding network infrastructure and
+security, reducing the chance of data loss by 24%
+
+Systems Engineer
+Blackrock
+
+2001 - 2008 / Boston,MA
+
+Presented status and deliverables of SDLC for the development of
+cloud-based software geared toward financial institutions
+Collaborated with 8 engineering team members to develop software
+by utilizing Angular, Spring, Java 11, and Azure Dev Ops
+
+Expanded knowledge base concerning investing and financial
+management, increasing the number of successful investments by
+29% and saving $12K a year
+

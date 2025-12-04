@@ -1,0 +1,18 @@
+# Core web app + UI
+streamlit>=1.39.0
+pandas>=2.2.0
+
+# OCR pipeline
+pdf2image>=1.17.0
+pillow>=11.0.0
+pytesseract>=0.3.10
+
+# Vector DB + embeddings
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+
+# LLM client
+openai>=1.50.0
+
+# Optional utilities (safe to keep)
+python-dotenv>=1.0.1

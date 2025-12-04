@@ -1,0 +1,128 @@
+SUMMARY
+
+SKILLS
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+CERTIFICATIONS
+
+Jessica Claire
+
+@ 100 Montgomery St 10th Floor *2 (555) 432-1000 4 resumesample@example.com
+
+Experienced software developer(over 9 years of experience) in Python programming, IBM Cloud and Unix
+shell scripting. Extensive experience in software development life cycle which include requirement analysis,
+object oriented analysis. design, development, testing, documentation and support. Good understanding of
+OOP's concepts, multithreading and socket programming. Experience in Agile and waterfall methodologies.
+Has the ability to rapidly absorb new concepts and apply them effectively, innovative problem-solving skills
+and export trouble shooter, effective in working independently and collaboratively in a team with excellent
+communication and writing skill. Interested in networking, mathematics and Programming. Passionate to
+learning new technologies and upgrade skills.
+
+« IBM Cloud « Markdown language
+« Python Programming ¢ Jira
+« C++ Programming ¢ = Terraform
+« C Programming ¢  pthon scrapy module
+« Linux shell scripting « Flask
+« Git hub ¢ pivotal tracker
+« GoLang « Agile development methodologies
+« Visual Studio code « Testing and deployment
+« Putty « SDLC processes
+PY THON DEVELOPER 10/2021 to CURRENT
+
+Motion Recruitment | Austin, Reading
+
+« Worked closely with systems analysts, engineers and programmers to understand limitations, develop
+capabilities and resolve software problems.
+
+¢ Integrated object-oriented design and development techniques into projects to support usability goals.
+
+« Programmed applications and tools using object-oriented languages with goals of code abstraction,
+stability and reuse.
+
+« Recommended improvements to facilitate team and project workflow.
+
+« Coordinated testing and validation procedures through software development lifecycle.
+
+« Analyzed user needs and software requirements to determine design feasibility.
+
+¢ Working in Python Web scraping using python scrapy Module.
+
+IB) CLOUD DEVELOPER-PY THON 07/2020 to 04/2021
+IBM | City, India
+
+« | was working as an IBM cloud backend developer.
+
+« Implemented new features in IBM Cloud
+
+« Developed tools for debugging IBM cloud using Python .
+
+« Developed "IBM meta data service”.
+
+« Added new feature in Cloud user interface using Golan and python.
+« Written unit test cases for Cloud features.
+
+« Automated different operations using shell scripts.
+
+« Making use of Visual studio and Git hub
+
+* Training new developers
+
+« Documenting cloud features using markdown script.
+
+C/OHIPY THON DEVELOPER 10/2012 to 07/2020
+Wipro Technologies | City, India
+
+* Worked in ALCATEL-LUCENT(NOKIA) project for optimizing the memory usage of various products
+using different memory optimization techniques. Handled different features of optical card which is used
+for communication. Discuss the solution with the customer and create draft design document. Review
+the changes/test document and tested them. Environment: Unix C++ & C programming language,
+LACP & LACPDU protocol. Responsibility: Handling the software AOS-LITE( software for Layer 2
+switching devices). Handling different features of optical cards which is used for communication. The
+hardware was handled using linkagg commands along with the software. Create different version of the
+project requirement or the change request. Optimized the memory usage of the product by different
+memory optimization technics. Discuss the solution with the customer and create draft design document.
+Review the changes and test them. Review the test document. Test, maintain and recommend software
+improvements to ensure strong functionality and optimization.
+
+« Worked in FUJITSU project in bug fixing Worked on the product like CDS. 9500, TM51, AMAZONE,
+ODM-LC2D, L series. Environment: Unix C++ & C programming language. YANG programming
+language, Python scripting Python automation using WARRIOR frame work ,SONET, OTN protocol.
+Responsibility: Worked on CDS.9500, TM51 for bug fixing and legacy issues using C and C++
+programming, had an opportunity to learn about protocol like SONET and OTN. Worked on AMAZONE
+for SNMP-Interfaces development, implementing features and its further unit testing using C++
+programming language. Used to write unit test casese using python and automate may testing
+schenarious using python. Worked on ODM-LC2D, Lseries for automation using python scripts and the
+warrior framework. Worked on ODM-LC2D, Lseries for its manual testing. Involved in coding, unit
+testing, and defect resolution. Worked on Tseries for developing YPG app which will handle Y cable
+protection switching. | have been involved in the designing and development phase of this product,
+developed operational handler, annotation files, deviation files for this. C++ programming and yang
+were used.
+
+« Worked in CISCO Project for TANBURG . TANBURG is a Cisco Video Infrastructure project, worked on
+products like MCU, GATEWAYS(Serial/ISDN/AM/Supervisor). Environment: Unix C++ & C programming
+language, Python, SONET and OTN protocol. Responsibility: Responsible for development, support,
+maintenance and implementation of small to medium components of the project module. The product
+source code handling multithreading widely. worked on problems of limited scope, through usage of
+standard software development concepts and principles. Worked for apps and protocol. Handled
+gateway products like serial gateway, ISDN gateway. AM gateway, supervisor, serial gateway and MCU.
+Handled automation script failure in Python. Handled data communication techniques and data
+processing.
+
+Master of Technology | Software Engineering 2016
+BITS PILLANI, bangalore
+
+BzChelor of Science | Electronics 2012
+Calicut University, Kerala
+
+« Introduction to Containers, Kubernetes and OpenShift
+
+¢ Certification in C++ standard template library
+
+« Ongoing Certification in Mastering data structure and algorithm using C and C++
+« Cloud Computing
+
+« Ongoing Certification in the complete networking fundamentals

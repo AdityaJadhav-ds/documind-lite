@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 34581
+Date: Sep 11 2012
+Bill To: Ship To: ;
+i. Ship Mode: Standard Class
+Art Foster 45014, Fairfield,
+Ohio, United States Balance Due: $140.49
+Item Quantity Rate Amount
+Premier Elliptical Ring Binder, Black 7 $63.92 $447.47
+Binders, Office Supplies, OFF-BI-5636
+Subtotal: $447.47
+Discount (70%) : $313.23
+Shipping: $6.25
+Total: $140.49
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AF10885140-41163

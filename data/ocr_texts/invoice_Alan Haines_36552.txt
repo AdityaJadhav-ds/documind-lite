@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 36552
+Date: Mar 05 2013
+Bill To: Ship To:
+" P Ship Mode: Second Class
+Alan Haines 18018, Bethlehem,
+Pennsylvania, United Balance Due: $58.35
+States
+Item Quantity Rate Amount
+36X48 HARDFLOOR CHAIRMAT 2 $33.57 $67.14
+Furnishings, Furniture, FUR-FU-2864
+Subtotal: $67.14
+Discount (20%) : $13.43
+Shipping: $4.64
+Total: $58.35
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2013-AH10195140-41338

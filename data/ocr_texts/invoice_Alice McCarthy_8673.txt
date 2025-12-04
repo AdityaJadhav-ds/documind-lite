@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 8673
+Date: Sep 29 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Alice McCarthy Choluteca,
+Choluteca, Honduras Balance Due: $2,923.13
+Item Quantity Rate Amount
+Office Star Executive Leather Armchair, Adjustable 5 $939.84 $4,699.20
+Chairs, Furniture, FUR-CH-5441
+Subtotal: $4,699.20
+Discount (40%) : $1,879.68
+Shipping: $103.61
+Total: $2,923.13
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-AM1036055-41181

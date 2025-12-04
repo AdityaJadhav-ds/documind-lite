@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+#11753
+Date: Jan 04 2013
+Bill To: Ship To: ;
+| Ship Mode: Same Day
+Chad Cunningham Rouen, Normandy,
+France Balance Due: $3,504.34
+Item Quantity Rate Amount
+SanDisk Numeric Keypad, USB 8 $425.28 $3,402.24
+Accessories, Technology, TEC-AC-5889
+Subtotal: $3,402.24
+Shipping: $102.10
+Total: $3,504.34
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ES-2013-CC1210045-41278

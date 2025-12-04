@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 35712
+Date: Nov 28 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Alan Hwang 94122, San
+Francisco, California, Balance Due: $939.35
+United States
+Item Quantity Rate Amount
+Wilson SignalBoost 841262 DB PRO Amplifier Kit 2 $575.92 $1,151.84
+Phones, Technology, TEC-PH-6413
+Subtotal: $1,151.84
+Discount (20%) : $230.37
+Shipping: $17.88
+Total: $939.35
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AH10210140-41241

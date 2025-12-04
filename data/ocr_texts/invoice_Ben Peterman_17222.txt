@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+#17222
+Date: Dec 09 2012
+Bill To: Ship To: ; .
+Ship Mode: First Class
+Ben Peterman London, England,
+United Kingdom Balance Due: $1,206.07
+Item Quantity Rate Amount
+Hoover Microwave, Black 2 $554.53 $1,109.05
+Appliances, Office Supplies, OFF-AP-4730
+Subtotal: $1,109.05
+Discount (10%): $110.91
+Shipping: $207.93
+Total: $1,206.07
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-BP11185139-41252

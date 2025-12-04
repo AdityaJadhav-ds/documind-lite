@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 49041
+Date: May 23 2012
+Bill To: Ship To:
+ne pie Ship Mode: First Class
+Bryan Mills Guelma, Guelma,
+Algeria Balance Due: $1,828.06
+Item Quantity Rate Amount
+Sauder Classic Bookcase, Pine 2 $874.68 $1,749.36
+Bookcases, Furniture, FUR-BO-5950
+Subtotal: $1,749.36
+Shipping: $78.70
+Total: $1,828.06
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : AG-2012-BM17853-41052

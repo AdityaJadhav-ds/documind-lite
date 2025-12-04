@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 12333
+Date: Jun 25 2012
+Bill To: Ship To:
+me . pie Ship Mode: First Class
+Ben Wallace Dieppe, Normandy,
+France Balance Due: $1,486.10
+Item Quantity Rate Amount
+Safco Library with Doors, Pine 2 $704.05 $1,408.10
+Bookcases, Furniture, FUR-BO-5787
+Subtotal: $1,408.10
+Discount (10%): $140.81
+Shipping: $218.81
+Total: $1,486.10
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-BW1120045-41085

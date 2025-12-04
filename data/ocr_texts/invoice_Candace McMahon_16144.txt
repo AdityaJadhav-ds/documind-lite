@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+#16144
+Date: Apr 17 2012
+Bill To: Ship To: ;
+; Ship Mode: Standard Class
+Candace McMahon Fontainebleau, Ile-de-
+France, France Balance Due: $15,589.28
+Item Quantity Rate Amount
+Panasonic Printer, Red 9 $2,016.85 $18,151.61
+Machines, Technology, TEC-MA-5572
+Subtotal: $18,151.61
+Discount (15%): $2,722.74
+Shipping: $160.41
+Total: $15,589.28
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IT-2012-CM1181545-41016

@@ -1,0 +1,67 @@
+Anne Lounsberry
+Data Scientist, Microsoft Certified
+
+Microsoft Certified Data Scientist with 10+ years of experience in Python, R, Java, and Scala. Applied data mining to analyze ABC Inc.
+procurement processes demonstrating potential savings of $420,000 a year. Seeking to leverage my data visualization and big data
+modeling skills to help increase XYZ's investment returns in the upcoming year.
+
+@ Personal Info © Experience
+Phone 2013 - Senior Data Scientist
+523-299-0012 2019
+
+ACB Inc., Los Angeles, CA
+
+E-mail * Developed end-to-end machine learning prototypes and scaled them to run
+anne.c.lounsberry@gmail.com in production environments. Increased efficiency by 23%.
+GitHub * Contributed meaningful improvements to existing machine learning models
+
+github.com/annecarollounsberry through carefully directed research.
+
+Derived actionable insights from massive data sets with minimal support.
+Linkedin
+
+linkedin.com/in/annelounsbery12
+
+Provided input into the collection of new data sources and the refinement of
+existing ones to improve analysis and model development.
+
+@ Skills Key achievement: Applied data mining to analyze procurement processes
+resulting in savings of $420,000 a year.
+
+Machine Learning ©0080 2008 - Machine Learning Specialist
+Data Visualization eeee0 2013 AnyCompany, San Diego, CA
+Big Data eccecoe * Collaborated with all team members to optimize Customer Relationship
+
+Management database for a high-volume real estate firm.
+Data Minin , ,
+
+9 eee080 * Increased repeat business among real estate investors by 25%.
+Python eeee@0 * Decreased wasted phone and email time by 57%.
+* Build a machine-learning-based system of matching clients with tailored
+
+R @@@00 7 2 a
+
+investment opportunities. Increased customer retention by 30%.
+Java eeee0
+
+2005 - Junior Data Analyst
+Scala @ee@0o0 _ .
+2008 Capgemini, San Diego, CA
+PERL @ee@00 * Consulted and worked with development teams to determine, execute and
+Problem-Solving ee0ee@0 deliver relevant solutions.
+. ; * Analyzed old information architectures and contributed to the design and
+
+Active Learning eeeee
+
+development of the new one.
+Risk Analysis eeeeo * Provided information, feedback and guidance to clients to support
+
+technology-related decision making.
+© Education
+2005 MSc in Statistics, UCLA, Los Angeles, CA
+
+@g Certificates
+
+2014 Google Certified Professional Data Engineer
+
+2008 Microsoft Professional Program Certificate in Data Science

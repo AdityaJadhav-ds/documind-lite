@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 31903
+Date: Mar 14 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Alan Shonely 33614, Tampa,
+Florida, United States Balance Due: $329.01
+Item Quantity Rate Amount
+Xerox 1889 3 $131.90 $395.71
+Paper, Office Supplies, OFF-PA-6438
+Subtotal: $395.71
+Discount (20%) : $79.14
+Shipping: $12.44
+Total: $329.01
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AS10240140-40982

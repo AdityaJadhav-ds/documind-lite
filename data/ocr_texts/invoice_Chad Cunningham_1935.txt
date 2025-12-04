@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 1935
+Date: Feb 03 2013
+Bill To: Ship To:
+ne pe . Ship Mode: Second Class
+Chad Cunningham Guasave, Sinaloa,
+Mexico Balance Due: $1,867.70
+Item Quantity Rate Amount
+HP Fax Machine, Laser 3 $598.68 $1,796.04
+Copiers, Technology, TEC-CO-4776
+Subtotal: $1,796.04
+Discount (0.2%): $3.59
+Shipping: $75.25
+Total: $1,867.70
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : MX-2013-CC1210082-41308

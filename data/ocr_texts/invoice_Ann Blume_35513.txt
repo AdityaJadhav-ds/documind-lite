@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 35513
+Date: Feb 17 2013
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Ann Blume 90004, Los Angeles, pion’
+California, United Balance Due: $29.42
+States
+Item Quantity Rate Amount
+Smead Alpha-Z Color-Coded Second Alphabetical Labels and 3 $9.24 $27.72
+Starter Set
+Labels, Office Supplies, OFF-LA-6022
+Subtotal: $27.72
+Shipping: $1.70
+Total: $29.42
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2013-AB10600140-41322

@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 48022
+Date: Jun 02 2012
+Bill To: Ship To: ; .
+; . Ship Mode: First Class
+Clay Cheatham Kharkiv, Kharkiv,
+Ukraine Balance Due: $1,180.19
+Item Quantity Rate Amount
+Lesro Conference Table, Rectangular 1 $855.15 $855.15
+Tables, Furniture, FUR-TA-5059
+Subtotal: $855.15
+Shipping: $325.04
+Total: $1,180.19
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : UP-2012-CC2550137-41062

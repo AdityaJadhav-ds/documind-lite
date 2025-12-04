@@ -1,0 +1,132 @@
+JESSICA
+CLAIRE
+
+@ resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+EDUCATION
+
+California State University
+
+Los Angeles , California
+
+Master of Science: Management
+Information Systems
+
+JNTU
+
+Hyderabad , Andhra Pradesh
+
+Bachelor of Science: \nformation
+Technology
+
+SUMMARY
+
+Over 7 years of experience as a Web Application Developer and coding using Python,Django, Java,
+Spring.
+
+Extensive knowledge in Python, JAVA, MYSQL, Oracle UNIX and Linux.
+
+Hands on experience in data processing automation using Python.
+
+Hands on experience in SQL and PL/SQL and writing stored procedures
+
+Good Knowledge Objected Oriented Concepts, Data Structures and Design patterns.
+
+Web development using Python, Django.
+
+Building out the next-generation public-facing web site with an advanced Django-based
+webframeworks.
+
+Developed/supported application on LAMP stack (PHP, MYSQL and Apache)
+
+Experience with Web Development, Web Services, Python and the Django framework.
+
+Experience in working on Application Servers like WebSphere, WebLogic, Tomcat, WebServers like
+Apache Server, NGINX and Integrated Development Environments likePyCharm, Eclipse, MyEclipse,
+JDeveloper and RAD. Front end development experienceusing HTML, CSS, JQuery, JSON and
+JavaScript.
+
+Experience in Implementation of MVC architecture using Spring MVC and SOAP web-service and
+SOAPUI.
+
+Proficient with Apache Web Server 2.0, MySQL 5, CVS, UNIX Shell Script, CSS, XML, Firefox 3.5, IE
+6 Browser Compatibility Issues, IIS and Linux
+
+Hands on experience programming with C++ , PYTHON, DJANGO and AJAX technologies.
+Proficient in using IBM Clear Case, Subversion (SVN), VSS, GIT for Version controlling.
+
+Goods hands on user authentication and authorization between multiple systems, servers,
+andenvironments. Active Participation in full development life cycle (requirements,
+design,architecture, development, testing).
+
+Experienced in developing UNIX shell scripts as well as wrapper scripts.
+
+Participated in all phases of the System Development Life Cycle Analysis (SDLC).
+
+Experienced in Agile Methodologies and SCRUM Process.
+
+Experience with Unit testing/ Test driven Development (TDD), Load Testing.
+
+Excellent debugging, problem solving, optimization and testing skills.
+
+Excellent analytical and problem solving skills and ability to work on own besides being avaluable
+and contributing team player.
+
+EXPERIENCE
+
+Cognizant Technology Solutions - Python Developer
+Attica, NY * 03/2015 - Current
+
+Participated in the complete SDLC process and used PHP to develop websitefunctionality.
+Designed and developed the UI of the website using HTML, XHTML, AJAX, CSS andJavaScript.
+Developed entire frontend and backend modules using Python on Django WebFramework.
+Designed and developed data management system using MySQL. Built application logicusing Python
+7
+
+Used Django APIs for database access.
+
+Used Python to extract weekly hotel availability information from XML files.
+
+Expertise in Service Oriented Architecture (SOA) and its related technologies like WebServices,
+BPEL, WSDLs, SOAP1.1, XML, XSD, XSLT etc.
+
+Participated in requirement gathering and worked closely with the architect in designingand
+modeling.
+
+Worked on development of SQL and stored procedures on MYSQL.
+
+Developed shopping cart for Library and integrated web services to access the payrnent(E-
+commerce)
+
+Designed and developed a horizontally scalable APIs using Python Flask.
+
+Designed Cassandra schema for the APIs.Environment: Python 2.6/2.7, JavaScript, Django
+Framework 1.3, CSS, SQL, MySQL, LAMP,JQuery, Adobe Dreamweaver, Apache web server.
+
+ACCOMPLISHMENTS
+
+Web Technologies : JSP, XML, UML, JSON, HTML, XSLT,
+
+JavaScript, CSS, DHTML,Servlets, JSF, Ajax, JSTL
+Languages : Java, J2EE, SQL/PLSQL, Python, UNIX shell scripting
+Frameworks & Tools : JDK, Spring, Struts 1.1, 1.2, 2.0, Hibernate
+
+2.0, 3.0, JUnit, Django,Easy Mock, Log4j
+
+Servers : Apache Tomcat, Zope, IIS, Nginx, JBoss,
+WebLogic, WebSphere
+
+Middleware : Soap Web Services, Rest Web services, JMS,
+Mule ESB, IBM Cast iron, ApacheKafka
+
+Methodologies :Agile (Scrum, eXtreme, JIRA), SDLC, TDD
+Version Controls : GIT, SVNIDE
+
+Platforms : Eclipse, PyCharm, Canopy (EPD), Spyder,
+
+Sublime text, NetBeans
+Operating Systems =: Windows, UNIX, Linux, Mac OS X

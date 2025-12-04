@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 16384
+Date: Dec 08 2012
+
+Bill To: Ship To: Ship Mode: Standard Cl
+Adam Hart Nottingham, England, p Mocs: andara Ulass
+United Kingdom Balance Due: $6,208.84
+Item Quantity Rate Amount
+Bush Stackable Bookrack, Pine 7 $874.02 $6,118.14
+
+Bookcases, Furniture, FUR-BO-3647
+
+Subtotal: $6,118.14
+Shipping: $90.70
+Total: $6,208.84
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-AH10075139-41251

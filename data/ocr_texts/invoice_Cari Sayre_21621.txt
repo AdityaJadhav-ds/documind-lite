@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+#21621
+Date: Aug 18 2012
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Cari Sayre Luoyang, Fujian, pion’
+China Balance Due: $9,861.13
+Item Quantity Rate Amount
+Sauder Library with Doors, Traditional 5 $1,938.15 $9,690.75
+Bookcases, Furniture, FUR-BO-5969
+Subtotal: $9,690.75
+Shipping: $170.38
+Total: $9,861.13
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-CS1184527-41139

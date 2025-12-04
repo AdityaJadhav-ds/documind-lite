@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 15978
+Date: Mar 31 2012
+Bill To: Ship To:
+me | pe | Ship Mode: First Class
+Aaron Smayling Rome, Lazio, Italy
+Balance Due: $1,910.35
+Item Quantity Rate Amount
+Apple Signal Booster, Full Size 6 $496.58 $2,979.50
+Phones, Technology, TEC-PH-3144
+Subtotal: $2,979.50
+Discount (40%) : $1,191.80
+Shipping: $122.65
+Total: $1,910.35
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IT-2012-AS1004564-40999

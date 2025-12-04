@@ -1,0 +1,31 @@
+SuperStore INVOICE
+
+# 37121
+
+Date: May 01 2012
+
+Bill To: Ship To: ;
+Ship Mode: Same Day
+Andrew Roberts 43229, Columbus,
+
+Ohio, United States Balance Due: $69.67
+
+Item Quantity Rate Amount
+Belkin 6 Outlet Metallic Surge Strip 3 $26.14 $78.41
+
+Appliances, Office Supplies, OFF-AP-3364
+
+Subtotal: $78.41
+
+Discount (20%) : $15.68
+
+Shipping: $6.94
+
+Total: $69.67
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AR10510140-41030

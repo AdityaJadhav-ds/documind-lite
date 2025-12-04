@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 33134
+Date: Jul 31 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Barbara Fisher 28205, Charlotte,
+North Carolina, Balance Due: $44.03
+United States
+Item Quantity Rate Amount
+Self-Adhesive Address Labels for Typewriters by Universal 3 $17.54 $52.63
+Labels, Office Supplies, OFF-LA-5976
+Subtotal: $52.63
+Discount (20%) : $10.53
+Shipping: $1.93
+Total: $44.03
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-BF10975140-41121

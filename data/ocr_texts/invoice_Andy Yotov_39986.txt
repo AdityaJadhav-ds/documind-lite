@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 39986
+Date: Dec 25 2012
+Bill To: Ship To: ;
+| . Ship Mode: Standard Class
+Andy Yotov 19140, Philadelphia,
+Pennsylvania, United Balance Due: $20.82
+States
+Item Quantity Rate Amount
+Eldon Spacemaker Box, Quick-Snap Lid, Clear 3 $8.02 $24.05
+Art, Office Supplies, OFF-AR-4099
+Subtotal: $24.05
+Discount (20%) : $4.81
+Shipping: $1.58
+Total: $20.82
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AY10555140-41268

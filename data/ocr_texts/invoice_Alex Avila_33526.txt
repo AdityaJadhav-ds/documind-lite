@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 33526
+Date: Mar 30 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Alex Avila 94122, San
+Francisco, California, Balance Due: $1,132.67
+United States ,
+Item Quantity Rate Amount
+GBC DocuBind 200 Manual Binding Machine 2 $673.57 $1,347.14
+Binders, Office Supplies, OFF-BI-4337
+Subtotal: $1,347.14
+Discount (20%) : $269.43
+Shipping: $54.96
+Total: $1,132.67
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AA10315140-40998

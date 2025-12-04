@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 31671
+Date: Jul 22 2012
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Arthur Gainer 85705, Tucson, p Moce
+Arizona, United Balance Due: $8.99
+States
+Item Quantity Rate Amount
+Newell 324 1 $9.24 $9.24
+Art, Office Supplies, OFF-AR-5302
+Subtotal: $9.24
+Discount (20%) : $1.85
+Shipping: $1.60
+Total: $8.99
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-AG10900140-41112

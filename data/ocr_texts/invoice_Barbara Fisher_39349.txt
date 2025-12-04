@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 39349
+Date: Jul 13 2012
+Bill To: Ship To: ;
+. . Ship Mode: Second Class
+Barbara Fisher 10009, New York City,
+New York, United Balance Due: $55.63
+States
+Item Quantity Rate Amount
+Newell 315 3 $17.94 $53.82
+Art, Office Supplies, OFF-AR-5292
+Subtotal: $53.82
+Shipping: $1.81
+Total: $55.63
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-BF10975140-41103

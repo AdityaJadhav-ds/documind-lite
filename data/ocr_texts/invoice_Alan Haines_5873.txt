@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 5873
+Date: Jan 17 2012
+Bill To: Ship To:
+me . P Ship Mode: Standard Class
+Alan Haines San Salvador, San
+Salvador, El Salvador Balance Due: $15,655.53
+Item Quantity Rate Amount
+Hewlett Fax and Copier, Laser 11 $1,411.55 $15,527.06
+Copiers, Technology, TEC-CO-4574
+Subtotal: $15,527.06
+Discount (0.2%): $31.05
+Shipping: $159.52
+Total: $15,655.53
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-AH1019539-40925

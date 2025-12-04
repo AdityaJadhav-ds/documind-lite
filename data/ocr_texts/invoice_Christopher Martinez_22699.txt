@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 22699
+Date: Feb 15 2012
+Bill To: Ship To: ;
+. . . . Ship Mode: Standard Class
+Christopher Martinez Manila, National
+Capital, Philippines Balance Due: $4,936.25
+Item Quantity Rate Amount
+Brother Fax Machine, High-Speed 6 $1,235.29 $7,411.72
+Copiers, Technology, TEC-CO-3597
+Subtotal: $7,411.72
+Discount (35%) : $2,594.10
+Shipping: $118.63
+Total: $4,936.25
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ID-2012-CM12385102-40954

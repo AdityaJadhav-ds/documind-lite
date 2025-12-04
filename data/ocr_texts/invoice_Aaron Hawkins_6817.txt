@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 6817
+Date: Oct 23 2012
+Bill To: Ship To: ;
+| . Ship Mode: Standard Class
+Aaron Hawkins Villa Canales,
+Guatemala, Balance Due: $10,672.30
+Guatemala
+Item Quantity Rate Amount
+Samsung Smart Phone, VoIP 5 $2,120.80 $10,604.00
+Phones, Technology, TEC-PH-5841
+Subtotal: $10,604.00
+Shipping: $68.30
+Total: $10,672.30
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-AH1003051-41205

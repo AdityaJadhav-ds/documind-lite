@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 50636
+Date: Jan 13 2013
+Bill To: Ship To: Ship Mode: S acl
+Christopher Martinez Quelimane, p Mocs: econa Wiass
+Zambezia, Balance Due: $885.68
+Mozambique
+Item Quantity Rate Amount
+Sauder Floating Shelf Set, Pine 2 $391.86 $783.72
+Bookcases, Furniture, FUR-BO-5961
+Subtotal: $783.72
+Shipping: $101.96
+Total: $885.68
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : MZ-2013-CM238587-41287

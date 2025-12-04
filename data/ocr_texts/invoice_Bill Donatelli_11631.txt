@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 11631
+Date: May 01 2012
+Bill To: Ship To:
+ne . p . Ship Mode: Standard Class
+Bill Donatelli Pontoise, lle-de-
+France, France Balance Due: $6,352.52
+Item Quantity Rate Amount
+Hoover Microwave, Red 5 $1,388.88 $6,944.40
+Appliances, Office Supplies, OFF-AP-4731
+Subtotal: $6,944.40
+Discount (10%): $694.44
+Shipping: $102.56
+Total: $6,352.52
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-BD1132045-41030

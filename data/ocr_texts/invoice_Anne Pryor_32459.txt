@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 32459
+Date: Mar 02 2012
+Bill To: Ship To:
+me pie . Ship Mode: Standard Class
+Anne Pryor 10035, New York City,
+New York, United Balance Due: $11.98
+States
+Item Quantity Rate Amount
+PowerGen Dual USB Car Charger 1 $9.99 $9.99
+Phones, Technology, TEC-PH-5630
+Subtotal: $9.99
+Shipping: $1.99
+Total: $11.98
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AP10720140-40970

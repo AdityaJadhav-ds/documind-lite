@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 12169
+Date: Aug 04 2012
+Bill To: Ship To: ; .
+i Ship Mode: First Class
+Barry Weirich Cologne, North
+Rhine-Westphalia, Balance Due: $4,861.46
+Germany
+Item Quantity Rate Amount
+Apple Headset, with Caller ID 8 $586.08 $4,688.64
+Phones, Technology, TEC-PH-3135
+Subtotal: $4,688.64
+Shipping: $172.82
+Total: $4,861.46
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-BW1106548-41125

@@ -1,0 +1,132 @@
+First Last
+
+Oracle Database Administrator
+
+RELEVANT WORK EXPERIENCE
+
+Resume Worded, London, United Kingdom
+Education technology startup with 50+ employees and $100m+ annual revenue
+
+08/2021 — Present
+
+e Collaborated with the RW development team and created a new database for
+tracking customer information, which improved customer service by 25%.
+
+e Maintained 145 databases on different platforms including Oracle, MySQL
+and MS SQL server within 3 months of resuming. .
+
+e Provided technical expertise to support 29 engineers in resolving complex
+issues related to Oracle Database administration.
+
+e Managed all the security protocols for sensitive data stored in RW’s database
+by implementing backup systems that ensured business continuity after 2
+malicious breaches in Q4 of 2021.
+
+Oracle Database Administrator
+
+Polyhire, London, United Kingdom
+NYSE-listed recruitment and employer branding company
+
+Oracle Database Developer 11/2019 -07/2021
+
+e Created a data warehouse using Oracle Warehouse Builder, SQL Server
+Integration Services (SSIS), and Power BI within 6 months.
+
+e Increased the response time to queries up to 70% by reviewing and
+improving indexes, partitioning tables, and fixing coding issues for an
+Integrated Management System.
+
+e Collaborated with a team of 15 programmers to support Polyhire's
+client/server distributed applications.
+
+e Played leading role in the team that designed & developed 80 PL/SQL data
+quality improvements for a popular Polyhire app.
+
+Growthsi, London, United Kingdom & Barcelona, Spain
+Career training and membership SaaS with 150,000 users
+
+Application Developer 06/2018 - 10/2019
+
+e Partnered with 10 sales team members and created 32 new products which
+increased revenue by 75% in the first year.
+
+e Created 7 apps for mobile devices that improved customer experience, and
+satisfaction ratings by 40%.
+
+e Developed custom software applications using C++, Java, HTML5 and
+JavaScript, received 15% pay rise 3 months after resumption.
+
+e Launched 20 web-based solutions in ASP .NET MVC 5 using Visual Studio
+2015.
+
+e Provided technical support for existing web applications by troubleshooting
+application functionality, resolving 40% of complaints within a 24-hour
+company deadline.
+
+PREVIOUS EXPERIENCE
+
+06/2017 — 05/2018
+06/2016 — 05/2017
+07/2014 — 05/2015
+
+Oracle Business Analyst, ABC Company, London, UK
+Oracle Consultant, XYZ Company, New York, USA
+Database Administrator (Internship), ABC, New York, USA
+
+CONTACT
+
+- Exeter, United Kingdom
+- +44 123456789
+- first.last@gmail.com
+
+SKILLS
+
+Technical Skills:
+
+- Oracle Databases
+- PL/SQL Packages
+- Triggers
+
+- Oracle Security
+
+- Oracle RAC
+
+- Oracle Cloud
+
+Techniques:
+
+- Performance Tuning
+
+- Database Administration
+- SQL Tuning
+
+Tools and Software:
+- GoldenGate
+
+* PL/SQL
+
+- Exadata
+
+- Solaris
+
+Languages:
+
+- English (Native)
+
+- Romanian (Native)
+
+- Spanish (Conversational)
+
+EDUCATION
+
+University of New York
+Bachelor of Science
+Information Technology
+New York City, New York
+10/2011 - 06/2014
+
+OTHER
+
+- Oracle Certified Expert.
+
+- Oracle Certified Professional.

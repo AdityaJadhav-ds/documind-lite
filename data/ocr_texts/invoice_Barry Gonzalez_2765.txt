@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 2765
+Date: Dec 20 2012
+Bill To: Ship To: ; .
+; | Ship Mode: First Class
+Barry Gonzalez Juiz de Fora, Minas
+Gerais, Brazil Balance Due: $4,512.30
+Item Quantity Rate Amount
+SAFCO Rocking Chair, Red 7 $629.58 $4,407.06
+Chairs, Furniture, FUR-CH-5795
+Subtotal: $4,407.06
+Shipping: $105.24
+Total: $4,512.30
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-BG1103518-41263

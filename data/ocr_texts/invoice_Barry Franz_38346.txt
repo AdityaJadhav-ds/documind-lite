@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 38346
+Date: Sep 24 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Barry Franz 80013, Aurora,
+Colorado, United Balance Due: $25.21
+States
+Item Quantity Rate Amount
+Dixon Ticonderoga Core-Lock Colored Pencils 2 $14.58 $29.15
+Art, Office Supplies, OFF-AR-3971
+Subtotal: $29.15
+Discount (20%) : $5.83
+Shipping: $1.89
+Total: $25.21
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-BF11005140-41176

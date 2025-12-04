@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 3187
+Date: Aug 24 2012
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Brendan Sweed Mejicanos, San pamoce
+Salvador, El Salvador Balance Due: $6,449.69
+: ’ .
+Item Quantity Rate Amount
+Sauder Stackable Bookrack, Pine 8 $796.48 $6,371.84
+Bookcases, Furniture, FUR-BO-5972
+Subtotal: $6,371.84
+Shipping: $77.85
+Total: $6,449.69
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-BS1159039-41145

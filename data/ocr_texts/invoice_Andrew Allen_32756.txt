@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 32756
+Date: May 03 2012
+Bill To: Ship To: ;
+. Ship Mode: Same Day
+Andrew Allen 6457, Middletown,
+Connecticut, United Balance Due: $61.15
+States
+Item Quantity Rate Amount
+DAX Wood Document Frame 2 $27.46 $54.92
+Furnishings, Furniture, FUR-FU-3924
+Subtotal: $54.92
+Shipping: $6.23
+Total: $61.15
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AA10480140-41032

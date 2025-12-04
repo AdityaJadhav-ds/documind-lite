@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 39794
+Date: Mar 04 2012
+Bill To: Ship To:
+' ° . P Ship Mode: Second Class
+Aimee Bixby 10701, Yonkers, New
+York, United States Balance Due: $1,494.92
+Item Quantity Rate Amount
+Logitech Wireless Gaming Headset G930 3 $479.97 $1,439.91
+Accessories, Technology, TEC-AC-5140
+Subtotal: $1,439.91
+Shipping: $55.01
+Total: $1,494.92
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AB10150140-40972

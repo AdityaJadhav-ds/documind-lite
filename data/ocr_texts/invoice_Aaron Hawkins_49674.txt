@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 49674
+Date: Feb 20 2013
+Bill To: Ship To: ; .
+| | Ship Mode: First Class
+Aaron Hawkins Kryvyy Rih,
+Dnipropetrovs'k, Balance Due: $8,376.32
+Ukraine
+Item Quantity Rate Amount
+Hon Rocking Chair, Black 8 $1,025.52 $8,204.16
+Chairs, Furniture, FUR-CH-4682
+Subtotal: $8,204.16
+Shipping: $172.16
+Total: $8,376.32
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : UP-2013-AH10030137-41325

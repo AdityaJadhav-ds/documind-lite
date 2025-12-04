@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 38460
+Date: Apr 21 2012
+Bill To: Ship To: ;
+| Ship Mode: Second Class
+Aaron Hawkins 12180, Troy, New
+York, United States Balance Due: $2,037.92
+Item Quantity Rate Amount
+Staples 8 $247.84 $1,982.72
+Fasteners, Office Supplies, OFF-FA-6129
+Subtotal: $1,982.72
+Shipping: $55.20
+Total: $2,037.92
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AH10030140-41020

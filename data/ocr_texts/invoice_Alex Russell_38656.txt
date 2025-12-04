@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 38656
+Date: Dec 29 2012
+Bill To: Ship To: ;
+| . Ship Mode: Second Class
+Alex Russell 19143, Philadelphia,
+Pennsylvania, United Balance Due: $971.50
+States
+Item Quantity Rate Amount
+Hon 5100 Series Wood Tables 3 $523.76 $1,571.29
+Tables, Furniture, FUR-TA-4622
+Subtotal: $1,571.29
+Discount (40%) : $628.52
+Shipping: $28.73
+Total: $971.50
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-AR10345140-41272

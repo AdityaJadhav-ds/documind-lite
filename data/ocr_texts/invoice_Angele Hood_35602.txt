@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 35602
+Date: Oct 25 2012
+Bill To: Ship To:
+ne pie Ship Mode: Second Class
+Angele Hood 98105, Seattle,
+Washington, United Balance Due: $1,581.63
+States
+Item Quantity Rate Amount
+Vtech CS6719 5 $383.96 $1,919.80
+Phones, Technology, TEC-PH-6347
+Subtotal: $1,919.80
+Discount (20%) : $383.96
+Shipping: $45.79
+Total: $1,581.63
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AH10585140-41207

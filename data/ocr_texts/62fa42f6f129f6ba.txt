@@ -1,0 +1,62 @@
+IT DIRECTOR RESUME
+
+123 Your Address
+City, State, Zip Code
+(XxXX)-Xxx-xxxx
+
+IT Director with over 10 years of experience delivering IT solutions to drive the performance and revenue of two different
+organizations. Proven track record of consistently achieving organizational goals by directing multi-million dollar projects
+and implementing robust IT solutions that incorporate a wide range of applications and technologies.
+
+PROFESSIONAL EXPERIENCE
+RELIANCE SYSTEMS CONSULTING, LLC New York, NY
+IT Director September 2015 — Present
+
+e Deliver project oversight, architectural review, and Q&A evaluations of blueprint, design. and development
+for 11 EPM projects
+
+e Direct highly skilled team consisting of 100+ consultants experienced in all aspects of SAP BPC, SAP BI,
+SAP BOBJ, and SAP HANA
+
+e Achieved a 25% ROI one project by optimizing resources at remote sites while reducing downtime and
+credits from vendors
+
+e Developed EPM Practice from 5 to 23 consultants, achieving over $11M in new business in less than 2
+years
+
+e Generated over $50M in new projects for the company by providing support and leadership in the
+development of sales opportunities
+
+CAPITAL ONE Plano, TX
+IT Director June 2009—August 2015
+
+e Leda cross-functional team of 14+ developers to provide services for data management, data governance,
+ETL, data mining, data analytics, business intelligence, and reporting
+
+e Communicated with operations team to ensure proper skill set to meet existing project and forecast
+requirements, resulting in 93% utilization for the practice
+
+e Minimized resource bench time by conducting cross-training programs to strengthen the company by
+expanding skills of all consultants across technologies
+
+e Devised a cutting-edge NET console program to automate the loading and processing of information into a
+newly designed SQL database, which reduced data entry time by 75%
+
+© Designed scorecards to help monitor the process for loading files into data warehouse, which improved
+company’s product turnaround time by 52%
+
+EDUCATION
+DEVRY UNIVERSITY, DEVRY INSTITUTE OF TECHNOLOGY Chicago, IL
+
+Bachelor of Science in Computer Information Systems, May 2009
+®@ Honors: cum laude (GPA: 3.9/4.0)
+
+ADDITIONAL SKILLS
+
+e Expert in various productivity tools including Toad, MS Office Suite. ASG-Zena, SQL *Plus, Lotus Notes, Pine, MS
+Project, MS Visio, and Erwin
+
+© = Proficient in Perl, Perl DBI, Mod, Perl, PL/SQL, C, PHP, C++, Pro C, Zshell, HTML, JAVA, COBOL, JavaScript,
+CGI, R, ICL, SSIS, SAS, Python, SSRS, SSAS, BIDS, and SQL
+
+123 Your Address City, State,, ZipCode (xxx)-xxx-xxxx your/@email.com

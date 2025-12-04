@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 36652
+Date: May 12 2012
+Bill To: Ship To: ;
+| Ship Mode: Standard Class
+Aaron Hawkins 90004, Los Angeles,
+California, United Balance Due: $17.15
+States
+Item Quantity Rate Amount
+EcoTones Memo Sheets 2 $8.00 $16.00
+Paper, Office Supplies, OFF-PA-4014
+Subtotal: $16.00
+Shipping: $1.15
+Total: $17.15
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AH10030140-41041

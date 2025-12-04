@@ -1,0 +1,24 @@
+SuperStore INVOICE
+
+# 39796
+Date: Mar 04 2012
+
+Bill To: Ship To: Ship Mode: S acl
+Aimee Bixby 10701, Yonkers, New pimioces Second ass
+York, United States Balance Due: $245.75
+Item Quantity Rate Amount
+GBC Wire Binding Combs 6 $49.63 $297.79
+
+Binders, Office Supplies, OFF-BI-4378
+
+Subtotal: $297.79
+Discount (20%) : $59.56
+Shipping: $7.52
+Total: $245.75
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AB10150140-40972

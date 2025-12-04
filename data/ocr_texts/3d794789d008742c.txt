@@ -1,0 +1,98 @@
+Paul Desmond
+
+Microsoft certified principal data scientist with 10 years of experience creating models
+that predict stock prices and investment returns. Achieved 23% higher improvement and
+accuracy. Seeking to expand in a growing field.
+
+WORK EXPERIENCE
+
+Principal Data Scientist, Danaher Cortland, MA e April 2017 — March 2021
+
+e Developed a vision, framework, approached and planned for each of your projects
+
+e Set milestones as project goals, provided direction, gave team the ability to understand what is expected of
+them to move the projects forward
+
+e Set and communicated the desired outcome of the projects is a critical part of your role
+
+e Built and maintained broad process and technology development and implementation skills
+
+e Led &supported the development, optimization and migration of new or existing technologies
+
+e Brought the technology challenges into R&D through translating problems to implementation
+
+e Developed technology concepts and guided equipment selection
+
+e Assisted inimplementation of technology from R&D to launch
+
+e Supported intellectual property, marketing and sales departments with relevant expertise
+
+¢ Defined projects and led small project teams to develop innovations
+
+Data Scientist, Abiomed
+Danvers, MA e September 2014 — February 2017
+
+e Designed new statistical and physiological features for time series data
+
+e Evaluated algorithm performance in offline (in silico) and live (in vitro, in vivo) environments
+
+e Collaborated with software teams to implement algorithms on embedded hardware
+
+e Maintained concise descriptions of algorithm design specifications and performance evaluations
+
+e Performed variability analyses for model optimization
+
+e Quantitatively and qualitatively evaluated new ML/AI techniques and integrate into algorithm design
+e Communicated algorithm designs and performance results to cross-functional stakeholders
+
+Technical Data Scientist, DELL
+Hopkinton, MA e January 2013 — August 2014
+
+e Provided thought leadership to deliver transformative AlOps solutions on our SaaS platform
+
+e Provided strategic direction to the planning, design and architecture of high quality, complex software
+systems
+
+e Worked with customers and product experts to blaze a trail in autonomous data center management
+
+e Solved customers’ complex IT problems using innovative analytical processes and techniques
+
+CONFERENCE
+The Machine Learning Conference 2019
+Open Data Science Conference 2017
+Title, Activity Name, etc. City, State e January 2019 — Present
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid de Pythagora? Scaevolam M. Sed haec in pueris;
+Audeo dicere, inquit. Hunc vos beatum
+
+Lowell, Massachusetts
+pa.desmond038@gmail.com
+796-294-2948
+
+SKILLS
+
+R Studio, Python, Cloudera, Data Visualization,
+Modeling, Machine Learning, Statistics,
+Problem Solving, Critical & Creative Thinking,
+Communication, Organization, Time
+Management
+
+CERTIFICATIONS
+
+Microsoft Professional Program Certificate,
+Certification of Professional Data Engineer
+
+EDUCATION
+
+Bay Path University
+Longmeadow, MA e 2008— 2010
+Master's in Data Science
+
+GPA: 3.8/4.0
+
+Becker College
+
+Worcester, MA e 2004 — 2008
+
+Bachelor of Science in Computer Science
+GPA: 3.6/4.0

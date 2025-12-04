@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 31899
+Date: Mar 14 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Alan Shonely 33614, Tampa,
+Florida, United States Balance Due: $126.25
+Item Quantity Rate Amount
+Hot File 7-Pocket, Floor Stand 1 $142.78 $142.78
+Storage, Office Supplies, OFF-ST-4752
+Subtotal: $142.78
+Discount (20%) : $28.56
+Shipping: $12.03
+Total: $126.25
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AS10240140-40982

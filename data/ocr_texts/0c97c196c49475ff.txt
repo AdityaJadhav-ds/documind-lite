@@ -1,0 +1,66 @@
+Jackson Thompson
+
+Data Scientist | NLP Expert | Document Analysis
+
+@ help@enhancv.com ® linkedin.com @ Austin, Texas
+
+SUMMARY
+
+Passionate Data Scientist with over 4 years of professional experience focused on NLP and computer vision. Skilled in Python,
+experimented in using TensorFlow and Pytorch for building and training models, and proficient in document analysis and
+recognition. Significant contribution in a project which extracted complex data from urban planning documents using machine
+learning.
+
+EXPERIENCE
+
+Data Scientist
+
+Google
+
+@8 2020-Ongoing 9 Austin, Texas
+
+Worked on various projects involving data analysis, model development and optimization
+
+« Managed a project which successfully optimized a recommender system, increasing accuracy by 15% and user engagement by 20%
+« Developed a new image recognition model, improving accuracy by 18% compared to the previous model
+« Leda team ina project revolving around Object Detection resulting in a decrease of error rate by 12%
+
+Data Analyst
+
+IBM
+@3 2018-2020 @ Austin, Texas
+Responsible for analyzing large datasets, developing visualizations and creating reports
+
+¢ Carried out in-depth analysis of business data resulting in a revenue increase of 10% over a year
+¢ Developed and managed 3 new dashboards for real-time monitoring of KPIs impacting decision making across various departments
+¢ Spearheaded efforts in data cleaning exercise leading to a 30% increase in data accuracy
+
+Machine Learning Intern
+
+Facebook
+@8 2017-2018  @ Austin, Texas
+Assisted in developing machine learning models for various applications
+
+¢ Participated in a project to enhance user personalization, improving user experience significantly
+¢ Assisted in creating an Al model which reduced fake news detection time by 25%
+¢ Contributed in advancing an image classification system which boosted output accuracy by 20%
+
+STRENGTHS
+
+@ Project Management 2 Problem Solving
+Managed multiple complex data science projects successfully Skilled in identifying problems and implementing effective
+resulting in significant improvements like a 30% increase in data solutions, like optimizing a recommender system increasing user
+accuracy. engagement by 20%.
+
+ff Teamwork
+
+Strong reputation for building and leading cohesive, productive
+teams focusing on project completion, and goal achievement.
+
+EDUCATION
+
+M.S. in Data Science
+
+University of Texas at Austin
+@3 2016-2018 9 Austin, Texas
+

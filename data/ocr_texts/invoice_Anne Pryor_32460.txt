@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 32460
+Date: Mar 02 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Anne Pryor 10035, New York City,
+New York, United Balance Due: $323.98
+States
+Item Quantity Rate Amount
+Ibico Laser Imprintable Binding System Covers 3 $125.76 $377.28
+Binders, Office Supplies, OFF-BI-4831
+Subtotal: $377.28
+Discount (20%) : $75.46
+Shipping: $22.16
+Total: $323.98
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AP10720140-40970

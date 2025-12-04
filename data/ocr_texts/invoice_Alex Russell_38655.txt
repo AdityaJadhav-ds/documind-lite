@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 38655
+Date: Dec 29 2012
+Bill To: Ship To: Ship Mode: S acl
+Alex Russell 19143, Philadelphia, pimioces Second ass
+Pennsylvania, United Balance Due: $935.63
+States
+Item Quantity Rate Amount
+ClearSounds CSC500 Amplified Spirit Phone Corded phone 6 $251.96 $1,511.78
+Phones, Technology, TEC-PH-3827
+Subtotal: $1,511.78
+Discount (40%) : $604.71
+Shipping: $28.56
+Total: $935.63
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-AR10345140-41272

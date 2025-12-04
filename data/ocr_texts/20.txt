@@ -1,0 +1,85 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+SUMMARY
+
+DevOps Engineer proudly offering over many years of experience fixing bugs in coding with source control tools. Polished professional
+successful designing, testing and implementing infrastructure and applications for various clients. Offering IT solution building expertise in
+fast-paced environments.
+
+SKILLS
+e Technical Skills e Terminal Services - Remote Desktop Services, Terminal Services,
+¢ Linux - Red Hat Enterprise Linux /5/6/7/8, Cent OS 5/6/7, © Scripting — Python
+Windows Server 2003/2008/2012 © DevOps — Git, Jenkins, Jira, Terraform, CloudFormation, Ansible.
+
+© VirtuJessicazation
+EXPERIENCE
+
+07/2020 to 03/2022 DevOps Engineer
+Motorola Solutions — San Antonio, TX
+
+© Deploying, managing, and operating scalable, highly available, and fault tolerant systems in an AWS Cloud
+environment
+
+¢ Configure and implement Cloud resources to support new applications
+
+© Develop and maintain Infrastructure as Code
+
+© Resolved AWS Cloud operations incidents and problems
+
+© Deployed updates and fixes and Provided technical support
+
+¢ Performed root cause analysis for production errors
+
+© Support the production of weekly activity reports, software development life cycle (SDLC) documents and
+checklists, risk and issues log and required artifacts
+
+¢ Hands-on experience configuring and operating AWS services including EC2, VPC, $3,
+
+© Cloudformation and [AM
+
+© Took ownership of and manage projects through to successful completion
+
+* Monitored systems to identify potential problems and improve performance
+
+© Provide support for end-user issues as needed
+
+04/2017 to 03/2020 Linux / Devops Engineer
+State Of North Carolina — Smithfield, NC
+
+* Monitored logs in Linux servers, including processes, crash and swap management, with password recovery and
+performance tuning
+
+* Build, installed, configured Red Hat Linux servers in a data center environment
+
+© Troubleshoot and resolved software and hardware problems, interface with vendor technical support to resolve
+problems
+
+© Resolved issues and problems regarding NFS mounts
+
+© Day-to-day functional administration tasks, as well as application-specific technical support Providing 24x7
+enterprise hardware and software support in development
+
+¢ Applied OS patches and upgrades on a regular basis, and upgrade administrative tools and utilities
+
+© Provided User management and support.
+
+© Respond to security alerts with risk evaluation and monitoring /report on unauthorized access attempts.
+
+09/2014 to 02/2017 Security Officer
+Accenture Federal Services, AFS — City, STATE
+© Guarded restricted areas to prevent unauthorized entry.
+© Followed established security and safety procedures and posted orders to include enforcement of company rules,
+policies and regulations.
+© Secured personnel and premises by inspecting buildings and patrolling property.
+© Documented security-related situations and submitted in-depth reports to superiors.
+
+EDUCATION AND TRAINING
+
+12/2017 Associate of Science: Science
+Columbus State Community College - Columbus, OH
+
+Computer Science
+Franklin University - Columbus, OH

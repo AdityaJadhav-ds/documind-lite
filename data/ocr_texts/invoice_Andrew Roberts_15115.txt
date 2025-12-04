@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+#15115
+Date: Sep 07 2012
+Bill To: Ship To:
+no pe Ship Mode: Second Class
+Andrew Roberts Toulon, Provence-
+Alpes-Cote d'Azur, Balance Due: $9,287.99
+France
+Item Quantity Rate Amount
+Office Star Rocking Chair, Black 9 $1,121.69 $10,095.19
+Chairs, Furniture, FUR-CH-5447
+Subtotal: $10,095.19
+Discount (10%): $1,009.52
+Shipping: $202.32
+Total: $9,287.99
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-AR1051045-41159

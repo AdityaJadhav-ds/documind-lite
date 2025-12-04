@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 25068
+Date: Dec 08 2012
+Bill To: Ship To:
+n° P Ship Mode: Standard Class
+Anthony O'Donnell Sydney, New South
+Wales, Australia Balance Due: $4,773.03
+Item Quantity Rate Amount
+Nokia Smart Phone, with Caller ID 3 $1,725.06 $5,175.17
+Phones, Technology, TEC-PH-5356
+Subtotal: $5,175.17
+Discount (10%): $517.52
+Shipping: $115.38
+Total: $4,773.03
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-A0108107-41251

@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 37314
+Date: Apr 05 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Andy Yotov 90049, Los Angeles,
+California, United Balance Due: $60.43
+States
+Item Quantity Rate Amount
+Xerox 211 3 $19.44 $58.32
+Paper, Office Supplies, OFF-PA-6574
+Subtotal: $58.32
+Shipping: $2.14
+Total: $60.43
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AY10555140-41004

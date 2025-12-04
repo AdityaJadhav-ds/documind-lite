@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 32473
+Date: Dec 26 2012
+Bill To: Ship To:
+mre P Ship Mode: Second Class
+Alyssa Tate 90004, Los Angeles,
+California, United Balance Due: $47.30
+States
+Item Quantity Rate Amount
+Staples 4 $11.56 $46.24
+Fasteners, Office Supplies, OFF-FA-6129
+Subtotal: $46.24
+Shipping: $1.06
+Total: $47.30
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AT10435140-41269

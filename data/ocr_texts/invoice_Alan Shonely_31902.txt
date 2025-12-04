@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 31902
+Date: Mar 14 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Alan Shonely 33614, Tampa,
+Florida, United States Balance Due: $56.83
+Item Quantity Rate Amount
+GBC VeloBinder Manual Binding System 4 $43.19 $172.75
+Binders, Office Supplies, OFF-BI-4375
+Subtotal: $172.75
+Discount (70%) : $120.93
+Shipping: $5.01
+Total: $56.83
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AS10240140-40982

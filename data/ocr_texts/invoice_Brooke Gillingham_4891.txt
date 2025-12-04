@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 4891
+Date: Dec 07 2012
+Bill To: Ship To: ;
+_ _ . Ship Mode: Same Day
+Brooke Gillingham Culiacan, Sinaloa,
+Mexico Balance Due: $16,341.73
+Item Quantity Rate Amount
+SAFCO Executive Leather Armchair, Adjustable 9 $2,226.82 $20,041.34
+Chairs, Furniture, FUR-CH-5773
+Subtotal: $20,041.34
+Discount (20%) : $4,008.27
+Shipping: $308.66
+Total: $16,341.73
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-BG1169582-41250

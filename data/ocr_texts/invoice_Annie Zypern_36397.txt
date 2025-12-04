@@ -1,0 +1,31 @@
+SuperStore INVOICE
+
+# 36397
+
+Date: Mar 16 2012
+
+Bill To: Ship To: ;
+Ship Mode: Same Day
+Annie Zypern 75217, Dallas, Texas,
+
+United States Balance Due: $8.25
+
+Item Quantity Rate Amount
+Newell 333 2 $4.45 $8.90
+
+Art, Office Supplies, OFF-AR-5312
+
+Subtotal: $8.90
+
+Discount (20%) : $1.78
+
+Shipping: $1.13
+
+Total: $8.25
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AZ10750140-40984

@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 39562
+Date: Dec 29 2012
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Astrea Jones 10035, New York City, pion’
+New York, United Balance Due: $199.77
+States
+Item Quantity Rate Amount
+Cardinal HOLDit! Binder Insert Strips,Extra Strips 7 $35.45 $248.14
+Binders, Office Supplies, OFF-BI-3732
+Subtotal: $248.14
+Discount (20%) : $49.63
+Shipping: $1.26
+Total: $199.77
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AJ10960140-41272

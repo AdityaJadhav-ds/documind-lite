@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 33137
+Date: Jul 31 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Barbara Fisher 28205, Charlotte,
+North Carolina, Balance Due: $132.38
+United States
+Item Quantity Rate Amount
+Xerox 1916 2 $78.30 $156.61
+Paper, Office Supplies, OFF-PA-6468
+Subtotal: $156.61
+Discount (20%) : $31.32
+Shipping: $7.09
+Total: $132.38
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-BF10975140-41121

@@ -1,0 +1,260 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+Executive Summary
+
+Python developer with 5+ years providing strategic thinking to solve challenging business solutions. Strong technical & data detailed
+
+oriented personality committed to identifying and leveraging opportunities for professional growth in medical diagnostic
+
+methodologies . Critical emphasis on achieving business application development. Motivated leader possessing excellent listening,
+
+verbal and written professional communications skills to meet objectives. Outstanding inter-personalized skill set demonstrated in
+
+both team development collaboration and in autonomous environments in a fast evolving technological workspace.
+
+Professional Skill Set
+
+Python Django, Flask, JavaScript, HTML, CSS JSON, XML,
+ORM
+
+VS Code, Visual Studio, Jupyter Notebooks
+
+Databases, SQL, Oracle, PostgreSQL, SQLiteSQL, NoSQL
+
+System Development Life Cycle SDLC
+Git/Github
+Exceptional analytical / problem solving
+
+Excellent Professional Verbal and Written Communication
+
+Unix/Linix, BASH, MS DOS,.NET/ADO Skills
+Proficiency in C#, C/C++, Java, Ruby * Expert Negotiating Skills
+Azure, AWS Cloud EC2 technologies, Docker e ETL
+
+Microsoft Suite, Excel, Word,PowerPoint, SharePoint Tableau
+
+Agile/Scrum/Kaban development skills
+
+Machine Learning methodologies. Linear Regression,
+Logistical Regression, Decision Trees, Random Forrest, Naive-
+Bayes, Clustering (K-Means, Gradient Decent, Neural-
+Networks, SVM (Support Vector machines), Deep Learning,
+Sci-kit learn, Tensorflow.
+
+Professional Experience
+
+Python Developer, 04/2021 to Current
+Novogradac & Co. Llp - New York, NY
+
+Worked with server-side and front-end technologies and leveraged common design patterns to code dynamic and user-friendly
+systems.
+
+Developed company-wide technical strategy plans for Python-based assets, overseeing development, coding, debugging and
+deployments.
+
+Managed project parameters, scheduled development milestones and set engineering goals with ML/AI and Qunat teams.
+Introduced cloud-based technologies into Python development to expand on-premise deployment options with AWS and Azure
+Chatbots.
+
+Translated AI NLP requested project architecture into scalable designs for Bank Examiners and auditors confirming alignment
+with related business goals.
+
+Improved and corrected existing software and system applications using key performance metrics.
+
+Developed software for NLP AI systems, coding solutions for both new digital transformation applications to automate internal
+processes.
+
+Applied inbedded security measures into systems development, supporting final products’ resistance to intrusion and
+exploitation.
+
+Coordinated testing and validation procedures through software development lifecycle.
+
+Managed junior developers by delivering consistent coaching and guidnace feedback.
+
+Utilized established design patterns to expedite novel software creation and support consistent performance results.
+Programmed applications and tools using object-oriented languages with goals of code abstraction, stability and reuse.
+Analyzed code and corrected errors to optimize output.
+
+Updated software upon release of vendor patches to mitigate security vulnerabilities in libraries.
+
+Participated in intra-organizational staff meetings to coalesce company-wide efforts around meeting prescribed business goals
+and addressing Federal Reserve Bank directives.
+
+Worked closely with QA Engineers, Machine Learning AI, Data Scientists, Financial Engineers and Quants to understand
+limitations, develop capabilities and resolve software problems.
+
+Conferred with project managers and other stakeholders to fully understand software design specifications and plan optimal
+development approaches.
+
+Reviewed project requirements using Agile Scrum methodologies to identify customer expectations and to manage resources
+needed to meet goals.
+
+Collaborated with support team to assist client stakeholders with emergent technical issues and develop effective solutions.
+Design, create APIs and data models for AI/ML model inventory, model repository and model registry. Responsible for unit/
+functional testing, CI/CD.
+
+Python Developer Independent Contractor, 03/2018 to 04/2022
+Novogradac & Co. Llp — Southfield, MI
+
+Worked with server-side and front-end technologies and leveraged common design patterns to code dynamic and user-friendly
+systems.
+
+Leveraged open communication, collective decision-making and thorough reviews to create performant and scalable systems.
+Implemented new API routes, architected new ORM structures and refactored code to boost application performance.Experience
+with a relational database PostgreSQL
+
+Experience with AWS configuration, setup and teardown
+
+Hands-on experience in Jira and daily standup meetings.
+
+Experienced usage of Git and Github repro maintenance.
+
+Performed Gathering and evaluating user requirements, in collaboration with product managers, stakeholders and software
+engineers.
+
+Performed extensive n the coding, testing, implementation, and documentation of front-end development using django
+framework, JS, CSS, HTML5.
+
+Maintains and upgrades interface functionalities for specific requirements, and actively participates in code and project review
+as needed.
+
+Participates in the business assessment and requirements analysis processes for the front-end development and design of
+graphical user interfaces.
+
+Lead efforts in technical design, coding, testing, and implementation phases to meet business needs, solve business problems,
+and add value to the bottom line.
+
+Leverages modern frameworks ML/AI library techniques to develop clean, efficient, and reusable code.
+
+Managing Security Risk- Assessing and effectively managing all the risks associated with secure AI objectives and activities to
+ensure they adhere to and support the Enterprise Network.
+
+Python Developer , 04/2007 to 03/2018
+BT - Credit-Suisse Contract — City, STATE
+
+Designed and implemented Python Django websites for analytical solutions for data organization and reporting on financial
+infrastructure data platforms across diverse global business lines.
+
+Devised rapid code for add-hoc business requirements.
+
+Developed and consumed Web based REST, SOAP API's
+
+Knowledge of GraphQL Web API framework
+
+Experienced practitioner in debugging code in highly problematic assemblies and the ability to create new improved solutions to
+minimize adverse impact to production environment from inception to deployment and UAT testing.
+
+Translated Business logic and technical requirements.
+
+Code Refactoring and Reconciliation.
+
+Proficient in Statistical data programming.
+
+Implemented object-relational mapping ORM methodologies.
+
+Python script generation of Market Data and Exchange services.
+
+Leverage various desktop and web based data sources for extensive data cleanse and import to PostgreSQL databases.
+Automated script testing and integration.
+
+Analyzed and conducted automated supplier billing audits
+
+Visualization Dashboard of Financial reports to upper and senior management.
+
+Skilled in Unix/Linux BASH,Ubuntu and Win-DOS based platforms.
+
+Databases, SOL, NoSQL, PostgreSQL, SQLite,
+
+Familiar in Azure & AWS Cloud based technologies.
+
+Developed tools in Pandas, Numpy, SciPy, Matplotlib.
+
+Knowledge of Web scraping tools ie. Beautiful Soup
+
+Experience distributed Git version control repositories.
+
+Familiarity with Big Data platforms and ecosystems.
+
+Coordinated system installations, testing and code corrections.
+
+Developed custom application solutions for business director
+
+Designed software scripts using TANGOE that proved user-friendly and simplified overall management.
+
+Tested all software prior to applications going live to alleviate bugs and troubleshoot issues.
+
+Participated in team meetings with Governess Team and stakeholders and provided input on expected deadlines, designs and
+enhancements.
+
+Created proof-of-concept prototype web based applications for demonstration and evaluation purposes.
+
+Analyzed system requirements and used documented approaches to implement and document development tasks.
+
+Kept project manager informed of milestone updates and provided a weekly detailed project report.
+
+Communicated highly technical concepts using easily understood terminology.
+
+Developed scripts to communicate with back-end applications in order to provide updated information.
+
+Designed software configuration to meet website system hosting requirements.
+
+Tested Database for bugs and to determine weaknesses.
+
+Documented all technical specifications and testing methods for for future reference and use in other assignments.
+Introduced Machine Learning modelling tools Scikit learn to improve audit process to realize over $700,000 in annually savings.
+
+Trading Technology, 06/2002 to 04/2007
+BT - Credit Suisse Contract — City, STATE
+
+Responsible for all carrier based project implementations, coordination and operational oversight.
+
+Expert practitioner in resolving Day Two Events in Highly problematic Layerl areas and the ability to create new improved
+solutions.
+
+Wide Area and Metro Area Network Datacentre Supports Mission Critical Market Data and Exchange services.
+Low-Latency and Hi-Frequency Trading Platforms Global Dealing and External Messaging Systems High Speed Digital
+Transport Carrier Platforms Voice PBX and BT Trading Turret Dealing Systems, Carrier Inventory Audit and Billing Mediations
+Achievements Design and Rollout of PrimeTrade Global Dealing Equity Trading Platform.
+
+Designed and Implemented Hi Speed DWDM Ultra-Low Latency Trading Platforms.
+
+Level 3 support of Mission Critical Market Data and Exchange platforms.
+
+Procurement and support of Turret Trader Voice.
+
+Tracking incidents to Provide Day2 operational guidance with a reduction of 20% less incidents.
+
+Project Managed Business Power Maintenance and Contingency planning events.
+
+Market Data & Exchanges - Managed roll-out $100 Million Global dealing trading platforms and Derivative Exchanges for
+Equity Sales, FI, FX commodity trading desks.
+
+Low Latency Trading - Managed the deployment of with Hi-Speed platforms for market arbitrage strategies.
+
+LAN/MAN - Managed and deployed Local Area Networks including Hi Speed fiber MAN backbones and augments for
+datacenters.
+
+Datacenter Projects - Managed with hands-on implementation with scheduled checkout UAT client testing of new network
+infrastructure.
+
+Trader Voice - Trading floor turret networks and Market Data applications.
+
+Education and Professional Training
+
+Bachelor's Degree: Major: Computer Science, Minor: Mathematics
+CITY UNIVERSITY oF NEW YORK SCHOOL oF ENGINEERING
+
+Masters Certificate Program Software Developer
+
+Setfocus
+
+Certificate in Financial Mathematics
+
+NEW YORK INSTITUTE oF FINANCE
+
+Quantitative Mathematics Primer
+CQE
+
+References available upon request

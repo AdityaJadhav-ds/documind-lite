@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 21464
+Date: Dec 23 2012
+Bill To: Ship To: ;
+_ Ship Mode: Standard Class
+Andrew Roberts Jining, Inner
+Mongolia, China Balance Due: $16,603.70
+Item Quantity Rate Amount
+Cisco Smart Phone, with Caller ID 5 $3,271.20 $16,356.00
+Phones, Technology, TEC-PH-3807
+Subtotal: $16,356.00
+Shipping: $247.70
+Total: $16,603.70
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-AR1051027-41266

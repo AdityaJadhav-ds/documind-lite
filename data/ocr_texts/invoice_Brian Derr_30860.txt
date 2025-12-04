@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 30860
+Date: Nov 09 2012
+Bill To: Ship To: ; .
+| . Ship Mode: First Class
+Brian Derr Hastings, Hawke's
+Bay, New Zealand Balance Due: $3,069.80
+Item Quantity Rate Amount
+Cisco Office Telephone, Full Size 6 $490.50 $2,943.00
+Phones, Technology, TEC-PH-3797
+Subtotal: $2,943.00
+Shipping: $126.80
+Total: $3,069.80
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-BD1163592-41222

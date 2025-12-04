@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 36494
+Date: May 09 2012
+Bill To: Ship To:
+"ve pie Ship Mode: Standard Class
+Arianne Irving 98031, Kent,
+Washington, United Balance Due: $175.79
+States
+Item Quantity Rate Amount
+LF Elite 3D Dazzle Designer Hard Case Cover, Lf Stylus Pen and 5 $43.60 $218.00
+Wiper For Apple Iphone 5c Mini Lite
+Phones, Technology, TEC-PH-5085
+Subtotal: $218.00
+Discount (20%) : $43.60
+Shipping: $1.39
+Total: $175.79
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-Al10855140-41038

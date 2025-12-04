@@ -1,0 +1,119 @@
+CHARLOTTE MAY
+
+Senior Data Scientist | CAP | DASCA
+\ 4+1-713-645-3682 @ latishaham@hey.com
+9 Phoenix, AZ
+
+SUMMARY
+
+With eight years experience working as a data scientist and more than ten
+years of strong academic background in analytical modeling and
+programming, | strive to bring high-quality business intelligence solutions
+to businesses seeking higher efficiency. With expertise in advanced
+statistical algorithms, machine learning and forecasting, | have also worked
+on over 1150 high performance parallel processing applications using C++
+and C.
+
+EXPERIENCE
+
+Senior Data Scientist - Marketing Team
+
+Dell
+
+@ 2018-Present 9 Phoenix, AZ
+Turned data into actionable insights, providing C-suite stakeholders with
+insightful recommendations to streamline business operations and
+improve customer experience.
+Generated statistical reports and visualizations, providing key insights
+for more than 20 marketing campaigns and initiatives, including A/B
+testing, customer retention, brand awareness, and global expansion.
+Worked with senior leadership to develop and implement digital
+marketing strategy, identifying and implementing new tactics to
+improve campaign performance by 50%, resulting in 250% increase in
+revenue from search marketing campaigns.
+
+Senior Data Scientist
+
+Metro
+
+& 2018-2020 Phoenix, AZ
+Designed and implemented a machine learning system that predicts
+hardware malfunction with more than 80% accuracy.
+Created global and personalized real time reports system for executives
+stakeholders and processes in SAS, Tableau, and proprietary systems.
+Worked closely with a team of data engineers and BI analysts to
+improve the efficiency customer recommendation analytics engine by
+33%.
+
+Data Scientist
+
+Drouin S.A.R.L.
+
+& 2014-2018 9 Phoenix, AZ
+
+* Collected technical requirements for $500K+ customer accounts,
+defining data rules for and KPIs for performance metrics.
+Perform HR data collection and a variety of statistical analyses using
+Microsoft Excel, SAS, Tableau and Python.
+
++ Assisted senior data science team in building innovative machine
+learning models and segmentations for personalization initiatives to
+drive margin, revenue, and conversion.
+
+EDUCATION
+
+BS: Data Science
+
+UC, Berkley
+@ 2008 - 2012
+
+GPA
+4.0 / 4.0
+
+www.enhancy.com
+
+@ www.linkedin.com/in/--Ihamilton--
+
+TECH STACK
+
+Python Java ¢ Scala R
+
+Hadoop Rapid Miner QlikView
+MonboDB
+HDFS HBase MapReduce
+
+flask scikit-learn
+
+SAS programming — SPSS
+
+KEY ACCOMPLISHMENTS
+
+Implemented and designed a machine
+learning system
+
+that predicted malfunctions in server hardware
+with more than 80% accuracy.
+
+Optimized customer recommendations
+model
+
+that resulted in 22% revenue growth in regional
+stores.
+
+STRENGTHS
+
+x International internships and experience
+
+4 internships in Singapore and Norway
+
+¢ Hard-working
+
+Studying 2 majors simultaneously while -
+for some time - also working alongside at
+Deloitte. Habituated to long days.
+
+sS Solving complex problems
+
+Due to my Law and IT education
+
+Powered by (CX? Enhancy

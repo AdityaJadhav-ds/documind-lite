@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 33527
+Date: Mar 30 2012
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Alex Avila 94122, San
+Francisco, California, Balance Due: $109.13
+United States
+Item Quantity Rate Amount
+Fellowes Advanced Computer Series Surge Protectors 2 $52.98 $105.96
+Appliances, Office Supplies, OFF-AP-4242
+Subtotal: $105.96
+Shipping: $3.17
+Total: $109.13
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AA10315140-40998

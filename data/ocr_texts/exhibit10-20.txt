@@ -1,0 +1,740 @@
+MASTER LICENSE AGREEMENT
+
+THIS LICENSE AGREEMENT, effective as of the closing date of the APA (defined in
+the recitals below) ("Effective Date"), is made by and between UEI Cayman Inc., a company
+organized under the Laws of the Cayman Islands and an Affiliate of UNIVERSAL
+ELECTRONICS INC. (hereinafter referred to as "Purchaser 2"), and ZiLOG, Inc., a company
+organized and existing under the laws of the state of Delaware, with its principal place of
+business at 6800 Santa Teresa Blvd., San Jose, California 95119 (hereinafter referred to as
+"Seller"), each on behalf of itself and its respective Subsidiaries and Affiliates.
+
+WHEREAS, Purchaser 2 owns and controls a highly proprietary and confidential
+compilation of individual infrared device codes (each an "IR Code") for use in remotely
+controlling audio and video equipment, which compilation of IR Codes is periodically updated
+by Purchaser 2 from time to time (including, without limitation, all updates made in accordance
+with Article 3.0) (the "Library"), and Purchaser 2 is the owner of certain patents relating
+generally to the use, setup, upgrade, and other features of control devices as set forth on Exhibit
+A hereto (the "Licensed Patents");
+
+WHEREAS, pursuant to that certain Asset Purchase Agreement between Purchaser 1,
+Purchaser 2 and Seller (the "APA") (i) Seller has agreed to sell, transfer, assign, convey and
+deliver to Purchaser 2, and Purchaser 2 has agreed to purchase and acquire from Seller, all of
+Seller's right, title and interest in, to and under certain patents owned by Seller (the "Additional
+Licensed Patents" and "Restricted Additional Licensed Patents") and related technology
+("Licensed Technology") as set forth on Exhibit B hereto, which Additional Licensed Patents,
+Restricted Additional Licensed Patents and Licensed Technology will be licensed to Seller as set
+forth herein;
+
+WHEREAS, Seller would like to obtain a license under the Licensed Patents, Additional
+Licensed Patents, Restricted Additional Licensed Patents and Licensed Technology only as
+specifically set forth in this Agreement, and to use those IR Codes specified by Seller pertaining
+to remotely controlling certain audio and video equipment which are manufactured for sale and
+use anywhere in the World (the "Territory"), by audio and video device, and contained on
+Exhibit C attached hereto, all of which IR Codes are contained in the Library (the "Licensed
+Data"); and
+
+WHEREAS, Purchaser 2 would like to obtain a license under certain patents retained by
+Seller ("Seller Licensed Patents"), and certain other IP and technology including Trade Secrets,
+know-how and Copyrights (excluding any Trade Secrets, know-how and Copyrights included in
+the Transferred Assets (as defined in the APA)) that are (a) owned by Seller or any of Seller's
+Subsidiaries/Affiliates and (b) necessary to the conduct of the Sale Business as currently
+conducted (the "Seller Licensed Other IP and Technology"), including without limitation the
+Seller Licensed Other IP and Technology set forth on Exhibit D hereto.
+
+NOW, THEREFORE, the parties, intending to be legally bound, hereby agree as
+follows:
+
+CAPITALIZED TERMS NOT DEFINED HEREIN ARE DEFINED IN THE APA.
+
+1.0
+
+1.01
+
+1.02
+
+1.03
+
+LICENSE GRANTS
+
+License to Seller under the Licensed Patents, Additional Licensed Patents, Licensed
+Data and Licensed Technology. Subject to Seller's purchase of the IC Products (defined
+in Article 2.0 below) and payment of the fees set forth herein, upon the Effective Date,
+Purchaser 2 grants to Seller a nonexclusive, nontransferable (except as set forth in
+Section 12.11 below), worldwide, perpetual license, without the right to sublicense
+(except as expressly set forth in Section 1.08 below): (a) under the Licensed Patents and
+Additional Licensed Patents, to use, make, have made, sell, offer for sale, import and
+otherwise exploit, hardware-based home control devices in Seller's CrimzonConnects
+product line, each as set forth on Exhibit F hereto (the "CrimzonConnects Products"), (b)
+under the Intellectual Property Rights (as defined in the APA) of Purchaser 2 in and to
+the Licensed Data and Licensed Technology, to use the Licensed Data and Licensed
+Technology solely in conjunction with the CrimzonConnects Products and to distribute
+(through multiple tiers of distribution) the Licensed Data and Licensed Technology
+solely as incorporated in or bundled with the CrimzonConnects Products and for no
+other purpose whatsoever and (c) under Purchaser 2's Intellectual Property Rights in and
+to the firmware Licensed Technology, to use, reproduce, modify, create derivative works
+of, perform, display and otherwise exploit the firmware Licensed Technology solely in
+connection with Seller's purchase of IC Products for incorporation into the
+CrimzonConnects Products. For purposes of effecting the license granted to Seller under
+Section 1.01(c) above, Purchaser 2 grants to Seller additional licenses for RC Express
+and RC Blaster Licensed Technology, as set forth in the standard end user license terms
+to be provided by Purchaser 2. Notwithstanding the foregoing, Seller may not
+exercise the foregoing license rights with respect to the field of subscription broadcasters
+and set-top box providers for distribution in the subscription broadcast market (the
+"Restricted Field"). Seller shall provide written notice to Purchaser 2 of any proposed
+new products in the CrimzonConnects product line, and subject to review and approval
+by Purchaser 2 (such approval not to be unreasonably withheld or delayed), such new
+products shall be added to Exhibit F hereto and shall be CrimzonConnects Products. For
+the avoidance of doubt, Seller understands and agrees that Purchaser 2 may reasonably
+withhold approval for any CrimzonConnects products that directly compete with
+Purchaser 2 Products (as defined in Section 1.04 below). The parties agree to negotiate
+in good faith the extension of the foregoing license rights to additional features and
+functions, including without limitation any pricing terms.
+
+License to Seller under the Restricted Additional Licensed Patents. Upon the Effective
+Date, Purchaser 2 grants to Seller a nonexclusive, nontransferable (except as set forth in
+Section 12.11 below), worldwide, perpetual license under the Restricted Additional
+Licensed Patents to use, make, have made, sell, offer for sale, import and otherwise
+exploit solely outside of the Sale Business field any Seller products or services.
+
+Licensed Data Protection Measures. Licensee shall submit for Purchaser 2's approval
+detailed plans showing how the Licensed Data and portions thereof are to be protected
+from unauthorized access or copying while (a) stored at any Seller location, (b)
+
+-2-
+
+1.04
+
+1.05
+
+1.06
+
+1.07
+
+accessing Purchaser 2's Library via its online database system, (c) in transit to the
+CrimzonConnects Product from either the Seller location or Purchaser 2's Library via its
+online database system, and (d) while stored locally in the CrimzonConnects Product.
+Such measures shall include methods to prevent any individual user from obtaining
+access to the complete set of Licensed Data contained in the Library via repetitive
+downloads.
+
+License to Purchaser 2 under the Seller Licensed Patents. Subject to the terms and
+conditions of this Agreement and the APA, upon the Effective Date, Seller grants to
+Purchaser 2 a nonexclusive, nontransferable (except as set forth in Section 12.11 below),
+worldwide, perpetual license, without the right to sublicense (except as expressly set
+forth in Section 1.07 below), under the Seller Licensed Patents to use, make, have made
+(solely for Purchaser 2), sell, offer for sale, import and otherwise exploit any and all
+products of Purchaser 2 within the wireless or remote control space ("Purchaser 2
+Products").
+
+License to Purchaser 2 under the Seller Licensed Other IP and Technology. Subject to
+the terms and conditions of this Agreement and the APA, upon the Effective Date, Seller
+grants to Purchaser 2 a non-exclusive, non-transferable (except as set forth in Section
+12.11 below), worldwide, perpetual license, without the right to sublicense (except as
+expressly set forth in Section 1.07 below), under Seller's Intellectual Property Rights in
+and to the Seller Licensed Other IP and Technology, to use, reproduce, modify, create
+derivative works of, perform, display and (except as set forth in Section 1.06 below)
+otherwise exploit any of the Seller Licensed Other IP and Technology solely in
+connection with Purchaser 2's use, making, having made (solely for Purchaser 2), sale,
+offer for sale, importing and other exploiting of any Purchaser 2 Products.
+
+Restriction on Purchaser 2. Purchaser 2 shall not provide the source code for the ZDS II
+Software (version 4.11) included in the Seller Licensed Other IP and Technology to any
+third party without Seller's prior written consent except in connection with the
+development of any Purchaser 2 Products on behalf of Purchaser 2 as provided in
+Section 1.07 below. Additional restrictions applicable to ROM Code Materials (defined
+in Exhibit D) are set forth in Exhibit D.
+
+Sublicense Rights of Purchaser 2. Purchaser 2 may (a) grant sublicenses under the
+license granted in Section 1.04 above in connection with the development of any
+Purchaser 2 Products on behalf of Purchaser 2, (b) grant sublicenses under the license
+granted in Section 1.05 above in connection with the development of any Purchaser 2
+Products on behalf of Purchaser 2, provided that each such sublicensee shall be bound in
+writing to confidentiality obligations at least as restrictive as the confidentiality
+provisions herein, and (c) grant sublicenses under any licenses granted hereunder to any
+Purchase 2 Affiliate without restriction. In addition, with respect to any Software
+proprietary to Seller (as designated on Exhibit D hereto) included in the Seller Licensed
+Other IP and Technology, Purchaser 2 may grant sublicenses under the license granted in
+Section 1.05 above to end users and customers of any Purchaser 2 Products to use such
+Software solely in connection with such Purchaser 2 Products (and not on a standalone
+
+3-
+
+1.08
+
+2.0
+
+2.01
+
+3.0
+
+3.01
+
+3.02
+
+3.03
+
+basis). Other than as provided above in this Section 1.07, Purchaser 2 shall not have the
+right to grant any sublicenses under Article 1.0 without Seller's prior written consent.
+
+Sublicense Rights of Seller. Seller may grant sublicenses under the license granted in
+Section 1.01(c) above in connection with the development of any CrimzonConnects
+Products outside the Restricted Field on behalf of Seller, provided that each such
+sublicensee shall be bound in writing to confidentiality obligations at least as restrictive
+as the confidentiality provisions herein. Purchaser 2 grants to Seller any additional
+sublicense rights for RC Express and RC Blaster Licensed Technology set forth in the
+standard end user license terms to be provided by Purchaser 2. Other than as provided
+above in this Section 1.08, Seller shall not have the right to grant any sublicenses under
+Article 1.0 without Seller's prior written consent.
+
+IC PRODUCT SALES / DELIVERY OF LICENSED DATA
+
+Purchaser 2 shall make available for purchase by Seller IC products incorporating the
+Licensed Data and firmware Licensed Technology as specified by Seller (subject to
+available memory capacity on such IC products) ("IC Products") for incorporation by
+Seller into the CrimzonConnects Products, including without limitation the IC Products
+set forth on Exhibit E. Additionally, for purposes of enabling updates to the Licensed
+Data, Purchaser 2 shall deliver to Seller such specified Licensed Data (subject to
+available memory capacity on such IC Products), as set forth in Article 3.0 below.
+
+LICENSED DATA UPDATES / ONLINE AVAILABILITY
+
+During the term of this Agreement, Purchaser 2 shall maintain the Library in
+commercially reasonable condition and make the Licensed Data promptly available to
+Seller via Purchaser 2's online database system, including without limitation all
+published new codes that have been captured by Purchaser 2 on an ongoing basis. All
+IR Codes and any "published new codes" as used herein shall be limited to only those
+codes that are publicly available.
+
+In addition, on an exception basis and by special request, Purchaser 2 shall capture and
+format and, within ten (10) business days after such capture, provide Seller (via
+Purchaser 2's online database system) with those IR Codes that Seller shall specify from
+time to time. Such requests by Seller shall be limited to no more than three (3) IR Codes
+per calendar quarter. In the event that Purchaser 2 is unable to reasonably obtain such
+requested IR Codes, Seller shall assist Purchaser 2 in obtaining such device or devices to
+enable Purchaser 2 to capture, format, and provide Seller with such requested IR Codes.
+
+Seller agrees that all such new IR Codes provided to Seller pursuant to this Article 3.0
+shall immediately become subject to all of the terms and conditions set forth herein as
+part of the Licensed Data, including without limitation the limitation of use as set forth
+in Section 1.01 above.
+
+-4-
+
+4.0
+
+4.01
+
+4.02
+
+5.0
+
+5.01
+
+5.02
+
+5.03
+
+6.0
+
+6.01
+
+ADDITIONAL SOFTWARE DEVELOPMENT
+
+Seller understands that the delivery format under this Agreement is an existing Purchaser
+2 standard product, and that no Purchaser 2 software development work or testing of
+Seller implementation of the IC Products or Library is included in the fees and payments
+listed in Article 5.0 below. In the event that Seller wishes Purchaser 2 to perform special
+software development or testing for this or additional Seller projects or products which
+would utilize the Licensed Patents or Licensed Data, this will be at an extra cost to be
+negotiated by the parties.
+
+In addition, at the request and expense of Seller, Purchaser 2 will provide commercially
+reasonable consulting and advice to assist Seller in the use of the Licensed Data. In the
+event that the IR Codes provided to Seller and the functions contained with the
+CrimzonConnects Product prove to be too large to fit into available memory storage in
+the CrimzonConnects Product, Purchaser 2 will assist Seller in determining which subset
+of IR Codes provide (in Purchaser 2's commercially reasonable opinion) the greatest
+market coverage, as well as which functions (in Purchaser 2's commercially reasonable
+opinion) are the most popular for each device type.
+
+FEES AND PAYMENTS
+
+In consideration for the rights granted by Purchaser 2 to Seller under this Agreement,
+Seller agrees to purchase at least one IC Product for inclusion in each CrimzonConnects
+Product at the per unit price set forth in Exhibit E hereto.
+
+Within thirty (30) days after the end of each calendar quarter (the "Fee Period"), Seller
+shall pay to Purchaser 2 all quarterly maintenance fees (the "Quarterly Maintenance
+Fees" as set forth in Section 5.03 below) accruing to Purchaser 2 for the prior quarter.
+All payments hereunder shall be in United States Dollars.
+
+Quarterly Maintenance. In order to remain eligible for access to Purchaser 2's online
+database system, Seller shall pay Quarterly Maintenance Fees to Purchaser 2, as set forth
+on Exhibit E, throughout the term of this Agreement. Purchaser 2 shall not be obligated
+to supply Seller with access to Purchaser 2's online database pursuant to Article 3.0 after
+the Fee Period in any quarter if the Quarterly Maintenance Fee for the prior quarter was
+not paid by Seller during the Fee Period. It is understood by Seller that the Quarterly
+Maintenance Fee shall constitute a maintenance fee and not a prepayment of future
+royalties due.
+
+COVENANTS
+
+Seller Covenants: Ownership. Subject to the terms and conditions of this Agreement and
+the APA, upon the Effective Date, Seller agrees and acknowledges that (as between
+Seller and Purchaser 2) all right, title and interest in and to all or any portion of the
+Licensed Patents, the Additional Licensed Patents, the Restricted Additional Licensed
+Patents, the Licensed Data, the Licensed Technology and the Library (collectively, the
+"Purchaser 2 Licensed IP"), and any derivatives thereof, including all copyrights therein
+shall be and remain the sole and exclusive property of Purchaser 2. Seller shall not
+
+-5-
+
+6.02
+
+6.03
+
+6.04
+
+claim any right to or license (except for the licenses granted pursuant to Article 1.0
+above) with respect to such property nor shall Seller contest or assist in contesting
+Purchaser 2's right, title and interest in and to such property. Seller further
+acknowledges and agrees that the Purchaser 2 Licensed IP, and any derivatives thereof
+are highly proprietary and confidential to Purchaser 2. Seller additionally agrees that in
+the event any part of the Library is stored in flash memory of the CrimzonConnects
+Product, Seller will not download the Library from the CrimzonConnects Product.
+
+Seller Covenants: Prohibited Acts. Seller further covenants and agrees: (a) to not use,
+copy or reproduce all or any portion of the Licensed Data, or the Library in any manner
+except for the specific purposes set forth in Article 1.0 above; (b) to not modify or adapt
+all or any portion of the Licensed Data, or the Library in any way except for the specific
+purpose set forth in Article 1.0; (c) to not translate, reverse assemble, reverse compile or
+reverse engineer, decompile, disassemble, or create derivative works of the all or any
+portion of the Licensed Data, or the Library except for the specific purpose; or (d) to not
+transfer, assign (subject to Section 12.11 below), rent, sell, distribute or otherwise
+dispose of all or any portion of the Licensed Data, or the Library or this Agreement
+(including granting sublicenses) to anyone or in any manner, except as specifically
+permitted in Article 1.0 above.
+
+Purchaser 2 Covenants: Ownership. Purchaser 2 agrees and acknowledges that (as
+between Seller and Purchaser 2) all right, title and interest in and to all or any portion of
+the Seller Licensed Patents and the Seller Licensed Other IP and Technology
+(collectively, the "Seller Licensed IP"), and any derivatives thereof, including all
+copyrights therein shall be and remain the sole and exclusive property of Seller.
+Purchaser 2 shall not claim any right to or license (except for the licenses granted
+pursuant to Article 1.0 above) with respect to such property nor shall Purchaser 2 contest
+or assist in contesting Seller's right, title and interest in and to such property. Purchaser
+2 further acknowledges and agrees that the Seller Licensed IP, and any derivatives
+thereof are highly proprietary and confidential to Seller.
+
+Purchaser 2 Covenants: Prohibited Acts. Purchaser 2 further covenants and agrees: (a)
+to not use, copy or reproduce all or any portion of the Seller Licensed Other IP and
+Technology in any manner except for the specific purpose set forth in Article 1.0 above;
+(b) to not modify or adapt all or any portion of the Seller Licensed Other IP and
+Technology in any way except for the specific purpose set forth in Article 1.0; (c) to not
+translate, reverse assemble, reverse compile or reverse engineer, decompile, disassemble,
+or create derivative works of the all or any portion of the Seller Licensed Other IP and
+Technology except for the specific purpose; or (d) to not transfer, assign (subject to
+Section 12.11 below), rent, sell, distribute or otherwise dispose of the all or any portion
+of the Seller Licensed Other IP and Technology or this Agreement (including granting
+sublicenses) to anyone or in any manner, except as specifically permitted in Article 1.0
+above.
+
+-6-
+
+7.0
+
+8.0
+
+8.01
+
+OWNERSHIP NOTICE
+
+Copyright notices and any other legend of ownership shall be reasonably specified by
+Purchaser 2 in writing from time to time with respect to any CrimzonConnects Product
+as required by statute to identify Purchaser 2's ownership in the Purchaser 2 Licensed IP.
+
+CONFIDENTIALITY
+
+Seller and Purchaser 2 each agree that at all times during the term of this Agreement and
+continuously thereafter to use reasonable efforts to prevent the disclosure to any other
+person or entity: (a) the terms and conditions of this Agreement and (b) materials
+disclosed under this Agreement that are confidential or proprietary to the party
+disclosing the information (the "Disclosing Party") to the other party (the "Receiving
+Party"), regardless of whether such information is marked CONFIDENTIAL or the like.
+The Receiving Party shall use the same degree of care to avoid disclosure of the
+Disclosing Party's Confidential Information as the Receiving Party employs with respect
+to its own proprietary or confidential information of like importance. Information shall
+not be deemed Confidential Information and the Receiving Party shall not have the
+foregoing obligations under this Section 8.01 with respect to any information which:
+
+(i) prior to disclosure to the Receiving Party, was already in the Receiving Party's
+possession on a non-confidential basis, as evidenced by written records kept by
+the Receiving Party in the ordinary course of its business or as evidenced by
+actual prior use by the Receiving Party;
+
+(ii) at the time of disclosure to the Receiving Party, had previously been published
+and is a part of the public domain;
+
+(iii) after having been disclosed to the Receiving Party, is published and is a part of
+the public domain, unless such publication is through the fault of or the breach by
+the Receiving Party of its obligations under this Agreement;
+
+(iv) | subsequent to disclosure to the Receiving Party, is obtained by the Receiving
+Party on a non-confidential basis from a third party who is lawfully in possession
+of such information and who is not in violation of any contractual or other legal or
+fiduciary duty with respect to such information; or
+
+(v) is independently developed by the Receiving Party without the use of any of the
+Disclosing Party's Confidential Information as evidenced by written records kept
+by the Receiving Party in the ordinary course of its business.
+
+The Receiving Party shall have the burden of proof with respect to any of the above
+events on which the Receiving Party relies as relieving it of its foregoing obligations
+under this Section 8.01. Notwithstanding the foregoing, disclosure of such Confidential
+Information shall not be precluded if such disclosure is in response to a valid order of a
+court or other governmental body of the United States, any state therein, or any political
+subdivision thereof or as otherwise required to be disclosed by law, regulation or
+administrative rule; provided, however, that the Receiving Party shall first have given
+
+-7-
+
+9.0
+
+9.01
+
+9.02
+
+9.03
+
+reasonably prompt written notice to the Disclosing Party to enable it to seek an
+appropriate protective order.
+
+LIMITED WARRANTY
+
+Licensed Data Warranty. During the term of this Agreement, Purchaser 2 warrants to
+Seller that the Licensed Data will perform in accordance with Purchaser 2's published
+specifications, as the same may be modified from time to time; provided that Seller
+understands and agrees that Purchaser 2 does not warrant the Licensed Data will operate
+uninterrupted or error free. Seller further understands and agrees that the Licensed Data
+is by no means invulnerable to network interference and consequently no expressed or
+implied warranty is made by Purchaser 2 against such occurrences. If Seller discovers
+any such defects or errors or that any of the Licensed Data does not conform to such
+specifications during the term of this Agreement, Purchaser 2 shall (subject to the
+limitations of warranty set forth herein), at its own expense (further subject to the
+limitations of warranty set forth herein), promptly correct such defects, errors or non-
+conformity by, among other things, supplying Seller with such corrections or making
+such additions, modifications or adjustments as Purchaser 2 deems reasonably necessary
+to keep the Licensed Data in operating order in conformity with the warranty provided
+by this Article 9.0. Subject to Section 12.11, this warranty is not transferable without the
+express written consent of Purchaser 2.
+
+IC Product Warranty. The warranties with regards to IC Products extended by Purchaser
+2 to Seller hereunder shall be consistent with the product warranty terms referred to in
+Exhibit G.
+
+THE WARRANTIES MADE BY PURCHASER 2 HEREIN ARE EXPRESSLY
+MADE IN LIEU OF ALL OTHER WARRANTIES, AND PURCHASER 2
+NEITHER MAKES NOR INTENDS, NOR DOES IT AUTHORIZE ANY OF ITS
+AGENTS OR REPRESENTATIVES TO MAKE, ANY OTHER WARRANTY,
+WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION
+ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE OR INFRINGEMENT OF TITLE. THE
+WARRANTIES MADE BY SELLER HEREIN ARE EXPRESSLY MADE IN
+LIEU OF ALL OTHER WARRANTIES, AND SELLER NEITHER MAKES NOR
+INTENDS, NOR DOES IT AUTHORIZE ANY OF ITS AGENTS OR
+REPRESENTATIVES TO MAKE, ANY OTHER WARRANTY, WHETHER
+EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY
+WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+PURPOSE OR INFRINGEMENT OF TITLE WITH RESPECT TO THE
+SELLER LICENSED IP. EACH PARTY'S SOLE REMEDY AND LIABILITY
+FOR ANY AND ALL CLAIMS IN CONNECTION WITH THIS AGREEMENT,
+WHETHER OR NOT SUCH LIABILITY IS BASED UPON NEGLIGENCE,
+BREACH OF WARRANTY, OR BREACH OF CONTRACT, SHALL BE
+LIMITED TO TAKING THE ACTION SET FORTH IN THIS ARTICLE 9.0.
+NOTWITHSTANDING ANYTHING CONTAINED HEREIN TO THE
+CONTRARY (EXCEPT AS SET FORTH IN ARTICLE 10.0), NEITHER PARTY
+
+-8-
+
+10.0
+
+10.01
+
+10.02
+
+SHALL BE LIABLE TO THE OTHER PARTY FOR DAMAGES OF
+WHATEVER KIND OR NATURE, INCLUDING WITHOUT LIMITATION: (1)
+SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES) ARISING OUT
+OF OR IN CONNECTION WITH THE USE OF ALL OR ANY PART OF THE
+PURCHASER 2 LICENSED IP OR THE SELLER LICENSED IP, (ID
+DAMAGES RESULTING FROM LOSS OF USE OR LOSS OF PROFITS,
+ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE
+USE OR PERFORMANCE OF ALL OR ANY PART OF THE PURCHASER 2
+LICENSED IP OR THE SELLER LICENSED IP, REGARDLESS OF WHETHER
+PURCHASER 2 OR SELLER IS INFORMED OF OR KNOWS OR SHOULD
+KNOW OF THE EXISTENCE OF OR POSSIBILITY OF ANY SUCH
+DAMAGES OR LIABILITIES.
+
+INDEMNIFICATION
+
+Notwithstanding anything to the contrary herein, during the term of the Agreement and
+so long as Seller notifies Purchaser 2 in a timely fashion of the existence of any claim,
+suit, or proceeding, Purchaser 2 hereby assumes all liability for, and shall indemnify and
+defend Seller and its officers, directors, agents, and employees with respect to any claim,
+suit, or proceeding brought against Seller, and pay all reasonable expenses related
+thereto, including reasonable attorneys fees, to the extent it is based upon a claim that the
+Licensed Data or the IC Products infringe any Intellectual Property Right of a third party.
+Notwithstanding any of the above, Seller shall have the right, at its own election, to
+supersede Purchaser 2 in the defense of any such claim, suit or action and thereafter to
+assume and conduct the same according to Seller's sole discretion, in which event
+Purchaser 2 shall be released from any obligation arising from such claim, suit or action
+under the foregoing portion of this Section 10.01. Should the Licensed Data or the IC
+Products become, or in Purchaser 2's reasonable opinion be likely to become, the subject
+of a claim for which Purchaser 2 is required to indemnify pursuant to this Section 10.01,
+Purchaser 2 shall, at its discretion, (a) obtain for Seller, at no additional cost to Seller, the
+right to continue using the affected component of the Licensed Data and the IC Products
+(the "Affected Technology") under this Agreement, (b) modify the Affected Technology
+and provide such modified Affected Technology at no additional cost to Seller to avoid
+such claim, or (c) if neither (a) or (b) is commercially feasible, terminate the license to
+the Affected Technology and refund the amounts paid (including without limitation any
+Maintenance Fees) for the Affected Technology.
+
+Exclusions. Notwithstanding the foregoing, Purchaser 2 shall have no obligation to
+indemnify Seller for any liability arising out of or relating to any allegations or claims of
+infringement, to the extent the alleged infringement: (a) arises from any modification to
+the Licensed Data or the IC Products made by, for, or at the request of Seller without the
+written approval of Purchaser 2 (provided that in the absence of such modification the
+Licensed Data or the IC Products would not otherwise infringe); (b) arises from any
+combination or use of the Licensed Data or the IC Products, or portions thereof, with any
+hardware, software, product, materials, files, data or processes or other hardware unless
+Purchaser 2 sold, made or specifically recommended or approved them all as a
+combination (provided that in the absence of such combination or use the Licensed Data
+
+-9-
+
+10.03
+
+11.01
+
+11.02
+
+11.03
+
+11.04
+
+or the IC Products would not otherwise infringe); (c) arises from Seller's use of the
+Licensed Data or the IC Products other than in compliance with the terms of this
+Agreement; (iv) arises from any materials, information, software or content provided by
+Seller ("Seller-Provided Materials") (provided that in the absence of such Seller-
+Provided Materials the Licensed Data or the IC Products would not otherwise infringe);
+or (v) arises from Seller continuing allegedly infringing activity after being notified
+thereof or after being informed of modifications that would have avoided the alleged
+infringement (collectively the "Excluded Claims").
+
+THIS ARTICLE 10.0 STATES PURCHASER 2'S ENTIRE LIABILITY AND
+SELLER'S EXCLUSIVE REMEDY FOR ANY CLAIMED, POTENTIAL OR
+ACTUAL INFRINGEMENT. ADDITIONALLY, PURCHASER 2'S TOTAL
+LIABILITY UNDER THIS ARTICLE 10.0 SHALL NOT EXCEED THE VALUE OF
+ALL FEES PAID TO PURCHASER 2 BY SELLER UNDER THIS AGREEMENT.
+
+TERMINATION
+
+Term. Unless otherwise terminated pursuant to the provisions of this Article 11.0, this
+Agreement shall commence on the Effective Date and remain in effect in perpetuity.
+
+Termination: Transfer. Either party shall have the right to terminate this Agreement
+immediately by delivering to the other party written notice of such termination in the
+event of any attempted transfer or assignment by the other party of the entire Agreement
+in violation of Section 12.11 below.
+
+Continuing Rights Upon Insolvency. Upon the occurrence of any of the following
+events with respect to Purchaser 2: (a) bankruptcy or liquidation; (b) assignment or
+transfer of the business to a trustee for the benefit of creditors; (c) termination of its
+business or dissolution, Seller shall have the continuing right to use the Purchaser 2
+Licensed IP for the remaining duration of this Agreement, so long as Seller is not
+otherwise in default of this Agreement.
+
+Termination: Breach. Notwithstanding any other provision of this Agreement, in order
+for either party (the "Non-Defaulting Party") to terminate this Agreement for the failure
+of the other party (the "Defaulting Party") to materially perform or adhere to any of its
+material obligations under this Agreement, the Non- Defaulting Party must notify the
+Defaulting Party, in writing, of such default and allow the Defaulting Party thirty (30)
+days after its receipt of notice (the "Cure Period") to cure such default. If such default is
+not cured within the Cure Period, the Non- Defaulting Party may terminate this
+Agreement at any time thereafter upon written notice to the Defaulting Party. In
+addition, if the same type of material default by the same Breaching Party shall take
+place again during the term of this Agreement, the Non-Breaching Party who previously
+gave notice of such type of material default may immediately terminate this Agreement
+upon written notice to the Breaching Party. Where a given default, by its nature, would
+require more than thirty (30) days to cure, the Defaulting Party shall be deemed to have
+cured such default if: (a) the Defaulting Party has taken reasonable steps sufficient to
+effect the cure prior to the termination of the Cure Period, (b) continues in good faith to
+
+-10-
+
+11.05
+
+11.06
+
+12.0
+
+12.01
+
+12.02
+
+12.03
+
+take actions sufficient to eliminate such default as soon as practicably possible and (c)
+such default is cured within a commercially reasonable time.
+
+In the event of termination of this Agreement by either party, all obligations and rights of
+the parties hereunder shall cease except for the obligations and rights set forth in
+Sections 1.01 (except in the case of a material uncured breach of Section 1.01 or Seller's
+payment obligations hereunder), 1.02, 1.04, 1.05, 1.06, 1.07, 1.08, 5.01, 5.02, 5.03, 11.05
+and 11.06 and Articles 6.0, 7.0, 8.0, 10.0, and 12.0, the rights and obligations of which
+shall survive the termination of this Agreement.
+
+Upon termination of this Agreement: (a) the license and sublicense rights granted by
+each party to the other party hereunder shall cease without further action by the parties,
+(b) Purchaser 2 shall immediately cease using any part of or all of the Seller Licensed IP,
+(c) Seller shall immediately cease using any part of or all of the Purchaser 2 Licensed IP,
+(d) Seller shall return to Purchaser 2, promptly and without charge, all materials within
+Seller's possession or control containing any or all of the Purchaser 2 Licensed IP, and
+all copies thereof and (e) Purchaser 2 shall return to Seller promptly and without charge
+all materials within Purchaser 2's possession or control containing any or all of the Seller
+Licensed IP and Seller confidential information , and all copies thereof. For purposes of
+this Section 11.06, the term "materials" includes all information fixed in any tangible
+medium of expression, in whatever form or format, whether now known or hereafter
+created, including without limitation all disks, diskettes, files, documents, drawings,
+programs, lists, models, records, compilations, notes, extracts, and summaries regardless
+of whether prepared by Purchaser 2 or Seller. Notwithstanding the foregoing,
+termination of this Agreement shall not affect Seller Products or Purchaser 2 Products
+distributed, in inventory or in a distribution channel at the time of termination. As to
+such Seller Products and Purchaser 2 Products, the license rights set forth herein shall
+survive until such inventory is depleted, or a period of six (6) months, whichever comes
+sooner. End user licenses shall survive in accordance with their terms.
+
+MISCELLANEOUS
+
+Nothing contained in this Agreement shall be construed as granting by implication,
+estoppel or otherwise, any licenses, warranties (implied in fact or law) or rights other
+than those expressly granted herein, or creating any obligations other than those
+expressly created hereunder.
+
+This Agreement (and any dispute, controversy, proceedings, or claim of whatever nature
+arising out of or in any way relating to this Agreement) shall be governed by and
+construed in accordance with the laws of the State of California without regard to its
+conflict of laws provisions.
+
+This Agreement and each provision hereof shall be valid and enforced to the fullest
+extent permitted by law. The invalidity or unenforceability of any provision of this
+Agreement shall not affect the validity or enforceability of any other provision. Without
+limiting the generality of the foregoing, if the scope of any provision contained in this
+Agreement is too broad to permit enforcement to its fullest extent, such covenant shall
+
+-ll-
+
+12.04
+
+12.05
+
+12.06
+
+12.07
+
+be enforced to the maximum extent permitted by law, and the parties hereby agree that
+such scope may be judicially modified accordingly.
+
+This failure of any party to enforce any of the provisions of this Agreement, or of any
+rights with respect thereto, shall not be considered a waiver thereof or in any way affect
+the validity of said provisions, rights, or elections and shall not prejudice said party from
+later enforcing or exercising the same or any other provisions, rights or elections which
+it may have under this Agreement.
+
+Any information disclosed to either party hereunder shall be subject to the Export
+Control Regulations of the United States. Nothing herein contained shall obligate either
+party to disclose or in any manner furnish to the other party any confidential information
+or other information that under the Laws or Regulations of the United States cannot be
+disclosed or furnished. Furthermore, the parties agree not to export or re-export any
+devices under this contract to any country included in the U.S. Commerce Department's
+Country Group designations Q, S, W, Y, and Z, as amended from time to time, without
+an authorization from the U.S. Department of Commerce.
+
+Seller hereby acknowledges that unauthorized disclosure or use of any of the Purchaser 2
+Licensed IP could cause irreparable harm and significant injury to Purchaser 2 that may
+be difficult to ascertain. Accordingly, Seller agrees that, in addition to any other rights
+and remedies it may have, Purchaser 2 will have the right to seek immediate injunctive
+relief to enforce the obligations under this Agreement without the necessity of posting
+bond or any other security. Purchaser 2 hereby acknowledges that unauthorized
+disclosure or use of any of the Seller Licensed IP or Seller confidential information
+could cause irreparable harm and significant injury to Seller that may be difficult to
+ascertain. Accordingly, Purchaser 2 agrees that, in addition to any other rights and
+remedies it may have, Seller will have the right to seek immediate injunctive relief to
+enforce the obligations under this Agreement without the necessity of posting bond or
+any other security.
+
+All notices with respect to this Agreement shall be sent to the respective parties at the
+following addresses:
+
+To Seller: To Purchaser 2:
+UEI Cayman Inc.
+
+Attention: Darin Billerbeck Attention: Legal Dept.
+
+ZiLOG, Inc. c/o UNIVERSAL ELECTRONICS INC.
+6800 Santa Teresa Blvd. 6101 Gateway Drive
+
+San Jose, CA 95119 Cypress, CA 90630
+
+USA USA
+
+-12-
+
+12.08
+
+12.09
+
+12.10
+
+12.11
+
+This Agreement, together with the APA and Exhibits A, B, C, D, E, F and G, contains
+the entire and only understanding between the parties with respect to the subject matter
+hereof, and supersedes all prior agreements and understandings, whether oral or written,
+with respect thereto. No modification or waiver of this Agreement or any of its
+provisions shall be binding unless in writing and signed by a duly authorized
+representative of the parties hereto.
+
+Any rights of cancellation, termination or other remedies prescribed in this Agreement
+are cumulative and are not intended to be exclusive of any other remedies to which the
+injured party may be entitled at law or equity in case of any breach or threatened breach
+by the other party of any provision of this Agreement, unless such remedies are
+specifically limited or excluded by the terms of any provision of this Agreement.
+
+For the convenience of the parties, this Agreement may be executed in one or more
+counterparts, each of which shall be deemed an original for all purposes, but all of which
+shall constitute one of the same instrument.
+
+Neither party may assign its rights or delegate its duties under this Agreement or any
+portion of this Agreement to any third party without the other party's prior written
+consent, which consent may not be unreasonably withheld. Any attempt to so assign or
+delegate this Agreement or any portion thereof without such consent will be void.
+Notwithstanding the foregoing, either party may assign this Agreement without such
+consent to an Affiliate of such party or to the applicable successor(s) or assignor(s) in the
+event of a merger, acquisition, consolidation, reorganization or sale of all or substantially
+all of the assets (or the assets of such party's business to which this Agreement relates) or
+the sale of fifty percent (50%) or more of the voting stock of such party.
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+-13-
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly
+executed by their duly authorized representatives and delivered as of the day and year first
+written above.
+
+ZILOG, INC. UEI CAYMAN INC.
+By:/s/ Darin G. Billerbeck By: /s/ Mark S. Kopaskie
+Its:_President & CEO Its:_Director
+
+-14-

@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 24518
+Date: Jan 11 2013
+Bill To: Ship To: ;
+. Ship Mode: Standard Class
+Alejandro Grove Shantou,
+Guangdong, China Balance Due: $19,782.76
+Item Quantity Rate Amount
+Safco Floating Shelf Set, Metal 10 $1,962.00 $19,620.00
+Bookcases, Furniture, FUR-BO-5777
+Subtotal: $19,620.00
+Shipping: $162.76
+Total: $19,782.76
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2013-AG1027027-41285

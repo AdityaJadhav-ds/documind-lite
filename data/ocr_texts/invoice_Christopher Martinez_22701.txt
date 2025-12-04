@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 22701
+Date: Feb 15 2012
+Bill To: Ship To: ;
+. . . . Ship Mode: Standard Class
+Christopher Martinez Manila, National
+Capital, Philippines Balance Due: $6,347.29
+Item Quantity Rate Amount
+Nokia Signal Booster, with Caller ID 9 $921.38 $8,292.38
+Phones, Technology, TEC-PH-5353
+Subtotal: $8,292.38
+Discount (25%) : $2,073.10
+Shipping: $128.01
+Total: $6,347.29
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ID-2012-CM12385102-40954

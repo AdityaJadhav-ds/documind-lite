@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 1286
+Date: Nov 01 2012
+Bill To: Ship To: Ship Mod s acl
+: econd Class
+Beth Thompson Lazaro Cardenas, pamoce
+Michoacan, Mexico Balance Due: $1,482.63
+Item Quantity Rate Amount
+Samsung Speaker Phone, Cordless 4 $336.24 $1,344.96
+Phones, Technology, TEC-PH-5843
+Subtotal: $1,344.96
+Shipping: $137.67
+Total: $1,482.63
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-BT1130582-41214

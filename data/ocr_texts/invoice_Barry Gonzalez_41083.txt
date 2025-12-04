@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 41083
+Date: Nov 04 2012
+Bill To: Ship To: ;
+Ship Mode: Same Day
+Barry Gonzalez 23666, Hampton,
+Virginia, United Balance Due: $764.76
+States
+Item Quantity Rate Amount
+Global Stack Chair with Arms, Black 5 $149.90 $749.50
+Chairs, Furniture, FUR-CH-4422
+Subtotal: $749.50
+Shipping: $15.26
+Total: $764.76
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-BG11035140-41217

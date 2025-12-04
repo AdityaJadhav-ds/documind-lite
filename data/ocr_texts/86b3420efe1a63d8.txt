@@ -1,0 +1,50 @@
+First Name Last Name
+
+Looking for full-time opportunities as Data Scientist starting January 2024, open to relocation
+email@xyz.edu | phone number| personal_website.github.io
+
+SUMMARY
+
+e Data scientist with 5+ years of experience in machine learning, statistical modeling, and experiment design.
+© 2+years of experience analyzing business problems in the venture and commercialization space.
+
+® Experienced researcher comfortable working cross-functionally in an ambiguous, fast-paced environment.
+© Expert in distilling and communicating complex ideas as proven through publications and blogposts-
+
+EDUCATION
+
+PhD, Electrical and Computer Engineering: Data Science, XYZ University (September 2018- December 2023)
+MS, Electrical and Computer Engineering, XYZ University (September 2016- June 2018)
+BS, Electrical and Computer Engineering, XYZ University (September 2012 — June 2016}
+SKILLS
+
+Programming: Python (Pandas, Matplotlib, Scikit-Learn, Keras, SciPy, TensorFlow), R, SQL, Git, HTML/CSS
+Visualization: Tableau, Microsoft Excel, Google Sheets
+Machine Learning: Classification, Regression, Topic Modeling, Natural Language Processing (NLP), Neural Networks
+
+WORK EXPERIENCE
+
+Business Analyst Intern (June 2022-August 2022)
+ABC Department, XYZ University
+© Collaborated with researchers, business stakeholders and customers to develop the product and business
+roadmaps for a childhood asthma management app which included regulatory and reimbursement strategies.
+e identified new feature requirements, customer segments and growth opportunities for the app in the digital
+health monitoring market by analyzing data from 20+ interviews, diary studies and market reports using Excel.
+© Delivered short-term, mid-term and long-term metrics to enable competitive growth by synthesizing unstructured
+competitor and customer discovery data to derive 2 cashflow models informing strategic options.
+
+Research Scientist (September 2020 — Present)
+XYZ University
+e Analyzed structured and unstructured data from 2000+ respondents by designing and evaluating 5+ quantitative
+and qualitative experiments using regression models and machine learning topic models in Python and R.
+© Defined 5+ metrics that entrepreneurs, university, and industry stakeholders use to look for funding, investment,
+or partnership opportunities across different cities by conducting a user study with a Tableau dashboard.
+© Partnered with 5+ researchers in 3+ disciplines and institutions to synthesize research findings resulting in 3+
+publications.
+
+Machine Learning Firmware Engineering Intern (June. 2019-September 2019)
+Big Tech Company
+© Decreased inference latency by 34x by developing Python firmware for efficient sparse BERT computations the
+platform engineering hardware team which uses hardware acceleration for machine learning applications.
+e Worked across engineering teams to recommend 3 technical changes to the architecture by testing the technical
+feasibility of firmware in a production environment.

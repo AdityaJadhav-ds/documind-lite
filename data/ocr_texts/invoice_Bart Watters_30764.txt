@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 30764
+Date: May 22 2012
+Bill To: Ship To: Ship Mod Standard Cl
+: andard Class
+Bart Watters Christchurch, p Moce
+Canterbury, New Balance Due: $2,614.40
+Zealand
+Item Quantity Rate Amount
+Nokia Smart Phone, Full Size 2 $1,272.12 $2,544.24
+Phones, Technology, TEC-PH-5355
+Subtotal: $2,544.24
+Shipping: $70.16
+Total: $2,614.40
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-BW1111092-41051

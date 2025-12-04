@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 39748
+Date: Apr 27 2012
+Bill To: Ship To:
+"ve pie Ship Mode: First Class
+Arianne Irving 94122, San
+Francisco, California, Balance Due: $6 895.00
+United States ,
+Item Quantity Rate Amount
+Samsung Galaxy Mega 6.3 5 $1,679.96 $8,399.80
+Phones, Technology, TEC-PH-5817
+Subtotal: $8,399.80
+Discount (20%) : $1,679.96
+Shipping: $175.16
+Total: $6,895.00
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-Al10855140-41026

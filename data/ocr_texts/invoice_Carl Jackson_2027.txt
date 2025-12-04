@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 2027
+Date: Oct 14 2012
+Bill To: Ship To: ; .
+Ship Mode: First Class
+Carl Jackson Cabo de Santo
+Agostinho, ; Balance Due: $7,046.81
+Pernambuco, Brazil
+Item Quantity Rate Amount
+Bush Classic Bookcase, Traditional 5 $1,375.60 $6,878.00
+Bookcases, Furniture, FUR-BO-3627
+Subtotal: $6,878.00
+Shipping: $168.81
+Total: $7,046.81
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-CJ1187518-41196

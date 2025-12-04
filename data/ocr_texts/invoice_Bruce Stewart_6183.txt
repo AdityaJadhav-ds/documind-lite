@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 6183
+Date: Sep 12 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Bruce Stewart Cuenca, Azuay,
+Ecuador Balance Due: $2,139.03
+Item Quantity Rate Amount
+Nokia Speaker Phone, VoIP 5 $410.80 $2,054.00
+Phones, Technology, TEC-PH-5359
+Subtotal: $2,054.00
+Shipping: $85.03
+Total: $2,139.03
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-BS1175537-41164

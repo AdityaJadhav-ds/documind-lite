@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 18794
+Date: Jul 19 2012
+Bill To: Ship To:
+mre P Ship Mode: Second Class
+Alex Grayson Aylesbury, England,
+United Kingdom Balance Due: $625.76
+Item Quantity Rate Amount
+Fellowes File Cart, Wire Frame 2 $272.76 $545.52
+Storage, Office Supplies, OFF-ST-4260
+Subtotal: $545.52
+Shipping: $80.24
+Total: $625.76
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IT-2012-AG10330139-41109

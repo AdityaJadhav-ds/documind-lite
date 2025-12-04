@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 40737
+Date: May 24 2012
+Bill To: Ship To: ;
+. . Ship Mode: Standard Class
+Barry Weirich 10035, New York City,
+New York, United Balance Due: $30.55
+States
+Item Quantity Rate Amount
+Strathmore Photo Frame Cards 2 $14.62 $29.24
+Paper, Office Supplies, OFF-PA-6213
+Subtotal: $29.24
+Shipping: $1.34
+Total: $30.55
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-BW11065140-41053

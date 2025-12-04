@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 35041
+Date: Oct 23 2012
+Bill To: Ship To: ;
+. . Ship Mode: Same Day
+Arthur Prichep 29730, Rock Hill,
+South Carolina, Balance Due: $40.61
+United States
+Item Quantity Rate Amount
+Advantus Map Pennant Flags and Round Head Tacks 3 $11.85 $35.55
+Fasteners, Office Supplies, OFF-FA-3040
+Subtotal: $35.55
+Shipping: $5.06
+Total: $40.61
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AP10915140-41205

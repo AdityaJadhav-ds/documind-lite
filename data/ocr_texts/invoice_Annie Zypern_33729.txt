@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 33729
+Date: Mar 24 2012
+Bill To: Ship To:
+° pie . Ship Mode: Standard Class
+Annie Zypern 10009, New York City,
+New York, United Balance Due: $2,341.18
+States
+Item Quantity Rate Amount
+Iceberg Nesting Folding Chair, 19w x 6d x 43h 7 $366.79 $2,567.50
+Chairs, Furniture, FUR-CH-4840
+Subtotal: $2,567.50
+Discount (10%): $256.75
+Shipping: $30.43
+Total: $2,341.18
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AZ10750140-40992

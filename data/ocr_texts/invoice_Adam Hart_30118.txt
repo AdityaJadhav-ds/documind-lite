@@ -1,0 +1,31 @@
+SuperStore INVOICE
+
+# 30118
+
+Date: Aug 22 2012
+
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Adam Hart Bunbury, Western
+
+Australia, Australia Balance Due: $6,637.37
+
+Item Quantity Rate Amount
+Harbour Creations Steel Folding Chair, Set of Two 9 $811.13 $7,300.21
+
+Chairs, Furniture, FUR-CH-4560
+
+Subtotal: $7,300.21
+
+Discount (10%): $730.02
+
+Shipping: $67.18
+
+Total: $6,637.37
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-AH100757-41143

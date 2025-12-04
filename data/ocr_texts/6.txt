@@ -1,0 +1,220 @@
+JESSICA
+CLAIRE
+
+@& resumesample@example.com
+\ (555) 432-1000
+
+100 Montgomery St. 10th
+9 Floor
+
+SKILLS
+
++ JavaScript expert
+
++ Interface design and
+implementation
+
++ SQL expert
+
++ SDLC processes
+
++ Dashboard creation
+
+EDUCATION AND
+TRAINING
+
+SUNY Polytechnic Institute
+Utica, NY + 05/2017
+
+Master of Science: Computer And
+Information Sciences
+
+GITAM Deemed To Be University
+Visakhapatnam, Andhra Pradesh,
+India. +» 05/2013
+
+Bachelor of Science: Computer
+Science Engineering.
+
+SUMMARY
+
+Around 6 years of experience in Analysis, Design, Development, Management, and Implementation
+of various stand-alone, client-server enterprise applications using Python, Django, Flask, Shell
+Script, and Postgresql.
+
+Strong experience in developing software in Python using following libraries and modules- , Numpy,
+spicy, Matplotlib, Pandas, Psycopg2 for database connectivity, and IDEs -Visual Studio, PyScripter,
+Spyder, PyCharm and Jupyter notebook.
+
+Good experience in developing web applications implementing Model Template View architecture
+using Django web application frameworks
+
+Developed business CRUD operations using RESTful services.
+
+Strong knowledge in object-oriented programming (OOPS) concepts.
+
+Wrote python scripts to parse XML and JSON data and load the data into the database.
+Experience in developing web-based applications using Python, Django, Flask, REST, JSON, CSS,
+HTMLS5, JavaScript and ORM (Object Retaltional Model).
+
+Good working knowledge in Unix and Linux shell environments using command-line utilities.
+Experience in version control systems like GitLab, Github, and Bit Bucket to keep the versions and
+configurations of the code organized
+
+Experience with Unit Testing/ Test Driven Development (TDD), Load Testing.
+
+Experience in developing applications using amazon web services like EC2, Cloud Search, Elastic
+Load balancer ELB, $3, Cloud Front, Route 53.
+
+Familiarity with CI/CD pipeline and Jenkins for automating the pipelines.
+
+Experienced in writing SQL Queries, Stored procedures, functions, packages, tables, views and
+triggers.
+
+Skilled in handling errors/exceptions and debugging/troubleshooting issues in large scale
+applications.
+
+Experience in Infrastructure Development and Operations involving AWS Cloud platforms.
+Excellent analytical and problem solving skills and ability to work on own besides being a valuable
+and contributing tear player.
+
+Experienced in Agile Methodologies, Scrum stories, sprints, involved daily standup meetings, and
+pair programming to produce quality deliverables within time.
+
+Experience in implementing server-side technologies with REST/SOAPAPI and MVC/MVT design
+patterns in the Django framework.
+
+Experience in full software development life cycle(SDLC), architecting scalable platforms, object-
+oriented programming, database design, and agile methodologies.
+
+Good Experience in Linux Bash scripting and following PEP Guidelines in Python.
+
+Good analytical and problem-solving skills and ability to work on own besides being a valuable and
+contributing team player.
+
+Excellent interpersonal and communication skills, efficient time management and organization
+skills, ability to handle multiple tasks and work well in a team environment
+
+EXPERIENCE
+
+Cognizant Technology Solutions - Python Developer
+Green Bay, WI + 08/2019 - Current
+
+.
+
+Developed business logic and templates with Python and Django to create a user-friendly website
+interface.
+
+Used Django to develop web-based application and deployed it on AWS Ec2 instance using Nginx
+and Gunicorn.
+
+Created RESTful API web services for Catalog and Pricing with Django, Postgresql.
+
+Worked on various IDEs (Integrated Development Environments) like Jupyter Notebook, VSCode
+and Spyder.
+
+Utilized Python libraries like Pandas, NumPy, Psycopg2, Matplotlib, and Tkinter.
+
+Implemented CRUD (Create Read Update Delete) operations for the applications using the MVT
+(Model View Template) architecture of Django framework.
+
+Designed, developed and Implemented code in Python to retrieve and manipulated data.
+Develop consumer-based features using Django, HTML in a Test-Driven Development (TDD)
+environment.
+
+Built database model, Views and API's using Python for interactive web based solutions.
+
+Used Python scripts to update the content in the database and manipulate files.
+
+Build SQL queries for performing various CRUD operations.
+
+Cognizant Technology Solutions - Python Developer
+Greenwood Village, CO » 07/2018 - 07/2019
+
+.
+
+se ee
+
+Designed the database schema for the content management system.
+
+Generated RESTful API using Django Frame work.
+
+Wrote Python scripts to parse JSON documents and load the data in database.
+
+Followed MVT pattern while using Django Frame Work.
+
+Worked on a loosely coupled environment in Django Frame Work.
+
+Performed troubleshooting, fixed and deployed many Python bug fixes of the main application that
+was a main source of data for both customers and internal customer service team.
+
+Managed code versioning with GitHub, Gitlab and deployment to staging and production servers.
+Good experience in writing SQL Queries and implementing stored procedures, functions, packages,
+tables, views, Cursors, triggers.
+
+Publishing data to google cloud pub and subscribing the data from google cloud pub sub.
+
+Worked on Different platforms like Centos, Ubuntu, RHEL.
+
+Used PyTest for writing test cases.
+
+Cognizant Technology Solutions - Python Developer
+Long Island City, NY » 06/2017 - 06/2018
+
+se ee
+
+Developed entire backend modules using Python on Django Web Framework.
+
+Used the GIT version control tool to coordinate team-development.
+
+Involved in building database models, APIs, and Views utilizing Python, to build an interactive web-
+based solution.
+
+Involving in scrum meetings, internal sprint reviews, and sprint retrospective.
+
+Utilized Python-specific tools including Django, Django Rest Framework, Django ORM, Flask,
+SQLAlchemy, Pandas, Matplotlib and Numpy.
+
+Generated Python Django Forms to record data of online users.
+
+Wrote Python scripts to parse XML documents and load the data in the database.
+
+Performed testing using Django’s Test Module.
+
+Used Python scripts to update content in the database and manipulate files.
+
+Improved code reuse and performance by making effective use of various design patterns.
+
+Cognizant Technology Solutions - Python Developer
+Lynchburg, VA + 07/2013 - 07/2015
+
+.
+
+Mentored entry-level Python development personnel, providing both internal and external positions
+with technical guidance and education.
+
+Used Agile Methodology and SCRUM Process.
+
+Developed and designed automation framework using Python and Shell scripting.
+
+Designed and developed the UI of the website using HTML, XHTML, AJAX, CSS, and JavaScript.
+Participated in the complete SDLC process.
+
+Developed entire backend modules using Python on Django Web Framework.
+
+Participated in requirernent gathering and worked closely with the architect in designing and
+modeling.
+
+Worked on development of SQL and stored procedures on MYSQL.
+
+Developed shopping cart for Library and integrated web services to access the payment (E-
+commerce).
+
+Implemented monitoring and established best practices around using elastic search.
+
+Used GitLab for the version control.
+
+Used Python scripts to extract information from XML files.
+
+Provided GUI utilizing PyQt for the end user to create, modify and view reports based on client
+data.

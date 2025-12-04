@@ -1,0 +1,25 @@
+SuperStore INVOICE
+
+# 17534
+Date: Jan 15 2013
+Bill To: Ship To: ; .
+Ship Mode: First Class
+Corey Catlett Iserlohn, North
+Rhine-Westphalia, Balance Due: $18,835.16
+Germany
+
+Item Quantity Rate Amount
+Hamilton Beach Microwave, Black 9 $2,283.71 $20,553.43
+
+Appliances, Office Supplies, OFF-AP-4497
+Subtotal: $20,553.43
+Discount (10%): $2,055.34
+Shipping: $337.07
+Total: $18,835.16
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IT-2013-CC1261048-41289

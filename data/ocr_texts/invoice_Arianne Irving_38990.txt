@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 38990
+Date: Dec 28 2012
+Bill To: Ship To: ;
+| . Ship Mode: Standard Class
+Arianne Irving 94513, Brentwood,
+California, United Balance Due: $1,047.91
+States
+Item Quantity Rate Amount
+HTC One 4 $319.97 $1,279.87
+Phones, Technology, TEC-PH-4793
+Subtotal: $1,279.87
+Discount (20%) : $255.97
+Shipping: $24.01
+Total: $1,047.91
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-Al10855140-41271

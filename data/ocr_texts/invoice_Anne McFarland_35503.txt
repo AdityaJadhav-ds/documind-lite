@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 35503
+Date: Oct 30 2012
+Bill To: Ship To: Ship Mode: S acl
+Anne McFarland 2920, Cranston, p Mocs: econa Wiass
+Rhode Island, United Balance Due: $69.53
+States
+Item Quantity Rate Amount
+GBC Recycled VeloBinder Covers 2 $34.08 $68.16
+Binders, Office Supplies, OFF-BI-4364
+Subtotal: $68.16
+Shipping: $1.37
+Total: $69.53
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AM10705140-41212

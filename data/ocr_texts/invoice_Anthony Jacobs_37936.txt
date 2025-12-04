@@ -1,0 +1,24 @@
+SuperStore INVOICE
+
+# 37936
+Date: Oct 30 2012
+Bill To: Ship To:
+me pee . . Ship Mode: Second Class
+Anthony Jacobs 44052, Lorain, Ohio,
+
+United States Balance Due: $7,101.65
+Item Quantity Rate Amount
+Hon 94000 Series Round Tables 8 $1,421.66 $11,373.31
+
+Tables, Furniture, FUR-TA-4625
+Subtotal: $11,373.31
+Discount (40%) : $4,549.32
+Shipping: $277.66
+Total: $7,101.65
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AJ10780140-41212

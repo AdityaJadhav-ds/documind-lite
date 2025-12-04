@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 31314
+Date: May 12 2012
+Bill To: Ship To: ;
+. Ship Mode: Second Class
+Alejandro Grove 84084, West Jordan,
+Utah, United States Balance Due: $112.82
+Item Quantity Rate Amount
+Fellowes Super Stor/Drawer 2 $55.50 $111.00
+Storage, Office Supplies, OFF-ST-4290
+Subtotal: $111.00
+Shipping: $1.82
+Total: $112.82
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AG10270140-41041

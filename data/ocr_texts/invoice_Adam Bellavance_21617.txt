@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+#21617
+Date: May 31 2012
+Bill To: Ship To: ; .
+| Ship Mode: First Class
+Adam Bellavance Denpasar, Bali,
+Indonesia Balance Due: $6,263.17
+Item Quantity Rate Amount
+Harbour Creations Swivel Stool, Black 8 $1,037.71 $8,301.68
+Chairs, Furniture, FUR-CH-4562
+Subtotal: $8,301.68
+Discount (27%): $2,241.45
+Shipping: $202.94
+Total: $6,263.17
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-AB1006059-41060

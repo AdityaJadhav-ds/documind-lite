@@ -1,0 +1,31 @@
+SuperStore INVOICE
+
+#51126
+
+Date: Jan 18 2012
+
+Bill To: Ship To:
+ne pie Ship Mode: First Class
+Charles Sheldon Arusha, Arusha,
+
+Tanzania Balance Due: $2,819.28
+
+Item Quantity Rate Amount
+Fellowes Lockers, Blue 4 $746.39 $2,985.55
+
+Storage, Office Supplies, OFF-ST-4266
+
+Subtotal: $2,985.55
+
+Discount (10%) : $298.56
+
+Shipping: $132.29
+
+Total: $2,819.28
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : TZ-2012-CS2175129-40926

@@ -1,0 +1,19 @@
+SuperStore INVOICE
+
+# 12204
+Date: Apr 10 2012
+Bill To: Ship To: Ship Mode: S acl
+Berenike Kampe Bonn, North Rhine- paces: econe Wass
+Westphalia, Germany Balance Due: $2,506.76
+Item Quantity Rate Amount
+Canon Copy Machine, Digital 3 $785.34 $2,356.02
+Copiers, Technology, TEC-CO-3679
+Subtotal: $2,356.02
+Shipping: $150.74
+Total: $2,506.76
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-BK1126048-41009

@@ -1,0 +1,40 @@
+DATA SCIENTIST RESUME 6... :-:.52 co:
+S = o 5
+
+RES U ME OBJECTIVE
+
+Data Scientist with 5+ years of experience executing data-driven solutions to increase efficiency, accuracy, and utility of
+internal data processing. Experienced at creating data regression models, using predictive data modeling, and
+analyzing data mining algorithms to deliver insights and implement action-oriented solutions to complex business
+
+problems.
+
+SKILLS
+
+EXPERIENCE
+
+MICROSOFT, Tucson, AZ
+Data Scientist, September 2021-Present
+e Conduct data regression analyses of the relationship between company stock prices and industry trends,
+achieving a 15% more accurate prediction of performance than previous years
+e Utilize web scraping techniques to extract and organize competitor data
+e Update company data warehousing techniques such as data recall and segmentation, resulting in a 20% increase
+in usability for non-technical staff members
+¢ Modernize data streamlining processes, resulting in a 47% redundancy reduction
+
+HEWLETT-PACKARD, San Francisco, CA
+Data Scientist, January 2017 - March 2021
+¢ Worked with management to develop and apply digital marketing plans with a focus on driving acquisition
+and conversion
+e Devised and implemented robust digital acquisition plans, ensuring precision in financial reporting,
+budgets, and forecasts
+e Increased conversions by 15% from paid sources (PPC, Grant, Display, and VOD)
+e Enhanced conversion rates by 12% via A/B testing landing pages for a better performing conversion funnel
+
+EDUCATION
+
+University of California, University of Arizona, Microsoft
+Berkeley, CA Tucson, AZ Microsoft Certified
+M.S. Statistics B.S. Computer Science Solutions Expert
+
+2017 2015 2021

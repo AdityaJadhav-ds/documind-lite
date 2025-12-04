@@ -1,0 +1,22 @@
+SuperStore INVOICE
+
+# 33503
+Date: Jul 13 2012
+Bill To: Ship To:
+ne oo. pie Ship Mode: Standard Class
+Arthur Wiediger 60505, Aurora,
+Illinois, United States Balance Due: $45.37
+Item Quantity Rate Amount
+Acco D-Ring Binder w/DublLock 7 $29.93 $209.52
+Binders, Office Supplies, OFF-BI-2905
+Subtotal: $209.52
+Discount (80%) : $167.62
+Shipping: $3.47
+Total: $45.37
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-AW10930140-41103

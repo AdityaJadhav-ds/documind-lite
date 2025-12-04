@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 9931
+Date: Jan 01 2013
+Bill To: Ship To: ; .
+Ship Mode: First Class
+Bruce Degenhardt Soyapango, San
+Salvador, El Salvador Balance Due: $4,708.28
+Item Quantity Rate Amount
+Fellowes Shelving, Wire Frame 11 $417.34 $4,590.74
+Storage, Office Supplies, OFF-ST-4285
+Subtotal: $4,590.74
+Shipping: $117.54
+Total: $4,708.28
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : MX-2013-BD1172539-41275

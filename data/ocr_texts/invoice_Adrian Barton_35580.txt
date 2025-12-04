@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 35580
+Date: Dec 19 2012
+Bill To: Ship To: Ship Mode: First Cl
+Adrian Barton 46203, Indianapolis, p Moce: mst Ulass
+Indiana, United Balance Due: $3,375.73
+States
+Item Quantity Rate Amount
+Ibico Ibimaster 300 Manual Binding System 3 $1,103.97 $3,311.91
+Binders, Office Supplies, OFF-BI-4827
+Subtotal: $3,311.91
+Shipping: $63.82
+Total: $3,375.73
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AB10105140-41262

@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+#27119
+Date: Jun 28 2012
+Bill To: Ship To: ;
+; | Ship Mode: Second Class
+Bill Eplett Ipoh, Perak, Malaysia
+Balance Due: $6,585.13
+Item Quantity Rate Amount
+SanDisk Router, USB 5 $1,282.80 $6,414.00
+Accessories, Technology, TEC-AC-5897
+Subtotal: $6,414.00
+Shipping: $171.13
+Total: $6,585.13
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-BE1133578-41088

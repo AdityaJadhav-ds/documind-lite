@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 40184
+Date: Jul 26 2012
+Bill To: Ship To: ;
+. Ship Mode: Second Class
+Barry Blumstein 90036, Los Angeles,
+California, United Balance Due: $584.83
+States
+Item Quantity Rate Amount
+SAFCO Commercial Wire Shelving, Black 2 $276.28 $552.56
+Storage, Office Supplies, OFF-ST-5766
+Subtotal: $552.56
+Shipping: $32.27
+Total: $584.83
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-BB10990140-41116

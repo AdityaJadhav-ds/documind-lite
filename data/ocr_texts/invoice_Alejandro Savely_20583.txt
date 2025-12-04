@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 20583
+Date: Nov 08 2012
+Bill To: Ship To: ; .
+. Ship Mode: First Class
+Alejandro Savely Kanpur, Uttar
+Pradesh, India Balance Due: $7,115.53
+Item Quantity Rate Amount
+Office Star Rocking Chair, Black 7 $969.36 $6,785.52
+Chairs, Furniture, FUR-CH-5447
+Subtotal: $6,785.52
+Shipping: $330.01
+Total: $7,115.53
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-AS1028558-41221

@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 35337
+Date: Dec 28 2012
+Bill To: Ship To: ;
+Ship Mode: Standard Class
+Anthony Johnson 94110, San
+Francisco, California, Balance Due: $36.42
+United States
+Item Quantity Rate Amount
+Avery Hanging File Binders 3 $14.35 $43.06
+Binders, Office Supplies, OFF-BI-3278
+Subtotal: $43.06
+Discount (20%) : $8.61
+Shipping: $1.97
+Total: $36.42
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : CA-2012-AJ10795140-41271

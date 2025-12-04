@@ -1,0 +1,21 @@
+SuperStore INVOICE
+
+# 8015
+Date: Dec 12 2012
+Bill To: Ship To: ;
+. . Ship Mode: Standard Class
+Christopher Martinez Monterrey, Nuevo
+Leon, Mexico Balance Due: $10,773.98
+Item Quantity Rate Amount
+Samsung Smart Phone, VoIP 5 $2,120.80 $10,604.00
+Phones, Technology, TEC-PH-5841
+Subtotal: $10,604.00
+Shipping: $169.98
+Total: $10,773.98
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-CM1238582-41255

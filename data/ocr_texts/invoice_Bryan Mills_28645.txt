@@ -1,0 +1,20 @@
+SuperStore INVOICE
+
+# 28645
+Date: Aug 03 2012
+Bill To: Ship To: ;
+. . . . Ship Mode: Standard Class
+Bryan Mills Tiruchchirappalli,
+Tamil Nadu, India Balance Due: $6,000.10
+Item Quantity Rate Amount
+Bush Library with Doors, Metal 4 $1,455.12 $5,820.48
+Bookcases, Furniture, FUR-BO-3639
+Subtotal: $5,820.48
+Shipping: $179.62
+Total: $6,000.10
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IN-2012-BM1178558-41 124

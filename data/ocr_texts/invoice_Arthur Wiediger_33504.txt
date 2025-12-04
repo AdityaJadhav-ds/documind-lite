@@ -1,0 +1,23 @@
+SuperStore INVOICE
+
+# 33504
+Date: Jul 13 2012
+Bill To: Ship To: ;
+oo Ship Mode: Standard Class
+Arthur Wiediger 60505, Aurora,
+Illinois, United States Balance Due: $124.50
+Item Quantity Rate Amount
+| Need's 3d Hello Kitty Hybrid Silicone Case Cover for HTC One X 4 $38.27 $153.09
+4g with 3d Hello Kitty Stylus Pen Green/pink
+Phones, Technology, TEC-PH-4800
+Subtotal: $153.09
+Discount (20%) : $30.62
+Shipping: $2.03
+Total: $124.50
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : US-2012-AW10930140-41103

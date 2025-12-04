@@ -1,0 +1,46 @@
+DATABASE DEVELOPER RESUME
+
+789 Windy Street, Chicago, IL 60007 + (312) 867-5309 + jen.yang@gmail.com
+
+SUMMARY Database Developer with demonstrated success analyzing and improving database
+functionality. Diverse technical background with expertise in SQL, PL/SQL, C#, Python,
+and R. Skilled at working with business analysts, developers, and programmers to find
+business and database solutions. Looking to take on increased responsibility as a
+Lead Database Developer to make your company’s databases more efficient.
+
+PROFESSIONAL Database Developer Sept 2020 - Present
+EXPERIENCE StrateglQ Commerce - Chicago, IL
+
+e Develop and maintain stored procedures for ETL processes and reports
+using SQL, C#, SSIS packages, and PowerShell for 15+ projects
+
+e Monitor and fix code base, conducting root cause analysis and
+regression testing to identify and address problem areas
+
+e Work with BI team to build dashboards and troubleshoot data issues
+
+e Migrated 30 physical servers to virtual environment and configured SQL
+servers to support 3k users, saving $45k annually in infrastructure costs
+
+e Mentor 8 junior developers and create training materials for future hires
+
+Junior Database Developer Jun 2018 - Aug 2020
+The Lake Companies - Green Bay, WI
+
+e Coordinated with business analysts to create SSRS and Power BI reports,
+and customized 20+ business and operations Power BI dashboards
+
+e Used SQL and PL/SQL to design and implement schemas, tables,
+functions, and packages in Oracle database
+
+e Tuned indexes and SQL queries to reduce processing time and resource
+usage by 9%
+
+e Wrote T-SQL scripts to pull extracts and transfer data between databases
+
+EDUCATION Bachelor of Science in Computer Science May 2018
+Graduated magna cum Jaude (GPA: 3.8/4.0)
+University of Wisconsin - Madison, WI
+
+ADDITIONAL ¢ Programming Languages: SQL, PL/SQL, C#, Python, R
+SKILES e Tools: Virtual Studio, Git, Power BI, MS Excel, SSRS, SSIS
