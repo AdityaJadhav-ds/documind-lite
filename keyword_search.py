@@ -1,155 +1,110 @@
-# keyword_search.py — Simple BM25-style keyword search over Chroma documents
-# -------------------------------------------------------------------------
-# Goal:
-#   Provide a lightweight, dependency-free keyword search layer that works
-#   alongside Chroma's vector search. This is NOT a perfect BM25 implementation,
-#   but a solid "good enough" scorer for a small doc collection.
-#
-# Public API:
-#   keyword_search(collection, query, top_k=5, doc_type_filter="all") -> List[dict]
-#
-# Returned doc dict format (matches retrieve_docs in app.py):
-#   {
-#       "id": str,
-#       "source_file": str,
-#       "doc_type": str,
-#       "text": str,
-#       "score": float,
-#   }
+# keyword_search.py — BM25-style keyword search for DocuMind Lite
+# ---------------------------------------------------------------
+# - Works with new/old ChromaDB (Streamlit Cloud compatible)
+# - No include=["ids"] (ids are returned automatically)
+# - Supports doc_type_filter just like vector search
+# - Safe: returns [] on no matches / empty query
 
 from __future__ import annotations
 
-import math
+from typing import List, Dict, Any
 import re
-from typing import Any, Dict, List
+import math
 
-import pandas as pd
+
+# ===================== TOKENIZATION =====================
 
 
 def _tokenize(text: str) -> List[str]:
-    """Lowercase and split on non-alphanumeric. Very simple tokenizer."""
+    """Lowercase + keep only alphanumeric tokens."""
     if not text:
         return []
     text = text.lower()
-    tokens = re.split(r"[^a-z0-9]+", text)
-    return [t for t in tokens if t]
+    return re.findall(r"[a-z0-9]+", text)
 
 
-def _build_corpus_from_chroma(collection, doc_type_filter: str = "all") -> pd.DataFrame:
+# ===================== BM25 INDEX BUILDING =====================
+
+
+def _build_bm25_index(texts: List[str]) -> Dict[str, Any]:
     """
-    Load all documents (or filtered by doc_type) from Chroma into a DataFrame.
-    Columns:
-        - doc_id
-        - doc_type
-        - source_file
-        - text
+    Build BM25 index from list of texts.
+
+    Returns a dict with:
+        - doc_tokens: List[List[str]]
+        - df: Dict[token, document_frequency]
+        - avgdl: float (average document length)
+        - N: int (number of documents)
     """
-    get_kwargs: Dict[str, Any] = {
-        "include": ["documents", "metadatas", "ids"],
+    doc_tokens: List[List[str]] = []
+    df: Dict[str, int] = {}
+    total_len = 0
+
+    for txt in texts:
+        tokens = _tokenize(txt)
+        doc_tokens.append(tokens)
+        total_len += len(tokens)
+        unique_tokens = set(tokens)
+        for t in unique_tokens:
+            df[t] = df.get(t, 0) + 1
+
+    N = len(doc_tokens)
+    avgdl = total_len / float(N or 1)
+
+    return {
+        "doc_tokens": doc_tokens,
+        "df": df,
+        "avgdl": avgdl,
+        "N": N,
     }
-    dt = (doc_type_filter or "all").lower()
-    if dt != "all":
-        get_kwargs["where"] = {"doc_type": dt}
-
-    results = collection.get(**get_kwargs)
-    ids = results.get("ids", []) or []
-    metas = results.get("metadatas", []) or []
-    docs = results.get("documents", []) or []
-
-    rows = []
-    for doc_id, meta, text in zip(ids, metas, docs):
-        rows.append(
-            {
-                "doc_id": str(doc_id),
-                "doc_type": str(meta.get("doc_type", "other")),
-                "source_file": str(meta.get("source_file", "")),
-                "text": text or "",
-            }
-        )
-
-    return pd.DataFrame(rows)
 
 
-def _build_inverted_index(df: pd.DataFrame):
-    """
-    Build simple inverted index + stats:
-        - tokens per doc
-        - doc lengths
-        - document frequency per term
-    Returns:
-        corpus_tokens: List[List[str]]
-        doc_ids: List[str]
-        doc_types: List[str]
-        source_files: List[str]
-        df_counts: Dict[str, int]
-        avgdl: float
-    """
-    corpus_tokens: List[List[str]] = []
-    doc_ids: List[str] = []
-    doc_types: List[str] = []
-    source_files: List[str] = []
-    df_counts: Dict[str, int] = {}
+def _bm25_scores(query: str, index: Dict[str, Any]) -> List[float]:
+    """Compute BM25-like scores for each document."""
+    k1 = 1.5
+    b = 0.75
 
-    for _, row in df.iterrows():
-        tokens = _tokenize(row["text"])
-        corpus_tokens.append(tokens)
-        doc_ids.append(row["doc_id"])
-        doc_types.append(row["doc_type"])
-        source_files.append(row["source_file"])
+    q_tokens = _tokenize(query)
+    if not q_tokens or index["N"] == 0:
+        return [0.0] * index["N"]
 
-        seen_terms = set(tokens)
-        for term in seen_terms:
-            df_counts[term] = df_counts.get(term, 0) + 1
+    doc_tokens: List[List[str]] = index["doc_tokens"]
+    df: Dict[str, int] = index["df"]
+    N: int = index["N"]
+    avgdl: float = index["avgdl"] or 1.0
 
-    if corpus_tokens:
-        avgdl = sum(len(toks) for toks in corpus_tokens) / float(len(corpus_tokens))
-    else:
-        avgdl = 0.0
+    scores: List[float] = []
 
-    return corpus_tokens, doc_ids, doc_types, source_files, df_counts, avgdl
+    for tokens in doc_tokens:
+        dl = len(tokens) or 1
+        score = 0.0
 
+        # term frequency in this doc
+        freq: Dict[str, int] = {}
+        for t in tokens:
+            freq[t] = freq.get(t, 0) + 1
 
-def _bm25_scores_for_query(
-    query: str,
-    corpus_tokens: List[List[str]],
-    df_counts: Dict[str, int],
-    avgdl: float,
-    k1: float = 1.5,
-    b: float = 0.75,
-) -> List[float]:
-    """
-    Compute BM25-like scores for a single query across all docs.
-    This is a simplified implementation suitable for small corpora.
-    """
-    if not corpus_tokens:
-        return []
-
-    N = len(corpus_tokens)
-    qtokens = _tokenize(query)
-    if not qtokens:
-        return [0.0] * N
-
-    scores = [0.0] * N
-
-    for term in qtokens:
-        df_t = df_counts.get(term, 0)
-        if df_t == 0:
-            continue
-
-        # IDF with plus-one tricks to avoid zero / div by zero
-        idf = math.log((N - df_t + 0.5) / (df_t + 0.5) + 1)
-
-        for i, doc_tokens in enumerate(corpus_tokens):
-            freq = doc_tokens.count(term)
-            if freq == 0:
+        for t in q_tokens:
+            ni = df.get(t, 0)
+            if ni == 0:
                 continue
 
-            dl = len(doc_tokens) or 1
-            numer = freq * (k1 + 1)
-            denom = freq + k1 * (1 - b + b * dl / (avgdl or 1.0))
-            scores[i] += idf * (numer / denom)
+            fi = freq.get(t, 0)
+            if fi == 0:
+                continue
+
+            # IDF with standard BM25 smoothing
+            idf = math.log(1 + (N - ni + 0.5) / (ni + 0.5))
+
+            denom = fi + k1 * (1 - b + b * dl / avgdl)
+            score += idf * (fi * (k1 + 1) / denom)
+
+        scores.append(float(score))
 
     return scores
+
+
+# ===================== PUBLIC API =====================
 
 
 def keyword_search(
@@ -159,48 +114,80 @@ def keyword_search(
     doc_type_filter: str = "all",
 ) -> List[Dict[str, Any]]:
     """
-    Run BM25-style keyword search over all docs (or filtered by doc_type).
-    Returns top_k docs with highest scores.
+    BM25-style keyword search over all Chroma documents.
 
-    Returned docs:
-        [{
-            "id": ...,
-            "source_file": ...,
-            "doc_type": ...,
-            "text": ...,
-            "score": float,
-        }, ...]
+    Args:
+        collection: Chroma collection object.
+        query: User's search string.
+        top_k: Max number of docs to return.
+        doc_type_filter: "all" or specific type ("invoice", "resume", "contract").
+
+    Returns:
+        List of dicts:
+        [
+            {
+                "id": str,
+                "score": float,
+                "doc_type": str,
+                "source_file": str,
+                "text": str,  # snippet
+            },
+            ...
+        ]
     """
     query = (query or "").strip()
     if not query:
         return []
 
-    df = _build_corpus_from_chroma(collection, doc_type_filter=doc_type_filter)
-    if df.empty:
+    # Build get() kwargs compatible with new Chroma
+    get_kwargs: Dict[str, Any] = {
+        "include": ["documents", "metadatas"],
+    }
+    dt = (doc_type_filter or "all").lower()
+    if dt != "all":
+        get_kwargs["where"] = {"doc_type": dt}
+
+    # Chroma always returns "ids" even if you don't ask in include
+    results = collection.get(**get_kwargs)
+
+    docs: List[str] = results.get("documents", []) or []
+    metas: List[Dict[str, Any]] = results.get("metadatas", []) or []
+    ids: List[str] = results.get("ids", []) or []
+
+    if not docs:
         return []
 
-    corpus_tokens, doc_ids, doc_types, source_files, df_counts, avgdl = _build_inverted_index(df)
-    scores = _bm25_scores_for_query(
-        query=query,
-        corpus_tokens=corpus_tokens,
-        df_counts=df_counts,
-        avgdl=avgdl,
+    # Safety: align lengths
+    n = min(len(docs), len(metas), len(ids))
+    docs = docs[:n]
+    metas = metas[:n]
+    ids = ids[:n]
+
+    # Build BM25 index & score
+    index = _build_bm25_index(docs)
+    scores = _bm25_scores(query, index)
+
+    # Rank by score
+    ranked = sorted(
+        zip(ids, metas, docs, scores),
+        key=lambda x: x[3],
+        reverse=True,
     )
 
-    scored_rows = []
-    for i, score in enumerate(scores):
-        if score <= 0:
-            continue
-        scored_rows.append(
+    # Filter out zero-score docs (no keyword hit)
+    ranked = [r for r in ranked if r[3] > 0.0][:top_k]
+
+    results_out: List[Dict[str, Any]] = []
+    for doc_id, meta, text, score in ranked:
+        snippet = text[:800] + ("..." if len(text) > 800 else "")
+        results_out.append(
             {
-                "id": doc_ids[i],
-                "source_file": source_files[i],
-                "doc_type": doc_types[i],
-                "text": df.iloc[i]["text"],
-                "score": float(score),
+                "id": str(doc_id),
+                "score": round(float(score), 4),
+                "doc_type": str(meta.get("doc_type", "unknown")),
+                "source_file": str(meta.get("source_file", "")),
+                "text": snippet,
             }
         )
 
-    # Sort by score descending, keep top_k
-    scored_rows.sort(key=lambda d: d["score"], reverse=True)
-    return scored_rows[:top_k]
+    return results_out
