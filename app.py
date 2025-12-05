@@ -1,12 +1,15 @@
-# app.py — DocuMind Lite (God-Level Beginner-Friendly RAG App)
+# app.py — DocuMind Lite (Upgraded RAG App)
 # Multi-document intelligence over invoices, resumes & contracts.
 
 from __future__ import annotations
 
 import os
 import re
+from io import BytesIO
 from pathlib import Path
 from typing import List, Optional, Tuple, Dict, Any
+from uuid import uuid4
+from datetime import datetime
 
 import chromadb
 import pandas as pd
@@ -82,6 +85,106 @@ def mask_pii(text: str) -> str:
     return text
 
 
+# ===================== OCR HELPERS =====================
+
+
+def ocr_pdf(file_bytes: bytes) -> Tuple[bool, str]:
+    """Run OCR on a PDF (all pages)."""
+    try:
+        from pdf2image import convert_from_bytes
+        import pytesseract
+    except ImportError:
+        return (
+            False,
+            "OCR dependencies missing. Install: `pip install pdf2image pytesseract` "
+            "and install Tesseract on your system.",
+        )
+
+    try:
+        pages = convert_from_bytes(file_bytes)
+    except Exception as e:
+        return False, f"Error converting PDF to images: {e}"
+
+    texts: List[str] = []
+    for img in pages:
+        try:
+            txt = pytesseract.image_to_string(img)
+            texts.append(txt)
+        except Exception:
+            continue
+
+    full_text = "\n\n".join(texts)
+    return True, full_text
+
+
+def ocr_image(file_bytes: bytes) -> Tuple[bool, str]:
+    """Run OCR on an image (PNG/JPG)."""
+    try:
+        from PIL import Image
+        import pytesseract
+    except ImportError:
+        return (
+            False,
+            "OCR dependencies missing. Install: `pip install pillow pytesseract` "
+            "and install Tesseract on your system.",
+        )
+
+    try:
+        img = Image.open(BytesIO(file_bytes))
+        txt = pytesseract.image_to_string(img)
+    except Exception as e:
+        return False, f"Error during image OCR: {e}"
+
+    return True, txt
+
+
+def ocr_and_index_upload(
+    uploaded_file, doc_type: str, collection
+) -> Tuple[bool, str]:
+    """
+    OCR the uploaded file and add it to the Chroma collection.
+
+    Returns (success, message).
+    """
+    ext = Path(uploaded_file.name).suffix.lower()
+    file_bytes = uploaded_file.getvalue()
+
+    if ext == ".pdf":
+        ok, text = ocr_pdf(file_bytes)
+    elif ext in {".png", ".jpg", ".jpeg"}:
+        ok, text = ocr_image(file_bytes)
+    else:
+        return False, f"Unsupported file type: {ext}. Use PDF / PNG / JPG."
+
+    if not ok:
+        return False, text  # error message from OCR helper
+
+    cleaned = clean_text(text)
+    if len(cleaned) < 40:
+        return False, "OCR text too short or empty. Check document quality."
+
+    new_id = f"app_{uuid4().hex}"
+    meta = {
+        "doc_type": doc_type,
+        "source_file": uploaded_file.name,
+        "rel_path": f"uploads/{uploaded_file.name}",
+        "text_len": len(cleaned),
+        "uploaded_via": "app_upload",
+        "uploaded_at": datetime.utcnow().isoformat(),
+    }
+
+    try:
+        collection.add(
+            ids=[new_id],
+            documents=[cleaned],
+            metadatas=[meta],
+        )
+    except Exception as e:
+        return False, f"Failed to index document in Chroma: {e}"
+
+    return True, f"Indexed `{uploaded_file.name}` as `{new_id}` (type: {doc_type})."
+
+
 # ===================== DATA HELPERS =====================
 
 
@@ -151,6 +254,33 @@ def retrieve_docs(
     docs_raw = results["documents"][0]
     metas = results["metadatas"][0]
     ids = results["ids"][0]
+
+    docs: List[dict] = []
+    for doc_id, meta, text in zip(ids, metas, docs_raw):
+        docs.append(
+            {
+                "id": str(doc_id),
+                "source_file": str(meta.get("source_file", "unknown")),
+                "doc_type": str(meta.get("doc_type", "other")),
+                "text": text or "",
+            }
+        )
+    return docs
+
+
+def retrieve_single_doc(collection, doc_id: str) -> List[dict]:
+    """Retrieve a single document by id (for 'chat with specific document')."""
+    try:
+        results = collection.get(
+            ids=[doc_id],
+            include=["documents", "metadatas"],
+        )
+    except Exception:
+        return []
+
+    docs_raw = results.get("documents", [])
+    metas = results.get("metadatas", [])
+    ids = results.get("ids", [])
 
     docs: List[dict] = []
     for doc_id, meta, text in zip(ids, metas, docs_raw):
@@ -273,7 +403,7 @@ Answering rules:
     return True, (resp.choices[0].message.content or "(No answer returned.)")
 
 
-# ---------- Special: count questions like "total resumes" ----------
+# ---------- Special: count questions like "how many invoices" ----------
 
 
 def handle_count_question(question: str, collection) -> Optional[str]:
@@ -316,11 +446,9 @@ def handle_count_question(question: str, collection) -> Optional[str]:
         "total contracts",
     ]
 
-    # If the question contains ANY of these, then it's a count query
     if not any(phrase in q for phrase in count_phrases):
         return None
 
-    # Determine which type
     doc_type = None
     if "resume" in q or "resumes" in q:
         doc_type = "resume"
@@ -332,11 +460,10 @@ def handle_count_question(question: str, collection) -> Optional[str]:
     if not doc_type:
         return None
 
-    # Query metadata only (ids auto-return)
     try:
         results = collection.get(
             where={"doc_type": doc_type},
-            include=["metadatas"],
+            include=["metadatas"],  # ids auto-returned
         )
         num_docs = len(results.get("ids", []))
     except Exception:
@@ -416,24 +543,35 @@ def sidebar_layout(invoices_df: Optional[pd.DataFrame]) -> Tuple[str, int]:
         top_k = st.slider("Top-k documents to retrieve for Q&A", 1, 10, 3)
 
         st.markdown("---")
-        st.markdown("### 📤 Upload (preview only)")
+        st.markdown("### 📤 Upload → OCR → Index")
 
         uploaded = st.file_uploader(
-            "Upload invoice/resume/contract (PDF)",
-            type=["pdf"],
-            help="Currently saved locally; OCR+indexing pipeline can be wired later.",
+            "Upload invoice/resume/contract (PDF/PNG/JPG)",
+            type=["pdf", "png", "jpg", "jpeg"],
+            help="Uploaded file will be OCR'd and added to the vector index.",
         )
-        if uploaded is not None:
-            upload_dir = BASE_DIR / "data" / "uploads"
-            upload_dir.mkdir(parents=True, exist_ok=True)
-            save_path = upload_dir / uploaded.name
-            with open(save_path, "wb") as f:
-                f.write(uploaded.getbuffer())
-            st.success(f"Saved to `{save_path.name}`")
-            st.info(
-                "This prototype saves the file only.\n"
-                "Next iteration: run OCR + update Chroma index automatically."
-            )
+        upload_doc_type = st.selectbox(
+            "Label uploaded document as",
+            ["invoice", "resume", "contract", "other"],
+            index=0,
+        )
+
+        if st.button("Run OCR + index uploaded file", key="process_upload"):
+            if uploaded is None:
+                st.warning("Please upload a file first.")
+            else:
+                try:
+                    collection = get_chroma_collection()
+                except Exception as e:
+                    st.error(f"Could not load index: {e}")
+                else:
+                    ok, msg = ocr_and_index_upload(
+                        uploaded, upload_doc_type, collection
+                    )
+                    if ok:
+                        st.success(msg)
+                    else:
+                        st.error(msg)
 
         st.markdown("---")
         st.markdown("### 📊 Structured invoices (CSV)")
@@ -515,11 +653,43 @@ def render_qa_tab(doc_type_for_qa: str, top_k: int) -> None:
         help="Turn this OFF only if you want the model to infer slightly when context is weak.",
     )
 
+    try:
+        collection = get_chroma_collection()
+    except Exception as e:
+        st.error(f"Error loading Chroma collection: {e}")
+        return
+
+    # Optional: chat with a specific document
+    specific_mode = st.checkbox(
+        "Chat with a specific document", value=False, help="Scope Q&A to one doc id."
+    )
+    specific_doc_id: Optional[str] = None
+
+    if specific_mode:
+        meta_df_specific = get_metadata_df(collection, doc_type_filter=doc_type_for_qa)
+        if meta_df_specific.empty:
+            st.info(
+                f"No documents available for type '{doc_type_for_qa}' to select from."
+            )
+            specific_mode = False
+        else:
+            options = []
+            id_map: Dict[str, str] = {}
+            for _, row in meta_df_specific.iterrows():
+                label = f"{row['doc_id']} — {Path(row['source_file']).name}"
+                options.append(label)
+                id_map[label] = row["doc_id"]
+
+            selected_label = st.selectbox(
+                "Select a document", options, index=0, key="qa_specific_doc"
+            )
+            specific_doc_id = id_map[selected_label]
+
     sample_qs = [
         "What is the total amount on the latest invoice?",
         "What are the main skills in the resume?",
         "Who are the parties and effective date in the contract?",
-        "How many resumes are indexed?",
+        "How many invoices are indexed?",
     ]
 
     col_q1, col_q2 = st.columns([3, 1])
@@ -547,30 +717,28 @@ def render_qa_tab(doc_type_for_qa: str, top_k: int) -> None:
         st.session_state["qa_history"] = []
 
     if ask_clicked and question.strip():
-        try:
-            collection = get_chroma_collection()
-        except Exception as e:
-            st.error(f"Error loading Chroma collection: {e}")
-            return
-
         # 1) Index-based count questions (no LLM)
-        special_answer = handle_count_question(question, collection)
-        if special_answer is not None:
-            st.markdown("### ✅ Answer (from index metadata)")
-            st.write(special_answer)
-            st.session_state.qa_history.insert(
-                0, {"question": question, "answer": special_answer}
-            )
-            return
+        if not specific_mode:
+            special_answer = handle_count_question(question, collection)
+            if special_answer is not None:
+                st.markdown("### ✅ Answer (from index metadata)")
+                st.write(special_answer)
+                st.session_state.qa_history.insert(
+                    0, {"question": question, "answer": special_answer}
+                )
+                return
 
         # 2) Normal RAG flow
         with st.spinner("Retrieving relevant documents from index…"):
-            docs = retrieve_docs(
-                collection,
-                question,
-                top_k=top_k,
-                doc_type_filter=doc_type_for_qa,
-            )
+            if specific_mode and specific_doc_id:
+                docs = retrieve_single_doc(collection, specific_doc_id)
+            else:
+                docs = retrieve_docs(
+                    collection,
+                    question,
+                    top_k=top_k,
+                    doc_type_filter=doc_type_for_qa,
+                )
 
         if not docs:
             st.warning(
@@ -702,6 +870,16 @@ def render_invoices_tab(invoices_df: Optional[pd.DataFrame]) -> None:
             key="min_total_invoices",
         )
 
+    # Optional date range filter if 'invoice_date' column exists
+    date_range = None
+    if "invoice_date" in invoices_df.columns:
+        with st.expander("📅 Filter by invoice date (optional)"):
+            date_range = st.date_input(
+                "Invoice date range",
+                value=(),
+                key="invoice_date_range",
+            )
+
     filtered = invoices_df.copy()
 
     if inv_search_text.strip():
@@ -727,6 +905,18 @@ def render_invoices_tab(invoices_df: Optional[pd.DataFrame]) -> None:
 
         filtered = filtered[filtered["total_amount_num"] >= min_total]
 
+    # Apply date range filter
+    if date_range and len(date_range) == 2 and "invoice_date" in filtered.columns:
+        try:
+            tmp_dates = pd.to_datetime(filtered["invoice_date"], errors="coerce")
+            start, end = date_range
+            mask = (tmp_dates >= pd.to_datetime(start)) & (
+                tmp_dates <= pd.to_datetime(end)
+            )
+            filtered = filtered[mask]
+        except Exception:
+            pass
+
     st.write(f"Found **{len(filtered)}** matching invoices.")
     if "total_amount_num" in filtered.columns:
         filtered = filtered.drop(columns=["total_amount_num"])
@@ -748,6 +938,58 @@ def render_invoices_tab(invoices_df: Optional[pd.DataFrame]) -> None:
             pass
 
 
+def render_admin_tab() -> None:
+    """Admin / analytics: overall stats + delete documents."""
+    st.subheader("📈 Admin / Analytics")
+
+    try:
+        collection = get_chroma_collection()
+    except Exception as e:
+        st.error(f"Could not load collection: {e}")
+        return
+
+    meta_df = get_metadata_df(collection, doc_type_filter="all")
+
+    if meta_df.empty:
+        st.info("No documents in index yet.")
+        return
+
+    render_kpi_cards(meta_df)
+
+    st.markdown("#### 📊 Documents by type")
+    type_counts = meta_df["doc_type"].value_counts()
+    st.bar_chart(type_counts)
+
+    st.markdown("#### 🗂️ Latest documents")
+    latest = meta_df.sort_values("doc_id", ascending=False).head(20)
+    st.dataframe(latest, use_container_width=True)
+
+    st.markdown("#### 🧨 Delete documents from index")
+    options = []
+    id_map: Dict[str, str] = {}
+    for _, row in meta_df.iterrows():
+        label = f"{row['doc_id']} — {Path(row['source_file']).name}"
+        options.append(label)
+        id_map[label] = row["doc_id"]
+
+    selected = st.multiselect(
+        "Select document(s) to delete from Chroma index",
+        options,
+        key="admin_delete_docs",
+    )
+
+    if st.button("Delete selected documents", key="btn_delete_docs"):
+        if not selected:
+            st.warning("No documents selected.")
+        else:
+            ids_to_delete = [id_map[label] for label in selected]
+            try:
+                collection.delete(ids=ids_to_delete)
+                st.success(f"Deleted {len(ids_to_delete)} document(s) from index.")
+            except Exception as e:
+                st.error(f"Failed to delete documents: {e}")
+
+
 # ===================== MAIN =====================
 
 
@@ -761,14 +1003,14 @@ def main() -> None:
     st.title("📄 DocuMind Lite — Multi-Document Intelligence")
     st.caption(
         "Upload → OCR → Index → RAG over invoices, resumes & contracts.\n"
-        "Beginner-friendly, but built to look like a real-world document AI tool."
+        "Beginner-friendly, but designed like a real-world document AI tool."
     )
 
     invoices_df = load_invoices_df()
     doc_type_for_qa, top_k = sidebar_layout(invoices_df)
 
-    tab_qa, tab_browse, tab_invoices = st.tabs(
-        ["💬 Q&A", "🔍 Browse documents", "📊 Invoices (CSV)"]
+    tab_qa, tab_browse, tab_invoices, tab_admin = st.tabs(
+        ["💬 Q&A", "🔍 Browse documents", "📊 Invoices (CSV)", "🛠 Admin / Analytics"]
     )
 
     with tab_qa:
@@ -780,7 +1022,9 @@ def main() -> None:
     with tab_invoices:
         render_invoices_tab(invoices_df)
 
+    with tab_admin:
+        render_admin_tab()
+
 
 if __name__ == "__main__":
     main()
-
