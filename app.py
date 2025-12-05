@@ -5,17 +5,17 @@ from __future__ import annotations
 
 import os
 import re
-from io import BytesIO
 from pathlib import Path
 from typing import List, Optional, Tuple, Dict, Any
-from uuid import uuid4
-from datetime import datetime
 
 import chromadb
 import pandas as pd
 import streamlit as st
 from chromadb.utils import embedding_functions
 from openai import OpenAI
+
+from ocr_engine import ocr_and_index_upload
+from keyword_search import keyword_search
 
 # ===================== CONFIG =====================
 
@@ -83,106 +83,6 @@ def mask_pii(text: str) -> str:
     )
 
     return text
-
-
-# ===================== OCR HELPERS =====================
-
-
-def ocr_pdf(file_bytes: bytes) -> Tuple[bool, str]:
-    """Run OCR on a PDF (all pages)."""
-    try:
-        from pdf2image import convert_from_bytes
-        import pytesseract
-    except ImportError:
-        return (
-            False,
-            "OCR dependencies missing. Install: `pip install pdf2image pytesseract` "
-            "and install Tesseract on your system.",
-        )
-
-    try:
-        pages = convert_from_bytes(file_bytes)
-    except Exception as e:
-        return False, f"Error converting PDF to images: {e}"
-
-    texts: List[str] = []
-    for img in pages:
-        try:
-            txt = pytesseract.image_to_string(img)
-            texts.append(txt)
-        except Exception:
-            continue
-
-    full_text = "\n\n".join(texts)
-    return True, full_text
-
-
-def ocr_image(file_bytes: bytes) -> Tuple[bool, str]:
-    """Run OCR on an image (PNG/JPG)."""
-    try:
-        from PIL import Image
-        import pytesseract
-    except ImportError:
-        return (
-            False,
-            "OCR dependencies missing. Install: `pip install pillow pytesseract` "
-            "and install Tesseract on your system.",
-        )
-
-    try:
-        img = Image.open(BytesIO(file_bytes))
-        txt = pytesseract.image_to_string(img)
-    except Exception as e:
-        return False, f"Error during image OCR: {e}"
-
-    return True, txt
-
-
-def ocr_and_index_upload(
-    uploaded_file, doc_type: str, collection
-) -> Tuple[bool, str]:
-    """
-    OCR the uploaded file and add it to the Chroma collection.
-
-    Returns (success, message).
-    """
-    ext = Path(uploaded_file.name).suffix.lower()
-    file_bytes = uploaded_file.getvalue()
-
-    if ext == ".pdf":
-        ok, text = ocr_pdf(file_bytes)
-    elif ext in {".png", ".jpg", ".jpeg"}:
-        ok, text = ocr_image(file_bytes)
-    else:
-        return False, f"Unsupported file type: {ext}. Use PDF / PNG / JPG."
-
-    if not ok:
-        return False, text  # error message from OCR helper
-
-    cleaned = clean_text(text)
-    if len(cleaned) < 40:
-        return False, "OCR text too short or empty. Check document quality."
-
-    new_id = f"app_{uuid4().hex}"
-    meta = {
-        "doc_type": doc_type,
-        "source_file": uploaded_file.name,
-        "rel_path": f"uploads/{uploaded_file.name}",
-        "text_len": len(cleaned),
-        "uploaded_via": "app_upload",
-        "uploaded_at": datetime.utcnow().isoformat(),
-    }
-
-    try:
-        collection.add(
-            ids=[new_id],
-            documents=[cleaned],
-            metadatas=[meta],
-        )
-    except Exception as e:
-        return False, f"Failed to index document in Chroma: {e}"
-
-    return True, f"Indexed `{uploaded_file.name}` as `{new_id}` (type: {doc_type})."
 
 
 # ===================== DATA HELPERS =====================
@@ -463,7 +363,7 @@ def handle_count_question(question: str, collection) -> Optional[str]:
     try:
         results = collection.get(
             where={"doc_type": doc_type},
-            include=["metadatas"],  # ids auto-returned
+            include=["metadatas"],  # ids are always returned implicitly
         )
         num_docs = len(results.get("ids", []))
     except Exception:
@@ -487,7 +387,7 @@ def get_metadata_df(collection, doc_type_filter: str = "all") -> pd.DataFrame:
       - text_len
     """
     get_kwargs: Dict[str, Any] = {
-        "include": ["metadatas"],  # "ids" is NOT allowed here
+        "include": ["metadatas"],  # 'ids' is not allowed here; it's always returned
     }
 
     dt = (doc_type_filter or "all").lower()
@@ -552,8 +452,9 @@ def sidebar_layout(invoices_df: Optional[pd.DataFrame]) -> Tuple[str, int]:
         )
         upload_doc_type = st.selectbox(
             "Label uploaded document as",
-            ["invoice", "resume", "contract", "other"],
+            ["auto-detect", "invoice", "resume", "contract", "other"],
             index=0,
+            help="Use 'auto-detect' to let the app guess based on text.",
         )
 
         if st.button("Run OCR + index uploaded file", key="process_upload"):
@@ -575,7 +476,7 @@ def sidebar_layout(invoices_df: Optional[pd.DataFrame]) -> Tuple[str, int]:
 
         st.markdown("---")
         st.markdown("### 📊 Structured invoices (CSV)")
-        if invoices_df is not None:
+        if invoices_df is not None and not invoices_df.empty:
             st.write(f"Total invoices in CSV: **{len(invoices_df)}**")
             csv_bytes = invoices_df.to_csv(index=False).encode("utf-8")
             st.download_button(
@@ -585,7 +486,7 @@ def sidebar_layout(invoices_df: Optional[pd.DataFrame]) -> Tuple[str, int]:
                 mime="text/csv",
             )
         else:
-            st.info("`invoices.csv` not found. Run invoice extraction to enable this.")
+            st.info("`invoices.csv` not found or empty. Upload some invoices to generate it.")
 
         st.markdown("---")
         if HAS_API_KEY:
@@ -717,7 +618,7 @@ def render_qa_tab(doc_type_for_qa: str, top_k: int) -> None:
         st.session_state["qa_history"] = []
 
     if ask_clicked and question.strip():
-        # 1) Index-based count questions (no LLM)
+        # 1) Index-based count questions (no LLM), only when not scoping to one doc
         if not specific_mode:
             special_answer = handle_count_question(question, collection)
             if special_answer is not None:
@@ -774,6 +675,26 @@ def render_qa_tab(doc_type_for_qa: str, top_k: int) -> None:
                     f"**[{d['doc_type'].upper()}] {d['id']} — {d['source_file']}**"
                 )
                 st.text(snippet + ("..." if len(safe) > 700 else ""))
+
+        # ---------- NEW: Keyword/BM25 search debug view ----------
+        with st.expander("🧪 Keyword search (BM25-style, debug)"):
+            try:
+                kw_docs = keyword_search(
+                    collection,
+                    query=question,
+                    top_k=top_k,
+                    doc_type_filter=doc_type_for_qa,
+                )
+                if not kw_docs:
+                    st.write("No keyword matches found.")
+                else:
+                    for d in kw_docs:
+                        st.markdown(
+                            f"- **[{d['doc_type'].upper()}] {d['id']}** "
+                            f"({d['source_file']}) — score: `{d['score']:.3f}`"
+                        )
+            except Exception as e:
+                st.error(f"Keyword search error: {e}")
 
     st.markdown("---")
 
