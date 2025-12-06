@@ -1,10 +1,11 @@
-# app.py — DocuMind Lite (Upgraded RAG App)
+# app.py — DocuMind Lite (Advanced Hybrid RAG App + PDF Viewer + Compare)
 # Multi-document intelligence over invoices, resumes & contracts.
 
 from __future__ import annotations
 
 import os
 import re
+import base64
 from pathlib import Path
 from typing import List, Optional, Tuple, Dict, Any
 
@@ -16,6 +17,7 @@ from openai import OpenAI
 
 from ocr_engine import ocr_and_index_upload
 from keyword_search import keyword_search
+from reranker import embedding_rerank  # uses embeddings for reranking
 
 # ===================== CONFIG =====================
 
@@ -101,7 +103,7 @@ def load_invoices_df() -> Optional[pd.DataFrame]:
         return None
 
 
-# ===================== CHROMA / RAG HELPERS =====================
+# ===================== CHROMA / INDEX HELPERS =====================
 
 
 @st.cache_resource(show_spinner=False)
@@ -128,44 +130,6 @@ def get_chroma_collection():
         raise RuntimeError(f"Failed to load Chroma collection '{COLLECTION_NAME}': {e}")
 
     return collection
-
-
-def retrieve_docs(
-    collection,
-    question: str,
-    top_k: int = 3,
-    doc_type_filter: str = "all",
-) -> List[dict]:
-    """Retrieve top-k relevant documents from Chroma for a question, with optional doc_type filter."""
-    query_kwargs: Dict[str, Any] = {
-        "query_texts": [question],
-        "n_results": top_k,
-    }
-
-    doc_type_filter = (doc_type_filter or "all").lower()
-    if doc_type_filter != "all":
-        query_kwargs["where"] = {"doc_type": doc_type_filter}
-
-    results = collection.query(**query_kwargs)
-
-    if not results.get("documents") or not results["documents"][0]:
-        return []
-
-    docs_raw = results["documents"][0]
-    metas = results["metadatas"][0]
-    ids = results["ids"][0]
-
-    docs: List[dict] = []
-    for doc_id, meta, text in zip(ids, metas, docs_raw):
-        docs.append(
-            {
-                "id": str(doc_id),
-                "source_file": str(meta.get("source_file", "unknown")),
-                "doc_type": str(meta.get("doc_type", "other")),
-                "text": text or "",
-            }
-        )
-    return docs
 
 
 def retrieve_single_doc(collection, doc_id: str) -> List[dict]:
@@ -195,29 +159,337 @@ def retrieve_single_doc(collection, doc_id: str) -> List[dict]:
     return docs
 
 
+def get_metadata_df(collection, doc_type_filter: str = "all") -> pd.DataFrame:
+    """
+    Fetch metadata (no text, no embeddings) for listing/searching documents.
+
+    Returns DataFrame with columns:
+      - doc_id
+      - doc_type
+      - source_file
+      - rel_path
+      - text_len
+    """
+    get_kwargs: Dict[str, Any] = {
+        "include": ["metadatas"],  # 'ids' is not allowed here; it's always returned
+    }
+
+    dt = (doc_type_filter or "all").lower()
+    if dt != "all":
+        get_kwargs["where"] = {"doc_type": dt}
+
+    results = collection.get(**get_kwargs)
+    ids = results.get("ids", []) or []
+    metas = results.get("metadatas", []) or []
+
+    rows = []
+    for doc_id, meta in zip(ids, metas):
+        rows.append(
+            {
+                "doc_id": str(doc_id),
+                "doc_type": str(meta.get("doc_type", "other")),
+                "source_file": str(meta.get("source_file", "")),
+                "rel_path": str(meta.get("rel_path", "")),
+                "text_len": int(meta.get("text_len", 0)),
+            }
+        )
+
+    if not rows:
+        return pd.DataFrame(
+            columns=["doc_id", "doc_type", "source_file", "rel_path", "text_len"]
+        )
+
+    return pd.DataFrame(rows)
+
+
+# ===================== ADVANCED RAG (PHASE 3 — RAG 3.0) =====================
+
+# ---- 1. Query type classification ----
+
+def classify_query_type(query: str) -> str:
+    """
+    Rough query type classifier:
+    Returns one of:
+      - "exact_lookup"
+      - "semantic_qa"
+      - "count_query"
+      - "filter_stats"
+      - "unknown"
+    """
+    q = (query or "").strip().lower()
+    if not q:
+        return "unknown"
+
+    # Count questions
+    if any(p in q for p in ["how many", "number of", "count of"]):
+        return "count_query"
+
+    # Aggregation / stats
+    if any(p in q for p in ["total amount", "sum of", "total value", "maximum", "minimum", "average", "avg"]):
+        return "filter_stats"
+
+    # ID-style / exact lookup (short alphanumeric)
+    import re as _re
+    id_like = bool(_re.search(r"[a-z]{2,}\-\d{2,}", q))
+    has_letters_and_digits = bool(_re.search(r"[a-z]", q) and _re.search(r"\d", q))
+    short_query = len(q) <= 30
+    if (id_like or has_letters_and_digits) and short_query:
+        return "exact_lookup"
+
+    # Question-style
+    if any(q.startswith(w) for w in ["what", "who", "when", "where", "why", "how"]):
+        return "semantic_qa"
+
+    # Long natural text → semantic
+    if len(q.split()) >= 6:
+        return "semantic_qa"
+
+    return "unknown"
+
+
+# ---- 2. Vector search wrapper (Chroma) ----
+
+def _run_vector_search(
+    collection,
+    question: str,
+    top_k: int,
+    doc_type_filter: str = "all",
+) -> List[Dict[str, Any]]:
+    """
+    Wrapper around Chroma semantic search to produce normalized 0–1 scores.
+    """
+    question = (question or "").strip()
+    if not question:
+        return []
+
+    query_kwargs: Dict[str, Any] = {
+        "query_texts": [question],
+        "n_results": top_k,
+        "include": ["documents", "metadatas", "distances"],
+    }
+
+    dt = (doc_type_filter or "all").lower()
+    if dt != "all":
+        query_kwargs["where"] = {"doc_type": dt}
+
+    try:
+        results = collection.query(**query_kwargs)
+    except Exception:
+        return []
+
+    docs_raw = (results.get("documents") or [[]])[0]
+    metas = (results.get("metadatas") or [[]])[0]
+    dists = (results.get("distances") or [[]])[0]
+    ids = (results.get("ids") or [[]])[0]
+
+    if not docs_raw:
+        return []
+
+    # Convert distances to similarity and normalize
+    sims: List[float] = []
+    for d in dists:
+        try:
+            val = float(d)
+        except Exception:
+            val = 10.0
+        sims.append(1.0 / (1.0 + val))
+
+    max_sim = max(sims) if sims else 1.0
+    if max_sim <= 0:
+        max_sim = 1.0
+
+    out: List[Dict[str, Any]] = []
+    for doc_id, text, meta, sim in zip(ids, docs_raw, metas, sims):
+        norm_sim = sim / max_sim
+        out.append(
+            {
+                "id": str(doc_id),
+                "text": text or "",
+                "metadata": meta or {},
+                "vector_score": float(norm_sim),
+                "keyword_score": 0.0,
+            }
+        )
+    return out
+
+
+# ---- 3. Keyword (BM25) search wrapper ----
+
+def _run_keyword_search(
+    collection,
+    question: str,
+    top_k: int,
+    doc_type_filter: str = "all",
+) -> List[Dict[str, Any]]:
+    """
+    Wrapper around your BM25 keyword_search() to unify schema with vector search.
+    """
+    try:
+        kw_results = keyword_search(
+            collection=collection,
+            query=question,
+            top_k=top_k,
+            doc_type_filter=doc_type_filter,
+        )
+    except Exception:
+        return []
+
+    if not kw_results:
+        return []
+
+    out: List[Dict[str, Any]] = []
+    for r in kw_results:
+        meta = {
+            "doc_type": r.get("doc_type", "other"),
+            "source_file": r.get("source_file", ""),
+        }
+        out.append(
+            {
+                "id": str(r["id"]),
+                "text": r.get("text", "") or "",
+                "metadata": meta,
+                "vector_score": 0.0,
+                "keyword_score": float(r.get("score", 0.0)),  # already normalized 0–1
+            }
+        )
+    return out
+
+
+# ---- 4. Merge vector + BM25 into hybrid result ----
+
+def _choose_alpha(query_type: str) -> float:
+    """
+    Decide weight for vector vs keyword based on query type.
+    alpha close to 1 → more vector/semantic.
+    alpha close to 0 → more keyword/exact.
+    """
+    if query_type == "exact_lookup":
+        return 0.25
+    if query_type == "semantic_qa":
+        return 0.7
+    if query_type in ("count_query", "filter_stats"):
+        return 0.5
+    return 0.6  # default
+
+
+def hybrid_retrieve(
+    collection,
+    question: str,
+    top_k: int = 3,
+    doc_type_filter: str = "all",
+    use_reranker: bool = False,
+) -> List[dict]:
+    """
+    Query-aware hybrid retrieval:
+    - Uses both vector & BM25
+    - Weights them based on query type
+    - Optional embedding-based reranker
+    - Returns docs with hybrid_score plus doc metadata
+    """
+    question = (question or "").strip()
+    if not question:
+        return []
+
+    qtype = classify_query_type(question)
+
+    vector_results = _run_vector_search(
+        collection=collection,
+        question=question,
+        top_k=top_k,
+        doc_type_filter=doc_type_filter,
+    )
+
+    keyword_results = _run_keyword_search(
+        collection=collection,
+        question=question,
+        top_k=top_k,
+        doc_type_filter=doc_type_filter,
+    )
+
+    alpha = _choose_alpha(qtype)
+
+    # Merge by id
+    by_id: Dict[str, Dict[str, Any]] = {}
+
+    # Seed with vector results
+    for r in vector_results:
+        doc_id = r["id"]
+        meta = r.get("metadata", {}) or {}
+        by_id[doc_id] = {
+            "id": doc_id,
+            "text": r.get("text", "") or "",
+            "doc_type": str(meta.get("doc_type", "other")),
+            "source_file": str(meta.get("source_file", "")),
+            "vector_score": float(r.get("vector_score", 0.0)),
+            "keyword_score": 0.0,
+        }
+
+    # Add keyword results
+    for r in keyword_results:
+        doc_id = r["id"]
+        if doc_id not in by_id:
+            meta = r.get("metadata", {}) or {}
+            by_id[doc_id] = {
+                "id": doc_id,
+                "text": r.get("text", "") or "",
+                "doc_type": str(meta.get("doc_type", "other")),
+                "source_file": str(meta.get("source_file", "")),
+                "vector_score": 0.0,
+                "keyword_score": float(r.get("keyword_score", 0.0)),
+            }
+        else:
+            by_id[doc_id]["keyword_score"] = float(r.get("keyword_score", 0.0))
+
+    # Compute hybrid score and sort
+    docs: List[dict] = []
+    for doc_id, info in by_id.items():
+        v = info.get("vector_score", 0.0) or 0.0
+        k = info.get("keyword_score", 0.0) or 0.0
+        hybrid_score = alpha * v + (1.0 - alpha) * k
+        info["hybrid_score"] = float(hybrid_score)
+        docs.append(info)
+
+    docs.sort(key=lambda d: d.get("hybrid_score", 0.0), reverse=True)
+
+    # 🔥 Optional embedding-based rerank on top of hybrid_score
+    if use_reranker and HAS_API_KEY and docs:
+        docs = embedding_rerank(
+            query=question,
+            docs=docs[: min(top_k, 10)],   # rerank only top-N
+            api_key=OPENAI_API_KEY,
+        )
+
+    # Limit to top_k
+    return docs[:top_k]
+
+
+# ===================== CONTEXT BUILDER + LLM CALL =====================
+
+
 def build_context(docs: List[dict]) -> str:
     """
     Build a safe, cleaned, PII-masked context string from retrieved docs.
 
     Each document is clearly separated and numbered so the model
-    can reference them without confusion.
+    can reference them without confusion, with labels [DOC1], [DOC2], ...
     """
     if not docs:
         return "No relevant documents retrieved."
 
     blocks: List[str] = []
     for i, d in enumerate(docs, start=1):
-        raw = d["text"]
+        label = f"DOC{i}"
+        raw = d.get("text", "") or ""
         cleaned = clean_text(raw)
         safe = mask_pii(cleaned)
         snippet = safe[:MAX_CONTEXT_CHARS_PER_DOC]
 
         blocks.append(
-            f"=== DOCUMENT {i} ===\n"
-            f"ID: {d['id']}\n"
-            f"Type: {d['doc_type']}\n"
-            f"File: {d['source_file']}\n"
-            f"Text:\n{snippet}"
+            f"=== DOCUMENT {i} [{label}] ===\n"
+            f"ID: {d.get('id', '')}\n"
+            f"Type: {d.get('doc_type', 'other')}\n"
+            f"File: {d.get('source_file', 'unknown')}\n\n"
+            f"TEXT:\n{snippet}"
         )
 
     return "\n\n".join(blocks)
@@ -252,6 +524,7 @@ def call_llm(
         "If something is not explicitly present in the context, you MUST say you do not know.",
         "If you are not sure, answer with: 'The documents provided do not contain this information clearly.'",
         "If multiple documents are relevant, clearly say which document you are talking about.",
+        "The context labels documents as [DOC1], [DOC2], etc. Always cite these labels when using information.",
     ]
 
     if strict:
@@ -268,7 +541,8 @@ def call_llm(
         + "\n\n"
         "- If the document is an invoice, include invoice number, date, and total when possible.\n"
         "- If the document is a resume, focus on skills, experience, and education.\n"
-        "- If the document is a contract, focus on parties, dates, and obligations."
+        "- If the document is a contract, focus on parties, dates, and obligations.\n"
+        "- When you state a fact, include the matching label in square brackets at the end, e.g. [DOC1]."
     )
 
     user_prompt = f"""
@@ -282,6 +556,7 @@ User question:
 Answering rules:
 - Base your answer ONLY on the context between CONTEXT START and CONTEXT END.
 - Quote numbers, dates, and names exactly as shown.
+- Whenever you use a fact from a document, add the label at the end like [DOC1], [DOC2], etc.
 - If the answer is missing or ambiguous, explicitly say you cannot answer from these documents.
 - Keep the answer in 2–8 short sentences.
 """
@@ -370,52 +645,6 @@ def handle_count_question(question: str, collection) -> Optional[str]:
         return "I tried to count documents, but there was an error reading the index."
 
     return f"There are **{num_docs} {doc_type} document(s)** currently indexed in DocuMind Lite."
-
-
-# ---------- Document metadata search (for UI table) ----------
-
-
-def get_metadata_df(collection, doc_type_filter: str = "all") -> pd.DataFrame:
-    """
-    Fetch metadata (no text, no embeddings) for listing/searching documents.
-
-    Returns DataFrame with columns:
-      - doc_id
-      - doc_type
-      - source_file
-      - rel_path
-      - text_len
-    """
-    get_kwargs: Dict[str, Any] = {
-        "include": ["metadatas"],  # 'ids' is not allowed here; it's always returned
-    }
-
-    dt = (doc_type_filter or "all").lower()
-    if dt != "all":
-        get_kwargs["where"] = {"doc_type": dt}
-
-    results = collection.get(**get_kwargs)
-    ids = results.get("ids", []) or []
-    metas = results.get("metadatas", []) or []
-
-    rows = []
-    for doc_id, meta in zip(ids, metas):
-        rows.append(
-            {
-                "doc_id": str(doc_id),
-                "doc_type": str(meta.get("doc_type", "other")),
-                "source_file": str(meta.get("source_file", "")),
-                "rel_path": str(meta.get("rel_path", "")),
-                "text_len": int(meta.get("text_len", 0)),
-            }
-        )
-
-    if not rows:
-        return pd.DataFrame(
-            columns=["doc_id", "doc_type", "source_file", "rel_path", "text_len"]
-        )
-
-    return pd.DataFrame(rows)
 
 
 # ===================== STREAMLIT LAYOUT HELPERS =====================
@@ -541,17 +770,165 @@ def render_kpi_cards(meta_df: pd.DataFrame) -> None:
     c4.metric("📑 Contracts", contract_ct)
 
 
+# ===================== PDF / IMAGE VIEWER HELPERS =====================
+
+
+def _resolve_doc_path(meta: Dict[str, Any]) -> Optional[Path]:
+    """
+    Try to resolve the original file path on disk using metadata.
+    1) Try common locations based on rel_path and source_file.
+    2) If not found, search the entire project tree for the filename.
+    """
+    candidates: List[Path] = []
+
+    rel = str(meta.get("rel_path", "") or "").strip()
+    src = str(meta.get("source_file", "") or "").strip()
+
+    if rel:
+        candidates.append(BASE_DIR / rel)
+        candidates.append(BASE_DIR / "data" / rel)
+
+    if src:
+        candidates.append(BASE_DIR / src)
+        candidates.append(BASE_DIR / "data" / src)
+        candidates.append(BASE_DIR / "data" / "raw" / src)
+        candidates.append(BASE_DIR / "uploads" / src)
+        candidates.append(BASE_DIR / "docs" / src)
+
+    # First pass: direct candidates
+    seen: set[Path] = set()
+    for p in candidates:
+        p = Path(p)
+        if p in seen:
+            continue
+        seen.add(p)
+        if p.exists():
+            return p
+
+    # Second pass: search by filename anywhere under project
+    # Use the most informative name we have (src or rel)
+    name_candidate = (src or rel).strip()
+    name_candidate = Path(name_candidate).name if name_candidate else ""
+    if name_candidate:
+        try:
+            for root in [BASE_DIR, BASE_DIR / "data", BASE_DIR / "uploads"]:
+                root = Path(root)
+                if not root.exists():
+                    continue
+                for found in root.rglob(name_candidate):
+                    if found.is_file():
+                        return found
+        except Exception:
+            pass
+
+    return None
+
+
+def _show_pdf(path: Path) -> None:
+    """Display a PDF inline using base64 iframe + give download."""
+    with open(path, "rb") as f:
+        pdf_bytes = f.read()
+    b64 = base64.b64encode(pdf_bytes).decode("utf-8")
+    pdf_display = f"""
+    <iframe src="data:application/pdf;base64,{b64}" width="100%" height="800px" type="application/pdf"></iframe>
+    """
+    st.markdown(pdf_display, unsafe_allow_html=True)
+    st.download_button(
+        "⬇️ Download file",
+        data=pdf_bytes,
+        file_name=path.name,
+        mime="application/pdf",
+    )
+
+
+def render_viewer_tab() -> None:
+    """PDF / image viewer tab."""
+    st.subheader("📄 PDF / Image viewer")
+
+    try:
+        collection = get_chroma_collection()
+    except Exception as e:
+        st.error(f"Could not load collection: {e}")
+        return
+
+    meta_df = get_metadata_df(collection, doc_type_filter="all")
+
+    if meta_df.empty:
+        st.info("No documents in index yet.")
+        return
+
+    meta_df = meta_df.copy()
+    meta_df["display"] = meta_df.apply(
+        lambda r: f"{r['doc_id']} — {Path(str(r['source_file'])).name}", axis=1
+    )
+
+    selected_label = st.selectbox(
+        "Select a document to view",
+        meta_df["display"].tolist(),
+        key="viewer_select_doc",
+    )
+
+    row = meta_df[meta_df["display"] == selected_label].iloc[0].to_dict()
+    path = _resolve_doc_path(row)
+
+    st.markdown(
+        f"**Doc ID:** `{row.get('doc_id', '')}`  |  "
+        f"Type: `{row.get('doc_type', '')}`  |  "
+        f"Source file meta: `{row.get('source_file', '')}`"
+    )
+
+    if path is None:
+        st.warning(
+            "Original PDF/image file not found on disk.\n\n"
+            "Fix tips:\n"
+            "1) Make sure the actual file is inside this project folder.\n"
+            "2) If needed, move it into a folder like 'data', 'data/raw', or 'uploads'.\n"
+            "3) Rebuild the index later to store better rel_path metadata."
+        )
+        return
+
+    st.write(f"**Resolved path:** `{path}`")
+
+    suffix = path.suffix.lower()
+    if suffix in [".png", ".jpg", ".jpeg", ".webp", ".bmp"]:
+        st.image(str(path), caption=path.name, use_container_width=True)
+        with open(path, "rb") as f:
+            img_bytes = f.read()
+        st.download_button(
+            "⬇️ Download file",
+            data=img_bytes,
+            file_name=path.name,
+        )
+    elif suffix == ".pdf":
+        _show_pdf(path)
+    else:
+        st.info("This file is not a PDF or image. You can still download it.")
+        with open(path, "rb") as f:
+            data = f.read()
+        st.download_button(
+            "⬇️ Download file",
+            data=data,
+            file_name=path.name,
+        )
+
+
 # ===================== TABS =====================
 
 
 def render_qa_tab(doc_type_for_qa: str, top_k: int) -> None:
-    """Main RAG Q&A tab."""
+    """Main RAG Q&A tab (now using advanced hybrid retrieval + citations + optional reranker)."""
     st.subheader("💬 Ask a question about your documents")
 
     strict_mode = st.toggle(
         "Strict mode (only answer from documents, no guessing)",
         value=True,
         help="Turn this OFF only if you want the model to infer slightly when context is weak.",
+    )
+
+    use_reranker = st.checkbox(
+        "Use advanced reranker (better ranking, slightly more API cost)",
+        value=False,
+        help="Re-orders top documents using OpenAI embeddings for higher answer quality.",
     )
 
     try:
@@ -629,16 +1006,17 @@ def render_qa_tab(doc_type_for_qa: str, top_k: int) -> None:
                 )
                 return
 
-        # 2) Normal RAG flow
+        # 2) Hybrid RAG flow
         with st.spinner("Retrieving relevant documents from index…"):
             if specific_mode and specific_doc_id:
                 docs = retrieve_single_doc(collection, specific_doc_id)
             else:
-                docs = retrieve_docs(
-                    collection,
-                    question,
+                docs = hybrid_retrieve(
+                    collection=collection,
+                    question=question,
                     top_k=top_k,
                     doc_type_filter=doc_type_for_qa,
+                    use_reranker=use_reranker,
                 )
 
         if not docs:
@@ -666,17 +1044,34 @@ def render_qa_tab(doc_type_for_qa: str, top_k: int) -> None:
         )
 
         with st.expander("📎 Show context documents (masked text)"):
-            for d in docs:
-                raw = d["text"]
+            for i, d in enumerate(docs, start=1):
+                raw = d.get("text", "") or ""
                 cleaned = clean_text(raw)
                 safe = mask_pii(cleaned)
                 snippet = safe[:700]
+                label = f"DOC{i}"
                 st.markdown(
-                    f"**[{d['doc_type'].upper()}] {d['id']} — {d['source_file']}**"
+                    f"**[{label}] {d.get('doc_type', 'OTHER').upper()} — {d.get('id', '')} — {d.get('source_file', '')}**"
                 )
                 st.text(snippet + ("..." if len(safe) > 700 else ""))
 
-        # ---------- NEW: Keyword/BM25 search debug view ----------
+        # ---------- NEW: Retrieval scores debug ----------
+        with st.expander("🔍 Retrieval scores (debug)"):
+            for i, d in enumerate(docs, start=1):
+                label = f"DOC{i}"
+                st.markdown(f"**{label} — ID: {d.get('id', '')}**")
+                st.write(
+                    {
+                        "doc_type": d.get("doc_type"),
+                        "source_file": d.get("source_file"),
+                        "vector_score": d.get("vector_score"),
+                        "keyword_score": d.get("keyword_score"),
+                        "hybrid_score": d.get("hybrid_score"),
+                        "rerank_score": d.get("rerank_score", None),
+                    }
+                )
+
+        # ---------- Keyword/BM25 search debug view ----------
         with st.expander("🧪 Keyword search (BM25-style, debug)"):
             try:
                 kw_docs = keyword_search(
@@ -704,6 +1099,132 @@ def render_qa_tab(doc_type_for_qa: str, top_k: int) -> None:
             st.markdown(f"**Q:** {item['question']}")
             st.markdown(f"**A:** {item['answer']}")
             st.markdown("---")
+
+
+def render_compare_tab() -> None:
+    """Document comparison tab — pick Doc A & Doc B and see differences."""
+    st.subheader("📑 Compare two documents (A vs B)")
+
+    try:
+        collection = get_chroma_collection()
+    except Exception as e:
+        st.error(f"Could not load collection: {e}")
+        return
+
+    meta_df = get_metadata_df(collection, doc_type_filter="all")
+
+    if meta_df.empty:
+        st.info("No documents in index yet.")
+        return
+
+    meta_df = meta_df.copy()
+    meta_df["display"] = meta_df.apply(
+        lambda r: f"{r['doc_type']} | {r['doc_id']} — {Path(str(r['source_file'])).name}",
+        axis=1,
+    )
+
+    col_a, col_b = st.columns(2)
+
+    with col_a:
+        doc_a_label = st.selectbox(
+            "Select Document A",
+            meta_df["display"].tolist(),
+            key="compare_doc_a",
+        )
+
+    with col_b:
+        doc_b_label = st.selectbox(
+            "Select Document B",
+            meta_df["display"].tolist(),
+            key="compare_doc_b",
+        )
+
+    if doc_a_label == doc_b_label:
+        st.warning("Select two different documents to compare.")
+        return
+
+    row_a = meta_df[meta_df["display"] == doc_a_label].iloc[0]
+    row_b = meta_df[meta_df["display"] == doc_b_label].iloc[0]
+
+    docs_a = retrieve_single_doc(collection, row_a["doc_id"])
+    docs_b = retrieve_single_doc(collection, row_b["doc_id"])
+
+    if not docs_a or not docs_b:
+        st.error("Could not retrieve one or both documents from index.")
+        return
+
+    doc_a = docs_a[0]
+    doc_b = docs_b[0]
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.markdown("### 📄 Document A")
+        st.markdown(
+            f"**ID:** `{doc_a['id']}`  |  "
+            f"Type: `{doc_a['doc_type']}`  |  "
+            f"File: `{doc_a['source_file']}`"
+        )
+        a_text = mask_pii(clean_text(doc_a.get("text", "") or ""))
+        st.text(a_text[:1200] + ("..." if len(a_text) > 1200 else ""))
+
+    with col2:
+        st.markdown("### 📄 Document B")
+        st.markdown(
+            f"**ID:** `{doc_b['id']}`  |  "
+            f"Type: `{doc_b['doc_type']}`  |  "
+            f"File: `{doc_b['source_file']}`"
+        )
+        b_text = mask_pii(clean_text(doc_b.get("text", "") or ""))
+        st.text(b_text[:1200] + ("..." if len(b_text) > 1200 else ""))
+
+    st.markdown("---")
+
+    compare_clicked = st.button("🔍 Compare A vs B (LLM)")
+
+    if compare_clicked:
+        if not HAS_API_KEY:
+            st.error("OPENAI_API_KEY is missing — cannot run LLM comparison.")
+            return
+
+        # Build context with DOC1 = A, DOC2 = B
+        docs_for_ctx = [
+            {
+                "id": doc_a["id"],
+                "doc_type": doc_a["doc_type"],
+                "source_file": doc_a["source_file"],
+                "text": doc_a["text"],
+            },
+            {
+                "id": doc_b["id"],
+                "doc_type": doc_b["doc_type"],
+                "source_file": doc_b["source_file"],
+                "text": doc_b["text"],
+            },
+        ]
+        ctx = build_context(docs_for_ctx)
+
+        question = (
+            "Compare DOCUMENT 1 [DOC1] and DOCUMENT 2 [DOC2]. "
+            "Explain the main differences in: parties/names, dates, amounts, "
+            "key clauses or sections, and any important changes in responsibilities "
+            "or terms. If they are resumes, compare roles, skills, and experience. "
+            "Use bullet points and always cite [DOC1] or [DOC2] for each point."
+        )
+
+        with st.spinner("Calling LLM to compare documents…"):
+            ok, answer = call_llm(
+                question=question,
+                context=ctx,
+                strict=False,  # allow some reasoning but still grounded
+            )
+
+        if ok:
+            st.markdown("### ✅ Comparison result")
+            st.write(answer)
+        else:
+            st.markdown("### ❌ Could not compare documents")
+            st.error(answer)
 
 
 def render_browse_tab(doc_type_for_qa: str) -> None:
@@ -923,19 +1444,32 @@ def main() -> None:
 
     st.title("📄 DocuMind Lite — Multi-Document Intelligence")
     st.caption(
-        "Upload → OCR → Index → RAG over invoices, resumes & contracts.\n"
+        "Upload → OCR → Index → Hybrid RAG over invoices, resumes & contracts.\n"
         "Beginner-friendly, but designed like a real-world document AI tool."
     )
 
     invoices_df = load_invoices_df()
     doc_type_for_qa, top_k = sidebar_layout(invoices_df)
 
-    tab_qa, tab_browse, tab_invoices, tab_admin = st.tabs(
-        ["💬 Q&A", "🔍 Browse documents", "📊 Invoices (CSV)", "🛠 Admin / Analytics"]
+    tab_qa, tab_viewer, tab_compare, tab_browse, tab_invoices, tab_admin = st.tabs(
+        [
+            "💬 Q&A",
+            "📄 Viewer",
+            "📑 Compare docs",
+            "🔍 Browse documents",
+            "📊 Invoices (CSV)",
+            "🛠 Admin / Analytics",
+        ]
     )
 
     with tab_qa:
         render_qa_tab(doc_type_for_qa, top_k)
+
+    with tab_viewer:
+        render_viewer_tab()
+
+    with tab_compare:
+        render_compare_tab()
 
     with tab_browse:
         render_browse_tab(doc_type_for_qa)

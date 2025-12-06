@@ -1,5 +1,9 @@
-# ocr_engine.py — OCR helpers for DocuMind Lite
-# Supports multiple backends: "tesseract" (default) and "paddle" (optional).
+# ocr_engine.py — OCR + Indexing pipeline for DocuMind Lite
+# ---------------------------------------------------------
+# - Supports multiple backends: "tesseract" (default) and "paddle" (optional)
+# - Saves original uploaded files to ./uploads/
+# - Adds documents to ChromaDB with proper rel_path/source_file metadata
+# - Runs basic document classification + structured extraction (invoice/resume/contract)
 
 from __future__ import annotations
 
@@ -10,7 +14,6 @@ from typing import Tuple, List
 
 import streamlit as st
 
-from invoice_extractor import extract_invoice_fields, upsert_invoice_row
 from doc_classifier import classify_doc
 from invoice_extractor import extract_invoice_fields, upsert_invoice_row
 from resume_contract_extractor import (
@@ -21,11 +24,18 @@ from resume_contract_extractor import (
 )
 
 # ============================================================
-# CONFIG — choose OCR backend: "tesseract" or "paddle"
+# GLOBAL PATHS / CONFIG
 # ============================================================
 
-# You can switch this later or expose it in the UI if you want
-OCR_BACKEND = "tesseract"  # change to "paddle" if you have PaddleOCR installed
+BASE_DIR = Path(__file__).resolve().parent
+UPLOADS_DIR = BASE_DIR / "uploads"
+
+# Ensure uploads directory exists
+UPLOADS_DIR.mkdir(parents=True, exist_ok=True)
+
+# Choose OCR backend: "tesseract" or "paddle"
+# You can later expose this as a Streamlit selectbox if you want.
+OCR_BACKEND = "tesseract"  # or "paddle" if PaddleOCR is installed
 
 
 # ============================================================
@@ -33,7 +43,7 @@ OCR_BACKEND = "tesseract"  # change to "paddle" if you have PaddleOCR installed
 # ============================================================
 
 def clean_text(text: str) -> str:
-    """Basic cleaning for noisy OCR text."""
+    """Basic cleaning for noisy OCR text (remove control chars, collapse whitespace)."""
     import re
 
     if not text:
@@ -51,7 +61,7 @@ def clean_text(text: str) -> str:
 def _ocr_pdf_tesseract(file_bytes: bytes) -> Tuple[bool, str]:
     """
     Run OCR on a PDF (all pages) using PyMuPDF (pymupdf) + Tesseract.
-    This does NOT require poppler.
+    Does NOT require poppler.
     """
     try:
         import fitz  # PyMuPDF
@@ -60,8 +70,9 @@ def _ocr_pdf_tesseract(file_bytes: bytes) -> Tuple[bool, str]:
     except ImportError:
         return (
             False,
-            "Tesseract OCR dependencies missing. Install: "
-            "`pip install pymupdf pillow pytesseract` and make sure Tesseract is installed.",
+            "Tesseract OCR dependencies missing. Install:\n"
+            "  pip install pymupdf pillow pytesseract\n"
+            "and make sure Tesseract is installed on your system.",
         )
 
     try:
@@ -95,8 +106,9 @@ def _ocr_image_tesseract(file_bytes: bytes) -> Tuple[bool, str]:
     except ImportError:
         return (
             False,
-            "Tesseract OCR dependencies missing. Install: `pip install pillow pytesseract` "
-            "and make sure Tesseract is installed.",
+            "Tesseract OCR dependencies missing. Install:\n"
+            "  pip install pillow pytesseract\n"
+            "and make sure Tesseract is installed on your system.",
         )
 
     try:
@@ -113,7 +125,7 @@ def _ocr_image_tesseract(file_bytes: bytes) -> Tuple[bool, str]:
 # ============================================================
 
 def _get_paddle_ocr():
-    """Lazy-load PaddleOCR; return None if not installed."""
+    """Lazy-load PaddleOCR; return None if not installed or if import fails."""
     try:
         from paddleocr import PaddleOCR
 
@@ -139,7 +151,8 @@ def _ocr_pdf_paddle(file_bytes: bytes) -> Tuple[bool, str]:
     except ImportError:
         return (
             False,
-            "PyMuPDF + numpy required for PaddleOCR PDF. Install: `pip install pymupdf numpy`.",
+            "PyMuPDF + numpy required for PaddleOCR PDF.\n"
+            "Install: pip install pymupdf numpy",
         )
 
     ocr = _get_paddle_ocr()
@@ -156,6 +169,8 @@ def _ocr_pdf_paddle(file_bytes: bytes) -> Tuple[bool, str]:
     try:
         for page in doc:
             pix = page.get_pixmap(dpi=200)
+            # pix.samples is raw bytes in RGB format
+            import numpy as np  # safe here due to guard above
             img_array = np.frombuffer(pix.samples, dtype=np.uint8).reshape(
                 pix.height, pix.width, 3
             )
@@ -182,7 +197,8 @@ def _ocr_image_paddle(file_bytes: bytes) -> Tuple[bool, str]:
     except ImportError:
         return (
             False,
-            "Pillow + numpy required for PaddleOCR image OCR. Install: `pip install pillow numpy`.",
+            "Pillow + numpy required for PaddleOCR image OCR.\n"
+            "Install: pip install pillow numpy",
         )
 
     ocr = _get_paddle_ocr()
@@ -217,6 +233,7 @@ def ocr_pdf(file_bytes: bytes) -> Tuple[bool, str]:
             st.info("Using PaddleOCR (PDF backend).")
             return True, text
         st.info("PaddleOCR PDF failed or unavailable — falling back to Tesseract.")
+
     # Default + fallback
     ok, text = _ocr_pdf_tesseract(file_bytes)
     if ok:
@@ -235,6 +252,7 @@ def ocr_image(file_bytes: bytes) -> Tuple[bool, str]:
             st.info("Using PaddleOCR (image backend).")
             return True, text
         st.info("PaddleOCR image failed or unavailable — falling back to Tesseract.")
+
     # Default + fallback
     ok, text = _ocr_image_tesseract(file_bytes)
     if ok:
@@ -247,23 +265,56 @@ def ocr_image(file_bytes: bytes) -> Tuple[bool, str]:
 # ============================================================
 
 def ocr_and_index_upload(
-    uploaded_file, doc_type: str, collection
+    uploaded_file,
+    doc_type: str,
+    collection,
 ) -> Tuple[bool, str]:
     """
     OCR the uploaded file and add it to the Chroma collection.
 
-    - Uses the configured OCR backend (Tesseract or Paddle).
-    - If doc_type == "auto-detect", we run a simple classifier on the OCR text.
-    - If final type is 'invoice' / 'resume' / 'contract', we also extract structured
-      fields and upsert into the corresponding CSV.
-    - Returns (success, message).
+    Workflow:
+      1. Save original file into ./uploads/<filename>
+      2. Run OCR (PDF / image) with configured backend
+      3. Clean text
+      4. Auto-detect doc type if requested ("auto-detect")
+      5. Add to Chroma with metadata (doc_type, source_file, rel_path, etc.)
+      6. If type is invoice / resume / contract → extract structured fields and upsert
+
+    Returns:
+      (success: bool, message: str)
     """
     from uuid import uuid4
 
-    ext = Path(uploaded_file.name).suffix.lower()
+    # --------------------------------------------------------
+    # 0) Basic checks
+    # --------------------------------------------------------
+    if uploaded_file is None:
+        return False, "No file uploaded."
+
+    filename = uploaded_file.name
+    ext = Path(filename).suffix.lower()
     file_bytes = uploaded_file.getvalue()
 
-    # 1) OCR by file extension
+    if not file_bytes:
+        return False, "Uploaded file is empty."
+
+    # --------------------------------------------------------
+    # 1) Save original file to ./uploads
+    # --------------------------------------------------------
+    try:
+        safe_name = Path(filename).name  # avoid any path traversal
+        save_path = UPLOADS_DIR / safe_name
+        with open(save_path, "wb") as f:
+            f.write(file_bytes)
+    except Exception as e:
+        return False, f"Failed to save uploaded file to disk: {e}"
+
+    # rel_path is stored relative to BASE_DIR so Viewer can resolve it
+    rel_path = f"uploads/{safe_name}"
+
+    # --------------------------------------------------------
+    # 2) OCR by file extension
+    # --------------------------------------------------------
     if ext == ".pdf":
         ok, text = ocr_pdf(file_bytes)
     elif ext in {".png", ".jpg", ".jpeg"}:
@@ -275,29 +326,35 @@ def ocr_and_index_upload(
         # text contains error message in that case
         return False, text
 
-    # 2) Clean text
+    # --------------------------------------------------------
+    # 3) Clean text
+    # --------------------------------------------------------
     cleaned = clean_text(text)
     if len(cleaned) < 40:
         return False, "OCR text too short or empty. Check document quality."
 
-    # 3) Auto-detect doc type (if requested)
-    final_doc_type = doc_type
-    if doc_type == "auto-detect":
-        guessed = classify_doc(cleaned, filename=uploaded_file.name)
-        final_doc_type = guessed or "other"
+    # --------------------------------------------------------
+    # 4) Auto-detect doc type (if requested)
+    # --------------------------------------------------------
+    final_doc_type = (doc_type or "other").lower()
+    if final_doc_type == "auto-detect":
+        guessed = classify_doc(cleaned, filename=filename)
+        final_doc_type = (guessed or "other").lower()
 
-    # 4) Build metadata
+    # --------------------------------------------------------
+    # 5) Build metadata & add to Chroma
+    # --------------------------------------------------------
     new_id = f"app_{uuid4().hex}"
+
     meta = {
         "doc_type": final_doc_type,
-        "source_file": uploaded_file.name,
-        "rel_path": f"uploads/{uploaded_file.name}",
+        "source_file": safe_name,
+        "rel_path": rel_path,  # used by Viewer to find original file
         "text_len": len(cleaned),
         "uploaded_via": "app_upload",
-        "uploaded_at": datetime.utcnow().isoformat(),
+        "uploaded_at": datetime.utcnow().replace(microsecond=0).isoformat() + "Z",
     }
 
-    # 5) Index in Chroma
     try:
         collection.add(
             ids=[new_id],
@@ -307,35 +364,52 @@ def ocr_and_index_upload(
     except Exception as e:
         return False, f"Failed to index document in Chroma: {e}"
 
-    # 6) Structured extraction per doc_type
+    # --------------------------------------------------------
+    # 6) Structured extraction per doc_type (best-effort)
+    # --------------------------------------------------------
     try:
         if final_doc_type == "invoice":
             row = extract_invoice_fields(
-                text=cleaned, filename=uploaded_file.name, doc_id=new_id
+                text=cleaned,
+                filename=safe_name,
+                doc_id=new_id,
             )
             upsert_invoice_row(row)
 
         elif final_doc_type == "resume":
             row = extract_resume_fields(
-                text=cleaned, filename=uploaded_file.name, doc_id=new_id
+                text=cleaned,
+                filename=safe_name,
+                doc_id=new_id,
             )
             upsert_resume_row(row)
 
         elif final_doc_type == "contract":
             row = extract_contract_fields(
-                text=cleaned, filename=uploaded_file.name, doc_id=new_id
+                text=cleaned,
+                filename=safe_name,
+                doc_id=new_id,
             )
             upsert_contract_row(row)
+
     except Exception as e:
         # Don't break the whole upload if extraction fails
-        st.warning(f"Structured extraction failed for {final_doc_type}: {e}")
+        st.warning(f"Structured extraction failed for type '{final_doc_type}': {e}")
 
+    # --------------------------------------------------------
     # 7) User-facing message
-    base_msg = f"Indexed `{uploaded_file.name}` as `{new_id}` (type: {final_doc_type})."
+    # --------------------------------------------------------
     if doc_type == "auto-detect":
         base_msg = (
-            f"Indexed `{uploaded_file.name}` as `{new_id}` "
+            f"Indexed `{filename}` as `{new_id}` "
             f"(auto-detected type: {final_doc_type})."
         )
+    else:
+        base_msg = (
+            f"Indexed `{filename}` as `{new_id}` "
+            f"(type: {final_doc_type})."
+        )
+
+    base_msg += f"\nOriginal file saved at: `{rel_path}`."
 
     return True, base_msg
