@@ -12,15 +12,16 @@ It performs OCR, document classification, structured extraction, semantic indexi
 
 ---
 
-# 🧠 System Pipeline Diagram  
+## 🧠 System Pipeline Architecture
 
-> **(Insert your pipeline image here)**  
-Place your PNG/SVG pipeline diagram below this line:
+A high-level overview of how **DocuMind Lite** processes documents end-to-end — from upload → OCR → indexing → hybrid retrieval → LLM reasoning.
 
-[ YOUR_PIPELINE_IMAGE_HERE ]
+<p align="center">
+  <!-- Replace the src path with your actual image path -->
+  <img src="images/system_pipeline.png" alt="DocuMind Lite System Pipeline" width="90%">
+</p>
 
-markdown
-Copy code
+
 
 ---
 
