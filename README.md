@@ -67,7 +67,7 @@ A high-level overview of how **DocuMind Lite** processes documents end-to-end â€
 # ðŸ“¦ Installation (Local, No Docker)
 
 bash
-git clone <your-repo-url>
+git clone <https://github.com/AdityaJadhav-ds/documind-lite.git>
 cd documind-lite
 
 python -m venv .venv
