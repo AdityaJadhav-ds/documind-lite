@@ -17,8 +17,7 @@ It performs OCR, document classification, structured extraction, semantic indexi
 A high-level overview of how **DocuMind Lite** processes documents end-to-end — from upload → OCR → indexing → hybrid retrieval → LLM reasoning.
 
 <p align="center">
-  <!-- DocuMind-Lite-System-Pipeline.png -->
-  <img src="images/system_pipeline.png" alt="DocuMind Lite System Pipeline" width="90%">
+  <img src="images/DocuMind-Lite-System-Pipeline.png " alt="DocuMind Lite System Pipeline" width="90%">
 </p>
 
 
