@@ -1,4 +1,4 @@
- FGHDHDHDDHDHHDHHDHDDHD# 📄 DocuMind Lite — Multi-Document Intelligence  
+ HDHDDHDHHDHHDHDDHD# 📄 DocuMind Lite — Multi-Document Intelligence  
 ### Upload → OCR → Index → Hybrid RAG → LLM → Insights  
 **Created using ChatGPT (GPT-5)**  
 
